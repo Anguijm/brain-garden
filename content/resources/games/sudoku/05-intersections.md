@@ -4,6 +4,7 @@ series: sudoku
 lesson: 5
 title: Intersections — pointing and claiming (locked candidates)
 status: curated
+tags: [sudoku, games, puzzles, logic, brain-training]
 created: 2026-06-16
 ---
 

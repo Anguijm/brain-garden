@@ -4,6 +4,7 @@ series: sudoku
 lesson: 6
 title: X-Wing — the first "scary" technique
 status: curated
+tags: [sudoku, games, puzzles, logic, brain-training]
 created: 2026-06-16
 ---
 

@@ -1,3 +1,71 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// ---------------------------------------------------------------------------
+// Readability + mobile tuning. Most reading happens on a phone, so the goal is
+// comfortable body text, a sane line length, and content that never runs under
+// the screen edges or overflows horizontally.
+// ---------------------------------------------------------------------------
+
+html {
+  font-size: 16px;
+
+  // Bump the base size on phones where the reading actually happens.
+  @media all and ($mobile) {
+    font-size: 17.5px;
+  }
+}
+
+article {
+  line-height: 1.7;
+
+  // Body copy a touch larger than headings' default scale.
+  p,
+  li {
+    font-size: 1.05rem;
+  }
+
+  // Hold a readable measure (~70 chars) on wide screens; harmless on mobile
+  // where the column is already narrower than this.
+  p,
+  ul,
+  ol,
+  blockquote {
+    max-width: 40rem;
+  }
+
+  // Roomier spacing between sections so lessons don't feel cramped.
+  h1,
+  h2,
+  h3 {
+    line-height: 1.25;
+  }
+  h2 {
+    margin-top: 2rem;
+  }
+  li + li {
+    margin-top: 0.25rem;
+  }
+
+  // Code must never push the page wider than the viewport on a phone.
+  pre {
+    max-width: 100%;
+    overflow-x: auto;
+  }
+  :not(pre) > code {
+    word-break: break-word;
+  }
+}
+
+// Breathing room from the screen edges + a calmer title on small screens.
+@media all and ($mobile) {
+  .center {
+    padding-left: 1.1rem;
+    padding-right: 1.1rem;
+  }
+
+  .page-title,
+  article h1 {
+    font-size: 1.55rem;
+    line-height: 1.2;
+  }
+}

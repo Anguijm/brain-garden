@@ -4,6 +4,7 @@ series: sudoku
 lesson: 2
 title: Singles — naked and hidden
 status: curated
+tags: [sudoku, games, puzzles, logic, brain-training]
 created: 2026-06-16
 ---
 

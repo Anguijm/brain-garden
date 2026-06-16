@@ -4,6 +4,7 @@ series: sudoku
 lesson: 3
 title: Naked subsets — pairs, triples, quads
 status: curated
+tags: [sudoku, games, puzzles, logic, brain-training]
 created: 2026-06-16
 ---
 

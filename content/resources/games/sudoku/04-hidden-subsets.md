@@ -4,6 +4,7 @@ series: sudoku
 lesson: 4
 title: Hidden subsets — pairs, triples, quads
 status: curated
+tags: [sudoku, games, puzzles, logic, brain-training]
 created: 2026-06-16
 ---
 

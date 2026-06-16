@@ -4,6 +4,7 @@ series: sudoku
 lesson: 12
 title: Advanced chains and last resort
 status: curated
+tags: [sudoku, games, puzzles, logic, brain-training]
 created: 2026-06-16
 ---
 

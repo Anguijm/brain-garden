@@ -4,6 +4,7 @@ series: sudoku
 lesson: 9
 title: Colouring — single-digit chains
 status: curated
+tags: [sudoku, games, puzzles, logic, brain-training]
 created: 2026-06-16
 ---
 

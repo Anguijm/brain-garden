@@ -4,6 +4,7 @@ series: sudoku
 lesson: 1
 title: Foundations — the board and the one rule
 status: curated
+tags: [sudoku, games, puzzles, logic, brain-training]
 created: 2026-06-16
 ---
 

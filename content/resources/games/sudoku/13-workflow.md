@@ -4,6 +4,7 @@ series: sudoku
 lesson: 13
 title: Workflow — the order to try things
 status: curated
+tags: [sudoku, games, puzzles, logic, brain-training]
 created: 2026-06-16
 ---
 

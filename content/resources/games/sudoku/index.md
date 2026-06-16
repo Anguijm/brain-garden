@@ -1,7 +1,8 @@
 ---
-title: Sudoku — basics to advanced
+title: "Sudoku: basics to advanced"
 type: lesson-series
 status: curated
+tags: [sudoku, games, puzzles, logic, brain-training]
 created: 2026-06-16
 ---
 

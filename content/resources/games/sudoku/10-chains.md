@@ -4,6 +4,7 @@ series: sudoku
 lesson: 10
 title: Chains — remote pairs and XY-chains
 status: curated
+tags: [sudoku, games, puzzles, logic, brain-training]
 created: 2026-06-16
 ---
 

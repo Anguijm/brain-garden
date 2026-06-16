@@ -4,6 +4,7 @@ series: sudoku
 lesson: 7
 title: Swordfish and Jellyfish — bigger fish
 status: curated
+tags: [sudoku, games, puzzles, logic, brain-training]
 created: 2026-06-16
 ---
 

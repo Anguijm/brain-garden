@@ -4,6 +4,7 @@ series: sudoku
 lesson: 11
 title: Uniqueness — Unique Rectangle and BUG
 status: curated
+tags: [sudoku, games, puzzles, logic, brain-training]
 created: 2026-06-16
 ---
 
