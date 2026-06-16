@@ -10,7 +10,7 @@ raw research.
 
 ### Games and puzzles
 
-- [Sudoku: basics to advanced](resources/games/sudoku/index) — a complete, plain-English
+- [Sudoku: basics to advanced](topics/games/sudoku/index) — a complete, plain-English
   curriculum, from the one rule the whole game rests on up through wings, fish, chains,
   and the order to actually try things when you are stuck. Thirteen short lessons.
 
