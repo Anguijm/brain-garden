@@ -60,6 +60,10 @@ shaped the evaluation so that what you do best is what gets rewarded.
 11. [Glossary](11-glossary.md) — the acronym soup, decoded.
 12. [Staying current](12-staying-current.md) — search terms and sources to keep the
     playbook up to date with the state of the art.
+13. [Using Gen AI in BD without fooling yourself](13-gen-ai-in-bd.md) — a
+    cross-cutting discipline: where AI helps, where it degrades the judgment calls
+    (PWin, price-to-win, competitor reads), and the data you must never paste into
+    a public tool. Backed by HBR research.
 
 ## How to use it
 

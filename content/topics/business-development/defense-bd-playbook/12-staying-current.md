@@ -57,6 +57,8 @@ year (for example "2026") to freshen any of them.
 - `price-to-win analysis methodology defense`
 - `proposal color team review best practices`
 - `government oral presentations proposal trends`
+- `generative AI proposal management govcon policy` / `AI overconfidence
+  decision-making research` (see [chapter 13](13-gen-ai-in-bd.md))
 
 **Market and competitive intelligence**
 - `[competitor name] contract awards USASpending` / `defense award announcements`
@@ -130,4 +132,4 @@ what you verified against the primary source, per the vault's rules). A playbook
 that quietly goes stale is worse than no playbook, because people trust it. This
 chapter is how you keep that from happening.
 
-Back to the [overview](00-index.md).
+Next: [Using Gen AI in BD without fooling yourself](13-gen-ai-in-bd.md).
