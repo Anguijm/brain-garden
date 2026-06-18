@@ -64,6 +64,8 @@ shaped the evaluation so that what you do best is what gets rewarded.
     cross-cutting discipline: where AI helps, where it degrades the judgment calls
     (PWin, price-to-win, competitor reads), and the data you must never paste into
     a public tool. Backed by HBR research.
+14. [Further reading (HBR)](14-further-reading-hbr.md) — a curated reading list
+    mapped to each chapter, including the Kahneman "outside view" pieces for PWin.
 
 ## How to use it
 

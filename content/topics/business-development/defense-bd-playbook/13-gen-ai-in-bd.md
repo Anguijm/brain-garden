@@ -135,4 +135,4 @@ force to expose downside, but keep the judgment calls, the peer challenge, and t
 sensitive data firmly in human, accredited hands. Used that way, it sharpens the
 playbook; used as an authority, it will confidently help you lose.
 
-Back to the [overview](00-index.md).
+Next: [Further reading (HBR)](14-further-reading-hbr.md).
