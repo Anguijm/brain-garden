@@ -41,6 +41,56 @@ Assessment: the most common capture mistake is talking only to the people who li
 you (often the end users) and never reaching the requirements owner and the
 contracting shop who actually control the buy.
 
+## Run capture as a negotiation campaign
+
+A major capture is not one negotiation, it is a campaign of many smaller ones
+across multiple "fronts," sequenced to build enough support that your win holds up.
+Assessment, drawing on David A. Lax and James K. Sebenius, "Deal Making 2.0: A
+Guide to Complex Negotiations," Harvard Business Review, November 2012 (Reprint
+R1211G): most big deals are built from a series of component deals among many
+parties, and the underrated skill is not table tactics but identifying the parties
+and sequencing the deals away from the table. Defense capture is exactly this kind
+of multifront campaign, because the "customer" is the diffuse set of roles above
+plus your teammates, references, and the competitive field. The article's six
+campaign steps translate cleanly:
+
+1. **Group the players into fronts.** Cluster the stakeholder map into a few
+   manageable fronts that share interests or affiliation: the user/operational
+   front, the program and requirements front, the contracting/KO front, the
+   budget/comptroller front, the test and certification front, and your own teaming
+   front. "Map backward" from the award you want to everyone who must say yes or
+   could block it, and probe each party's interests, perceptions, relationships,
+   and no-deal options.
+2. **Assess how the fronts affect each other.** Progress on one front usually moves
+   another: strong user pull gives the program manager cover, a credible teammate
+   reassures the contracting officer. Note where a win on one front helps or
+   threatens another.
+3. **Decide whether and when to combine fronts.** Sometimes you align fronts into
+   one message (an industry day with users, the PM, and your team all present),
+   sometimes you keep them separate so you do not prematurely unite skeptics or tip
+   competitors.
+4. **Sequence the campaign.** Order matters. Line up your credible "anchor" first,
+   the marquee teammate, the respected reference, or the internal champion whose
+   early yes makes the next yes easier. A reputable anchor secured early pulls the
+   rest in on better terms, so lock the discriminating teammate and cultivate the
+   champion before you try to move the harder stakeholders.
+5. **Manage information: how much to share, and when.** Sequencing controls
+   disclosure. Be discreet where revealing your hand would mobilize a competitor or
+   harden a skeptic, and be visible where an emerging bandwagon helps (a known
+   anchor teammate signed). The article warns that secrecy or hints of backroom
+   dealings can undercut legitimacy, which in defense maps straight onto the
+   integrity line: shape openly and on the record, never in a way that looks like
+   improper influence (see [chapter 8](08-relationships-ethics-oci.md)).
+6. **Learn and adapt.** The campaign is iterative. New information surfaces, the
+   customer reacts, competitors move. Think strategically but act opportunistically,
+   and update the capture plan and PWin as fronts shift.
+
+Assessment: the practical upshot is that your capture plan
+([chapter 1](01-capture-lifecycle.md)) and the call plan below should be organized
+by front and sequenced, not run as a flat list of contacts. The test is the
+article's: build enough support, in the right order, that when the award lands it
+sticks, including against a protest.
+
 ## Building the relationship: the call plan
 
 A call plan is a deliberate schedule of who on your side meets whom on the

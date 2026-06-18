@@ -72,8 +72,11 @@ For [chapter 5 (teaming)](05-teaming-partnerships.md) and price-to-win in
 [chapter 6](06-win-strategy-competitive.md).
 
 - [Deal Making 2.0: A Guide to Complex Negotiations](https://hbr.org/2012/11/deal-making-20-a-guide-to-complex-negotiations)
-  (2012). Multi-front "negotiation campaigns" across many parties, which maps onto
-  the diffuse defense buyer and multi-party teaming.
+  (Lax & Sebenius, 2012). Multi-front "negotiation campaigns" across many parties,
+  which maps onto the diffuse defense buyer and multi-party teaming. Its six-step
+  campaign framework is now synthesized into
+  [chapter 4](04-customer-stakeholders-shaping.md) ("Run capture as a negotiation
+  campaign").
 - [What's Your Negotiation Strategy?](https://hbr.org/2020/07/whats-your-negotiation-strategy)
   (2020).
 - [Negotiating with a Customer You Can't Afford to Lose](https://hbr.org/1988/11/negotiating-with-a-customer-you-cant-afford-to-lose)

@@ -39,6 +39,12 @@ performance, customer standing, price posture, cultural and ethical reliability,
 and any conflicts. A teammate with a poor CPARS record or an OCI problem can sink
 your bid. Beware the teammate who is also quietly talking to your competitor.
 
+Assessment: lock your anchor teammate early, the one whose capability or past
+performance is essential, or whose name reassures the customer. Sequencing the
+credible partner first tends to pull the rest of the team together on better terms,
+which is the negotiation-campaign logic in
+[chapter 4](04-customer-stakeholders-shaping.md).
+
 ## Small-business strategy
 
 On set-aside work (see [chapter 3](03-acquisition-landscape.md)), the small or
