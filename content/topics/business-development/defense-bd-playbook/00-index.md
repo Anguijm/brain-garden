@@ -66,6 +66,8 @@ shaped the evaluation so that what you do best is what gets rewarded.
     playbook up to date with the state of the art.
 14. [Further reading (HBR)](14-further-reading-hbr.md) — a curated reading list
     mapped to each chapter, including the Kahneman "outside view" pieces for PWin.
+15. [Further reading beyond HBR](15-further-reading-beyond-hbr.md) — Shipley, APMP,
+    McKinsey/Deloitte/PwC, DAU, GAO, CSIS, and the classic sales/negotiation books.
 
 ## How to use it
 

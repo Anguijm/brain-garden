@@ -124,4 +124,4 @@ pieces mapped to it, and mine them for one idea you can apply this week. When yo
 find something that should change the playbook itself, paste it in and I will
 synthesize and re-publish, with honest labels per the vault's rules.
 
-Back to the [overview](00-index.md).
+Next: [Further reading beyond HBR](15-further-reading-beyond-hbr.md).
