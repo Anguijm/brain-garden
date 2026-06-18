@@ -132,4 +132,4 @@ what you verified against the primary source, per the vault's rules). A playbook
 that quietly goes stale is worse than no playbook, because people trust it. This
 chapter is how you keep that from happening.
 
-Next: [Further reading (HBR)](14-further-reading-hbr.md).
+Next: [Further reading](14-further-reading.md).

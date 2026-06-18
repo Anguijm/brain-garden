@@ -64,10 +64,9 @@ shaped the evaluation so that what you do best is what gets rewarded.
 12. [Glossary](12-glossary.md) — the acronym soup, decoded.
 13. [Staying current](13-staying-current.md) — search terms and sources to keep the
     playbook up to date with the state of the art.
-14. [Further reading (HBR)](14-further-reading-hbr.md) — a curated reading list
-    mapped to each chapter, including the Kahneman "outside view" pieces for PWin.
-15. [Further reading beyond HBR](15-further-reading-beyond-hbr.md) — Shipley, APMP,
-    McKinsey/Deloitte/PwC, DAU, GAO, CSIS, and the classic sales/negotiation books.
+14. [Further reading](14-further-reading.md) — a curated reading list mapped to each
+    chapter: practitioner guides (Shipley, APMP), HBR articles, consulting
+    (McKinsey/Deloitte/PwC), government (DAU, GAO), CSIS, and the classic books.
 
 ## How to use it
 
