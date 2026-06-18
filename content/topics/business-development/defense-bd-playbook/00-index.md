@@ -58,6 +58,8 @@ shaped the evaluation so that what you do best is what gets rewarded.
 10. [Templates and checklists](10-templates-checklists.md) — the artifacts you
     actually fill in.
 11. [Glossary](11-glossary.md) — the acronym soup, decoded.
+12. [Staying current](12-staying-current.md) — search terms and sources to keep the
+    playbook up to date with the state of the art.
 
 ## How to use it
 
