@@ -100,7 +100,7 @@ solicitation is active the customer goes quiet and contact is tightly restricted
 The aim of each call is two-way: learn their priorities, constraints, and view of
 the incumbent, and demonstrate (not assert) your credibility. Track what you
 learned and what you will do next after every contact. A template is in
-[chapter 10](10-templates-checklists.md).
+[chapter 11](11-templates-checklists.md).
 
 ## Shaping the requirement (legally)
 

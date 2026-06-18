@@ -1,14 +1,14 @@
 ---
 type: playbook
 series: defense-bd-playbook
-chapter: 13
+chapter: 10
 title: Using Gen AI in BD without fooling yourself
 status: curated
 tags: [business-development, defense, capture-management, govcon, proposals, playbook, ai]
 created: 2026-06-18
 ---
 
-# Chapter 13 — Using Gen AI in BD without fooling yourself
+# Chapter 10 — Using Gen AI in BD without fooling yourself
 
 Generative AI is now in every BD shop, and it genuinely speeds the rote work. But
 BD lives on a handful of high-stakes judgment calls made under uncertainty (PWin,
@@ -135,4 +135,4 @@ force to expose downside, but keep the judgment calls, the peer challenge, and t
 sensitive data firmly in human, accredited hands. Used that way, it sharpens the
 playbook; used as an authority, it will confidently help you lose.
 
-Next: [Further reading (HBR)](14-further-reading-hbr.md).
+Next: [Templates and checklists](11-templates-checklists.md).

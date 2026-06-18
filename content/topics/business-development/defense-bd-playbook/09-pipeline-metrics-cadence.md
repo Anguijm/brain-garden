@@ -81,4 +81,4 @@ scarce capture and B&P resources are aimed at the few pursuits you can win. A
 smaller pipeline of well-qualified, well-shaped opportunities at high PWin beats a
 sprawling one chased thin, every time.
 
-Next: [Templates and checklists](10-templates-checklists.md).
+Next: [Using Gen AI in BD without fooling yourself](10-gen-ai-in-bd.md).

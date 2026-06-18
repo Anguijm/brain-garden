@@ -1,14 +1,14 @@
 ---
 type: playbook
 series: defense-bd-playbook
-chapter: 12
+chapter: 13
 title: Staying current — search terms and sources
 status: curated
 tags: [business-development, defense, capture-management, govcon, proposals, playbook, research]
 created: 2026-06-18
 ---
 
-# Chapter 12 — Staying current
+# Chapter 13 — Staying current
 
 This field moves: thresholds adjust, the NDAA rewrites authorities every year, LPTA
 rules tighten, new vehicles and OT consortia appear, and protest case law shifts
@@ -58,7 +58,7 @@ year (for example "2026") to freshen any of them.
 - `proposal color team review best practices`
 - `government oral presentations proposal trends`
 - `generative AI proposal management govcon policy` / `AI overconfidence
-  decision-making research` (see [chapter 13](13-gen-ai-in-bd.md))
+  decision-making research` (see [chapter 10](10-gen-ai-in-bd.md))
 
 **Market and competitive intelligence**
 - `[competitor name] contract awards USASpending` / `defense award announcements`
@@ -132,4 +132,4 @@ what you verified against the primary source, per the vault's rules). A playbook
 that quietly goes stale is worse than no playbook, because people trust it. This
 chapter is how you keep that from happening.
 
-Next: [Using Gen AI in BD without fooling yourself](13-gen-ai-in-bd.md).
+Next: [Further reading (HBR)](14-further-reading-hbr.md).

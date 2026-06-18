@@ -1,14 +1,14 @@
 ---
 type: playbook
 series: defense-bd-playbook
-chapter: 10
+chapter: 11
 title: Templates and checklists
 status: curated
 tags: [business-development, defense, capture-management, govcon, proposals, playbook, templates]
 created: 2026-06-18
 ---
 
-# Chapter 10 — Templates and checklists
+# Chapter 11 — Templates and checklists
 
 Copy these per opportunity and fill them in. They are deliberately lightweight, the
 point is to force the right thinking, not to generate paperwork. All are Assessment
@@ -94,4 +94,4 @@ Decompose every instruction (Section L), evaluation factor (Section M), and "sha
 - Protest assessment: are there grounds, and is it worth the cost and the
   relationship? (See [chapter 3](03-acquisition-landscape.md).)
 
-Next: [Glossary](11-glossary.md).
+Next: [Glossary](12-glossary.md).

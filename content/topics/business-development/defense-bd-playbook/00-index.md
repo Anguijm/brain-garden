@@ -55,15 +55,15 @@ shaped the evaluation so that what you do best is what gets rewarded.
    and the integrity rules that keep you out of trouble.
 9. [Pipeline, metrics, and cadence](09-pipeline-metrics-cadence.md) — how to run
    BD as a managed system with a battle rhythm.
-10. [Templates and checklists](10-templates-checklists.md) — the artifacts you
-    actually fill in.
-11. [Glossary](11-glossary.md) — the acronym soup, decoded.
-12. [Staying current](12-staying-current.md) — search terms and sources to keep the
-    playbook up to date with the state of the art.
-13. [Using Gen AI in BD without fooling yourself](13-gen-ai-in-bd.md) — a
+10. [Using Gen AI in BD without fooling yourself](10-gen-ai-in-bd.md) — a
     cross-cutting discipline: where AI helps, where it degrades the judgment calls
     (PWin, price-to-win, competitor reads), and the data you must never paste into
     a public tool. Backed by HBR research.
+11. [Templates and checklists](11-templates-checklists.md) — the artifacts you
+    actually fill in.
+12. [Glossary](12-glossary.md) — the acronym soup, decoded.
+13. [Staying current](13-staying-current.md) — search terms and sources to keep the
+    playbook up to date with the state of the art.
 14. [Further reading (HBR)](14-further-reading-hbr.md) — a curated reading list
     mapped to each chapter, including the Kahneman "outside view" pieces for PWin.
 
@@ -71,5 +71,5 @@ shaped the evaluation so that what you do best is what gets rewarded.
 
 If you are standing up a BD function, read it in order. If you are running a live
 pursuit, jump to chapter 1 for the lifecycle, chapter 2 to make the bid/no-bid
-call, then chapters 4 and 6 to build the capture plan. The templates in chapter 10
+call, then chapters 4 and 6 to build the capture plan. The templates in chapter 11
 are meant to be copied and filled in per opportunity.

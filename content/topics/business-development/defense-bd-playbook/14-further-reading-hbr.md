@@ -23,7 +23,7 @@ Store products (case studies or reprints sold separately); those are flagged
 
 ## Decision quality, PWin, and avoiding overconfidence
 For [chapter 2 (qualification, PWin, gates)](02-qualification-pwin-gates.md) and
-[chapter 13 (Gen AI)](13-gen-ai-in-bd.md). This is the strongest cluster for BD,
+[chapter 10 (Gen AI)](10-gen-ai-in-bd.md). This is the strongest cluster for BD,
 because PWin, bid/no-bid, and price-to-win are all forecasts under uncertainty.
 
 - Kahneman, Lovallo & Sibony, [The Big Idea: Before You Make That Big Decision…](https://hbr.org/2011/06/the-big-idea-before-you-make-that-big-decision)

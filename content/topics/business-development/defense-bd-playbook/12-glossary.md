@@ -1,14 +1,14 @@
 ---
 type: playbook
 series: defense-bd-playbook
-chapter: 11
+chapter: 12
 title: Glossary
 status: curated
 tags: [business-development, defense, capture-management, govcon, proposals, playbook, glossary]
 created: 2026-06-18
 ---
 
-# Chapter 11 — Glossary
+# Chapter 12 — Glossary
 
 The acronym soup, decoded. Definitions are concise working ones; for regulatory
 terms the controlling source is the FAR/DFARS.
@@ -92,4 +92,4 @@ terms the controlling source is the FAR/DFARS.
 - **Win theme** — A repeated, evidence-backed message tying a customer need to a
   discriminator and a benefit.
 
-Next: [Staying current](12-staying-current.md).
+Next: [Staying current](13-staying-current.md).
