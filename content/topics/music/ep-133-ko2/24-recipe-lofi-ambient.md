@@ -81,4 +81,4 @@ Lo-fi doesn't need much structure: a main loop, a stripped "just chords and crac
 intro/outro, and maybe one variation with the drums dropped. Commit those as scenes,
 keep it short and loopable, and let the texture carry it.
 
-Back to the [course overview](00-index.md).
+Next: [Punk Rock](25-recipe-punk-rock.md).

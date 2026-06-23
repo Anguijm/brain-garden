@@ -32,7 +32,7 @@ Every recipe uses the same layout:
 
 A reading of "kick: 1, 7, 11" means put a kick on steps 1, 7, and 11 of the bar.
 
-## The six recipes
+## The recipes
 
 19. [Boom Bap](19-recipe-boom-bap.md) — dusty, swung, sample-based
 20. [House](20-recipe-house.md) — four-on-the-floor, hypnotic
@@ -41,6 +41,12 @@ A reading of "kick: 1, 7, 11" means put a kick on steps 1, 7, and 11 of the bar.
 23. [Drill](23-recipe-drill.md) — dark, sliding 808s, syncopated
 24. [Lo-fi / ambient sampling](24-recipe-lofi-ambient.md) — textural, Red Means
     Recording flavored
+
+**Experimental** (bending a beat machine toward a rock band, using sampled guitars):
+
+25. [Punk Rock](25-recipe-punk-rock.md) — fast, loud, sampled power chords
+26. [Grunge](26-recipe-grunge.md) — loud-quiet-loud, walls of fuzz guitar (Pearl
+    Jam / Smashing Pumpkins flavored)
 
 ## Genre cheat sheet
 
@@ -54,8 +60,10 @@ Assessment, rough starting points:
 | Drum & Bass | 172-176 | breakbeat | two-step or Amen break, Reese/sub |
 | Drill | 140-144 | half-time | gliding 808, offbeat snare, hat triplets |
 | Lo-fi / ambient | 70-85 | swung, loose | sampled chords, vinyl crackle, wobble |
+| Punk Rock | 180-200 | driving, straight | sampled power chords, distortion, stops |
+| Grunge | 90-115 | loose, dynamic | loud-quiet-loud, resampled walls of fuzz |
 
-Assessment: the fastest way to grow is to build all six even if a style isn't "yours."
+Assessment: the fastest way to grow is to build them all even if a style isn't "yours."
 Each one teaches a different core skill (chopping, four-on-floor groove, 808 glides,
 breakbeat editing, syncopation, and texture/resampling), and those skills transfer.
 
