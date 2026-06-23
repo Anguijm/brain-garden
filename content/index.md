@@ -2,23 +2,31 @@
 title: B2 Electric Bugaloo
 ---
 
-A public garden of notes I have read, verified, and chosen to keep. Everything here was
-promoted out of a private staging area, so it reflects settled understanding rather than
-raw research.
+A public garden of notes I've read, verified, and chosen to keep. Each one was
+promoted out of a private staging area, so it reflects settled understanding rather
+than raw research. Newest is first.
 
-## Start here
+## Latest
 
-### Games and puzzles
+- **[EP-133 K.O. II — a complete course](topics/music/ep-133-ko2/00-index)** — a
+  beginner-to-advanced course for Teenage Engineering's sampler: every button, then
+  sampling, sequencing, effects, MIDI, resampling, and genre recipes.
+- **[Defense BD Playbook](topics/business-development/defense-bd-playbook/00-index)**
+  — a working playbook for winning U.S. defense business: the capture lifecycle,
+  qualification, teaming, proposals, pricing, and using Gen AI without fooling
+  yourself.
+- **[Rice cooker recipes](topics/cooking/rice-cooker-recipes)** — the few techniques
+  that matter, plus one-pot meals that go well beyond plain rice.
+- **[White's (dumpy) tree frogs](topics/pets/whites-tree-frog-bioactive-japan)** —
+  care basics plus a bioactive terrarium build for Japan.
+- **[Puppy training](topics/pets/puppy-training)** — a practical starter guide:
+  reward-based basics, socialization, house and crate training.
+- **[Sudoku: basics to advanced](topics/games/sudoku/index)** — a 13-lesson,
+  plain-English solving curriculum, from the one rule up through wings, fish, and
+  chains.
 
-- [Sudoku: basics to advanced](topics/games/sudoku/index) — a complete, plain-English
-  curriculum, from the one rule the whole game rests on up through wings, fish, chains,
-  and the order to actually try things when you are stuck. Thirteen short lessons.
+## Finding your way around
 
-## Browse by category
-
-Every note is tagged, and each tag is its own page:
-[games](tags/games), [puzzles](tags/puzzles), [logic](tags/logic),
-[brain-training](tags/brain-training), [sudoku](tags/sudoku).
-
-You can also use the explorer on the left (or the menu on mobile) and the search box to
-move around. New notes appear here as they are promoted.
+Use the **explorer** on the left (the menu button on a phone) to browse everything
+by topic, and the **search** box to jump straight to anything. New notes appear at
+the top of this list as they're promoted.

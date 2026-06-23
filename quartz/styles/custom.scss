@@ -69,3 +69,34 @@ article {
     line-height: 1.2;
   }
 }
+
+// ---------------------------------------------------------------------------
+// Declutter. The garden is a reading surface, not a metadata dump. Dates and
+// the auto "Properties" tag box added clutter (and on a phone the long tags
+// stacked into unreadable vertical columns), so they're gone.
+// ---------------------------------------------------------------------------
+
+// Date beside every entry in folder/index listings -> hide it and let the
+// title use the full width (the date sat in the first grid column).
+.section-ul .section {
+  grid-template-columns: 1fr !important;
+}
+.section-ul .meta {
+  display: none;
+}
+
+// Per-page date + reading-time line and the "Properties"/tags box are disabled
+// in config; this guarantees they stay hidden even if a plugin re-enables.
+.content-meta,
+.note-properties {
+  display: none;
+}
+
+// Wide tables (cheat sheets, matrices) should scroll inside their own column on
+// a phone instead of stretching the whole page sideways.
+article table {
+  display: block;
+  width: max-content;
+  max-width: 100%;
+  overflow-x: auto;
+}
