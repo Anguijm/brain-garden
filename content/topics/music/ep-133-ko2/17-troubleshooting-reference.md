@@ -109,4 +109,4 @@ only appear in secondary sources are flagged "(verify on device)" in the text.
 - teenagemanual.com/ep-133 (third-party manual; used for some combos, flagged where
   unverified)
 
-Next: [Starter project recipes](18-recipes-overview.md).
+Next: [Recipes](18-recipes.md).
