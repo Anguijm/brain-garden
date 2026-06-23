@@ -22,6 +22,9 @@ digits* and nothing else. Say two cells both read {3,7}. One of them is the 3 an
 the other is the 7, you don't know which, but between them they own the 3 and the 7
 for that unit. So **erase 3 and 7 from every other cell in that unit.**
 
+![A naked pair of 3 and 7 in two cells of a row, eliminating 3 and 7 from the rest of the row](img/03-naked-pair.png)
+*A naked pair {3,7} in A1 and B1 (blue): they own 3 and 7 for the row, so 3 and 7 (red) are erased from the rest of row 1.*
+
 ## Naked triple
 
 Three cells in a unit that together use only three candidates. They don't each need

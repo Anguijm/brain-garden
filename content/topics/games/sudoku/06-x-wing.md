@@ -34,6 +34,9 @@ rest of those two rows.
 column F. So columns C and F will get their 7s from rows 2 and 8, one each. No other
 cell in column C or column F can be a 7."
 
+![An X-Wing on the digit 7 across rows 2 and 8 and columns C and F](img/06-xwing.png)
+*X-Wing on 7: the corners C2, F2, C8, F8 (blue) lock the 7s into columns C and F, so 7 (red) is erased elsewhere in those columns.*
+
 ## How to spot it
 
 Go digit by digit. For your chosen digit, find rows (or columns) where it has exactly

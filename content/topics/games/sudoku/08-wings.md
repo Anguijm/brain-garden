@@ -27,6 +27,9 @@ Y, the second wing is forced to Z. Either way, **one of the two wings is Z.** So
 cell that sees *both* wings cannot be Z. **Erase Z from every cell that sees both
 wings.** Note the pivot does not contain Z, it just routes the logic.
 
+![A Y-Wing with a pivot and two wings, eliminating Z from a cell that sees both wings](img/08-ywing.png)
+*Y-Wing: pivot E5 {1,2} (green), wings B5 {1,3} and E7 {2,3} (blue). One wing must be 3, so 3 (red) is erased from B7, which sees both wings.*
+
 ## XYZ-Wing
 
 Same shape, but now the pivot also carries the Z:

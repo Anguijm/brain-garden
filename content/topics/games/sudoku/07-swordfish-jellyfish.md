@@ -35,6 +35,9 @@ you never need one.
 three columns will get all their 4s from those three rows. No 4 anywhere else in
 columns B, E, or H."
 
+![A swordfish on the digit 4 across rows 1, 5, 9 and columns B, E, H](img/07-swordfish.png)
+*Swordfish on 4: rows 1, 5, 9 keep the 4 within columns B, E, H (blue), so 4 (red) is erased elsewhere in those columns.*
+
 ## How to spot it
 
 These are tedious by hand, so save them for when singles, subsets, intersections, and

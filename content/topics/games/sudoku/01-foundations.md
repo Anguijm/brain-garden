@@ -20,6 +20,9 @@ group is a **unit** (also called a **house**):
 **The only rule:** each of the digits 1–9 appears *exactly once* in every row,
 every column, and every box.
 
+![The three unit types: a highlighted row, a highlighted column, and a highlighted 3x3 box](img/01-units.png)
+*The three unit types. Each row, each column, and each 3×3 box must contain 1–9 exactly once.*
+
 That is the whole game. Every technique is a clever consequence of that single
 rule. There are no new rules later, only new ways of seeing.
 

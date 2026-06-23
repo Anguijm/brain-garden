@@ -26,6 +26,9 @@ Plain version: "In this box, the 5 can only be in these two cells, and they're b
 in row 4. So the 5 in this box is somewhere on row 4. That means no 5 anywhere else
 on row 4."
 
+![Pointing: a 5 locked to one row within a box, eliminating 5 from the rest of that row](img/05-pointing.png)
+*Pointing: in the box A4–C6 the 5 can only sit in A4 or C4, both on row 4, so 5 (red) is erased from the rest of row 4.*
+
 ## Claiming (line → box), also called box-line reduction
 
 Now flip it. Look at one digit in a single row (or column). If every place that
