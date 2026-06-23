@@ -15,7 +15,7 @@ the 128 MB sampler and beat composer (the bigger sibling of the pocket-sized
 PO-33). It starts with what every button does and builds up to resampling,
 song arrangement, MIDI, and sound-design tricks.
 
-![EP-133 K.O. II|560](img/device.jpg)
+![EP-133 K.O. II](img/device.jpg)
 *The EP-133 K.O. II. Photo: Teenage Engineering.*
 
 ## How to read this, and how it's labeled

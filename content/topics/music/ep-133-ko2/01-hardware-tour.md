@@ -21,12 +21,12 @@ there is **no jog wheel / data dial**, there is **no row of 16 step buttons**, a
 there is only **one fader**, not several. You navigate and change values with the
 `-` / `+` buttons, two knobs, and that single assignable fader.
 
-![EP-133 K.O. II, the full top panel|560](img/device.jpg)
+![EP-133 K.O. II, the full top panel](img/device.jpg)
 *The EP-133 K.O. II top panel. Photos in this chapter: Teenage Engineering.*
 
 ## The pads (the heart of it)
 
-![The 12 pads (the numeric keypad doubles as the pads), with the four group buttons A-D down the left and the orange RECORD plus PLAY at the lower right|520](img/pads.jpg)
+![The 12 pads (the numeric keypad doubles as the pads), with the four group buttons A-D down the left and the orange RECORD plus PLAY at the lower right](img/pads.jpg)
 
 FACT: There are **12 pads**, and they are both **velocity sensitive** (how hard you
 hit changes the volume) and **pressure sensitive** (how hard you hold can sweep an
@@ -39,9 +39,9 @@ effect or modulate the sound). The pads do triple duty:
 
 ## The two knobs and the one fader
 
-![knob X (the orange "A") on the left and knob Y (the black "B") on the right|420](img/knobs.jpg)
+![knob X (the orange "A") on the left and knob Y (the black "B") on the right](img/knobs.jpg)
 
-![the KEYS and FADER buttons and the single grey assignable fader below them|150](img/fader.jpg)
+![the KEYS and FADER buttons and the single grey assignable fader below them](img/fader.jpg)
 
 FACT: There are exactly **two knobs**, labelled `knob X` (the orange "A") and
 `knob Y` (the black "B"), plus **one grey `FADER`**. Some reviews say "three knobs",
@@ -58,7 +58,7 @@ what they do changes per mode:
 
 ## The transport and mode buttons
 
-![The SOUND/EDIT, MAIN/COMMIT and TEMPO/LOOP mode buttons; the white label is the primary function, the lower label is the SHIFT secondary|560](img/controls.jpg)
+![The SOUND/EDIT, MAIN/COMMIT and TEMPO/LOOP mode buttons; the white label is the primary function, the lower label is the SHIFT secondary](img/controls.jpg)
 
 FACT, names taken from the official guide:
 
@@ -97,7 +97,7 @@ full). Learning to read these little codes is most of the learning curve.
 
 ## Ports and power
 
-![The top edge: the six 3.5 mm jacks (output, input, sync, MIDI) plus USB-C and power|640](img/ports.jpg)
+![The top edge: the six 3.5 mm jacks (output, input, sync, MIDI) plus USB-C and power](img/ports.jpg)
 
 FACT: Along the top edge there are **six 3.5 mm mini-jacks**: main stereo
 **output** (headphone/line), stereo **input** (for sampling), **sync in**, **sync
