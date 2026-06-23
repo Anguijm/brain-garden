@@ -58,9 +58,19 @@ article {
 
 // Breathing room from the screen edges + a calmer title on small screens.
 @media all and ($mobile) {
+  // Keep the content column exactly viewport-wide (padding inside the width),
+  // and stop any subpixel/grid offset from creating a phantom horizontal scroll.
   .center {
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 100%;
+    margin-left: 0;
+    margin-right: 0;
     padding-left: 1.1rem;
     padding-right: 1.1rem;
+  }
+  body {
+    overflow-x: hidden;
   }
 
   .page-title,
