@@ -10,6 +10,9 @@ created: 2026-06-23
 
 # Chapter 14 — MIDI and sync
 
+![The top edge jacks: output, input, sync, MIDI, USB, power](img/ports.jpg)
+*The MIDI and sync jacks sit along the top edge. Photo: Teenage Engineering.*
+
 The K.O. II is a full MIDI sequencer, not just a sampler. It can play external
 synths, sync with other gear, and act as a controller for your computer.
 

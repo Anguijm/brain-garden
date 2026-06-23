@@ -10,6 +10,9 @@ created: 2026-06-23
 
 # Chapter 10 — Effects
 
+![The FX button with OUTPUT as its SHIFT secondary](img/fx.jpg)
+*The FX button. Photo: Teenage Engineering.*
+
 The K.O. II has two distinct effects systems plus master processing. Keeping them
 straight is the key to using them well.
 

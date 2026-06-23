@@ -10,6 +10,9 @@ created: 2026-06-23
 
 # Chapter 11 — Mixing and the master
 
+![The MAIN button with COMMIT as its SHIFT secondary](img/main.jpg)
+*MAIN is the mixer view; SHIFT+FX opens the master section. Photo: Teenage Engineering.*
+
 A good beat falls apart if the balance is off. The K.O. II keeps mixing simple:
 levels and pan per sound and per group, plus a strong master section.
 

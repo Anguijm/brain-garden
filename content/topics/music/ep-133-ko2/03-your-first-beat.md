@@ -10,6 +10,9 @@ created: 2026-06-23
 
 # Chapter 3 — Your first beat
 
+![The orange RECORD button and the PLAY button](img/transport.jpg)
+*RECORD and PLAY. Photo: Teenage Engineering.*
+
 This is the quick win. By the end you will have a looping beat. Don't worry about
 doing it "right"; the goal is to feel the loop close.
 

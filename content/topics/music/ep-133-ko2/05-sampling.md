@@ -10,6 +10,9 @@ created: 2026-06-23
 
 # Chapter 5 — Sampling
 
+![The SAMPLE button with CHOP as its SHIFT secondary](img/sample.jpg)
+*The SAMPLE button. Photo: Teenage Engineering.*
+
 Recording your own audio is the whole point of a sampler. The K.O. II makes it fast.
 
 ## The format, so you know your limits

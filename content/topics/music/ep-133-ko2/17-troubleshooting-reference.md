@@ -10,6 +10,9 @@ created: 2026-06-23
 
 # Chapter 17 — Troubleshooting and reference
 
+![The EP-133 K.O. II top panel](img/device.jpg)
+*The full panel, for reference. Photo: Teenage Engineering.*
+
 The closing chapter: how to fix common problems, the reset procedure, a combo cheat
 sheet, a glossary, and the sources behind this course.
 

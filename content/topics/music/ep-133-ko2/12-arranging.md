@@ -10,6 +10,9 @@ created: 2026-06-23
 
 # Chapter 12 — Arranging
 
+![The MAIN button with COMMIT as its SHIFT secondary](img/main.jpg)
+*Commit a scene with SHIFT+MAIN. Photo: Teenage Engineering.*
+
 A loop is not a song. Arrangement is how you go from one good bar to an intro, verse,
 chorus, and outro. On the K.O. II that is built on three ideas: patterns, scenes,
 and commit.

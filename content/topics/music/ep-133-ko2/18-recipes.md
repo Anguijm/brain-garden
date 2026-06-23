@@ -10,6 +10,9 @@ created: 2026-06-23
 
 # Chapter 18 — Recipes
 
+![The 12 pads with group buttons A-D and RECORD/PLAY](img/pads.jpg)
+*The pads and group buttons you'll build on. Photo: Teenage Engineering.*
+
 Eight beats you can build start to finish, each in a different style, to turn the
 techniques from earlier chapters into muscle memory.
 

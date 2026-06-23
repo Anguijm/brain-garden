@@ -10,6 +10,9 @@ created: 2026-06-23
 
 # Chapter 4 — Sound mode and loading sounds
 
+![The SOUND button with EDIT as its SHIFT secondary](img/sound.jpg)
+*The SOUND button (SHIFT+SOUND for sound edit). Photo: Teenage Engineering.*
+
 `SOUND` mode is where you decide which sample sits on each pad. This chapter covers
 that screen and the four ways to get audio onto the device.
 

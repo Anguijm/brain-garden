@@ -10,6 +10,9 @@ created: 2026-06-23
 
 # Chapter 13 — Performing live
 
+![The four group buttons A, B, C, D](img/groups.jpg)
+*Hold a group button to switch its pattern live. Photo: Teenage Engineering.*
+
 The K.O. II is a capable live instrument. Performance is mostly the techniques you
 already know, used in real time: switching patterns and scenes, muting, punching in
 effects, and rolling fills.

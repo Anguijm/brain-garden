@@ -10,6 +10,9 @@ created: 2026-06-23
 
 # Chapter 8 — Sequencing
 
+![The TIMING button with CORRECT as its SHIFT secondary](img/timing.jpg)
+*The TIMING button (SHIFT+TIMING for timing correct). Photo: Teenage Engineering.*
+
 This is the deep chapter on building patterns: how to record them, set the grid, add
 groove, and edit individual hits. Remember there is no 16-step button row here; you
 work with `RECORD`, the pads, the `-`/`+` buttons, and `TIMING`.

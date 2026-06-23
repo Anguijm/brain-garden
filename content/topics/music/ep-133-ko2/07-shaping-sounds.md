@@ -10,6 +10,9 @@ created: 2026-06-23
 
 # Chapter 7 — Shaping a sound
 
+![knob X (orange) and knob Y (black)](img/knobs.jpg)
+*knob X and knob Y set the two parameters on each edit page. Photo: Teenage Engineering.*
+
 Each pad has its own set of playback parameters. They change how that pad plays the
 underlying sample, without altering the stored audio. This is "sound edit."
 

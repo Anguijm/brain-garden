@@ -10,6 +10,9 @@ created: 2026-06-23
 
 # Chapter 2 — How it's organized
 
+![The four group buttons A, B, C, D](img/groups.jpg)
+*The four group buttons, A–D. Photo: Teenage Engineering.*
+
 Before you make a beat, it helps to hold the device's mental model in your head.
 Everything nests in a clear hierarchy.
 

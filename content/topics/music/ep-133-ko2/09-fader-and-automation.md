@@ -10,6 +10,9 @@ created: 2026-06-23
 
 # Chapter 9 — The fader and automation
 
+![The KEYS and FADER buttons and the assignable fader](img/fader.jpg)
+*The single assignable fader. Photo: Teenage Engineering.*
+
 The single fader is the K.O. II's main "movement" control. Learning to assign and
 automate it is how your beats stop sounding static.
 

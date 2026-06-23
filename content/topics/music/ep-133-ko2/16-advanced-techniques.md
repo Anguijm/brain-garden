@@ -10,6 +10,9 @@ created: 2026-06-23
 
 # Chapter 16 — Advanced techniques and recipes
 
+![The SAMPLE button, used for resampling](img/sample.jpg)
+*Resampling uses SAMPLE with RSP as the source. Photo: Teenage Engineering.*
+
 This chapter puts the pieces together into workflows that get more out of the device,
 especially resampling, which is the single most powerful "advanced" feature.
 

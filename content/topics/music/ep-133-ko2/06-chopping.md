@@ -10,6 +10,9 @@ created: 2026-06-23
 
 # Chapter 6 — Chopping
 
+![The SAMPLE button; CHOP is its SHIFT secondary](img/sample.jpg)
+*CHOP is SHIFT+SAMPLE. Photo: Teenage Engineering.*
+
 Chopping takes one longer sample (a drum break, a vocal phrase, a melodic loop) and
 spreads slices of it across the 12 pads of a group, so each pad plays a different
 piece. It is how you turn a record into an instrument.
