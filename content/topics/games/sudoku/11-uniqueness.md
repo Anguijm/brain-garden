@@ -31,6 +31,9 @@ pattern, which is illegal. So the fourth corner **must be one of its extra
 candidates**, which means you **erase X and Y from that fourth corner.** There are
 several UR variants, but this "extra candidates in one corner" form is the workhorse.
 
+![A Unique Rectangle: three corners with the same pair and a fourth with an extra candidate](img/11-uniqueness.png)
+*Unique Rectangle: corners C2, C3, D3 are {2,5} and D2 is {2,5,8}. The four cells sit in two rows, two columns, and two boxes; if D2 were also just {2,5} the puzzle would have two solutions, so 2 and 5 (red) are erased from D2, leaving 8.*
+
 ## BUG (Bivalue Universal Grave)
 
 A whole-grid shortcut. If you reach a state where **every unsolved cell has exactly
