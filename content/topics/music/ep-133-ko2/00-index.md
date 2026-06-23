@@ -71,5 +71,15 @@ runs on USB-C power or four AAA batteries.
 16. [Advanced techniques and recipes](16-advanced-techniques.md)
 17. [Troubleshooting, reset, and reference](17-troubleshooting-reference.md)
 
+**Recipes (build a beat start to finish)**
+18. [Starter project recipes — overview](18-recipes-overview.md)
+19. [Boom Bap](19-recipe-boom-bap.md)
+20. [House](20-recipe-house.md)
+21. [Trap](21-recipe-trap.md)
+22. [Drum & Bass](22-recipe-dnb.md)
+23. [Drill](23-recipe-drill.md)
+24. [Lo-fi / ambient sampling](24-recipe-lofi-ambient.md)
+
 Start at [chapter 1](01-hardware-tour.md), or jump to
 [your first beat](03-your-first-beat.md) if you want a quick win before the theory.
+New to making beats? The [recipes](18-recipes-overview.md) are the fun way in.
