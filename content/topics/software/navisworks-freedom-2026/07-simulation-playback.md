@@ -19,6 +19,9 @@ You can't build them in Freedom, but you can watch the building assemble itself.
 ![Diagram: a model building up in stages along a timeline, with VCR-style playback controls](img/timeliner.png)
 *4D playback: the model builds along a schedule, with VCR-style controls. Diagram.*
 
+![The TimeLiner Playback window with the Simulate tab, playback controls, and the schedule grid](img/real-timeliner.png)
+*The TimeLiner Playback window (Simulate tab), with VCR-style controls and the schedule. Screenshot: Autodesk.*
+
 FACT: `TimeLiner` is Navisworks' 4D tool, it links model objects to a schedule of
 tasks (with dates) so the model "builds" over time. Authoring it needs
 Simulate/Manage, but Freedom plays back a sequence saved in the NWD.

@@ -18,6 +18,9 @@ Navisworks navigation toolset.
 
 ## The navigation tools
 
+![The Navigation Bar in Navisworks, with the navigation tools as numbered buttons](img/real-navigation-bar.png)
+*The Navigation Bar holds the navigation tools (ViewCube, SteeringWheels, Pan, Zoom, Orbit, Look, Walk/Fly, Select). Screenshot: Autodesk.*
+
 FACT, from the Navigation Bar (or the keyboard shortcuts in
 [chapter 8](08-output-tips-shortcuts.md)):
 
@@ -38,6 +41,9 @@ Orbit to spin a component and look at it from all sides. Reach for Fly only when
 Walk's ground behavior gets in your way.
 
 ## ViewCube and SteeringWheels
+
+![The SteeringWheels Full Navigation Wheel with its eight wedges](img/real-steeringwheel.png)
+*The SteeringWheels Full Navigation Wheel. Screenshot: Autodesk.*
 
 FACT:
 
