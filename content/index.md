@@ -8,6 +8,10 @@ than raw research. Newest is first.
 
 ## Latest
 
+- **[Navisworks Freedom 2026 — a complete course](topics/software/navisworks-freedom-2026)**
+  — using Autodesk's free 3D model viewer: opening published models, navigating,
+  reading properties, viewpoints and clash results, sectioning, measuring, and 4D
+  playback.
 - **[EP-133 K.O. II — a complete course](topics/music/ep-133-ko2)** — a
   beginner-to-advanced course for Teenage Engineering's sampler: every button, then
   sampling, sequencing, effects, MIDI, resampling, and genre recipes.
