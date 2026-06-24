@@ -58,6 +58,9 @@ FACT, because it explains why Freedom behaves as it does:
   viewpoints, redlines and comments, clash results, 4D `TimeLiner` data, object
   animations, and materials/lighting.
 
+![Diagram: native CAD becomes an NWC cache, assembled into an NWF master file, then Published as an NWD that Freedom opens](img/workflow.png)
+*Authors build and Publish an NWD in Manage/Simulate; free Freedom opens it. Diagram.*
+
 Assessment: the NWD is the whole reason Freedom exists. An author in Manage or
 Simulate opens the NWF, then **Publishes** an NWD, a frozen, shareable snapshot,
 and hands it to reviewers who open it in free Freedom. NWD is also robust to share

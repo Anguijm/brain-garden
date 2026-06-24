@@ -38,6 +38,9 @@ FACT: There are three Navisworks editions. The clean mental model is
 - **Navisworks Manage** (paid): everything in Simulate plus `Clash Detective`
   (clash/interference checking) and coordination tools.
 
+![Diagram of the three Navisworks editions, Freedom free and view-only, Simulate and Manage adding paid authoring features](img/editions.png)
+*The three editions: Freedom (free) views; Simulate and Manage add authoring. Diagram.*
+
 So in Freedom you can *see* clash results and 4D sequences, but you cannot create
 them. If you need to run clashes or build schedules, you need Manage or Simulate,
 tell me and I'll write that course instead.

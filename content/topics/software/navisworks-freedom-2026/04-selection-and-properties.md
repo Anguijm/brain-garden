@@ -36,6 +36,9 @@ modes:
 - **Properties** — items grouped by a chosen property.
 - **Sets** — appears only if the file contains saved selection/search sets.
 
+![Diagram of the Selection Tree hierarchy: model file, then category, family, type, instance, geometry](img/selection-tree.png)
+*The Selection Tree hierarchy, mirroring the source application. Diagram.*
+
 FACT: The hierarchy descends roughly file > category > family > type > instance >
 geometry, mirroring the source application (so a Revit model reads in Revit terms).
 

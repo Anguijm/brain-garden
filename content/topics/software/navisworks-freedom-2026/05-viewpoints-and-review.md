@@ -14,6 +14,9 @@ An NWD usually arrives full of review data the author packed in: saved views,
 markups, comments, and clash results. This is what makes Freedom useful for
 coordination, you're reviewing someone's findings, not starting from scratch.
 
+![Diagram showing an NWD containing geometry, properties, viewpoints, redlines and comments, clash results, 4D TimeLiner, animations, and materials](img/nwd-contents.png)
+*What an NWD carries, and therefore what Freedom can show you. Diagram.*
+
 ## Saved viewpoints
 
 FACT: The **Saved Viewpoints** window lists the views the author saved. Click one

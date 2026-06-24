@@ -13,6 +13,9 @@ created: 2026-06-24
 Freedom uses the standard Autodesk ribbon interface. This chapter names the parts
 so the rest of the course can refer to them.
 
+![A schematic map of the Freedom window: ribbon across the top, Selection Tree and Properties at left, Scene View with ViewCube and Navigation Bar in the center, Saved Viewpoints at right, status bar at the bottom](img/interface-map.png)
+*A layout map of the Freedom window (schematic, not a screenshot).*
+
 ## The main areas
 
 FACT:

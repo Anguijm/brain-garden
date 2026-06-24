@@ -13,6 +13,9 @@ created: 2026-06-24
 Moving around the model is the heart of using Freedom. It gives you the full
 Navisworks navigation toolset.
 
+![Diagram of three navigation moves: Walk (move at eye level), Orbit (spin around an object), and Fly (free movement in space)](img/navigation.png)
+*The three core navigation moves. Diagram.*
+
 ## The navigation tools
 
 FACT, from the Navigation Bar (or the keyboard shortcuts in
