@@ -36,8 +36,8 @@ modes:
 - **Properties** — items grouped by a chosen property.
 - **Sets** — appears only if the file contains saved selection/search sets.
 
-![Diagram of the Selection Tree hierarchy: model file, then category, family, type, instance, geometry](img/selection-tree.png)
-*The Selection Tree hierarchy, mirroring the source application. Diagram.*
+![The Selection Tree window in Navisworks Freedom showing the model hierarchy](img/real-selection-tree.png)
+*The Selection Tree window. Screenshot: Autodesk.*
 
 FACT: The hierarchy descends roughly file > category > family > type > instance >
 geometry, mirroring the source application (so a Revit model reads in Revit terms).
@@ -48,6 +48,9 @@ search (Find Items) to locate objects, but you can't persist the result as a new
 set.
 
 ## Reading object properties
+
+![The Properties window in Navisworks Freedom, a tab per category with property and value rows](img/real-properties.png)
+*The Properties window. Screenshot: Autodesk.*
 
 FACT: The **Properties** window shows the selected object's data, with a tab for
 each property category (geometry/transform categories plus whatever the source

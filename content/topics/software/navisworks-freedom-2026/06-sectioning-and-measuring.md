@@ -16,8 +16,11 @@ only in the current session and cannot be saved.
 
 ## Sectioning (cutting the model open)
 
-![Diagram: a section plane slicing a model versus a section box isolating a region](img/sectioning.png)
-*Section plane vs section box. Diagram.*
+![A real model cut open by a section plane](img/real-section-planes.png)
+*A section plane slicing a model. Screenshot: Autodesk.*
+
+![A real model with only the part inside a section box shown](img/real-section-box.png)
+*A section box showing only the region inside it. Screenshot: Autodesk.*
 
 FACT: On the **Viewpoint** tab, `Sectioning` panel, turn on **Enable Sectioning**.
 A contextual **Sectioning Tools** tab appears. Two modes:
@@ -38,8 +41,8 @@ outside the geometry, the model can appear to vanish; just reset or re-fit the b
 
 ## Measuring
 
-![Diagram: a point-to-point distance, and the shortest distance (clearance) between two parts](img/measure.png)
-*Point-to-point distance and shortest distance between two parts. Diagram.*
+![The Measure Tools window showing start point, end point, difference, and distance](img/real-measure.png)
+*The Measure Tools window with its X/Y/Z readouts. Screenshot: Autodesk.*
 
 FACT: On the **Review** tab, `Measure` panel:
 

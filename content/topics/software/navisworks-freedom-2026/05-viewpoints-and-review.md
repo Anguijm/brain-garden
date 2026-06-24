@@ -19,6 +19,9 @@ coordination, you're reviewing someone's findings, not starting from scratch.
 
 ## Saved viewpoints
 
+![The Saved Viewpoints window listing saved views grouped in folders](img/real-saved-viewpoints.png)
+*The Saved Viewpoints window. Screenshot: Autodesk.*
+
 FACT: The **Saved Viewpoints** window lists the views the author saved. Click one
 to jump the camera straight there, no need to navigate manually. Icons distinguish
 folders, orthographic viewpoints, perspective viewpoints, animation clips, and

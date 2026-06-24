@@ -16,6 +16,9 @@ so the rest of the course can refer to them.
 ![A schematic map of the Freedom window: ribbon across the top, Selection Tree and Properties at left, Scene View with ViewCube and Navigation Bar in the center, Saved Viewpoints at right, status bar at the bottom](img/interface-map.png)
 *A layout map of the Freedom window (schematic, not a screenshot).*
 
+![The Scene View in Navisworks Freedom, a model shown in multiple custom views with X/Y/Z coordinate readouts](img/real-scene-view.png)
+*The Scene View (here split into two custom views). Screenshot: Autodesk.*
+
 ## The main areas
 
 FACT:
