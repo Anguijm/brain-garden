@@ -3,6 +3,7 @@ type: playbook
 series: defense-bd-playbook
 chapter: 11
 title: Templates and checklists
+aliases: [10-templates-checklists]
 status: curated
 tags: [business-development, defense, capture-management, govcon, proposals, playbook, templates]
 created: 2026-06-18
