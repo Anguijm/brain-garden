@@ -3,7 +3,7 @@ type: playbook
 series: defense-bd-playbook
 chapter: 14
 title: Further reading
-aliases: [14-further-reading-hbr, 15-further-reading-beyond-hbr]
+aliases: ["topics/business-development/defense-bd-playbook/14-further-reading-hbr", "topics/business-development/defense-bd-playbook/15-further-reading-beyond-hbr"]
 status: curated
 tags: [business-development, defense, capture-management, govcon, proposals, playbook, reading-list]
 created: 2026-06-18

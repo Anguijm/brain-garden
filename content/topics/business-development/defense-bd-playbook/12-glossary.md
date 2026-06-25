@@ -3,7 +3,7 @@ type: playbook
 series: defense-bd-playbook
 chapter: 12
 title: Glossary
-aliases: [11-glossary]
+aliases: ["topics/business-development/defense-bd-playbook/11-glossary"]
 status: curated
 tags: [business-development, defense, capture-management, govcon, proposals, playbook, glossary]
 created: 2026-06-18

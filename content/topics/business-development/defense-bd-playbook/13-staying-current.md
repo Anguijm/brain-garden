@@ -3,7 +3,7 @@ type: playbook
 series: defense-bd-playbook
 chapter: 13
 title: Staying current — search terms and sources
-aliases: [12-staying-current]
+aliases: ["topics/business-development/defense-bd-playbook/12-staying-current"]
 status: curated
 tags: [business-development, defense, capture-management, govcon, proposals, playbook, research]
 created: 2026-06-18

@@ -3,7 +3,7 @@ type: lesson
 series: ep-133-ko2
 chapter: 18
 title: Recipes — build a beat start to finish
-aliases: [18-recipes-overview, 19-recipe-boom-bap, 20-recipe-house, 21-recipe-trap, 22-recipe-dnb, 23-recipe-drill, 24-recipe-lofi-ambient, 25-recipe-punk-rock, 26-recipe-grunge]
+aliases: ["topics/music/ep-133-ko2/18-recipes-overview", "topics/music/ep-133-ko2/19-recipe-boom-bap", "topics/music/ep-133-ko2/20-recipe-house", "topics/music/ep-133-ko2/21-recipe-trap", "topics/music/ep-133-ko2/22-recipe-dnb", "topics/music/ep-133-ko2/23-recipe-drill", "topics/music/ep-133-ko2/24-recipe-lofi-ambient", "topics/music/ep-133-ko2/25-recipe-punk-rock", "topics/music/ep-133-ko2/26-recipe-grunge"]
 status: curated
 tags: [music, sampler, groovebox, teenage-engineering, ep-133, ko-ii, tutorial, recipes]
 created: 2026-06-23

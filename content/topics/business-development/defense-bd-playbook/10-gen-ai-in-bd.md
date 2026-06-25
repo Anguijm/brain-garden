@@ -3,7 +3,7 @@ type: playbook
 series: defense-bd-playbook
 chapter: 10
 title: Using Gen AI in BD without fooling yourself
-aliases: [13-gen-ai-in-bd]
+aliases: ["topics/business-development/defense-bd-playbook/13-gen-ai-in-bd"]
 status: curated
 tags: [business-development, defense, capture-management, govcon, proposals, playbook, ai]
 created: 2026-06-18

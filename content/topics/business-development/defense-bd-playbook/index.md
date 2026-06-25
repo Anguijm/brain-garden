@@ -3,7 +3,7 @@ type: playbook
 series: defense-bd-playbook
 chapter: 0
 title: Defense BD Playbook — overview and how to use it
-aliases: [00-index]
+aliases: ["topics/business-development/defense-bd-playbook/00-index"]
 status: curated
 tags: [business-development, defense, capture-management, govcon, proposals, playbook]
 created: 2026-06-18
