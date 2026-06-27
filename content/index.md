@@ -8,7 +8,7 @@ than raw research. Newest is first.
 
 ## Latest
 
-- **[Homebrew on portable game devices](topics/games/psp-portal-hacking)** — a
+- **[Homebrew on portable game devices](topics/games/portable-homebrew)** — a
   high-level, plain-English tour of the homebrew scene: what it is (and isn't), why
   people do it, the open-vs-locked landscape, the PSP era, and today's handhelds.
 - **[Navisworks Freedom 2026 — a complete course](topics/software/navisworks-freedom-2026)**

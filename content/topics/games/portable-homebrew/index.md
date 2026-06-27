@@ -1,6 +1,7 @@
 ---
 type: topic-note
 title: Homebrew on portable game devices
+aliases: ["topics/games/psp-portal-hacking"]
 status: curated
 tags: [games, homebrew, handhelds, emulation, preservation, retro]
 created: 2026-06-26
