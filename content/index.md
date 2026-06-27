@@ -8,6 +8,9 @@ than raw research. Newest is first.
 
 ## Latest
 
+- **[Metal-look board game pieces at scale](topics/games/plated-game-components)** —
+  3D printing plus electroplating to give coins, tokens, and minis real metal heft,
+  how to batch it, plus the safety and the IP line.
 - **[Homebrew on portable game devices](topics/games/portable-homebrew)** — a
   high-level, plain-English tour of the homebrew scene: what it is (and isn't), why
   people do it, the open-vs-locked landscape, the PSP era, and today's handhelds.
