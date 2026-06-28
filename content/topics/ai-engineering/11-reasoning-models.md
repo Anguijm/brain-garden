@@ -1,7 +1,7 @@
 ---
 type: lesson
 series: ai-engineering
-title: "Thinking" and reasoning models
+title: '"Thinking" and reasoning models'
 status: curated
 tags: [ai, ai-agents, llm, agent-engineering, beginner-friendly]
 created: 2026-06-29
