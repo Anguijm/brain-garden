@@ -10,60 +10,72 @@ created: 2026-06-28
 
 # AI agents, in plain English
 
-This section explains how people build useful tools on top of AI models. It goes step
-by step, in plain words. You do not need a computer background.
+This section explains how people build useful tools on top of AI models, one piece at a
+time, in plain language. You do not need a computer background to follow it. If the whole
+idea is new to you, begin with the first basics chapter on what a model actually is. It
+explains the handful of words the rest of the section leans on.
 
-If the basics are new to you, start with **[what is an AI model?](00-what-is-an-llm)**.
-It explains the few words (model, token, prompt) that the rest of this section uses.
-
-A quick note on trust. AI can sound sure and still be wrong, so I mark each claim. FACT
-means I checked it against a solid source. Assessment means it is my own read.
-Speculation means it is a guess about the future.
+A note on trust before we start. AI can sound completely sure and still be wrong, so every
+claim here carries a label. FACT means I checked it against a reliable source. Assessment
+means it is my own judgment. Speculation means it is a guess about where things are headed.
 
 ## The one picture to keep in mind
 
-Almost everything here is "the model, plus help." The model reads and writes. Around
-it, people add a few things:
+Almost everything in this section is "the model, plus help." On its own, a model reads and
+writes. To make it genuinely useful, people add a few abilities around it:
 
-- **Tools** let it *do* things, like search the web or run code, instead of only
+- **Tools** let it do things, such as searching the web or running code, instead of only
   writing.
-- **Memory** lets it *remember* past chats.
-- **Context** is the stuff you put in front of it right now. The trick is showing it the
-  right stuff at the right time.
-- **Retrieval** lets it *look up* facts instead of guessing from memory.
+- **Memory** lets it remember earlier chats.
+- **Context** is whatever you put in front of it right now, and the skill is choosing the
+  right things to include.
+- **Retrieval** lets it look up facts instead of guessing from memory.
 
-The rest of this section is how you put those pieces together, test them, and keep them
-safe.
+Everything else is about combining those pieces, testing them, and keeping them safe.
 
 ![Diagram: a central AI model surrounded by Tools, Memory, Context, and Retrieval, with a bottom row of bigger topics: workflows vs agents, multi-agent systems, testing, and safety](img/landscape.png)
 *What this section covers. Diagram.*
 
 ## The chapters
 
-You can read these in order, but each one also stands on its own.
+Read them in order if you are learning, or jump to what you need. Each one stands on its
+own.
 
-0. **[Start here: what is an AI model?](00-what-is-an-llm)** — the ground floor: model,
-   token, prompt, and the three big limits to keep in mind. Read this first if you are
-   new.
-1. **[Workflows vs agents](01-workflows-vs-agents)** — the most important idea: how much
-   freedom to give the model, and the common patterns. Start here after the basics.
-2. **[Tools and MCP](02-tools-and-mcp)** — how a model does things in the real world,
-   and the standard "plug" (MCP) for hooking tools up.
-3. **[Memory](03-memory-for-agents)** — how a model remembers across chats: the kinds of
-   memory, and how it gets saved and recalled.
-4. **[Context](04-context-engineering)** — the model can only read so much at once. This
-   is how you keep what it reads short and useful.
-5. **[Retrieval and RAG](05-retrieval-and-rag)** — how you feed a model the right facts
-   so it does not have to guess, and when to use this versus other options.
-6. **[Testing](06-evaluation-and-testing)** — how you know it actually works, and why you
-   should not fully trust an AI to grade another AI.
-7. **[Many agents at once](07-multi-agent-systems)** — when using several agents helps,
-   when it just wastes money, and how small mistakes pile up.
-8. **[Safety and good habits](08-safety-and-best-practices)** — the main ways these
-   systems get attacked or go wrong, and a plain checklist.
-9. **[MRAgent: a closer look](09-mragent)** — a 2026 research idea for AI memory, with an
-   honest read on what holds up and what does not.
-10. **[Word list](glossary)** — the terms in one place.
+**Start with the basics**
+
+- **[What is an AI model?](00-what-is-an-llm)** — the ground floor: model, token, prompt,
+  and the three big limits to keep in mind.
+- **[How to write a good prompt](10-how-to-prompt)** — the easiest way to get better
+  answers, with no technical skill needed.
+- **["Thinking" and reasoning models](11-reasoning-models)** — what it means when a model
+  works through a problem before answering, and when that is worth it.
+- **[Cost and speed](12-cost-and-speed)** — how you pay (by the token), and why long
+  inputs cost more and run slower.
+- **[Pictures and voice](13-pictures-and-voice)** — models that can also read images and
+  handle sound, and where they fall short.
+
+**Then, building with models**
+
+- **[Workflows vs agents](01-workflows-vs-agents)** — the most important idea: how much
+  freedom to give the model, and the common patterns.
+- **[Tools and MCP](02-tools-and-mcp)** — how a model does things in the real world, and
+  the standard "plug" for hooking tools up.
+- **[Memory](03-memory-for-agents)** — how a model remembers across chats.
+- **[Context](04-context-engineering)** — the model can only read so much at once; this is
+  how you keep what it reads short and useful.
+- **[Retrieval and RAG](05-retrieval-and-rag)** — feeding a model the right facts so it
+  does not have to guess.
+- **[Testing](06-evaluation-and-testing)** — how you know it actually works.
+- **[Many agents at once](07-multi-agent-systems)** — when several agents help, and when
+  they just waste money.
+- **[Safety and good habits](08-safety-and-best-practices)** — the main ways these systems
+  go wrong, and a plain checklist.
+- **[MRAgent: a closer look](09-mragent)** — a 2026 research idea for AI memory, with an
+  honest read on what holds up.
+
+**Reference**
+
+- **[Word list](glossary)** — the terms in one place.
 
 ## The most useful rule
 
