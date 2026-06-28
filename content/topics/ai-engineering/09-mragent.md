@@ -16,7 +16,8 @@ fixed set of memory chunks and then reasoning over them, MRAgent reasons *while*
 walks an associative graph, deciding where to go next based on what it has found so
 far. This chapter is the dedicated deep dive promised in [the memory
 chapter](03-memory-for-agents): what the name means, how it works, the efficiency
-numbers, and the limits.
+numbers, the limits, and an honest read on what actually holds up versus what is only
+claimed.
 
 ## What it is, and what the name means
 
@@ -36,10 +37,35 @@ a confident, widely repeated, and simply false claim.
 
 FACT: the authors are **Shuo Ji, Yibo Li, and Bryan Hooi** at the National University
 of Singapore; the paper was submitted on 4 June 2026. The code is at
-`github.com/Ji-shuo/MRAgent` (not to be confused with an unrelated biomedical
-`MRAgent` repo). Assessment: the publication venue is not reliably confirmed, sources
-conflict between an ICLR workshop and ICML, so the safe citation is the arXiv paper and
-its OpenReview record, without asserting acceptance anywhere specific.
+`github.com/Ji-shuo/MRAgent` (not to be confused with an unrelated biomedical `MRAgent`
+tool for Mendelian-randomization analysis, published in *Briefings in Bioinformatics*).
+
+## Where it was actually published
+
+I chased the venue down, because the sources conflict and it matters for how much
+weight to put on the results.
+
+FACT: the authoritative record is OpenReview's structured metadata for the submission
+(forum `YPoHy6lgKP`), which reads `venue: "ICLR 2026 Workshop MemAgents"` and `venueid:
+ICLR.cc/2026/Workshop/MemAgent`, with a bibtex `booktitle` of "ICLR 2026 Workshop on
+Memory for LLM-Based Agentic Systems." That workshop is real and verifiable (its site
+is at sites.google.com/view/memagent-iclr26). So the paper is a **workshop paper at the
+ICLR 2026 MemAgents workshop**, posted there in March 2026.
+
+FACT: the one conflicting signal is the arXiv "Comments" field, which the authors typed
+as "Accepted at ICML 2026." There is no structured record anywhere (no ICML OpenReview
+forum, no proceedings entry, no journal reference) that corroborates an ICML acceptance.
+Assessment: where a hand-typed arXiv note conflicts with the venue's own machine-set
+OpenReview metadata, the metadata wins; the ICML line is most likely an author error,
+an aspirational edit, or a separate submission not yet reflected anywhere I can check.
+Treat the venue as the ICLR MemAgents workshop and the ICML claim as unverified.
+
+FACT: this matters because the OpenReview forum has **no public reviews, rebuttals, or
+meta-reviews at all** (the record returns an empty reply list). Assessment: a workshop
+is a lighter, often non-archival bar than a main conference, and here there is no
+visible peer-review signal in either direction. The honest consequence runs through the
+rest of this chapter: **every number below is author-reported and has not been
+independently peer-reviewed or reproduced.**
 
 ## The core idea: reconstruct, do not retrieve
 
@@ -90,22 +116,42 @@ hops, what it learns at hop two changes which edge it follows at hop three. That
 "reconstruction" that a fixed top-K retrieval cannot do, and it is what lets MRAgent
 reach evidence a passive lookup would miss.
 
-## The efficiency numbers
+## The numbers, read carefully
 
-FACT: on LongMemEval, per query, MRAgent used about **118,000 tokens** at 586 seconds.
-The compared systems used far more: A-Mem about 632,000 tokens, MemoryOS about 273,000,
-and **LangMem about 3,268,000** (roughly 3.26 million). MRAgent versus LangMem is
-therefore about a **27-fold reduction in tokens**, the headline "118K versus 3.26M"
-result. Runtime was roughly half that of A-Mem (586 versus 1,122 seconds), though Mem0
-was slightly faster in absolute terms. (arXiv:2606.06036, efficiency table.)
+The headline results are real, but they say something narrower than the marketing
+around them. Here is the paper's own efficiency table (per sample, on LongMemEval),
+with the lowest value in each row in bold.
 
-FACT: the benchmarks were LoCoMo and LongMemEval; the backbone models were
-Gemini-2.5-Flash and Claude-Sonnet-4.5; and the baselines were RAG, A-Mem, MemoryOS,
-LangMem, and Mem0. The paper reports accuracy "improvements over strong baselines (up
-to 23%)." (arXiv:2606.06036.) Assessment: the specific per-backbone scores that
-circulate in summaries (for example a Gemini judge-score rising from 68.31 to 84.21)
-are from secondary summaries rather than verified in the paper text; treat the
-"up to 23%" headline as the reliable figure and the exact split as uncertain.
+| Per sample (LongMemEval) | MRAgent | Mem0 | MemoryOS | A-Mem | LangMem |
+|---|---|---|---|---|---|
+| Tokens | **118k** | 245k | 273k | 632k | 3,268k |
+| Runtime (s) | 586 | **533** | 3,136 | 1,122 | 1,210 |
+
+FACT: MRAgent used about **118,000 tokens** per query versus **LangMem's ~3,268,000**
+(roughly 3.26 million), which is the famous **~27-fold** token reduction. (arXiv
+2606.06036, efficiency table.)
+
+Assessment: two caveats keep that honest. First, this is **query-time prompt tokens**,
+and the paper's own design note says memory is built in a separate, static construction
+step, so the 27x almost certainly does not include graph-building cost; read it as "27x
+cheaper per query," not "27x cheaper end to end." Second, MRAgent is the most
+token-efficient but **not the fastest**: Mem0 finished in 533 seconds to MRAgent's 586,
+so any source calling MRAgent "the fastest" is simply wrong. And 586 seconds is roughly
+ten minutes per query, a research-benchmark figure, not an interactive latency.
+
+FACT: on accuracy, the gains are also real and (contrary to my earlier hedge) the
+specific numbers are in the paper's tables. On LoCoMo with a Gemini-2.5-Flash backbone,
+MRAgent scored **84.21** on the LLM-judge metric versus the best baseline (Mem0) at
+**68.31**, a +23.3% relative gain, which is the "up to 23%" headline. On the
+Claude-Sonnet-4.5 backbone the gap was smaller (88.32 versus 69.02, about +12%), and on
+LongMemEval with Gemini the relative gain was actually larger (72.95 versus A-Mem's
+52.98, roughly +32%). The benchmarks were LoCoMo and LongMemEval; the backbones were
+Gemini-2.5-Flash and Claude-Sonnet-4.5; the baselines were RAG, A-Mem, MemoryOS,
+LangMem, and Mem0. (arXiv:2606.06036, Tables 1 and 3.)
+
+Assessment: notably absent from the baselines are **Zep/Graphiti and MemGPT/Letta**.
+Zep is widely reported as the accuracy leader on LongMemEval, so leaving it out of the
+comparison is a meaningful gap.
 
 ## The limits
 
@@ -129,8 +175,86 @@ token-efficiency result is the genuinely striking part: doing more reasoning at 
 time can cost dramatically *fewer* tokens than the alternatives, because it avoids
 hauling large fixed retrievals into the context window.
 
+## Trues and falses
+
+A claim-by-claim audit, since this is a topic where confident, wrong statements
+circulate widely.
+
+| Claim you will see | Verdict |
+|---|---|
+| "MR stands for Reconstructive Memory" | **True.** The paper's Section 4 is titled "Reconstructive Memory Agent." |
+| "MR stands for Memory Reasoning Architecture for LLM Agents" | **False.** That phrase appears nowhere in the paper; it is an AI-summary fabrication. |
+| "~27x more token-efficient than LangMem" | **True, with a caveat.** 118k vs 3.26M tokens per query, but that is query-time tokens and excludes graph construction. |
+| "MRAgent is the fastest memory system" | **False.** It is the most token-efficient; Mem0 is faster on wall-clock (533s vs 586s). |
+| "Up to 23% more accurate" | **True.** LoCoMo, Gemini backbone: 84.21 vs 68.31. On LongMemEval the relative gain is even larger. |
+| "Accepted at ICML 2026" | **Unverified.** Only the arXiv comment says so; OpenReview's metadata says ICLR 2026 MemAgents workshop. |
+| "Peer-reviewed result" | **Misleading.** It is a workshop paper with no public reviews; treat numbers as author-reported. |
+| "Independently reproduced" | **False / none found.** No third-party reproduction or benchmark exists yet. |
+
+## Pros and cons
+
+Assessment: pulling it together.
+
+**Pros.** The central idea (reason while you traverse, instead of retrieve then reason)
+is well-motivated and matches how the gains show up: the paper reports multi-hop recall
+improving by over 30% across successive reconstruction steps, which is exactly what an
+iterative, evidence-guided search should buy you. The typed Cue-Tag-Content graph is a
+genuine design contribution, and the paper's own ablation shows both the tag layer and
+the reasoning step each add value independently of the backbone model. The token
+efficiency is striking and counter-intuitive: doing *more* reasoning at read time can
+cost dramatically *fewer* tokens, because it avoids hauling large fixed retrievals into
+the window. The released code looks complete (144 stars, bundled datasets, resumable
+runs), even if no one has independently confirmed it reproduces the paper.
+
+**Cons.** Every number is author-reported, from a workshop paper with no public peer
+review and no independent reproduction, so the magnitude of the headline (27x) deserves
+more suspicion than its direction (more efficient). Self-reported method papers tune
+their own system, not the baselines, and LangMem's 3.26M-token figure is extreme enough
+to suggest a possibly unfavourable baseline configuration. The latency floor is high and
+grows with exploration depth, so the multi-hop queries reconstruction is *for* are
+exactly the slow ones. The memory is static and grows without bound, with no update,
+consolidation, or forgetting, which makes it a poor fit for long-lived agents whose
+facts change. The evaluation is narrow (two long-dialogue QA benchmarks, no agentic or
+fact-update tasks), and it omits the strongest accuracy rival (Zep).
+
+## How it compares, and when to use it
+
+Assessment: MRAgent is one of four shapes of agent memory from
+[chapter 3](03-memory-for-agents), and the right choice depends on your bottleneck.
+
+![Diagram: three cards comparing MRAgent (reconstruct: best for multi-hop accuracy over a fixed history at low query-token budgets; weak on latency and evolving facts), Mem0 (consolidate: best for low latency and evolving facts; weaker multi-hop reasoning), and Zep/Graphiti (temporal graph: best for facts that change over time; higher ingestion cost)](img/mem-compare.png)
+*Which memory approach fits which job. Diagram.*
+
+Assessment: reach for MRAgent's approach when **multi-hop reasoning accuracy over a
+fixed history** matters more than latency, and you want to keep query-time token cost
+down. Reach for **Mem0** when you need low latency, evolving facts, and a maintained
+production library; it is the one baseline that beats MRAgent on speed. Reach for
+**Zep/Graphiti** when your facts change over time and recency or provenance matters, its
+bi-temporal model can represent "this was true, now it is not," which MRAgent's static,
+append-only graph structurally cannot. MemGPT/Letta is a different category again, an
+agent runtime that treats memory as an operating-system-like primitive rather than a
+drop-in memory layer.
+
+## How solid is the evidence
+
+Assessment: this is the part to be clear-eyed about. The idea is interesting and
+plausibly motivated, the internal evidence (the ablations) is reasonable, but the entire
+evidence base is **author-reported, workshop-level, and not independently validated.**
+There is no genuinely independent analysis: the trade-press coverage (VentureBeat and
+its syndications) rehashes the paper's claims without testing them, and the louder
+social and SEO coverage is where distortions like the fabricated "Memory Reasoning
+Architecture" name and the "fastest" claim came from. A useful counterpoint from the
+broader field is a contemporaneous paper, *Does Memory Need Graphs?* (arXiv:2601.01280),
+which argues that reported gains from graph memory are often "driven by foundational
+system settings rather than specific architectural innovations," in other words, some of
+what looks like a clever-graph win can be mundane configuration (chunking, prompts,
+embedder). None of this says MRAgent is wrong; it says the honest status is "promising
+and well-argued, but unproven outside the authors' own runs."
+
 ## Sources
 
 - *Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents* (arXiv:2606.06036) — https://arxiv.org/abs/2606.06036 (full text: https://arxiv.org/html/2606.06036v1)
+- OpenReview record (venue metadata: ICLR 2026 Workshop MemAgents; no public reviews) — https://openreview.net/forum?id=YPoHy6lgKP
+- ICLR 2026 MemAgents workshop — https://sites.google.com/view/memagent-iclr26
 - MRAgent code repository — https://github.com/Ji-shuo/MRAgent
-- OpenReview record — https://openreview.net/forum?id=YPoHy6lgKP
+- *Does Memory Need Graphs?* (field counterpoint, arXiv:2601.01280) — https://arxiv.org/abs/2601.01280
