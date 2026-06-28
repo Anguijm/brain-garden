@@ -8,6 +8,9 @@ than raw research. Newest is first.
 
 ## Latest
 
+- **[Weighty board game pieces with cold-casting](topics/games/cold-cast-game-pieces)**
+  — the heavier mold-and-cast route off a Bambu X1C: metal-resin with steel/tungsten
+  fill for real heft (companion to the electroplating piece).
 - **[Metal-look board game pieces at scale](topics/games/plated-game-components)** —
   3D printing plus electroplating to give coins, tokens, and minis real metal heft,
   how to batch it, plus the safety and the IP line.

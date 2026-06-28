@@ -105,8 +105,9 @@ The "metal look" is a spectrum; electroplating is the top rung, not the only one
 
 - **Metallic paint / wax gilding (Rub 'n Buff).** Easiest, no chemistry, surprisingly
   good for tokens; no real heft.
-- **Cold-cast metal.** Mix metal powder into resin when casting, then buff to expose
-  real metal at the surface, heavier feel, no plating bath.
+- **[Cold-cast metal](../cold-cast-game-pieces).** Mix metal powder into resin when
+  casting, then buff to expose real metal at the surface, heavier feel, no plating
+  bath. This is the **weighty** route, and it has its own article.
 - **Outsource the plating.** Print and prep in batches, send them to a plating shop.
 - **Full DIY electroplating.** Most effort and setup, best look and feel.
 
