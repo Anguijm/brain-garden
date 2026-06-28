@@ -8,6 +8,10 @@ than raw research. Newest is first.
 
 ## Latest
 
+- **[AI agent engineering — a working reference](topics/ai-engineering)** — a full
+  wing on building with LLMs: workflows vs agents, tools and MCP, memory, context
+  engineering, RAG, evaluation, multi-agent systems, safety, and a deep dive on
+  MRAgent (reconstructive memory). Illustrated.
 - **[Weighty board game pieces with cold-casting](topics/games/cold-cast-game-pieces)**
   — the heavier mold-and-cast route off a Bambu X1C: metal-resin with steel/tungsten
   fill for real heft (companion to the electroplating piece).
