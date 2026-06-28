@@ -16,10 +16,10 @@ than raw research. Newest is first.
   wing on building with LLMs: workflows vs agents, tools and MCP, memory, context
   engineering, RAG, evaluation, multi-agent systems, safety, and a deep dive on
   MRAgent (reconstructive memory). Illustrated.
-- **[Weighty board game pieces with cold-casting](topics/games/cold-cast-game-pieces)**
+- **[Weighty board game pieces with cold-casting](topics/making/cold-cast-game-pieces)**
   — the heavier mold-and-cast route off a Bambu X1C: metal-resin with steel/tungsten
   fill for real heft (companion to the electroplating piece).
-- **[Metal-look board game pieces at scale](topics/games/plated-game-components)** —
+- **[Metal-look board game pieces at scale](topics/making/plated-game-components)** —
   3D printing plus electroplating to give coins, tokens, and minis real metal heft,
   how to batch it, plus the safety and the IP line.
 - **[Homebrew on portable game devices](topics/games/portable-homebrew)** — a
@@ -45,8 +45,23 @@ than raw research. Newest is first.
 - **[Sudoku: basics to advanced](topics/games/sudoku)** — a 13-lesson, plain-English
   solving curriculum, from the one rule up through wings, fish, and chains.
 
+## Explore by thread
+
+Filed by topic above, but the more interesting structure runs sideways: the same ideas
+recur across unrelated notes. The **[Connections](connections)** pages pull single
+threads through several domains:
+
+- **[Using AI well, without fooling yourself](connections/using-ai-well)** — the same
+  discipline in AI engineering, defense BD, and (surprisingly) a frog terrarium.
+- **[Making with the Bambu X1C](connections/making-with-the-x1c)** — one printer, heavy
+  game pieces to ultralight airframes.
+- **[Finite resources, ruthless economy](connections/finite-resources)** — tokens,
+  megabytes, grams, and people-hours, one shared move.
+
 ## Finding your way around
 
 Use the **explorer** on the left (the menu button on a phone) to browse everything
-by topic, and the **search** box to jump straight to anything. New notes appear at
-the top of this list as they're promoted.
+by topic, and the **search** box to jump straight to anything. The **graph** view and
+the **theme tags** (`verification`, `finite-resources`, `maker-toolchain`, and friends)
+are the best way to stumble onto a connection. New notes appear at the top of the list
+above as they're promoted.

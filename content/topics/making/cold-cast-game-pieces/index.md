@@ -2,7 +2,8 @@
 type: topic-note
 title: Weighty board game pieces with cold-casting (Bambu X1C)
 status: curated
-tags: [games, board-games, 3d-printing, cold-casting, making, diy, bambu-x1c]
+tags: [making, maker-toolchain, 3d-printing, bambu-x1c, cold-casting, diy, games, board-games]
+aliases: ["topics/games/cold-cast-game-pieces"]
 created: 2026-06-28
 ---
 

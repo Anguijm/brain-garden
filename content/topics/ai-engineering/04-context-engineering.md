@@ -4,7 +4,7 @@ series: ai-engineering
 chapter: 4
 title: Context engineering
 status: curated
-tags: [ai, ai-agents, llm, agent-engineering, context-engineering]
+tags: [ai, ai-agents, llm, agent-engineering, context-engineering, finite-resources]
 created: 2026-06-28
 ---
 

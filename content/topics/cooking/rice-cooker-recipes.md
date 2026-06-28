@@ -2,7 +2,7 @@
 type: topic-note
 title: Rice cooker recipes — beyond plain rice
 status: curated
-tags: [cooking, recipes, rice-cooker, one-pot, easy-meals]
+tags: [cooking, recipes, rice-cooker, one-pot, easy-meals, japan, verification]
 created: 2026-06-18
 sources: 8
 ---

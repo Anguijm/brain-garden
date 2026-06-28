@@ -4,7 +4,7 @@ series: defense-bd-playbook
 chapter: 2
 title: Qualification, PWin, and gate reviews
 status: curated
-tags: [business-development, defense, capture-management, govcon, proposals, playbook]
+tags: [business-development, defense, capture-management, govcon, proposals, playbook, constraint-solving, verification]
 created: 2026-06-18
 ---
 

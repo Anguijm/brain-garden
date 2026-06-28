@@ -5,7 +5,7 @@ chapter: 10
 title: Using Gen AI in BD without fooling yourself
 aliases: ["topics/business-development/defense-bd-playbook/13-gen-ai-in-bd"]
 status: curated
-tags: [business-development, defense, capture-management, govcon, proposals, playbook, ai]
+tags: [business-development, defense, capture-management, govcon, proposals, playbook, ai, verification, using-ai-well]
 created: 2026-06-18
 ---
 

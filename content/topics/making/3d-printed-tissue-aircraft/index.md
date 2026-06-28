@@ -2,7 +2,7 @@
 type: topic-note
 title: "Plastic and tissue: 3D-printed flying model aircraft (X1C)"
 status: curated
-tags: [making, 3d-printing, bambu-x1c, model-aircraft, rc, free-flight, lw-pla, tissue, balsa]
+tags: [making, maker-toolchain, 3d-printing, bambu-x1c, aviation, model-aircraft, rc, free-flight, lw-pla, diy, tissue, balsa, finite-resources, verification]
 created: 2026-06-28
 ---
 
@@ -16,10 +16,10 @@ flies? The honest answer is "yes for some of it, with real caveats," and this no
 about exactly where the line falls.
 
 It is a companion to the other X1C making notes here, [cold-cast metal game
-pieces](../../games/cold-cast-game-pieces) and [electroplated
-components](../../games/plated-game-components): the same pattern of a 3D print plus a
+pieces](../cold-cast-game-pieces) and [electroplated
+components](../plated-game-components): the same pattern of a 3D print plus a
 traditional finishing craft, this time pointed at model aviation rather than the
-tabletop.
+tabletop. All three, and more, are gathered in the [Making with the Bambu X1C](../../../connections/making-with-the-x1c) thread.
 
 A note on honesty up front, because this topic attracts hype. The printed *airframe*
 is mature, well-trodden ground (more on the community below). The *tissue over plastic*

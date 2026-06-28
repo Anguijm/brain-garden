@@ -2,7 +2,7 @@
 title: "Sudoku: basics to advanced"
 type: lesson-series
 status: curated
-tags: [sudoku, games, puzzles, logic, brain-training]
+tags: [sudoku, games, puzzles, logic, brain-training, constraint-solving]
 created: 2026-06-16
 ---
 

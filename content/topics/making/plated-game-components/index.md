@@ -2,7 +2,8 @@
 type: topic-note
 title: Metal-look board game pieces at scale (3D printing + electroplating)
 status: curated
-tags: [games, board-games, 3d-printing, electroplating, making, diy]
+tags: [making, maker-toolchain, 3d-printing, bambu-x1c, electroplating, diy, games, board-games]
+aliases: ["topics/games/plated-game-components"]
 created: 2026-06-28
 ---
 

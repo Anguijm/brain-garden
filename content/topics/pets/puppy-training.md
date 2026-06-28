@@ -2,7 +2,7 @@
 type: topic-note
 title: Puppy training — a practical starter guide
 status: curated
-tags: [pets, dogs, puppy, training, how-to]
+tags: [pets, dogs, puppy, training, how-to, feedback-loops, verification]
 created: 2026-06-16
 sources: 8
 ---

@@ -4,7 +4,7 @@ series: ai-engineering
 chapter: 6
 title: Evaluation and testing
 status: curated
-tags: [ai, ai-agents, llm, agent-engineering, evaluation]
+tags: [ai, ai-agents, llm, agent-engineering, evaluation, verification, using-ai-well, feedback-loops]
 created: 2026-06-28
 ---
 

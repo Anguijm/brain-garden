@@ -2,7 +2,7 @@
 type: topic-note
 title: White's (dumpy) tree frogs — care + a bioactive build in Japan
 status: curated
-tags: [pets, frogs, amphibians, terrarium, bioactive, japan]
+tags: [pets, frogs, amphibians, terrarium, bioactive, japan, using-ai-well, verification, maker-toolchain]
 created: 2026-06-16
 sources: 8
 ---

@@ -4,7 +4,7 @@ series: defense-bd-playbook
 chapter: 9
 title: Pipeline, metrics, and cadence
 status: curated
-tags: [business-development, defense, capture-management, govcon, proposals, playbook]
+tags: [business-development, defense, capture-management, govcon, proposals, playbook, finite-resources, feedback-loops]
 created: 2026-06-18
 ---
 

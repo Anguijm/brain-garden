@@ -4,7 +4,7 @@ series: ep-133-ko2
 chapter: 16
 title: Advanced techniques and recipes
 status: curated
-tags: [music, sampler, groovebox, teenage-engineering, ep-133, ko-ii, tutorial]
+tags: [music, sampler, groovebox, teenage-engineering, ep-133, ko-ii, tutorial, finite-resources, feedback-loops]
 created: 2026-06-23
 ---
 

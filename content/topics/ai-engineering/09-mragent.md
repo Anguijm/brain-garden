@@ -4,7 +4,7 @@ series: ai-engineering
 chapter: 9
 title: "MRAgent: reconstructive memory"
 status: curated
-tags: [ai, ai-agents, llm, agent-engineering, memory, mragent]
+tags: [ai, ai-agents, llm, agent-engineering, memory, mragent, verification, constraint-solving]
 created: 2026-06-28
 ---
 

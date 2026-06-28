@@ -4,7 +4,7 @@ series: ai-engineering
 chapter: 7
 title: Multi-agent systems
 status: curated
-tags: [ai, ai-agents, llm, agent-engineering, multi-agent]
+tags: [ai, ai-agents, llm, agent-engineering, multi-agent, finite-resources]
 created: 2026-06-28
 ---
 
