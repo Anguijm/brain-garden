@@ -8,6 +8,10 @@ than raw research. Newest is first.
 
 ## Latest
 
+- **[Plastic and tissue: 3D-printed flying model aircraft](topics/making/3d-printed-tissue-aircraft)**
+  — replacing balsa with X1C-printed LW-PLA frames and keeping the tissue: how printed
+  airframes are built, where it flies (and where balsa still wins), and the honest
+  catch in covering plastic.
 - **[AI agent engineering — a working reference](topics/ai-engineering)** — a full
   wing on building with LLMs: workflows vs agents, tools and MCP, memory, context
   engineering, RAG, evaluation, multi-agent systems, safety, and a deep dive on
