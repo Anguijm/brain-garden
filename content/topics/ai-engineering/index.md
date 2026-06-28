@@ -2,75 +2,76 @@
 type: lesson
 series: ai-engineering
 chapter: 0
-title: AI agent engineering — overview
+title: AI agents, in plain English — overview
 status: curated
-tags: [ai, ai-agents, llm, agent-engineering, reference]
+tags: [ai, ai-agents, llm, agent-engineering, reference, beginner-friendly]
 created: 2026-06-28
 ---
 
-# AI agent engineering: a working reference
+# AI agents, in plain English
 
-This wing is a plain-English reference on how to build software around large
-language models (LLMs): the workflows and agents that wrap a model, the tools and
-memory they use, the context you feed them, how you evaluate them, and how they fail.
-It is written for someone who wants to understand the moving parts well enough to
-build or judge a real system, not just use a chatbot. Every load-bearing claim is
-labeled FACT (verified against a primary source), Assessment (my judgment), or
-Speculation (forward-looking), per the vault's verification rules.
+This section explains how people build useful tools on top of AI models. It goes step
+by step, in plain words. You do not need a computer background.
 
-It ends with a dedicated deep dive on **MRAgent**, a 2026 research framework for
-agent memory whose central idea is that memory should be *reconstructed*, not just
-*retrieved*.
+If the basics are new to you, start with **[what is an AI model?](00-what-is-an-llm)**.
+It explains the few words (model, token, prompt) that the rest of this section uses.
 
-## The one picture to hold in your head
+A quick note on trust. AI can sound sure and still be wrong, so I mark each claim. FACT
+means I checked it against a solid source. Assessment means it is my own read.
+Speculation means it is a guess about the future.
 
-Assessment: almost everything here is "the model plus something." The model reasons,
-decides, and writes. Around it you bolt on the ability to *act* (tools), to
-*remember* (memory), to *see the right things right now* (context), and to *pull in
-facts on demand* (retrieval). The rest of the discipline is how you compose, test,
-and contain that.
+## The one picture to keep in mind
 
-![Diagram: a central LLM surrounded by Tools & MCP, Memory, Context, and Retrieval/RAG, with a bottom band of cross-cutting concerns: workflows vs agents, multi-agent systems, evaluation, and safety](img/landscape.png)
-*What the chapters in this wing cover. Diagram.*
+Almost everything here is "the model, plus help." The model reads and writes. Around
+it, people add a few things:
+
+- **Tools** let it *do* things, like search the web or run code, instead of only
+  writing.
+- **Memory** lets it *remember* past chats.
+- **Context** is the stuff you put in front of it right now. The trick is showing it the
+  right stuff at the right time.
+- **Retrieval** lets it *look up* facts instead of guessing from memory.
+
+The rest of this section is how you put those pieces together, test them, and keep them
+safe.
+
+![Diagram: a central AI model surrounded by Tools, Memory, Context, and Retrieval, with a bottom row of bigger topics: workflows vs agents, multi-agent systems, testing, and safety](img/landscape.png)
+*What this section covers. Diagram.*
 
 ## The chapters
 
-The wing reads in order, but each chapter stands alone.
+You can read these in order, but each one also stands on its own.
 
-1. **[Workflows vs agents](01-workflows-vs-agents)** — the core distinction, the
-   "augmented LLM" building block, the five workflow patterns, and the agent loop.
-   The most important chapter; start here.
-2. **[Tools and MCP](02-tools-and-mcp)** — how a model acts on the world: tool use
-   (function calling), designing good tools, and the Model Context Protocol that
-   standardizes the wiring.
-3. **[Memory for agents](03-memory-for-agents)** — short-term vs long-term;
-   semantic, episodic, and procedural memory; how memory is written and read; and
-   the current framework landscape.
-4. **[Context engineering](04-context-engineering)** — managing the context window
-   as a finite resource: context rot, compaction, note-taking, and sub-agents.
-5. **[Retrieval and RAG](05-retrieval-and-rag)** — the retrieval-augmented
-   generation pipeline, and when to reach for RAG versus fine-tuning, long context,
-   or agent memory.
-6. **[Evaluation and testing](06-evaluation-and-testing)** — how you know it works:
-   golden datasets, LLM-as-judge (and its biases), and trajectory versus end-state
-   scoring.
-7. **[Multi-agent systems](07-multi-agent-systems)** — orchestrator-and-workers, when
-   multiple agents genuinely help, when they just burn tokens, and how errors compound.
-8. **[Safety and best practices](08-safety-and-best-practices)** — the OWASP Top 10
-   for LLM applications, excessive agency, guardrails, and a consolidated checklist.
-9. **[MRAgent: reconstructive memory](09-mragent)** — the dedicated deep dive: the
-   Cue-Tag-Content graph, reconstruct-not-retrieve, and the efficiency numbers.
-10. **[Glossary](glossary)** — the terms in one place.
+0. **[Start here: what is an AI model?](00-what-is-an-llm)** — the ground floor: model,
+   token, prompt, and the three big limits to keep in mind. Read this first if you are
+   new.
+1. **[Workflows vs agents](01-workflows-vs-agents)** — the most important idea: how much
+   freedom to give the model, and the common patterns. Start here after the basics.
+2. **[Tools and MCP](02-tools-and-mcp)** — how a model does things in the real world,
+   and the standard "plug" (MCP) for hooking tools up.
+3. **[Memory](03-memory-for-agents)** — how a model remembers across chats: the kinds of
+   memory, and how it gets saved and recalled.
+4. **[Context](04-context-engineering)** — the model can only read so much at once. This
+   is how you keep what it reads short and useful.
+5. **[Retrieval and RAG](05-retrieval-and-rag)** — how you feed a model the right facts
+   so it does not have to guess, and when to use this versus other options.
+6. **[Testing](06-evaluation-and-testing)** — how you know it actually works, and why you
+   should not fully trust an AI to grade another AI.
+7. **[Many agents at once](07-multi-agent-systems)** — when using several agents helps,
+   when it just wastes money, and how small mistakes pile up.
+8. **[Safety and good habits](08-safety-and-best-practices)** — the main ways these
+   systems get attacked or go wrong, and a plain checklist.
+9. **[MRAgent: a closer look](09-mragent)** — a 2026 research idea for AI memory, with an
+   honest read on what holds up and what does not.
+10. **[Word list](glossary)** — the terms in one place.
 
-## The single most useful principle
+## The most useful rule
 
-FACT: Anthropic's guidance for building agents is to "find the simplest solution
-possible, and only increase complexity when needed," and to "add complexity only
-when it demonstrably improves outcomes." (Anthropic, *Building Effective Agents*.)
+FACT: the best-known advice for building these systems is to "find the simplest solution
+possible, and only increase complexity when needed." (Anthropic, *Building Effective
+Agents*.)
 
-Assessment: this is the thread running through the whole wing. A single well-prompted
-model call beats a workflow you do not need; a workflow beats an agent you cannot
-evaluate; one agent beats five that mostly talk to each other. Agency (letting the
-model decide its own steps) is a cost you pay in latency, tokens, and debuggability,
-not a feature you add for its own sake. Reach for it only when the steps genuinely
-cannot be predicted in advance.
+Assessment: this rule runs through the whole section. A plain model call beats a fancy
+setup you do not need. One agent beats five that mostly talk to each other. Giving the
+model more freedom costs more money, more waiting, and makes problems harder to find. So
+add freedom only when you truly need it.

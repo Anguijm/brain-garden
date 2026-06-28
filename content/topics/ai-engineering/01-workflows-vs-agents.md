@@ -10,114 +10,101 @@ created: 2026-06-28
 
 # Chapter 1 — Workflows vs agents
 
-The first decision in any LLM system is how much freedom to give the model. This
-chapter draws the line between a **workflow** (the model runs on rails you laid down)
-and an **agent** (the model lays its own rails), introduces the building block both
-are made of, and shows the handful of patterns that cover most real systems.
+The first choice you make is simple to say: how much freedom do you give the model? You
+can keep it on a track you built, or you can let it find its own way. This chapter
+explains both, and shows the common shapes most real systems use.
 
-## The umbrella term and the two categories
+## Two kinds: workflow and agent
 
-FACT: Anthropic uses "agentic systems" as the umbrella term and splits it into two
-architectural categories. Workflows are "systems where LLMs and tools are
-orchestrated through predefined code paths." Agents are "systems where LLMs
-dynamically direct their own processes and tool usage, maintaining control over how
-they accomplish tasks." (Anthropic, *Building Effective Agents*; the same definitions
-are echoed in the LangGraph documentation.)
+There are two main ways to build with a model.
 
-The practical difference is who decides the order of steps. In a workflow, you do, in
-code, ahead of time. In an agent, the model does, at runtime, based on what it finds.
+FACT: in a **workflow**, the model and its tools follow steps you wrote ahead of time,
+in code. In an **agent**, the model decides its own steps as it goes. (Anthropic,
+*Building Effective Agents*; the same split shows up in the LangGraph docs.)
 
-![Diagram: a spectrum from a single LLM call, to a workflow (LLM plus tools on predefined paths), to an agent (LLM directs its own steps), with an arrow from predictable-and-cheap to flexible-and-costly](img/spectrum.png)
-*From a single call to an agent: more autonomy means more cost. Diagram.*
+The real difference is who picks the order of steps. In a workflow, you do, before it
+ever runs. In an agent, the model does, while it runs, based on what it finds.
+
+![Diagram: a line from a single model call, to a workflow (set steps you wrote), to an agent (the model picks its own steps), with a note that more freedom means more cost](img/spectrum.png)
+*From one call to an agent: more freedom means more cost. Diagram.*
 
 ## Start simple
 
-FACT: Anthropic's headline advice is to "find the simplest solution possible, and
-only increase complexity when needed." Workflows give "predictability and consistency
-for well-defined tasks," while agents are "the better option when flexibility and
-model-driven decision-making are needed at scale," at the price of higher latency and
-cost. (Anthropic.)
+This is the most important habit in the whole section.
 
-Assessment: the right default is a single LLM call with good retrieval and a few
-in-context examples. Move to a workflow only when the task cleanly decomposes into
-fixed steps. Move to an agent only when the steps genuinely cannot be known in
-advance. Each step up the ladder buys flexibility and costs you tokens, latency, and
-the ability to test the thing.
-
-FACT: frameworks (LangGraph, Amazon Bedrock AgentCore, Rivet, Vellum) make it easy
-to start but "add layers of abstraction that can obscure the underlying prompts and
-responses, making them harder to debug." Anthropic recommends starting with the LLM
-APIs directly and adding a framework only once you understand the code underneath.
+FACT: the standard advice is to "find the simplest solution possible, and only increase
+complexity when needed." Workflows are steady and easy to predict for clear tasks.
+Agents are better when the work needs flexibility, but they cost more and run slower.
 (Anthropic.)
 
-## The building block: the augmented LLM
+Assessment: a good default is a single model call, maybe with a search step and a couple
+of examples. Move up to a workflow only when the task breaks into a few set steps. Move
+up to an agent only when you truly cannot know the steps ahead of time. Each step up
+buys flexibility and costs you money, speed, and the ability to test the thing.
 
-FACT: the base unit of every agentic system is the "augmented LLM," a model enhanced
-with three things: **retrieval** (it generates its own search queries), **tools** (it
-selects and calls them), and **memory** (it decides what to retain). The model uses
-these actively rather than having them bolted on passively. (Anthropic.) LangGraph
-realizes the same idea concretely as structured outputs, tool calling, and short-term
-memory.
+FACT: ready-made frameworks (such as LangGraph or Rivet) make it easy to start, but they
+add extra layers that hide what the model is really doing, which makes problems harder to
+find. The advice is to start with the plain model and add a framework only once you
+understand what is underneath. (Anthropic.)
 
-Everything else in this wing is an elaboration of those three augmentations.
+## The building block: the model plus a few add-ons
 
-## The five workflow patterns
+Every workflow and agent is built from the same base part: a model with a few add-ons.
 
-FACT: most workflows are one of five patterns (Anthropic, corroborated by LangGraph
-and OpenAI, so treat them as cross-vendor consensus rather than one vendor's house
-style):
+FACT: that base part is a model that can do three extra things: **search** (it writes its
+own searches), **use tools** (it picks and runs them), and **keep notes** (it decides
+what to hold on to). (Anthropic.) The rest of this section is really just a closer look at
+those three.
 
-1. **Prompt chaining.** "Decomposes a task into a sequence of steps, where each LLM
-   call processes the output of the previous one." You can add a programmatic check
-   (a "gate") between steps. Use it when a task splits cleanly into fixed subtasks; it
-   trades latency for accuracy.
-2. **Routing.** "Classifies an input and directs it to a specialized followup task."
-   This lets each category get its own specialized prompt. Use it when inputs fall
-   into distinct kinds best handled separately (for example, refund requests versus
-   technical questions).
-3. **Parallelization.** Several LLM calls run at once and their outputs are combined
-   in code. Two flavors: *sectioning* breaks a task into independent subtasks run in
-   parallel, and *voting* runs the same task several times for higher confidence. Use
-   it for speed, or when multiple perspectives raise confidence.
-4. **Orchestrator-workers.** "A central LLM dynamically breaks down tasks, delegates
-   them to worker LLMs, and synthesizes their results." The key difference from
-   parallelization: the subtasks are not pre-defined, the orchestrator decides them
-   from the input. Use it for complex tasks where you cannot predict the subtasks in
-   advance, such as edits spread across many files.
-5. **Evaluator-optimizer.** "One LLM call generates a response while another provides
-   evaluation and feedback in a loop." Use it when you have clear evaluation criteria
-   and iterative refinement measurably helps, the machine equivalent of draft and
-   revise.
+## Five common workflow patterns
 
-Assessment: routing and prompt chaining cover a surprising amount of production work
-on their own. Orchestrator-workers is the pattern that shades into multi-agent
-systems (see [chapter 7](07-multi-agent-systems)); the only real difference is whether
-the workers are full agents.
+FACT: most workflows look like one of five shapes. These come from Anthropic and match
+what LangGraph and OpenAI describe, so they are widely agreed on, not one company's
+style.
+
+1. **Chain (do it in steps).** Break the task into a fixed line of steps. Each step takes
+   the last step's output. You can add a quick check between steps. Good when a task
+   splits cleanly into set parts.
+2. **Route (sort, then send).** First sort the request into a type, then send it to the
+   step built for that type. Good when requests fall into clear groups, like a refund
+   question versus a tech question.
+3. **Parallel (run at the same time).** Run several model calls at once and combine the
+   results. Two uses: split a task into separate parts done side by side, or run the same
+   task a few times and compare for a more confident answer.
+4. **Manager and helpers.** A main "manager" model breaks the job into smaller jobs,
+   hands them to helper models, and combines what they return. The difference from
+   "parallel" is that the manager decides the smaller jobs on the spot, instead of you
+   setting them in advance. Good for big, messy tasks, like changes spread across many
+   files.
+5. **Make and check.** One model writes a draft. A second model reviews it and gives
+   notes. They loop until it is good. Good when you can clearly say what "good" means.
+   It is the machine version of draft-and-revise.
+
+Assessment: "route" and "chain" alone handle a surprising amount of real work. "Manager
+and helpers" is the one that turns into a multi-agent system (see
+[chapter 7](07-multi-agent-systems)); the only real question there is whether the helpers
+are full agents.
 
 ## The agent loop
 
-When you do hand control to the model, what it does is run a loop.
+When you do give the model control, here is what it actually does: it runs a loop.
 
-FACT: Anthropic's one-line definition of an agent is an LLM "autonomously using tools
-in a loop." (Anthropic, *Effective Context Engineering*.) The loop begins from a
-command or discussion with a user, then the agent "plans and operates independently,
-potentially returning to the human for further information or judgement." Crucially,
-at each step it "must gain 'ground truth' from the environment (such as tool call
-results or code execution) to assess its progress." (Anthropic, *Building Effective
-Agents*.)
+FACT: the short definition of an agent is a model "using tools in a loop." It starts from
+your request, then plans and works on its own, and may come back to you for help. At each
+turn it checks real results from the world (like what a tool returned) to see how it is
+doing. (Anthropic, *Effective Context Engineering* and *Building Effective Agents*.)
 
-![Diagram: a three-node cycle, reason/plan to call tool(s) to observe results and back, repeating until done or stopped; stops on task done, max steps, or a human checkpoint](img/agent-loop.png)
+![Diagram: a three-step cycle, plan, then use a tool, then look at the result, and back to plan; it repeats until the task is done or it is stopped](img/agent-loop.png)
 *The agent loop. Diagram.*
 
-FACT: the loop needs **stopping conditions**. Agents "can pause for human feedback at
-checkpoints or when encountering blockers," and "you can typically use stopping
-conditions, such as a maximum number of iterations, to maintain control." Termination
-is usually completion of the task or a checkpoint. (Anthropic.)
+FACT: the loop needs **rules for when to stop**, such as "the task is done," "you hit a
+set number of tries," or "pause and ask a human." Without a stop rule, it can run too
+long. (Anthropic.)
 
-FACT: because errors and costs can compound across iterations, agents need "extensive
-testing in sandboxed environments, along with the appropriate guardrails." (Anthropic.)
-That discipline is the subject of [chapter 6](06-evaluation-and-testing) and
-[chapter 8](08-safety-and-best-practices).
+FACT: small mistakes can pile up over many turns, so agents need careful testing in a
+safe, walled-off setup, plus safety limits. (Anthropic.) That is what
+[chapter 6](06-evaluation-and-testing) and [chapter 8](08-safety-and-best-practices) are
+about.
 
 ## Sources
 
