@@ -13,7 +13,7 @@ below hits a different wall and answers it the same way.
 
 ## The thread
 
-- **[AI engineering: context engineering](../topics/ai-engineering/04-context-engineering)**
+- **[AI engineering: context engineering](../topics/ai-engineering/09-context-engineering)**
   — the ceiling is the **context window**. Context is "a finite resource with diminishing
   marginal returns," and a clean context beats a large one. The fix (compaction) bakes a
   full window down to a summary so you can keep going.

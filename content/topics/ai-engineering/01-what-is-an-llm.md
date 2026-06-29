@@ -4,6 +4,7 @@ series: ai-engineering
 chapter: 0
 title: "Start here: what is an AI model?"
 status: curated
+aliases: ["topics/ai-engineering/00-what-is-an-llm"]
 tags: [ai, ai-agents, llm, agent-engineering, beginner-friendly]
 created: 2026-06-29
 ---
@@ -43,7 +44,7 @@ Two things matter for you:
 - The model learned all of this **ahead of time**. It is not reading the live internet
   while it talks to you (unless it is given a search tool, which we cover later).
 - By default it does **not** remember your past chats. Each new chat starts fresh. We
-  come back to this in the [memory chapter](03-memory-for-agents).
+  come back to this in the [memory chapter](08-memory-for-agents).
 
 ## A few words you will keep seeing
 
@@ -71,24 +72,24 @@ you remember nothing else, remember these.
    guess is good. Sometimes it is wrong but the writing sounds just as confident.
    FACT: making up something false but believable is called a **hallucination**. This
    is why you check important answers against a real source. (More in the
-   [safety chapter](08-safety-and-best-practices).)
+   [safety chapter](13-safety-and-best-practices).)
 2. **It forgets between chats.** Start a new chat and it does not know what you said
    yesterday, unless you tell it again or the app stores it for you.
 3. **It can only read so much at once.** That is the context window from above. Hand it
    a giant pile of text and it starts to lose track of the middle. (More in the
-   [context chapter](04-context-engineering).)
+   [context chapter](09-context-engineering).)
 
 ## Why this matters for the rest of this section
 
 Once you see those limits, the rest of this section is easy to place. Each part is a
 way to give the model what it cannot do on its own:
 
-- **[Tools](02-tools-and-mcp)** let it *do things* (search the web, run code, look
+- **[Tools](07-tools-and-mcp)** let it *do things* (search the web, run code, look
   something up), instead of only writing.
-- **[Memory](03-memory-for-agents)** lets it *remember* across chats.
-- **[Context engineering](04-context-engineering)** keeps its "desk" tidy so it does
+- **[Memory](08-memory-for-agents)** lets it *remember* across chats.
+- **[Context engineering](09-context-engineering)** keeps its "desk" tidy so it does
   not lose track.
-- **[Retrieval](05-retrieval-and-rag)** feeds it the right facts so it does not have to
+- **[Retrieval](10-retrieval-and-rag)** feeds it the right facts so it does not have to
   guess from memory.
 
 Assessment: a useful way to read this whole section is "the model, plus help." The

@@ -4,17 +4,18 @@ series: ai-engineering
 chapter: 4
 title: Context engineering
 status: curated
+aliases: ["topics/ai-engineering/04-context-engineering"]
 tags: [ai, ai-agents, llm, agent-engineering, context-engineering, finite-resources]
 created: 2026-06-28
 ---
 
 # Context engineering
 
-The [foundation chapter](00-what-is-an-llm) gave the third big limit: a model can only
+The [foundation chapter](01-what-is-an-llm) gave the third big limit: a model can only
 read so much at once, and when you cram in too much, it loses track of the middle. That
 reading space is the context window. Context engineering is the skill of deciding what to
 put into that window on each turn, and what to leave out. It is the natural next step
-beyond [writing a single good prompt](10-how-to-prompt): not one prompt, but managing
+beyond [writing a single good prompt](02-how-to-prompt): not one prompt, but managing
 everything in the window, turn after turn, as a system runs.
 
 ## Why the window is precious
@@ -61,10 +62,10 @@ FACT: there is a standard toolkit for this, mostly from Anthropic:
   misses a beat.
 - **Note-taking.** The system writes notes to storage outside the window, then pulls them
   back when they are needed, a scratchpad it can return to. This is the short-term versus
-  long-term split from the [memory chapter](03-memory-for-agents).
+  long-term split from the [memory chapter](08-memory-for-agents).
 - **Helper agents.** Hand a focused job to a separate helper that works in its own clean
   window and returns only a short summary, so the main window stays uncluttered. The
-  [many-agents chapter](07-multi-agent-systems) covers this in depth.
+  [many-agents chapter](12-multi-agent-systems) covers this in depth.
 - **Load only when needed.** Instead of pouring everything in up front, keep small
   pointers, such as a file name or a saved search, and pull in the actual data only at the
   moment it is required. The trade-off is that fetching on the fly is slower than having
@@ -75,8 +76,8 @@ FACT: there is a standard toolkit for this, mostly from Anthropic:
 Assessment: more tokens is not better. The goal is the most useful information with the
 least clutter, because a clean window beats a full one. This matters most for agents that
 do a lot of searching, where old results and dead ends pile up as noise. The same idea
-drives [retrieval](05-retrieval-and-rag), which pulls in only the facts you need, and
-[splitting work across agents](07-multi-agent-systems), which gives each one its own clean
+drives [retrieval](10-retrieval-and-rag), which pulls in only the facts you need, and
+[splitting work across agents](12-multi-agent-systems), which gives each one its own clean
 window.
 
 ## Sources

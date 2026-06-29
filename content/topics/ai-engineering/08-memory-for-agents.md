@@ -4,13 +4,14 @@ series: ai-engineering
 chapter: 3
 title: Memory for agents
 status: curated
+aliases: ["topics/ai-engineering/03-memory-for-agents"]
 tags: [ai, ai-agents, llm, agent-engineering, memory]
 created: 2026-06-28
 ---
 
 # Memory
 
-The [foundation chapter](00-what-is-an-llm) pointed out a hard limit: a model forgets
+The [foundation chapter](01-what-is-an-llm) pointed out a hard limit: a model forgets
 everything between chats. On its own, all a model "knows" in a conversation is whatever
 you have placed in front of it right now. Memory is the engineering that works around
 this. It lets a system hold on to facts, past conversations, and learned habits from one
@@ -27,8 +28,8 @@ survives across sessions, and can be pulled back in whenever it is needed. (Lang
 documentation.)
 
 Assessment: in practice, short-term memory *is* the context window, the limited space a
-model can read at once that we met in the [foundation chapter](00-what-is-an-llm) and
-return to in the [context chapter](04-context-engineering). Long-term memory lives in
+model can read at once that we met in the [foundation chapter](01-what-is-an-llm) and
+return to in the [context chapter](09-context-engineering). Long-term memory lives in
 outside storage, most often a vector database, which is a store that finds saved items by
 their meaning rather than by exact wording. When the system needs an old fact, it looks it
 up there and drops it back into the context window.
@@ -46,7 +47,7 @@ psychologists describe human memory (LangChain; LangMem):
 - **Episodic memory** holds past events: specific things that happened before. A common
   use is to save examples of earlier conversations that went well and replay them later
   as a guide, which is the same "show it an example" idea from the
-  [prompting chapter](10-how-to-prompt).
+  [prompting chapter](02-how-to-prompt).
 - **Procedural memory** holds know-how: the rules and habits for doing a task. It often
   lives right in the model's instructions and gets updated as the system learns a better
   way to work.
@@ -96,7 +97,7 @@ Assessment: the simplest option is a store that only matches by meaning. It is e
 up but weak at questions that connect many facts or depend on timing. The time-aware and
 connected stores handle those better, but they cost more to build and maintain. Which one
 you need depends on your questions: plain recall, or "what changed, and when?" The
-[MRAgent chapter](09-mragent) covers a newer fourth idea, a memory the model actively
+[MRAgent chapter](14-mragent) covers a newer fourth idea, a memory the model actively
 rebuilds as it reasons, rather than one it just looks things up in.
 
 ## Sources

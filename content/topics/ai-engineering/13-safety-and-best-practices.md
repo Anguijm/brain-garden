@@ -4,6 +4,7 @@ series: ai-engineering
 chapter: 8
 title: Safety and best practices
 status: curated
+aliases: ["topics/ai-engineering/08-safety-and-best-practices"]
 tags: [ai, ai-agents, llm, agent-engineering, safety, security, verification, using-ai-well, feedback-loops]
 created: 2026-06-28
 ---
@@ -23,7 +24,7 @@ for AI apps. In plain terms, the ten are: tricking the model with sneaky input; 
 private information; weak or tampered-with building blocks; poisoned training data;
 mishandling the model's output; giving the model too much power; leaking its hidden
 instructions; weaknesses in the stored-meaning data from the
-[RAG chapter](05-retrieval-and-rag); confidently wrong information; and runaway resource
+[RAG chapter](10-retrieval-and-rag); confidently wrong information; and runaway resource
 use. (OWASP GenAI Security Project, 2025.)
 
 Four of these hit agent builders hardest.
@@ -53,17 +54,17 @@ serious or hard to undo.
 **Runaway cost.** FACT: with no limits, an agent can burn huge amounts of money and grind
 systems to a halt, sometimes called a "denial of wallet" attack. (OWASP 2025.) The
 clearest example is the runaway team of agents from the
-[many-agents chapter](07-multi-agent-systems). Assessment: cap it. Set budgets on tokens
+[many-agents chapter](12-multi-agent-systems). Assessment: cap it. Set budgets on tokens
 and steps, limit how many helpers can spawn, and add time limits.
 
 ## Confidently wrong
 
 FACT: OWASP also lists plain wrong information as a core risk for anything that has to be
-accurate. (OWASP 2025.) Assessment: as the [foundation chapter](00-what-is-an-llm)
+accurate. (OWASP 2025.) Assessment: as the [foundation chapter](01-what-is-an-llm)
 warned, a model can be confidently wrong. The fixes are the ones from earlier chapters:
-feed it real sources through [retrieval](05-retrieval-and-rag), require it to cite them,
+feed it real sources through [retrieval](10-retrieval-and-rag), require it to cite them,
 and check those citations. That is exactly why the grader in the
-[testing chapter](06-evaluation-and-testing) scores the facts and the sources separately.
+[testing chapter](11-evaluation-and-testing) scores the facts and the sources separately.
 
 ## Guardrails and humans in the loop
 
@@ -73,31 +74,31 @@ simply an automatic check. On the way in, you block sneaky input, private person
 On the way out, you filter the response, confirm it is on-topic and backed by its sources,
 and make sure it fits the form you expected. A strong move is a self-correction loop: when
 a response fails a check, send it back to be fixed instead of returning it, which is the
-"make and check" pattern from the [workflows chapter](01-workflows-vs-agents). And keep a
+"make and check" pattern from the [workflows chapter](06-workflows-vs-agents). And keep a
 human approving anything high-stakes or hard to reverse.
 
 FACT: for keeping watch, Anthropic tracks how its agents behave without reading the
 contents of private conversations, and builds systems that can pick up where an agent left
 off instead of starting over. (Anthropic.) Assessment: all of this rests on "tracing,"
 the recording of what the agent did at each step that we met in the
-[testing chapter](06-evaluation-and-testing). You cannot debug what you did not record.
+[testing chapter](11-evaluation-and-testing). You cannot debug what you did not record.
 
 ## A checklist for the whole section
 
 Assessment: the habits that hold up across every chapter:
 
 1. **Start simple.** A plain model call beats a workflow you do not need; a workflow beats
-   an agent you cannot test ([workflows](01-workflows-vs-agents)).
+   an agent you cannot test ([workflows](06-workflows-vs-agents)).
 2. **Design tools with care.** Clear names, sharp "use this when" limits, inputs that are
-   hard to get wrong, and short results ([tools](02-tools-and-mcp)).
+   hard to get wrong, and short results ([tools](07-tools-and-mcp)).
 3. **Keep the window clean.** Treat the context window as limited; summarize, take notes,
-   and use helper agents to keep it tidy ([context](04-context-engineering)).
+   and use helper agents to keep it tidy ([context](09-context-engineering)).
 4. **Ground your facts.** Use retrieval for knowledge that changes or must be traced to a
-   source, and require citations ([RAG](05-retrieval-and-rag)).
+   source, and require citations ([RAG](10-retrieval-and-rag)).
 5. **Test all the time.** Keep a golden set, check your grader, and score both the answer
-   and the path ([testing](06-evaluation-and-testing)).
+   and the path ([testing](11-evaluation-and-testing)).
 6. **Keep chains short.** Errors pile up, so add checkpoints and verify the end result
-   ([many agents](07-multi-agent-systems)).
+   ([many agents](12-multi-agent-systems)).
 7. **Give the least power needed.** Minimize tools and permissions, treat all model output
    and outside content as untrusted, and gate serious actions on a human.
 8. **Cap what it can spend.** Budgets on tokens, steps, and helpers, plus time limits.

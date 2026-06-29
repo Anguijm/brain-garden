@@ -4,13 +4,14 @@ series: ai-engineering
 chapter: 2
 title: Tools and MCP
 status: curated
+aliases: ["topics/ai-engineering/02-tools-and-mcp"]
 tags: [ai, ai-agents, llm, agent-engineering, tools, mcp]
 created: 2026-06-28
 ---
 
 # Tools and MCP
 
-The [foundation chapter](00-what-is-an-llm) made one thing clear: a model on its own
+The [foundation chapter](01-what-is-an-llm) made one thing clear: a model on its own
 can only produce text. It can tell you how to send an email, but it cannot send one.
 Tools are what close that gap. This chapter explains how a model uses a tool, what
 makes a tool good, and a standard called MCP that lets any app plug into any tool.

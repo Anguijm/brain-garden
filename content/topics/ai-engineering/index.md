@@ -43,34 +43,34 @@ own.
 
 **Start with the basics**
 
-- **[What is an AI model?](00-what-is-an-llm)** — the ground floor: model, token, prompt,
+- **[What is an AI model?](01-what-is-an-llm)** — the ground floor: model, token, prompt,
   and the three big limits to keep in mind.
-- **[How to write a good prompt](10-how-to-prompt)** — the easiest way to get better
+- **[How to write a good prompt](02-how-to-prompt)** — the easiest way to get better
   answers, with no technical skill needed.
-- **["Thinking" and reasoning models](11-reasoning-models)** — what it means when a model
+- **["Thinking" and reasoning models](03-reasoning-models)** — what it means when a model
   works through a problem before answering, and when that is worth it.
-- **[Cost and speed](12-cost-and-speed)** — how you pay (by the token), and why long
+- **[Cost and speed](04-cost-and-speed)** — how you pay (by the token), and why long
   inputs cost more and run slower.
-- **[Pictures and voice](13-pictures-and-voice)** — models that can also read images and
+- **[Pictures and voice](05-pictures-and-voice)** — models that can also read images and
   handle sound, and where they fall short.
 
 **Then, building with models**
 
-- **[Workflows vs agents](01-workflows-vs-agents)** — the most important idea: how much
+- **[Workflows vs agents](06-workflows-vs-agents)** — the most important idea: how much
   freedom to give the model, and the common patterns.
-- **[Tools and MCP](02-tools-and-mcp)** — how a model does things in the real world, and
+- **[Tools and MCP](07-tools-and-mcp)** — how a model does things in the real world, and
   the standard "plug" for hooking tools up.
-- **[Memory](03-memory-for-agents)** — how a model remembers across chats.
-- **[Context](04-context-engineering)** — the model can only read so much at once; this is
+- **[Memory](08-memory-for-agents)** — how a model remembers across chats.
+- **[Context](09-context-engineering)** — the model can only read so much at once; this is
   how you keep what it reads short and useful.
-- **[Retrieval and RAG](05-retrieval-and-rag)** — feeding a model the right facts so it
+- **[Retrieval and RAG](10-retrieval-and-rag)** — feeding a model the right facts so it
   does not have to guess.
-- **[Testing](06-evaluation-and-testing)** — how you know it actually works.
-- **[Many agents at once](07-multi-agent-systems)** — when several agents help, and when
+- **[Testing](11-evaluation-and-testing)** — how you know it actually works.
+- **[Many agents at once](12-multi-agent-systems)** — when several agents help, and when
   they just waste money.
-- **[Safety and good habits](08-safety-and-best-practices)** — the main ways these systems
+- **[Safety and good habits](13-safety-and-best-practices)** — the main ways these systems
   go wrong, and a plain checklist.
-- **[MRAgent: a closer look](09-mragent)** — a 2026 research idea for AI memory, with an
+- **[MRAgent: a closer look](14-mragent)** — a 2026 research idea for AI memory, with an
   honest read on what holds up.
 
 **Reference**

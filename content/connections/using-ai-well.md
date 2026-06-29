@@ -14,10 +14,10 @@ drafting assistant, never as an oracle, and verify before you rely.
 
 ## The thread
 
-- **[AI engineering: evaluation and testing](../topics/ai-engineering/06-evaluation-and-testing)**
+- **[AI engineering: evaluation and testing](../topics/ai-engineering/11-evaluation-and-testing)**
   — how you actually know a model's output is good: golden datasets, LLM-as-judge (and
   its biases), and why you must validate the judge before trusting it.
-- **[AI engineering: safety and best practices](../topics/ai-engineering/08-safety-and-best-practices)**
+- **[AI engineering: safety and best practices](../topics/ai-engineering/13-safety-and-best-practices)**
   — overconfidence and hallucination as named failure modes (treat model output as
   untrusted input), and the evaluator-optimizer loop that makes a model critique itself.
 - **[Defense BD: using Gen AI without fooling yourself](../topics/business-development/defense-bd-playbook/10-gen-ai-in-bd)**

@@ -4,13 +4,14 @@ series: ai-engineering
 chapter: 9
 title: "MRAgent: reconstructive memory"
 status: curated
+aliases: ["topics/ai-engineering/09-mragent"]
 tags: [ai, ai-agents, llm, agent-engineering, memory, mragent, verification, constraint-solving]
 created: 2026-06-28
 ---
 
 # MRAgent: reconstructive memory
 
-The [memory chapter](03-memory-for-agents) ended by pointing at a newer idea, and this is
+The [memory chapter](08-memory-for-agents) ended by pointing at a newer idea, and this is
 it. MRAgent is a 2026 research system for giving an AI agent memory. Its whole pitch is in
 the title of the paper behind it: memory is reconstructed, not retrieved. Most memory
 systems look up a fixed set of saved notes and then think about them. MRAgent does it in
@@ -28,7 +29,7 @@ checked against the full paper.)
 Assessment: getting the name right matters, because the wrong one is everywhere. Many
 AI-written summaries claim MR stands for "Memory Reasoning Architecture for LLM Agents."
 That phrase is nowhere in the paper. It is a made-up name that got copied around, a live
-example of the confidently-wrong problem from the [safety chapter](08-safety-and-best-practices).
+example of the confidently-wrong problem from the [safety chapter](13-safety-and-best-practices).
 The real name is Reconstructive Memory Agent.
 
 FACT: the authors are Shuo Ji, Yibo Li, and Bryan Hooi at the National University of
@@ -110,7 +111,7 @@ called LongMemEval. The lowest value in each row is in bold.
 A couple of terms first. A "test set" is a standard batch of questions everyone runs
 against. The other systems in the table, like Mem0 and LangMem, are the "rivals" MRAgent
 was compared with. "Tokens" are the text chunks you pay for, from the
-[cost chapter](12-cost-and-speed).
+[cost chapter](04-cost-and-speed).
 
 FACT: MRAgent used about 118,000 tokens per question, against LangMem's 3.26 million. That
 is the famous "27 times fewer tokens" result. (arXiv:2606.06036.)
@@ -139,7 +140,7 @@ lookup. Second, the memory only grows. It never updates, merges, or forgets, so 
 getting bigger and needs more storage the longer it runs. (arXiv:2606.06036, Section 7.)
 
 Assessment: this lines MRAgent up against the other tools from the
-[memory chapter](03-memory-for-agents). Mem0 and LangMem are smart about *writing* memory,
+[memory chapter](08-memory-for-agents). Mem0 and LangMem are smart about *writing* memory,
 cleaning it up as they go. Zep is smart about *time*, marking old facts as expired.
 MRAgent is smart about *reading*, thinking hard at lookup time. Spending its effort at read
 time is why it uses so few tokens, but the trade is a store that never forgets.
@@ -187,7 +188,7 @@ Zep.
 ## How it compares, and when to use it
 
 Assessment: MRAgent is one of four shapes of agent memory from the
-[memory chapter](03-memory-for-agents), and the right pick depends on your main constraint.
+[memory chapter](08-memory-for-agents), and the right pick depends on your main constraint.
 
 ![Diagram: three cards comparing MRAgent (rebuild: best for hard multi-step questions over a fixed history at low token cost; weak on speed and changing facts), Mem0 (consolidate: best for speed and changing facts; weaker on multi-step reasoning), and Zep (track time: best for facts that change over time; costs more to set up)](img/mem-compare.png)
 *Which memory approach fits which job. Diagram.*

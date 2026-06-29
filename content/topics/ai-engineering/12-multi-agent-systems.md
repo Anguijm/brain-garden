@@ -4,13 +4,14 @@ series: ai-engineering
 chapter: 7
 title: Multi-agent systems
 status: curated
+aliases: ["topics/ai-engineering/07-multi-agent-systems"]
 tags: [ai, ai-agents, llm, agent-engineering, multi-agent, finite-resources]
 created: 2026-06-28
 ---
 
 # Many agents at once
 
-The [workflows chapter](01-workflows-vs-agents) introduced a pattern called "manager and
+The [workflows chapter](06-workflows-vs-agents) introduced a pattern called "manager and
 helpers," where a lead breaks a job into smaller jobs and hands them out. A multi-agent
 system is that idea taken all the way: several full agents working on one problem at once,
 with a lead agent that splits the work and passes the pieces to helper agents. It is the
@@ -39,7 +40,7 @@ questions by up to 90 percent. (Anthropic.)
 
 Assessment: the win comes from two things. The work is wide enough to split, so the
 helpers cover ground in parallel. And each helper gets its own clean window and one clear
-job, which is the tidy-window idea from the [context chapter](04-context-engineering).
+job, which is the tidy-window idea from the [context chapter](09-context-engineering).
 
 ## When they just burn money
 
@@ -82,7 +83,7 @@ FACT: Anthropic's reported lessons:
 Assessment: the hidden tax is coordination. The lead has to carve the work cleanly and
 stitch the results back together, and doing that badly leaves a team performing worse than
 one good agent would have. The honest default, the same one from the
-[workflows chapter](01-workflows-vs-agents), is to reach for a team only when the work is
+[workflows chapter](06-workflows-vs-agents), is to reach for a team only when the work is
 genuinely wide and the payoff is worth roughly fifteen times the cost.
 
 ## Sources

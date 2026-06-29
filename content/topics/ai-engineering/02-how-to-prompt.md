@@ -3,6 +3,7 @@ type: lesson
 series: ai-engineering
 title: How to write a good prompt
 status: curated
+aliases: ["topics/ai-engineering/10-how-to-prompt"]
 tags: [ai, ai-agents, llm, agent-engineering, beginner-friendly]
 created: 2026-06-29
 ---
@@ -54,12 +55,12 @@ nudges the wording and the depth in a useful direction.
 
 If a request is large, split it. Ask for an outline first, then ask it to fill in each
 part. Smaller steps are easier for the model to get right, and easier for you to check.
-This is the same idea as the "chain" workflow in [chapter on workflows](01-workflows-vs-agents).
+This is the same idea as the "chain" workflow in [chapter on workflows](06-workflows-vs-agents).
 
 ## Tell it what to do when unsure
 
 The model would rather give a confident wrong answer than admit it does not know (see
-[the foundation chapter](00-what-is-an-llm) on this). You can push back on that. Add a
+[the foundation chapter](01-what-is-an-llm) on this). You can push back on that. Add a
 line like "If you are not sure, say so instead of guessing." It will not catch every
 mistake, but it helps.
 

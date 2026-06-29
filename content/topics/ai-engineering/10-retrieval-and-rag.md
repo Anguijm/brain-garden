@@ -4,13 +4,14 @@ series: ai-engineering
 chapter: 5
 title: Retrieval and RAG
 status: curated
+aliases: ["topics/ai-engineering/05-retrieval-and-rag"]
 tags: [ai, ai-agents, llm, agent-engineering, rag, retrieval]
 created: 2026-06-28
 ---
 
 # Retrieval and RAG
 
-The [foundation chapter](00-what-is-an-llm) explained that a model answers from what it
+The [foundation chapter](01-what-is-an-llm) explained that a model answers from what it
 learned during training, and that it sometimes makes things up. Retrieval tackles both
 problems by handing the model the actual facts before it answers. The common name for
 this is RAG, short for retrieval-augmented generation: you store your documents, find the
@@ -26,7 +27,7 @@ guides.)
 In the setup phase, you prepare your documents. You split them into small pieces called
 chunks, and for each chunk you create an embedding, which is a list of numbers that
 captures what the chunk means. You store those embeddings in a vector database, the
-meaning-based store from the [memory chapter](03-memory-for-agents).
+meaning-based store from the [memory chapter](08-memory-for-agents).
 
 In the answer phase, you turn the incoming question into an embedding as well, find the
 chunks whose meaning sits closest to it, and place the best few into the context window
@@ -66,7 +67,7 @@ Assessment: the usual failures, and their fixes:
 - **Stale data.** If the documents change and you do not rebuild their embeddings, the
   system keeps answering, confidently, from the old version.
 - **Too much stuffed in.** Dumping in many chunks brings back the context rot from the
-  [context chapter](04-context-engineering). A tight, well-ranked handful beats a big pile.
+  [context chapter](09-context-engineering). A tight, well-ranked handful beats a big pile.
 - **No sourcing.** If you do not make the model cite where each fact came from, it can
   still blend correct chunks into a partly made-up answer.
 
@@ -83,7 +84,7 @@ plain version of the decision, which is judgment rather than hard fact:
 - **Use a long context** (just paste the whole document into the window) for a quick
   one-off, but it costs far more at scale and still suffers context rot, so it is no
   substitute for real retrieval.
-- **Use memory** (from the [memory chapter](03-memory-for-agents)) for facts that are
+- **Use memory** (from the [memory chapter](08-memory-for-agents)) for facts that are
   personal and shift over time, such as a user's preferences, rather than a fixed library.
 
 Assessment: in practice these mix. Most real systems use RAG for facts, a little

@@ -3,6 +3,7 @@ type: lesson
 series: ai-engineering
 title: Pictures and voice (multimodal)
 status: curated
+aliases: ["topics/ai-engineering/13-pictures-and-voice"]
 tags: [ai, ai-agents, llm, agent-engineering, beginner-friendly]
 created: 2026-06-29
 ---
@@ -40,7 +41,7 @@ speech.
 
 ## Where it still falls short
 
-Assessment: the same limits from [the foundation chapter](00-what-is-an-llm) still apply,
+Assessment: the same limits from [the foundation chapter](01-what-is-an-llm) still apply,
 and pictures add a few of their own.
 
 - **It can still be wrong.** A model can misread a blurry photo or a messy chart with the
@@ -49,7 +50,7 @@ and pictures add a few of their own.
   perfectly, or give exact measurements from an image.
 - **Privacy matters more.** A photo can hold faces, addresses, screens, or documents you
   did not mean to share. Be careful what you upload, and keep
-  [the safety chapter](08-safety-and-best-practices) in mind.
+  [the safety chapter](13-safety-and-best-practices) in mind.
 
 Assessment: multimodal is genuinely useful for reading and explaining what is in an
 image, as long as you treat its answers the way you treat any other answer, helpful, fast,

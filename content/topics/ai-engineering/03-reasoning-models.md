@@ -3,6 +3,7 @@ type: lesson
 series: ai-engineering
 title: '"Thinking" and reasoning models'
 status: curated
+aliases: ["topics/ai-engineering/11-reasoning-models"]
 tags: [ai, ai-agents, llm, agent-engineering, beginner-friendly]
 created: 2026-06-29
 ---
@@ -15,7 +16,7 @@ means, when it helps, and what it costs, in plain terms.
 
 ## What "thinking" actually means
 
-Remember the basic trick from [the foundation chapter](00-what-is-an-llm): a model
+Remember the basic trick from [the foundation chapter](01-what-is-an-llm): a model
 guesses the next word, over and over. A reasoning model does the same thing, but first it
 writes out a private chain of steps for itself, like scratch work on paper, and only then
 gives you the final answer.

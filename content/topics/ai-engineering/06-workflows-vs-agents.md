@@ -4,6 +4,7 @@ series: ai-engineering
 chapter: 1
 title: Workflows vs agents
 status: curated
+aliases: ["topics/ai-engineering/01-workflows-vs-agents"]
 tags: [ai, ai-agents, llm, agent-engineering, workflows]
 created: 2026-06-28
 ---
@@ -82,7 +83,7 @@ style.
 
 Assessment: "route" and "chain" alone handle a surprising amount of real work. "Manager
 and helpers" is the one that turns into a multi-agent system (see
-[chapter 7](07-multi-agent-systems)); the only real question there is whether the helpers
+[chapter 7](12-multi-agent-systems)); the only real question there is whether the helpers
 are full agents.
 
 ## The agent loop
@@ -103,7 +104,7 @@ long. (Anthropic.)
 
 FACT: small mistakes can pile up over many turns, so agents need careful testing in a
 safe, walled-off setup, plus safety limits. (Anthropic.) That is what
-[chapter 6](06-evaluation-and-testing) and [chapter 8](08-safety-and-best-practices) are
+[chapter 6](11-evaluation-and-testing) and [chapter 8](13-safety-and-best-practices) are
 about.
 
 ## Sources
