@@ -110,7 +110,7 @@ called LongMemEval. The lowest value in each row is in bold.
 A couple of terms first. A "test set" is a standard batch of questions everyone runs
 against. The other systems in the table, like Mem0 and LangMem, are the "rivals" MRAgent
 was compared with. "Tokens" are the text chunks you pay for, from the
-[cost chapter](03-cost-and-speed).
+[cost chapter](12-cost-and-speed).
 
 FACT: MRAgent used about 118,000 tokens per question, against LangMem's 3.26 million. That
 is the famous "27 times fewer tokens" result. (arXiv:2606.06036.)
