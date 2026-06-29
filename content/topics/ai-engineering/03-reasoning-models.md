@@ -1,6 +1,7 @@
 ---
 type: lesson
 series: ai-engineering
+chapter: 3
 title: '"Thinking" and reasoning models'
 status: curated
 aliases: ["topics/ai-engineering/11-reasoning-models"]
@@ -10,48 +11,51 @@ created: 2026-06-29
 
 # "Thinking" and reasoning models
 
-Some models can stop and work through a problem before they answer. People call these
-"reasoning models," or say the model is "thinking." This chapter explains what that
-means, when it helps, and what it costs, in plain terms.
+Some models can pause and work through a problem before they answer, and people call these
+"reasoning models," or describe the model as "thinking." This chapter explains what that
+actually means, when it earns its keep, and what it costs, all in plain terms.
 
 ## What "thinking" actually means
 
-Remember the basic trick from [the foundation chapter](01-what-is-an-llm): a model
-guesses the next word, over and over. A reasoning model does the same thing, but first it
-writes out a private chain of steps for itself, like scratch work on paper, and only then
-gives you the final answer.
+Recall the basic trick from the [foundation chapter](01-what-is-an-llm): a model guesses
+the next word, over and over. A reasoning model does exactly the same thing, except that it
+first writes out a private chain of steps for itself, much like scratch work on paper, and
+only then hands you the final answer.
 
-FACT: this extra step is often called "extended thinking" or "chain of thought." The
-model reasons through the problem step by step before responding, which tends to improve
-answers on harder tasks. (Anthropic, *Extended thinking*.)
+FACT: this extra step is usually called "extended thinking," or "chain of thought." Because
+the model reasons through the problem one step at a time before responding, its answers tend
+to improve on the harder tasks. (Anthropic, *Extended thinking*.)
 
-You can get a light version of this from any model just by asking, "think step by step
-before you answer." Reasoning models build that habit in and do a lot more of it.
+You can get a lighter version of the same effect from almost any model simply by asking it
+to "think step by step before you answer." Reasoning models just build that habit in and do
+a great deal more of it.
 
 ## When it helps
 
-Thinking pays off when a problem has several steps or needs careful logic. Good examples
-are math word problems, puzzles, planning, debugging code, or any question where one
-wrong step early ruins the answer. The model catches more of its own mistakes when it
-works them out instead of blurting the first guess.
+Thinking pays off when a problem has several moving parts or demands careful logic. Good
+examples include math word problems, puzzles, planning a sequence of actions, and debugging
+code, essentially any question where one wrong step early on ruins everything that follows.
+The model catches far more of its own mistakes when it works them out deliberately than when
+it blurts out the first guess.
 
 ## When it is overkill
 
-For simple tasks, thinking is wasted effort. "What is the capital of France?" or "rewrite
-this sentence" does not need a chain of reasoning. Using a reasoning model there just
-makes you wait longer and pay more for the same answer.
+For simple tasks, all that deliberation is wasted effort. A question like "what is the
+capital of France?" or a request to "rewrite this sentence" needs no chain of reasoning, and
+using a reasoning model there only makes you wait longer and pay more for the very same
+answer.
 
 ## What it costs
 
-The thinking is not free. FACT: the model writes out those reasoning steps as text, and
-that text counts as tokens you pay for, even though you may not see all of it. (Anthropic,
-*Extended thinking*.) So reasoning models are slower and cost more per answer than plain
-models.
+The thinking is not free. FACT: the model writes those reasoning steps out as text, and that
+text counts as tokens you pay for, even though you may never see all of it. (Anthropic,
+*Extended thinking*.) As a result, reasoning models run slower and cost more per answer than
+plain ones.
 
 Assessment: the simple rule is to match the tool to the job. Reach for a reasoning model
-when the problem is genuinely hard and a wrong answer is costly. Use a plain, faster model
-for everyday questions. This is the same "start simple" habit that runs through the whole
-section.
+when the problem is genuinely hard and a wrong answer would be costly, and fall back to a
+plain, faster model for everyday questions. This is the same "start simple" habit that runs
+through the whole section.
 
 ## Sources
 
