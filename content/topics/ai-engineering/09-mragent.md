@@ -8,253 +8,217 @@ tags: [ai, ai-agents, llm, agent-engineering, memory, mragent, verification, con
 created: 2026-06-28
 ---
 
-# Chapter 9 — MRAgent: reconstructive memory
+# MRAgent: reconstructive memory
 
-MRAgent is a 2026 research framework for agent memory whose central claim is in the
-title of its paper: *memory is reconstructed, not retrieved*. Instead of looking up a
-fixed set of memory chunks and then reasoning over them, MRAgent reasons *while* it
-walks an associative graph, deciding where to go next based on what it has found so
-far. This chapter is the dedicated deep dive promised in [the memory
-chapter](03-memory-for-agents): what the name means, how it works, the efficiency
-numbers, the limits, and an honest read on what actually holds up versus what is only
-claimed.
+The [memory chapter](03-memory-for-agents) ended by pointing at a newer idea, and this is
+it. MRAgent is a 2026 research system for giving an AI agent memory. Its whole pitch is in
+the title of the paper behind it: memory is reconstructed, not retrieved. Most memory
+systems look up a fixed set of saved notes and then think about them. MRAgent does it in
+the other order: it thinks as it goes, stepping through a web of linked notes and deciding
+where to look next based on what it has found so far. This chapter explains what the name
+means, how it works, what the numbers really show, and an honest read on what holds up
+versus what is just hype.
 
-## What it is, and what the name means
+## What it is, and the name to get right
 
-FACT: the framework is named **MRAgent**, introduced in the paper as "a framework that
-combines an associative memory graph with an active reconstruction mechanism." The
-abbreviation `MR` stands for **Reconstructive Memory**: the paper's Section 4 is titled
-"MRAgent: Reconstructive Memory Agent," and its conclusion calls it "a reconstructive
-memory agent." (arXiv:2606.06036, *Memory is Reconstructed, Not Retrieved: Graph
-Memory for LLM Agents*, verified against the arXiv full text.)
+FACT: the system is called MRAgent, and "MR" stands for "Reconstructive Memory." The
+paper's own section title spells it out: "Reconstructive Memory Agent." (arXiv:2606.06036,
+checked against the full paper.)
 
-A caution worth stating plainly, because the wrong name is everywhere. Assessment:
-several AI-generated summaries claim `MR` stands for "Memory Reasoning Architecture for
-LLM Agents." That phrase does not appear anywhere in the paper; it is a recurring
-machine-summary fabrication. The correct expansion is **Reconstructive Memory Agent**.
-This is itself a small lesson in the [hallucination problem](08-safety-and-best-practices):
-a confident, widely repeated, and simply false claim.
+Assessment: getting the name right matters, because the wrong one is everywhere. Many
+AI-written summaries claim MR stands for "Memory Reasoning Architecture for LLM Agents."
+That phrase is nowhere in the paper. It is a made-up name that got copied around, a live
+example of the confidently-wrong problem from the [safety chapter](08-safety-and-best-practices).
+The real name is Reconstructive Memory Agent.
 
-FACT: the authors are **Shuo Ji, Yibo Li, and Bryan Hooi** at the National University
-of Singapore; the paper was submitted on 4 June 2026. The code is at
-`github.com/Ji-shuo/MRAgent` (not to be confused with an unrelated biomedical `MRAgent`
-tool for Mendelian-randomization analysis, published in *Briefings in Bioinformatics*).
+FACT: the authors are Shuo Ji, Yibo Li, and Bryan Hooi at the National University of
+Singapore, and the paper went up on 4 June 2026. The code is at github.com/Ji-shuo/MRAgent.
+(Do not confuse it with an unrelated medical tool that shares the name.)
 
 ## Where it was actually published
 
-I chased the venue down, because the sources conflict and it matters for how much
-weight to put on the results.
+I tracked down where this was published, because the sources disagree and it changes how
+much to trust the results.
 
-FACT: the authoritative record is OpenReview's structured metadata for the submission
-(forum `YPoHy6lgKP`), which reads `venue: "ICLR 2026 Workshop MemAgents"` and `venueid:
-ICLR.cc/2026/Workshop/MemAgent`, with a bibtex `booktitle` of "ICLR 2026 Workshop on
-Memory for LLM-Based Agentic Systems." That workshop is real and verifiable (its site
-is at sites.google.com/view/memagent-iclr26). So the paper is a **workshop paper at the
-ICLR 2026 MemAgents workshop**, posted there in March 2026.
+FACT: the most reliable record is the official listing on a review site called OpenReview,
+which says the paper appeared at the "ICLR 2026 MemAgents workshop," a real workshop with
+its own website. So it is a workshop paper, posted in March 2026. (OpenReview, forum
+YPoHy6lgKP.)
 
-FACT: the one conflicting signal is the arXiv "Comments" field, which the authors typed
-as "Accepted at ICML 2026." There is no structured record anywhere (no ICML OpenReview
-forum, no proceedings entry, no journal reference) that corroborates an ICML acceptance.
-Assessment: where a hand-typed arXiv note conflicts with the venue's own machine-set
-OpenReview metadata, the metadata wins; the ICML line is most likely an author error,
-an aspirational edit, or a separate submission not yet reflected anywhere I can check.
-Treat the venue as the ICLR MemAgents workshop and the ICML claim as unverified.
+FACT: the one conflicting clue is a note the authors typed onto the arXiv page that says
+"Accepted at ICML 2026." Nothing else backs that up: there is no official ICML record of
+it anywhere. Assessment: when an author's typed note clashes with the official listing,
+the official listing wins. The ICML line is most likely an error or an out-of-date note.
+Treat the venue as the ICLR workshop, and the ICML claim as unconfirmed.
 
-FACT: this matters because the OpenReview forum has **no public reviews, rebuttals, or
-meta-reviews at all** (the record returns an empty reply list). Assessment: a workshop
-is a lighter, often non-archival bar than a main conference, and here there is no
-visible peer-review signal in either direction. The honest consequence runs through the
-rest of this chapter: **every number below is author-reported and has not been
-independently peer-reviewed or reproduced.**
+FACT: this matters because the workshop listing shows no reviews at all, no expert comments
+for or against. Assessment: a workshop is a lower bar than a main conference, and "peer
+review," other experts checking the work before it is published, does not appear to have
+happened here in public. The honest upshot runs through the rest of this chapter: every
+number below comes from the authors themselves, and no outside group has checked it or
+repeated it.
 
-## The core idea: reconstruct, do not retrieve
+## The core idea: rebuild, do not just look up
 
-FACT: standard memory agents use a static "retrieve-then-reason" paradigm, which the
-paper argues "prevents them from dynamically adapting memory access to intermediate
-evidence discovered during inference." In that paradigm retrieval is "passive,
-selecting memory units as a fixed function of the query without reasoning over
-intermediate evidence." (arXiv:2606.06036.)
+FACT: most memory systems work in a fixed order. They look up a set of saved notes, then
+reason about them. The paper argues this is too rigid, because the system has already
+chosen what to fetch before it has thought about the question at all. (arXiv:2606.06036.)
 
-FACT: MRAgent instead makes memory access "an active, multi-step reconstruction
-process." It "integrates LLM reasoning directly into memory access, allowing the agent
-to iteratively explore and prune retrieval paths based on accumulated evidence."
-Intermediate findings are "transformed into new retrieval constraints, allowing the
-agent to recover evidence that is unreachable under passive policies." The design is
-motivated by cognitive neuroscience: human memory is reconstructive, an act of
-rebuilding, rather than a lookup. (arXiv:2606.06036.)
+FACT: MRAgent turns that into a back-and-forth. It reasons and looks things up at the same
+time, in steps, and each thing it finds shapes where it looks next. That lets it reach
+facts a one-shot lookup would miss. The name comes from how human memory works: we rebuild
+a memory from pieces, rather than pulling a finished file off a shelf. (arXiv:2606.06036.)
 
-## The structure: a Cue-Tag-Content graph
+## How the memory is stored: cues, tags, and content
 
-FACT: memory is stored as a **Cue-Tag-Content graph**, "where associative tags serve as
-semantic bridges connecting fine-grained cues to memory contents." A *cue* is a
-fine-grained keyword such as an entity or attribute; a *content* node is a specific
-memory item; and a *tag* summarizes the associative relation between them. These are
-linked as triplets (cue, tag, content). (arXiv:2606.06036.)
+FACT: the memory is a graph, which is just a web of points joined by links. It has three
+kinds of point. A *cue* is a small keyword, such as a name or a detail. A *content* point
+is an actual saved memory. A *tag* is the link in the middle that connects a cue to the
+content it belongs to. Everything is stored as these cue-tag-content triples.
+(arXiv:2606.06036.)
 
-![Diagram: three columns of nodes (cues, tags, content) linked as triplets; a highlighted green path traverses from a cue through an associative tag to a memory item, contrasted at the bottom with retrieve-then-reason versus reconstruct](img/cue-tag-content.png)
-*The Cue-Tag-Content graph, with one reconstruction path highlighted. Diagram.*
+![Diagram: three columns of points, cues on the left, tags in the middle, content on the right, joined by links; one path is highlighted to show the system stepping from a cue through a tag to a memory](img/cue-tag-content.png)
+*Memory as a web of cues, tags, and content, with one path through it highlighted. Diagram.*
 
-FACT: the graph also has multi-granular memory layers (concrete events, stable facts,
-and higher-level topics), and it is built by "memory population via LLM distillation,"
-which rewrites dialogue turns into self-contained sentences and extracts keywords.
-(arXiv:2606.06036; project README.)
+FACT: the memory also sorts itself into layers, from specific events up to broader topics,
+and it is built by having a model rewrite each piece of a conversation into a clean,
+standalone sentence and pull out its keywords. (arXiv:2606.06036; project notes.)
 
-## How a query is answered
+## How it answers a question
 
-FACT: answering a query is an iterative loop over a "reconstruction state" with
-traversal actions: the LLM reasons over the query plus the evidence gathered so far and
-selects promising directions to expand (reducing noise); it traverses the graph guided
-by those selected actions "rather than exhaustive graph expansion"; and it routes and
-prunes, selecting the most relevant content and "prun[ing] irrelevant branches" to
-keep the context concise. The explicit goal is to adapt retrieval to the reasoning
-context "while avoiding combinatorial explosion caused by unconstrained expansion."
-(arXiv:2606.06036.) The released code implements this as a tool-calling reasoning loop
-over seven specialized query tools.
+FACT: answering is a loop. The model looks at the question and what it has found so far,
+picks a promising direction, steps along the links to it, and then trims away the branches
+that turned out not to matter, so its workspace stays small. The goal is to follow a few
+useful trails instead of blindly opening every link, which would balloon out of control.
+(arXiv:2606.06036.) The released code does this with a small set of search tools.
 
-Assessment: the elegant part is the feedback. Because the model reasons between graph
-hops, what it learns at hop two changes which edge it follows at hop three. That is the
-"reconstruction" that a fixed top-K retrieval cannot do, and it is what lets MRAgent
-reach evidence a passive lookup would miss.
+Assessment: the clever part is the feedback. Because the model thinks between steps, what
+it learns on step two changes which link it follows on step three. That is the "rebuilding"
+a fixed lookup cannot do, and it is how MRAgent reaches facts a plain search would miss.
 
 ## The numbers, read carefully
 
-The headline results are real, but they say something narrower than the marketing
-around them. Here is the paper's own efficiency table (per sample, on LongMemEval),
-with the lowest value in each row in bold.
+The headline results are real, but they mean something narrower than the hype suggests.
+Here is the paper's own efficiency table, measured per question on a standard test set
+called LongMemEval. The lowest value in each row is in bold.
 
-| Per sample (LongMemEval) | MRAgent | Mem0 | MemoryOS | A-Mem | LangMem |
+| Per question (LongMemEval) | MRAgent | Mem0 | MemoryOS | A-Mem | LangMem |
 |---|---|---|---|---|---|
-| Tokens | **118k** | 245k | 273k | 632k | 3,268k |
-| Runtime (s) | 586 | **533** | 3,136 | 1,122 | 1,210 |
+| Tokens used | **118k** | 245k | 273k | 632k | 3,268k |
+| Time (seconds) | 586 | **533** | 3,136 | 1,122 | 1,210 |
 
-FACT: MRAgent used about **118,000 tokens** per query versus **LangMem's ~3,268,000**
-(roughly 3.26 million), which is the famous **~27-fold** token reduction. (arXiv
-2606.06036, efficiency table.)
+A couple of terms first. A "test set" is a standard batch of questions everyone runs
+against. The other systems in the table, like Mem0 and LangMem, are the "rivals" MRAgent
+was compared with. "Tokens" are the text chunks you pay for, from the
+[cost chapter](03-cost-and-speed).
 
-Assessment: two caveats keep that honest. First, this is **query-time prompt tokens**,
-and the paper's own design note says memory is built in a separate, static construction
-step, so the 27x almost certainly does not include graph-building cost; read it as "27x
-cheaper per query," not "27x cheaper end to end." Second, MRAgent is the most
-token-efficient but **not the fastest**: Mem0 finished in 533 seconds to MRAgent's 586,
-so any source calling MRAgent "the fastest" is simply wrong. And 586 seconds is roughly
-ten minutes per query, a research-benchmark figure, not an interactive latency.
+FACT: MRAgent used about 118,000 tokens per question, against LangMem's 3.26 million. That
+is the famous "27 times fewer tokens" result. (arXiv:2606.06036.)
 
-FACT: on accuracy, the gains are also real and (contrary to my earlier hedge) the
-specific numbers are in the paper's tables. On LoCoMo with a Gemini-2.5-Flash backbone,
-MRAgent scored **84.21** on the LLM-judge metric versus the best baseline (Mem0) at
-**68.31**, a +23.3% relative gain, which is the "up to 23%" headline. On the
-Claude-Sonnet-4.5 backbone the gap was smaller (88.32 versus 69.02, about +12%), and on
-LongMemEval with Gemini the relative gain was actually larger (72.95 versus A-Mem's
-52.98, roughly +32%). The benchmarks were LoCoMo and LongMemEval; the backbones were
-Gemini-2.5-Flash and Claude-Sonnet-4.5; the baselines were RAG, A-Mem, MemoryOS,
-LangMem, and Mem0. (arXiv:2606.06036, Tables 1 and 3.)
+Assessment: two things keep that honest. First, it counts only the tokens spent answering a
+question, not the cost of building the memory in the first place, which is a separate step.
+So read it as "27 times cheaper per question," not "27 times cheaper overall." Second,
+fewest tokens is not the same as fastest. Mem0 actually finished quicker, 533 seconds
+against MRAgent's 586. And 586 seconds is about ten minutes per question, a lab-test
+number, not something you would put behind a live chat.
 
-Assessment: notably absent from the baselines are **Zep/Graphiti and MemGPT/Letta**.
-Zep is widely reported as the accuracy leader on LongMemEval, so leaving it out of the
-comparison is a meaningful gap.
+FACT: the accuracy gains are real too. On one test, run on top of Google's Gemini model,
+MRAgent scored 84 out of 100 against the best rival's 68, the "up to 23% better" headline.
+On other tests the gap was sometimes smaller and sometimes larger. (The system was tried on
+two underlying models, Gemini and Claude.) (arXiv:2606.06036, Tables 1 and 3.)
 
-## The limits
+Assessment: notably, two strong memory systems, Zep and MemGPT, were left out of the
+comparison. Zep is widely seen as the accuracy leader on this exact test, so leaving it out
+is a real gap.
 
-FACT: the paper is candid about two limitations. First, **latency scales with
-exploration depth**: "because relational reasoning is deferred to retrieval, the cost
-of reconstruction grows with the depth of exploration, and queries that require many
-traversal steps incur higher latency than single-shot retrieval." Second, **the memory
-is static and grows without bound**: "our static construction does not update or
-consolidate memory over time, so the memory graph grows monotonically as interactions
-accumulate, raising storage overhead in long-lived deployments." Future work named is
-adaptive construction, lightweight memory maintenance, and more robust traversal
-policies. (arXiv:2606.06036, Section 7.)
+## The limits the authors admit
 
-Assessment: this places MRAgent neatly against the landscape in
-[chapter 3](03-memory-for-agents). Where Mem0 and LangMem put their intelligence into
-*writing* memory (extract and consolidate as you go) and Zep puts it into a *temporal*
-graph that closes out stale facts, MRAgent puts its intelligence into *reading*, a
-reasoning-driven traversal at query time. Its static, ever-growing store is the price
-of that choice; it spends cheaply per query but does not yet forget. The
-token-efficiency result is the genuinely striking part: doing more reasoning at read
-time can cost dramatically *fewer* tokens than the alternatives, because it avoids
-hauling large fixed retrievals into the context window.
+FACT: the paper is honest about two weaknesses. First, it can be slow: because it thinks
+its way through the search, questions that need many steps take longer than a simple
+lookup. Second, the memory only grows. It never updates, merges, or forgets, so it keeps
+getting bigger and needs more storage the longer it runs. (arXiv:2606.06036, Section 7.)
+
+Assessment: this lines MRAgent up against the other tools from the
+[memory chapter](03-memory-for-agents). Mem0 and LangMem are smart about *writing* memory,
+cleaning it up as they go. Zep is smart about *time*, marking old facts as expired.
+MRAgent is smart about *reading*, thinking hard at lookup time. Spending its effort at read
+time is why it uses so few tokens, but the trade is a store that never forgets.
 
 ## Trues and falses
 
-A claim-by-claim audit, since this is a topic where confident, wrong statements
-circulate widely.
+A claim-by-claim check, since this is a topic where confident, wrong statements get
+repeated a lot.
 
 | Claim you will see | Verdict |
 |---|---|
-| "MR stands for Reconstructive Memory" | **True.** The paper's Section 4 is titled "Reconstructive Memory Agent." |
-| "MR stands for Memory Reasoning Architecture for LLM Agents" | **False.** That phrase appears nowhere in the paper; it is an AI-summary fabrication. |
-| "~27x more token-efficient than LangMem" | **True, with a caveat.** 118k vs 3.26M tokens per query, but that is query-time tokens and excludes graph construction. |
-| "MRAgent is the fastest memory system" | **False.** It is the most token-efficient; Mem0 is faster on wall-clock (533s vs 586s). |
-| "Up to 23% more accurate" | **True.** LoCoMo, Gemini backbone: 84.21 vs 68.31. On LongMemEval the relative gain is even larger. |
-| "Accepted at ICML 2026" | **Unverified.** Only the arXiv comment says so; OpenReview's metadata says ICLR 2026 MemAgents workshop. |
-| "Peer-reviewed result" | **Misleading.** It is a workshop paper with no public reviews; treat numbers as author-reported. |
-| "Independently reproduced" | **False / none found.** No third-party reproduction or benchmark exists yet. |
+| "MR stands for Reconstructive Memory" | **True.** The paper's own section is titled "Reconstructive Memory Agent." |
+| "MR stands for Memory Reasoning Architecture for LLM Agents" | **False.** That phrase is nowhere in the paper; an AI summary made it up. |
+| "About 27x fewer tokens than LangMem" | **True, with a catch.** 118k vs 3.26M per question, but that counts only answering, not building the memory. |
+| "MRAgent is the fastest memory system" | **False.** It uses the fewest tokens; Mem0 is faster on the clock (533s vs 586s). |
+| "Up to 23% more accurate" | **True.** On one test it scored 84 vs the best rival's 68. On another the gap was even bigger. |
+| "Accepted at ICML 2026" | **Unconfirmed.** Only an author note says so; the official listing says the ICLR 2026 workshop. |
+| "A peer-reviewed result" | **Misleading.** It is a workshop paper with no public reviews; the numbers are author-reported. |
+| "Independently reproduced" | **False / none found.** No outside group has repeated it yet. |
 
 ## Pros and cons
 
 Assessment: pulling it together.
 
-**Pros.** The central idea (reason while you traverse, instead of retrieve then reason)
-is well-motivated and matches how the gains show up: the paper reports multi-hop recall
-improving by over 30% across successive reconstruction steps, which is exactly what an
-iterative, evidence-guided search should buy you. The typed Cue-Tag-Content graph is a
-genuine design contribution, and the paper's own ablation shows both the tag layer and
-the reasoning step each add value independently of the backbone model. The token
-efficiency is striking and counter-intuitive: doing *more* reasoning at read time can
-cost dramatically *fewer* tokens, because it avoids hauling large fixed retrievals into
-the window. The released code looks complete (144 stars, bundled datasets, resumable
-runs), even if no one has independently confirmed it reproduces the paper.
+**Pros.** The core idea, think while you search instead of search then think, is
+well-motivated, and it matches where the gains show up: the paper reports that hard
+questions get notably better the more steps the system takes. The cue-tag-content web is a
+genuine design idea, and the authors' own tests, where they switch off one part to see how
+much it mattered, show that both the tags and the step-by-step thinking pull their weight.
+The token savings are striking and a little surprising: doing *more* thinking at lookup
+time can cost *fewer* tokens, because it avoids dragging a big pile of notes into the
+window. The released code looks complete, even if no one outside has confirmed it matches
+the paper.
 
-**Cons.** Every number is author-reported, from a workshop paper with no public peer
-review and no independent reproduction, so the magnitude of the headline (27x) deserves
-more suspicion than its direction (more efficient). Self-reported method papers tune
-their own system, not the baselines, and LangMem's 3.26M-token figure is extreme enough
-to suggest a possibly unfavourable baseline configuration. The latency floor is high and
-grows with exploration depth, so the multi-hop queries reconstruction is *for* are
-exactly the slow ones. The memory is static and grows without bound, with no update,
-consolidation, or forgetting, which makes it a poor fit for long-lived agents whose
-facts change. The evaluation is narrow (two long-dialogue QA benchmarks, no agentic or
-fact-update tasks), and it omits the strongest accuracy rival (Zep).
+**Cons.** Every number comes from the authors, from a workshop paper with no public review
+and no outside repeat, so the *size* of the headline (27 times) deserves more doubt than
+its *direction* (more efficient). A team testing its own system tends to tune its own
+system, not its rivals, and LangMem's 3.26-million-token figure is extreme enough to hint
+its settings may not have been fair. The slowness grows with the number of steps, so the
+hard questions it is built for are exactly the slow ones. The memory never forgets or
+updates, which makes it a poor fit for long-running agents whose facts change. And the
+testing is narrow, two question-and-answer sets, leaving out the strongest accuracy rival,
+Zep.
 
 ## How it compares, and when to use it
 
-Assessment: MRAgent is one of four shapes of agent memory from
-[chapter 3](03-memory-for-agents), and the right choice depends on your bottleneck.
+Assessment: MRAgent is one of four shapes of agent memory from the
+[memory chapter](03-memory-for-agents), and the right pick depends on your main constraint.
 
-![Diagram: three cards comparing MRAgent (reconstruct: best for multi-hop accuracy over a fixed history at low query-token budgets; weak on latency and evolving facts), Mem0 (consolidate: best for low latency and evolving facts; weaker multi-hop reasoning), and Zep/Graphiti (temporal graph: best for facts that change over time; higher ingestion cost)](img/mem-compare.png)
+![Diagram: three cards comparing MRAgent (rebuild: best for hard multi-step questions over a fixed history at low token cost; weak on speed and changing facts), Mem0 (consolidate: best for speed and changing facts; weaker on multi-step reasoning), and Zep (track time: best for facts that change over time; costs more to set up)](img/mem-compare.png)
 *Which memory approach fits which job. Diagram.*
 
-Assessment: reach for MRAgent's approach when **multi-hop reasoning accuracy over a
-fixed history** matters more than latency, and you want to keep query-time token cost
-down. Reach for **Mem0** when you need low latency, evolving facts, and a maintained
-production library; it is the one baseline that beats MRAgent on speed. Reach for
-**Zep/Graphiti** when your facts change over time and recency or provenance matters, its
-bi-temporal model can represent "this was true, now it is not," which MRAgent's static,
-append-only graph structurally cannot. MemGPT/Letta is a different category again, an
-agent runtime that treats memory as an operating-system-like primitive rather than a
-drop-in memory layer.
+Assessment: reach for MRAgent's approach when answering hard, multi-step questions over a
+fixed set of history matters more than speed, and you want to keep the per-question token
+cost low. Reach for Mem0 when you need speed, facts that change, and a maintained library;
+it is the one rival that beats MRAgent on the clock. Reach for Zep when your facts change
+over time and you care about what was true when, since it can record "this was true, now it
+is not," which MRAgent's ever-growing store cannot. MemGPT is a different kind of thing
+again, a full agent setup that manages memory the way a computer manages its own, rather
+than a memory layer you bolt on.
 
 ## How solid is the evidence
 
-Assessment: this is the part to be clear-eyed about. The idea is interesting and
-plausibly motivated, the internal evidence (the ablations) is reasonable, but the entire
-evidence base is **author-reported, workshop-level, and not independently validated.**
-There is no genuinely independent analysis: the trade-press coverage (VentureBeat and
-its syndications) rehashes the paper's claims without testing them, and the louder
-social and SEO coverage is where distortions like the fabricated "Memory Reasoning
-Architecture" name and the "fastest" claim came from. A useful counterpoint from the
-broader field is a contemporaneous paper, *Does Memory Need Graphs?* (arXiv:2601.01280),
-which argues that reported gains from graph memory are often "driven by foundational
-system settings rather than specific architectural innovations," in other words, some of
-what looks like a clever-graph win can be mundane configuration (chunking, prompts,
-embedder). None of this says MRAgent is wrong; it says the honest status is "promising
-and well-argued, but unproven outside the authors' own runs."
+Assessment: this is the part to be clear-eyed about. The idea is interesting and well
+argued, and the authors' own tests are reasonable, but the whole evidence base is
+author-reported, workshop-level, and not checked by anyone outside. There is no truly
+independent look at it: the trade-press coverage just repeats the paper's claims without
+testing them, and the louder social-media and search-engine posts are where the made-up
+"Memory Reasoning Architecture" name and the false "fastest" claim came from. A useful
+counterweight from the wider field is another 2026 paper, *Does Memory Need Graphs?*, which
+argues that gains from this kind of graph memory often come from ordinary setup choices
+(how text is split, the prompts, the search model) rather than the clever structure itself.
+None of this says MRAgent is wrong. It says the honest status is "promising and well
+argued, but unproven outside the authors' own runs."
 
 ## Sources
 
 - *Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents* (arXiv:2606.06036) — https://arxiv.org/abs/2606.06036 (full text: https://arxiv.org/html/2606.06036v1)
-- OpenReview record (venue metadata: ICLR 2026 Workshop MemAgents; no public reviews) — https://openreview.net/forum?id=YPoHy6lgKP
+- OpenReview record (venue: ICLR 2026 Workshop MemAgents; no public reviews) — https://openreview.net/forum?id=YPoHy6lgKP
 - ICLR 2026 MemAgents workshop — https://sites.google.com/view/memagent-iclr26
 - MRAgent code repository — https://github.com/Ji-shuo/MRAgent
-- *Does Memory Need Graphs?* (field counterpoint, arXiv:2601.01280) — https://arxiv.org/abs/2601.01280
+- *Does Memory Need Graphs?* (a field counterpoint, arXiv:2601.01280) — https://arxiv.org/abs/2601.01280
