@@ -8,88 +8,86 @@ tags: [ai, ai-agents, llm, agent-engineering, rag, retrieval]
 created: 2026-06-28
 ---
 
-# Chapter 5 — Retrieval and RAG
+# Retrieval and RAG
 
-Retrieval-augmented generation (RAG) is how you give a model facts it was not trained
-on: you store your documents, find the relevant pieces at question time, and put them
-in the context window before the model answers. This chapter walks the pipeline,
-names the knobs that matter most, lists the usual ways it breaks, and gives a decision
-rule for when to use RAG versus the alternatives.
+The [foundation chapter](00-what-is-an-llm) explained that a model answers from what it
+learned during training, and that it sometimes makes things up. Retrieval tackles both
+problems by handing the model the actual facts before it answers. The common name for
+this is RAG, short for retrieval-augmented generation: you store your documents, find the
+pieces that match the question, and drop them into the context window so the model answers
+from real text instead of from memory.
 
-## The pipeline
+## How RAG works, in two phases
 
-Assessment: the canonical RAG pipeline has two halves. You build an index once
-(ingest documents, split them into chunks, turn each chunk into an embedding vector,
-and store those in a vector index). Then, for every query, you retrieve the top
-matching chunks, optionally rerank them, build the context, and generate the answer.
-(This is common-practice consensus, matching the Databricks and StackAI guides.)
+Assessment: RAG has two halves, a setup phase you do once and an answer phase you do for
+every question. (This is the widely shared standard; see the Databricks and StackAI
+guides.)
 
-![Diagram: phase one indexes documents (documents, chunk, embed, index); phase two answers a query (retrieve top-K, rerank, build context, generate); the index feeds retrieval](img/rag-pipeline.png)
-*The RAG pipeline, in two phases. Diagram.*
+In the setup phase, you prepare your documents. You split them into small pieces called
+chunks, and for each chunk you create an embedding, which is a list of numbers that
+captures what the chunk means. You store those embeddings in a vector database, the
+meaning-based store from the [memory chapter](03-memory-for-agents).
 
-## The knobs that matter
+In the answer phase, you turn the incoming question into an embedding as well, find the
+chunks whose meaning sits closest to it, and place the best few into the context window
+before the model writes its reply. Matching by meaning is the point: the question and the
+document can use different words and still line up.
 
-Assessment: a few stages carry most of the quality.
+![Diagram: setup phase indexes documents (split, embed, store); answer phase takes a question, retrieves the closest chunks, and the model answers from them](img/rag-pipeline.png)
+*RAG in two phases: prepare the documents once, then answer from them. Diagram.*
 
-- **Chunking** is the highest-leverage knob. A common production baseline is roughly
-  512 to 1024 tokens per chunk with about 20 to 25 percent overlap, so you do not
-  split a definition or a procedure across a boundary. Chunking sets the trade-off
-  between recall (does any chunk contain the answer) and precision (is the chunk tight
-  enough to be useful). Strategies range from fixed-size to recursive, semantic, and
-  document-structure-aware.
-- **Embeddings** turn text into vectors. FACT: they are benchmarked by MTEB (the
-  Massive Text Embedding Benchmark) across many task categories; strong open models
-  score in the high sixties of a percent. (MTEB reporting.) Assessment: pick an
-  embedding model that suits your domain, a generic model can underperform on
-  specialized vocabulary.
-- **Retrieval** fetches the top K chunks (often 5 to 10). You improve it with hybrid
-  search (dense vectors plus sparse keyword search such as BM25), metadata filters,
-  and similarity thresholds; hybrid is commonly cited as adding single-digit
-  percentage points of recall over pure vector search.
-- **Reranking** with a cross-encoder, which scores the query and a passage together,
-  is the standard precision boost after first-stage retrieval.
+## The parts that matter most
 
-## How RAG breaks
+Assessment: a handful of choices drive most of the quality.
 
-Assessment: the common failure modes, and their fixes:
+- **Chunk size.** Chunks that are too large drag in clutter; chunks that are too small
+  split an answer across pieces, so the search misses it. A common starting point is a few
+  hundred words per chunk, with a little overlap so a definition or a step is never cut in
+  half.
+- **The embedding model.** This is the part that decides which chunks "mean" the same as
+  the question, and a general-purpose one can stumble on specialized wording. FACT: these
+  models are compared on a public benchmark called MTEB, and the strongest score in the
+  high sixties of a percent. (MTEB leaderboard.) Assessment: pick one that fits your
+  subject.
+- **How many chunks you pull.** Usually the top five to ten. You can do better by also
+  matching exact keywords, not just meaning, which catches names and codes that
+  meaning-matching alone can miss.
+- **Reranking.** After the first rough search, a second and more careful pass re-sorts the
+  results so the strongest ones land on top, before they reach the model.
 
-- **Bad chunking.** Chunks too big drag in noise and dilute the embedding; chunks too
-  small split the answer across pieces so retrieval misses it.
-- **Retrieval misses.** Usually a vocabulary mismatch between the query and the
-  corpus, a weak embedding model for the domain, or too small a K. Fixes: hybrid
-  search, query rewriting or expansion, and reranking.
-- **Stale indexes.** If the source documents change and you do not re-embed, or you
-  carry no freshness metadata, you get confident, wrong answers.
-- **Lost in the middle at generation time.** Stuffing many retrieved chunks
-  reintroduces context rot (see [chapter 4](04-context-engineering)); reranking and a
-  tight K matter.
-- **No grounding.** Without enforced citations, the model can hallucinate a synthesis
-  on top of correct chunks.
+## How RAG goes wrong
 
-## RAG versus the alternatives
+Assessment: the usual failures, and their fixes:
 
-The most common real question is not "how do I do RAG" but "do I even need it?"
+- **Bad chunking,** as above: pieces too big or too small.
+- **Missed matches.** The question and the documents use different words, the embedding
+  model is weak for the topic, or you pulled too few chunks. Fixes: add keyword matching,
+  reword the question, and rerank.
+- **Stale data.** If the documents change and you do not rebuild their embeddings, the
+  system keeps answering, confidently, from the old version.
+- **Too much stuffed in.** Dumping in many chunks brings back the context rot from the
+  [context chapter](04-context-engineering). A tight, well-ranked handful beats a big pile.
+- **No sourcing.** If you do not make the model cite where each fact came from, it can
+  still blend correct chunks into a partly made-up answer.
 
-Assessment (community consensus across 2025 and 2026 write-ups; treat these as
-judgment, not fact):
+## Do you even need RAG?
 
-- **Use RAG** for knowledge that is large, changes often, or must be cited and
-  audited: document question-answering, support, policy lookup, regulated workflows.
-  RAG fixes "missing facts."
-- **Use fine-tuning** for *behavior*: tone, structured-output format, classification,
-  tool-use policy, domain style. Fine-tuning fixes "wrong behavior," not stale facts.
-  The rule of thumb is "fine-tune when behavior is the bottleneck, not missing facts."
-- **Use long context** (just put the whole document in the window) for prototyping or
-  one-off whole-document analysis. It is cited as roughly 20 times more expensive than
-  RAG at scale and is still subject to ranking and context-rot problems, so it is not
-  a substitute for retrieval discipline.
-- **Use agent memory** (Mem0, Letta, LangMem; see [chapter 3](03-memory-for-agents))
-  for evolving, per-user state across sessions, preferences, history, learned
-  procedures, rather than a static corpus.
+The real question is usually not "how do I do RAG" but "do I need it at all?" Here is the
+plain version of the decision, which is judgment rather than hard fact:
 
-Assessment: hybrids dominate production. The decision is rarely either-or, you commonly
-combine RAG for facts with light fine-tuning for behavior, and agent memory for
-per-user state on top.
+- **Use RAG** when the knowledge is large, changes often, or must be traceable to a
+  source: company documents, support answers, policy lookups. RAG fixes *missing facts*.
+- **Use fine-tuning** to change behavior, not facts. Fine-tuning means training a model a
+  little further on your own examples so it picks up a tone, a format, or a way of working.
+  It fixes "it behaves wrong," not "it is missing facts."
+- **Use a long context** (just paste the whole document into the window) for a quick
+  one-off, but it costs far more at scale and still suffers context rot, so it is no
+  substitute for real retrieval.
+- **Use memory** (from the [memory chapter](03-memory-for-agents)) for facts that are
+  personal and shift over time, such as a user's preferences, rather than a fixed library.
+
+Assessment: in practice these mix. Most real systems use RAG for facts, a little
+fine-tuning for behavior, and memory for per-person details, all at the same time.
 
 ## Sources
 

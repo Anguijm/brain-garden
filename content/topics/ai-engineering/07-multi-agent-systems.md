@@ -8,84 +8,82 @@ tags: [ai, ai-agents, llm, agent-engineering, multi-agent, finite-resources]
 created: 2026-06-28
 ---
 
-# Chapter 7 — Multi-agent systems
+# Many agents at once
 
-A multi-agent system is several agents working on one problem, usually a lead agent
-that delegates to specialized workers. It is the most powerful and the most expensive
-pattern in this wing. This chapter covers the main architecture, the cases where extra
-agents genuinely help, the cases where they just burn tokens, and the compounding-error
-math that explains why long chains fail.
+The [workflows chapter](01-workflows-vs-agents) introduced a pattern called "manager and
+helpers," where a lead breaks a job into smaller jobs and hands them out. A multi-agent
+system is that idea taken all the way: several full agents working on one problem at once,
+with a lead agent that splits the work and passes the pieces to helper agents. It is the
+most powerful pattern in this section, and the most expensive. This chapter covers when
+the extra agents earn their cost, and when they just burn money.
 
-## The dominant pattern: orchestrator and workers
+## The usual shape: a lead and its helpers
 
-FACT: the production pattern Anthropic describes is the orchestrator-workers shape,
-"a lead agent coordinates the process while delegating to specialized subagents that
-operate in parallel," typically spinning up three to five subagents. Its key property,
-distinguishing it from simple parallelization, is that "subtasks aren't pre-defined,
-but determined by the orchestrator based on the specific input." (Anthropic, *Building
-Effective Agents* and *How we built our multi-agent research system*.)
+FACT: the common setup is a lead agent that coordinates the work and hands pieces to a few
+helper agents, usually three to five, that work at the same time. What sets it apart from
+simply running several fixed tasks side by side is that the lead decides the pieces on the
+spot, based on the specific request, rather than having them planned in advance.
+(Anthropic, *Building Effective Agents* and *How we built our multi-agent research
+system*.)
 
-![Diagram: a lead agent at top breaks down the task, delegates, and synthesizes; three subagents below each with their own clean context; a "wins" box (breadth-first search, +90% over single-agent) and a "costs" box (~15x the tokens of a chat, errors compound)](img/multi-agent.png)
-*Orchestrator and workers: the gains and the costs. Diagram.*
+![Diagram: a lead agent splits a task and hands pieces to several helper agents working in parallel, each with its own clean window, then combines their results](img/multi-agent.png)
+*A lead agent divides the work, helpers run in parallel, and the lead combines the results. Diagram.*
 
-## When multiple agents genuinely help
+## When extra agents genuinely help
 
-FACT: multi-agent systems succeed on "breadth-first queries that involve pursuing
-multiple independent directions simultaneously," where the information exceeds a single
-context window. In Anthropic's evaluations, "a multi-agent system with Claude Opus 4 as
-the lead agent and Claude Sonnet 4 subagents outperformed single-agent Claude Opus 4 by
-90.2%," and parallelization "cut research time by up to 90% for complex queries."
-(Anthropic.)
+FACT: multiple agents shine on wide questions, the kind that call for chasing several
+separate threads at once, where there is more to look at than fits in a single context
+window. In Anthropic's tests, a team of agents (a strong lead with several helpers) beat a
+single strong agent by about 90 percent on research tasks, and cut the time on complex
+questions by up to 90 percent. (Anthropic.)
 
-Assessment: the real wins come from two things, parallelizable breadth (independent
-directions explored at once) and separation of concerns (each subagent gets its own
-clean context window and one focused objective, which is the context-engineering point
-from [chapter 4](04-context-engineering)).
+Assessment: the win comes from two things. The work is wide enough to split, so the
+helpers cover ground in parallel. And each helper gets its own clean window and one clear
+job, which is the tidy-window idea from the [context chapter](04-context-engineering).
 
-## When they just burn tokens
+## When they just burn money
 
-FACT: the cost is steep. "Agents typically use about 4 times more tokens than chat
-interactions, and multi-agent systems use about 15 times more tokens than chats," and
-"token usage by itself explains 80% of the variance" in quality. So multi-agent is
-only economical for high-value tasks. (Anthropic.)
+FACT: the cost is steep. A single agent already uses about four times the tokens of a
+plain chat, and a team of agents uses about fifteen times as many. In fact, how many
+tokens a system spends explains most of the difference in how well it does. So a full team
+is only worth it for high-value work. (Anthropic.)
 
-FACT: it is a poor fit when tasks need shared context or have many dependencies;
-"most coding tasks involve fewer truly parallelizable tasks than research."
-(Anthropic.) Observed coordination failures include an orchestrator "spawning 50
-subagents for simple queries," agents "distracting each other with excessive updates,"
-and agents getting stuck hunting for sources that do not exist. (Anthropic.)
+FACT: it is a poor fit when the parts of a task depend on each other or need shared
+context. Most coding work, for example, breaks into fewer truly separate pieces than
+research does. Real failures Anthropic saw include a lead spinning up 50 helpers for a
+simple question, helpers flooding each other with updates, and agents getting stuck
+hunting for sources that do not exist. (Anthropic.)
 
-## Why long chains fail: compounding errors
+## Why long chains fail
 
-FACT: errors compound. "One step failing can cause agents to explore entirely
-different trajectories, leading to unpredictable outcomes." (Anthropic.) The math: for
-n sequential steps each succeeding with probability p, end-to-end success is p to the
-n-th power, multiplied, not averaged. At 99% per step you are at 90.4% after 10 steps
-and 36.6% after 100; at 95% per step you are at about 59% after 10 steps. Correlated
-errors make real chains worse than the formula. (Compounding-error analyses.)
+FACT: in a long chain of steps, errors pile up. One bad step can send the agents off in a
+completely wrong direction. (Anthropic.) The math is unforgiving. If each step works 99
+percent of the time, ten steps in a row work about 90 percent of the time, and a hundred
+steps only about 37 percent, because the chances multiply rather than average. At 95
+percent per step, ten steps in a row already drop to about 59 percent. And that is the
+optimistic version, since related mistakes drag it lower still. (Compounding-error
+analyses.)
 
-Assessment: this is the quantitative case for keeping agents short, adding checkpoints,
-and preferring an end-state you can verify over a long unverified chain.
+Assessment: this is the hard arithmetic behind a rule from earlier chapters: keep chains
+short, add checkpoints, and prefer an end-state you can actually check over a long chain
+you cannot.
 
-## Design lessons that hold up
+## Lessons that hold up
 
 FACT: Anthropic's reported lessons:
 
-- Delegation must give each subagent "an objective, an output format, guidance on the
-  tools and sources to use, and clear task boundaries." Vague delegation is the fast
-  path to wasted work.
-- Embed effort-scaling rules in the orchestrator's prompt: "Simple fact-finding
-  requires just 1 agent with 3-10 tool calls, direct comparisons might need 2-4
-  subagents with 10-15 calls each."
-- A current bottleneck is that "lead agents execute subagents synchronously, waiting
-  for each set of subagents to complete before proceeding."
+- Tell each helper exactly what to do: its goal, the format to hand back, which tools and
+  sources to use, and where its job ends. Vague hand-offs waste work fast.
+- Scale the effort to the question. A simple fact-find needs one helper and a few tool
+  calls; a real comparison might need a handful of helpers doing more.
+- A current limit is that the lead waits for each round of helpers to finish before it
+  moves on.
 
-Assessment: the hidden tax in multi-agent systems is coordination, the orchestrator
-has to write good task boundaries and merge the results well. Misallocated subtasks or
-fuzzy delegation degrade quality faster than just using a single agent would have. The
-honest default, consistent with [chapter 1](01-workflows-vs-agents), is to reach for
-multiple agents only when the work is genuinely broad and parallel and the value
-justifies the roughly fifteen-fold token cost.
+Assessment: the hidden tax is coordination. The lead has to carve the work cleanly and
+stitch the results back together, and doing that badly leaves a team performing worse than
+one good agent would have. The honest default, the same one from the
+[workflows chapter](01-workflows-vs-agents), is to reach for a team only when the work is
+genuinely wide and the payoff is worth roughly fifteen times the cost.
 
 ## Sources
 

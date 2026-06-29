@@ -8,100 +8,89 @@ tags: [ai, ai-agents, llm, agent-engineering, evaluation, verification, using-ai
 created: 2026-06-28
 ---
 
-# Chapter 6 — Evaluation and testing
+# Testing
 
-Agents are stochastic: the same input can produce different runs. Evaluation is the
-feedback loop that tells you whether a change helped or hurt, and whether the thing is
-safe to ship. This chapter covers building an eval set, using a model as a judge (and
-the biases that come with it), and the distinction between scoring the path an agent
-took and scoring where it ended up.
+The whole section so far has pushed one habit: do not simply trust what a model produces.
+Testing is how you act on that, and builders shorten the word to "evaluation," or "evals."
+Good testing tells you whether a change made things better or worse, and whether the
+system is reliable enough to put in front of real users.
 
-## Why evals, and offline versus online
+One thing makes this harder than ordinary software testing: models are not exact, so the
+same input can produce a different answer each time, a property described as being
+"stochastic." Because of that, a single passing test means little, and you have to measure
+across many runs before you can trust the pattern you are seeing.
 
-Assessment: evals are what make an agent shippable. Without them you cannot detect
-regressions or tell whether a prompt or model change actually improved anything. As
-frontier models saturate the standard public benchmarks, the useful evals are
-task-specific and application-level, built around your own use case.
+## Two places to test: before and during
 
-Assessment: there are two settings. *Offline* evals run before deployment against a
-fixed dataset, fast, repeatable, regression-style scoring. *Online* evals run on live
-production traffic (sampled traces, user feedback, real inputs) to catch drift and the
-edge cases an offline set never anticipated.
+Assessment: testing happens in two settings.
 
-FACT: human spot-checks remain necessary alongside automated evals. Anthropic reports
-that "people testing agents find edge cases that evals miss," including "hallucinated
-answers on unusual queries, system failures, or subtle source selection biases."
-(Anthropic, *How we built our multi-agent research system*.)
+*Before you ship (offline testing)* runs the system against a fixed set of saved examples,
+the same set every time, so you can tell whether a change helped or hurt. This is mainly
+how you catch a "regression," which is when a change quietly breaks something that used to
+work.
 
-## The golden dataset
+*While it runs (online testing)* watches real use in production, sampling real questions
+and user feedback, to catch problems your saved examples never imagined.
 
-FACT: a "golden dataset" is a set of ideal interactions used as ground truth. In
-Google's agent-evaluation framing it "captures the trajectory (the exact sequence of
-tool calls) and the final response (the 'perfect' text answer)." (Google Codelabs /
-Vertex.)
+FACT: even with solid automated tests, a person still has to spot-check by hand. Anthropic
+reports that people testing agents catch edge cases the automated checks miss, including
+confident, made-up answers on unusual questions. (Anthropic, *How we built our multi-agent
+research system*.)
 
-FACT: you do not need a big one to start. Anthropic reports that in early development
-"even small samples" guide iteration, and that "a small sample of about 20 queries
-that reflected real usage patterns" was enough to see the effect of changes.
-(Anthropic.)
+## The golden set
 
-Assessment: start with a few dozen well-chosen cases drawn from real usage, then grow
-the set from the failures you find in production. Because agents are stochastic, score
-over multiple runs rather than a single sample, and pin model versions in the harness
-so the eval itself is reproducible.
+FACT: the heart of offline testing is a "golden dataset," a set of example questions each
+paired with the ideal answer, and for an agent, the ideal sequence of steps. It is the
+standard you grade everything against. (Google.)
 
-## LLM-as-judge, and its biases
+FACT: you do not need a big one to start. Anthropic found that about 20 well-chosen
+questions reflecting real use were enough to see whether a change helped. (Anthropic.)
+Assessment: begin with a few dozen real examples, then grow the set from the failures you
+find in production. Because answers vary from run to run, score across several runs, not a
+single one.
 
-The hardest part of evaluating open-ended output is grading it at scale. The common
-answer is to use a model as the grader.
+## Letting a model grade the answers
 
-FACT: Anthropic uses an "LLM-as-judge" approach, scoring output against an explicit
-rubric of factual accuracy, citation accuracy, completeness, source quality, and tool
-efficiency; "a single LLM call with a prompt" returning a score and pass/fail
-"matched our own judgments." (Anthropic.) OpenAI describes the same pattern as a
-two-stage process: the model answers, then a (usually more capable) model grades the
-answer against a rubric or a reference "gold standard." (OpenAI.)
+Grading open-ended writing by hand does not scale, so the common fix is to have a second
+model grade the first one's answers automatically.
 
-FACT: judges have documented, systematic biases. *Position bias*: the judge favors the
-first- or last-presented response regardless of quality; it "is not due to random
-chance" and is "strongly affected by the quality gap between solutions." (*Judging the
-Judges*, arXiv:2406.07791.) Other documented biases include self-preference
-(preferring the judge model's own style), verbosity or length bias, and agreeableness
-bias. Calibration methods help: swapping the order and averaging, ensembling several
-judges or prompts, and concise prompts with explicit bias disclaimers. (CalibraEval,
+FACT: this is called "LLM-as-judge." You give a grading model a clear checklist, called a
+"rubric," for example: are the facts right, are the sources right, is the answer complete?
+Anthropic found that a single grading model with a good checklist matched their own human
+judgment. (Anthropic.) OpenAI describes the same two-step setup: one model answers, and a
+stronger model grades it. (OpenAI.)
+
+FACT: but the grader has its own blind spots, well documented in research. It tends to
+favor whichever answer it sees first or last, regardless of quality. It leans toward its
+own writing style, toward longer answers, and toward agreeing too easily. (*Judging the
+Judges*, arXiv:2406.07791.) You can reduce these by swapping the order and averaging,
+using several graders, and keeping the checklist short and clear. (CalibraEval,
 arXiv:2410.15393.)
 
-Assessment: treat the judge as a model that itself needs validating. Measure how well
-its scores agree with human labels on a labeled set before you trust it, and keep
-periodic human spot-checks. The specific magnitude numbers from individual bias
-studies should be cited as "one study found," not as universal constants.
+Assessment: the rule that ties this whole section together, do not blindly trust the AI,
+applies to the grader too. Check the grader against human scores on a sample before you
+rely on it, and keep spot-checking by hand. This is the same caution as the
+[using-AI-well thread](../../connections/using-ai-well).
 
-## Trajectory versus end-state
+## Score the path, not just the answer
 
-A correct answer reached through a dangerous or wasteful path is still a failure. So
-you score both.
+A right answer reached in a dangerous or wasteful way is still a failure, so you grade two
+separate things.
 
-![Diagram: a sequence of steps from start through three tool calls to an answer; a trajectory-eval bracket spans the whole path (was it efficient and safe?), and an end-state bracket marks the final answer](img/eval.png)
-*Trajectory evaluation scores the path; end-state evaluation scores the destination. Diagram.*
+![Diagram: a string of steps from start through several tool calls to an answer; one bracket grades the whole path, another grades only the final answer](img/eval.png)
+*Grade where the agent ended up, and grade how it got there. Diagram.*
 
-FACT: trajectory evaluation scores the path, the sequence of tool calls, their inputs
-and outputs, intermediate reasoning, and retries, not just the final answer. "An agent
-that arrives at the correct final answer through a dangerous, redundant, or wildly
-inefficient sequence of tool calls still represents a production failure." (Confident
-AI; LangChain.) Google's Vertex service names specific trajectory metrics:
-`trajectory_exact_match`, `trajectory_in_order_match`, `trajectory_precision`,
-`trajectory_recall`, and `trajectory_any_order_match`. (Google Cloud.)
+FACT: end-state grading asks "is the final answer right?" Path grading (the technical name
+is trajectory grading) asks "was the route to it sound?", looking at the steps the agent
+took, the tools it used, and the dead ends it hit. An agent that lands on the right answer
+through a reckless or wildly inefficient path is still a problem in production. (Confident
+AI; LangChain.) Anthropic mostly grades the end state, because agents reach the same goal
+in many valid ways, but it still watches the path for safety. (Anthropic.)
 
-FACT: Anthropic deliberately evaluates "whether it achieved the correct final state"
-rather than validating "every intermediate step," because agents take many valid paths
-to the same goal. (Anthropic.)
-
-Assessment: use both. End-state metrics catch wrong answers; trajectory metrics catch
-unsafe or expensive right answers. Exact-match trajectory scoring is brittle for
-open-ended tasks, prefer recall, in-order, or LLM-judged trajectory there. None of
-this works without *tracing* (capturing each step's prompts, tool calls, latencies,
-and costs); that instrumentation is the prerequisite for both debugging and online
-evals.
+Assessment: use both. The end state catches wrong answers; the path catches unsafe or
+expensive right ones. None of it works unless you record what the agent did at each step,
+its prompts, tool calls, time, and cost, so you can look back. Builders call that recording
+"tracing," and it is the starting point for both debugging and the online testing above.
 
 ## Sources
 
