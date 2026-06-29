@@ -8,107 +8,93 @@ tags: [ai, ai-agents, llm, agent-engineering, tools, mcp]
 created: 2026-06-28
 ---
 
-# Chapter 2 — Tools and MCP
+# Tools and MCP
 
-A model on its own can only produce text. Tools are how it acts on the world:
-searching, reading files, querying databases, calling APIs. This chapter covers the
-mechanics of tool use (often called function calling), how to design tools the model
-can actually use well, and the Model Context Protocol (MCP) that standardizes the
-wiring between apps and tools.
+The [foundation chapter](00-what-is-an-llm) made one thing clear: a model on its own
+can only produce text. It can tell you how to send an email, but it cannot send one.
+Tools are what close that gap. This chapter explains how a model uses a tool, what
+makes a tool good, and a standard called MCP that lets any app plug into any tool.
 
-## How tool use works
+A tool is any outside action you allow the model to trigger: searching the web, reading a
+file, querying a database, or running another piece of software. Builders usually say the
+model "calls an API" to do this. An API (application programming interface) is simply an
+agreed-upon way for one program to request something from another program. Connecting a
+model to tools is the single biggest step from a chatbot to a system that accomplishes
+real work.
 
-FACT: "Tool use lets Claude call functions that you define." You define a tool with a
-`name`, a `description`, and an `input_schema` (a JSON Schema object). The cycle for a
-client-side tool is: the model returns `stop_reason: "tool_use"` with one or more
-`tool_use` blocks (each carrying an `id`, the tool `name`, and the `input`); your code
-executes the function and sends back a `tool_result` block referencing the
-`tool_use_id`; and the exchange repeats until the model answers without calling a tool.
-(Claude Developer docs, *Tool use with Claude*.)
+## How a model uses a tool
 
-![Diagram: the model emits a tool_use block, your code runs the function and returns a tool_result, and the exchange repeats until the model answers](img/tool-cycle.png)
-*The tool-use request and result cycle. Diagram.*
+You begin by handing the model a short menu of tools. Each tool carries a name, a
+plain-English description of what it does, and a list of the inputs it requires. The
+overall mechanism is usually called "tool use" or "function calling," and the two terms
+mean the same thing.
 
-FACT: you control whether the model uses tools with `tool_choice`: `auto` (the
-default, model decides), `any` (must call some tool), `tool` (must call a named one),
-or `none`. The `auto` and `none` options cost fewer prompt tokens than `any` and
-`tool`. (Claude docs.)
+The crucial detail is that the model never runs the tool itself. When it determines that
+a tool would help, it pauses and issues a request, in effect, "run the weather tool with
+the input Tokyo." Your software executes the tool, captures the result, and returns that
+result to the model. The model reads it and continues. This exchange repeats as many
+times as necessary until the model has enough information to produce a final answer.
 
-FACT: tools run in one of two places. **Client tools** run in your application, you
-execute them and return the result. **Server tools** (such as web search, web fetch,
-and code execution) run on the provider's infrastructure and return results directly.
-A model can also emit several `tool_use` blocks in one response (parallel tool use),
-and "strict" modes can guarantee the call conforms to the schema. (Claude docs;
-OpenAI's `strict: true` enforces the same, requiring `additionalProperties: false`
-and all properties listed in `required`.)
+![Diagram: the model asks for a tool, your code runs it and returns the result, and this repeats until the model answers](img/tool-cycle.png)
+*The model requests a tool; your code runs it and returns the result. Diagram.*
 
-## Designing tools the model can use
+FACT: you can let the model decide when to reach for a tool, or you can require it to use
+one. Some tools run on your own computer, where your code runs them and returns the
+result. Others, like built-in web search, run on the AI provider's servers and return
+results on their own. A model can even ask for several tools at once. (Claude Developer
+docs, *Tool use with Claude*.)
 
-The mechanics are easy. The hard, high-leverage part is the tool design.
+The inputs a tool needs are written in a simple data format called JSON, which is really
+just a labeled list of values. You do not need to know JSON to understand any of this.
 
-FACT: Anthropic calls this the "Agent-Computer Interface" (ACI) and says to invest in
-it "just as much effort as you would normally devote to" human-computer interfaces.
-The principles: give the model enough tokens to think; keep input and output formats
-"close to what the model has seen naturally occurring in text on the internet"; avoid
-formatting overhead like manual line-counting or heavy string-escaping; document each
-tool like "a great docstring for a junior developer" with example usage, edge cases,
-and clear boundaries against other tools; and apply *poka-yoke* (mistake-proofing),
-changing arguments so errors are hard to make, for example by requiring absolute file
-paths. (Anthropic, *Building Effective Agents*.)
+## Good tools matter more than clever ones
 
-FACT: tools should be "self-contained, robust to error, and extremely clear with
-respect to their intended use." The recurring failure mode is "bloated tool sets"
-that create "ambiguous decision points about which tool to use." (Anthropic, *Context
-Engineering*.)
+The mechanics above are the easy part. The hard part, and the part that decides whether
+your system works, is designing tools the model can actually use well.
 
-Assessment: across vendors, the single biggest driver of reliable tool-calling is the
-*description*, a clear name, a sharp "use this when..." boundary, and well-documented
-parameters matter more than the schema mechanics. Return concise, structured results
-rather than raw dumps. When a tool fails, pass the error back to the model as a
-`tool_result` (often flagged as an error) and let it recover; OpenAI's guidance is the
-same: "provide the error reported by the tool to the model and it will figure out what
-to do." For very large tool inventories, group tools into namespaces or expose them
-through an MCP server rather than dumping hundreds of flat function definitions.
+FACT: Anthropic calls this the Agent-Computer Interface, and says to put as much care
+into it as you would into a screen built for a person. In plain terms, the advice is to
+describe each tool the way you would brief a new employee, with an example and clear
+limits; to make the inputs hard to get wrong, such as requiring a full file path so there
+is nothing to guess; and to avoid handing the model a huge pile of overlapping tools,
+which just leaves it unsure which one to pick. (Anthropic, *Building Effective Agents* and
+*Effective Context Engineering*.)
 
-## The Model Context Protocol (MCP)
+Assessment: the description is the most important thing you write. A clear name, a sharp
+"use this when..." line, and well-explained inputs matter far more than any technical
+detail. Have tools return short, clean results instead of giant dumps of data. And when a
+tool fails, hand the error back to the model and let it try again, rather than letting the
+whole thing crash.
 
-Once you have tools, you face an integration problem: every app needs to connect to
-every tool. MCP is the standard that collapses that.
+## MCP: one plug for every tool
 
-FACT: MCP is "an open-source standard for connecting AI applications to external
-systems" (data sources, tools, workflows). The documentation's analogy is "a USB-C
-port for AI applications." Its scope is deliberately narrow: "MCP focuses solely on
-the protocol for context exchange, it does not dictate how AI applications use LLMs or
-manage the provided context." (modelcontextprotocol.io.)
+Once tools are useful, a different problem emerges: every app that wants a given tool has
+to be connected to it by hand. Ten apps and ten tools could require a hundred separate
+connections. MCP is the standard that eliminates that overhead.
 
-![Diagram: an MCP host (the AI app) holding several MCP clients, each with a 1:1 connection to an MCP server (file system, database, web/API); M apps times N tools becomes M plus N](img/mcp.png)
-*MCP's client-server architecture. Diagram.*
+FACT: MCP (Model Context Protocol) is an open standard for connecting AI apps to outside
+tools and data. "Open standard" means a public set of rules that anyone can build to,
+owned by no single company. Its own documentation calls MCP "a USB-C port for AI
+applications": one common plug, so anything that speaks MCP can connect to anything else
+that speaks MCP. (modelcontextprotocol.io.)
 
-FACT: the architecture has three participants. The **MCP Host** is the AI application
-that coordinates one or more clients (Claude Code, Claude Desktop, VS Code). An **MCP
-Client** maintains a dedicated one-to-one connection to a single server. An **MCP
-Server** is a program that provides context, running locally or remotely. The host
-creates one client per server. (modelcontextprotocol.io.)
+![Diagram: an AI app (host) connects through one client each to several servers, such as files, a database, and a website; many apps times many tools becomes simply many plus many](img/mcp.png)
+*MCP turns a tangle of custom wiring into one shared plug. Diagram.*
 
-FACT: servers expose three kinds of primitive. **Tools** are "executable functions
-that AI applications can invoke to perform actions" (discovered via `tools/list`,
-called via `tools/call`). **Resources** are "data sources that provide contextual
-information" (file contents, database records). **Prompts** are "reusable templates
-that help structure interactions with language models." Clients can in turn expose
-*sampling* (the server asks the host for an LLM completion), *elicitation* (the server
-asks the user for input), and *logging*. (modelcontextprotocol.io.)
+FACT: it has three parts. The host is the AI app you actually use, such as a desktop
+assistant or a coding tool. A server is a small program that offers one tool or data
+source, like your files, a database, or a website. A client is the connector inside the
+host that links it to a single server, one client per server. A server can offer three
+kinds of thing: tools (actions the model can take), resources (data it can read, such as
+the contents of a file), and prompts (ready-made templates). Underneath all of it, MCP
+just sets a common message format so every piece understands the others.
+(modelcontextprotocol.io.)
 
-FACT: under the hood MCP uses JSON-RPC 2.0 over two transports: `stdio` for local
-processes and "Streamable HTTP" for remote servers (with bearer tokens or API keys;
-the docs recommend OAuth). It is a stateful protocol: an `initialize` request
-negotiates the protocol version and capabilities. (modelcontextprotocol.io.)
-
-Assessment: MCP's value is turning an M-times-N integration problem (M apps, N tools)
-into M-plus-N, each tool ships one server, each app ships one client. To the model,
-calling a tool defined inline and calling one exposed through an MCP server look the
-same (a name, a description, a JSON Schema); MCP adds discovery, dynamic updates, and
-reuse across hosts. It has become the de facto interoperability layer for agent
-tooling in 2025 and 2026.
+Assessment: the payoff is the USB-C idea. Instead of wiring every app to every tool, each
+tool ships one MCP server and each app ships one MCP client. To the model, a tool offered
+through MCP looks exactly like any other tool: a name, a description, and its inputs. MCP
+just makes tools easy to share and reuse across different apps. By 2026 it had become the
+common way for agents to reach the outside world.
 
 ## Sources
 

@@ -8,7 +8,7 @@ tags: [ai, ai-agents, llm, agent-engineering, workflows]
 created: 2026-06-28
 ---
 
-# Chapter 1 — Workflows vs agents
+# Workflows vs agents
 
 The first choice you make is simple to say: how much freedom do you give the model? You
 can keep it on a track you built, or you can let it find its own way. This chapter

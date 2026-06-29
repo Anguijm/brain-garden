@@ -8,104 +8,96 @@ tags: [ai, ai-agents, llm, agent-engineering, memory]
 created: 2026-06-28
 ---
 
-# Chapter 3 — Memory for agents
+# Memory
 
-A model has no memory of its own between calls; everything it "knows" in a session is
-whatever you put in front of it. Agent memory is the engineering that lets a system
-remember facts, past interactions, and learned habits across turns and across sessions.
-This chapter lays out the standard taxonomy, how memory gets written and read, and the
-framework landscape. The next-generation research approach to memory gets its own
-[chapter 9 on MRAgent](09-mragent).
+The [foundation chapter](00-what-is-an-llm) pointed out a hard limit: a model forgets
+everything between chats. On its own, all a model "knows" in a conversation is whatever
+you have placed in front of it right now. Memory is the engineering that works around
+this. It lets a system hold on to facts, past conversations, and learned habits from one
+turn to the next, and from one session to the next. This chapter covers the two basic
+kinds of memory, the three flavors of long-term memory, and the main tools people use to
+build them.
 
-## Short-term versus long-term
+## Short-term and long-term
 
-FACT: memory splits into short-term (also called working memory) and long-term. In
-LangChain and LangGraph terms, short-term memory is "thread-scoped": it "tracks the
-ongoing conversation by maintaining message history within a session." Long-term
-memory is saved in named "namespaces," persists beyond a single thread, and can be
-retrieved "at any time and in any thread." (LangChain docs.)
+FACT: memory divides into short-term (also called working memory) and long-term.
+Short-term memory is the current conversation. It lasts only as long as the session and
+vanishes when the session ends. Long-term memory is stored outside the conversation,
+survives across sessions, and can be pulled back in whenever it is needed. (LangChain
+documentation.)
 
-Assessment: in practice, short-term memory *is* the context window, the system
-prompt, tool definitions, message history, and scratchpad. It is volatile and bounded
-by the window. Long-term memory is external storage (a vector database, a key-value
-store, files, or a graph) that gets read back into the window on demand. Managing the
-short-term side well is its own discipline, covered in [chapter 4](04-context-engineering).
+Assessment: in practice, short-term memory *is* the context window, the limited space a
+model can read at once that we met in the [foundation chapter](00-what-is-an-llm) and
+return to in the [context chapter](04-context-engineering). Long-term memory lives in
+outside storage, most often a vector database, which is a store that finds saved items by
+their meaning rather than by exact wording. When the system needs an old fact, it looks it
+up there and drops it back into the context window.
 
-![Diagram: short-term working memory is the context window; long-term memory splits into semantic (what you know), episodic (what happened), and procedural (how you do it), with write paths and frameworks listed below](img/memory-taxonomy.png)
-*The memory taxonomy for agents. Diagram.*
+![Diagram: short-term memory is the context window; long-term memory splits into semantic (what you know), episodic (what happened), and procedural (how you do it)](img/memory-taxonomy.png)
+*Short-term memory is the live conversation; long-term memory comes in three kinds. Diagram.*
 
 ## The three kinds of long-term memory
 
-FACT: the common split, borrowed explicitly from human cognitive psychology, is three
-types (LangChain docs; LangMem):
+FACT: long-term memory is usually split into three types, borrowed directly from how
+psychologists describe human memory (LangChain; LangMem):
 
-- **Semantic memory** is "the retention of specific facts and concepts," used to
-  personalize by remembering facts about the user or the world. It is often stored as
-  a profile, a collection, or knowledge triples.
-- **Episodic memory** is "recalling past events or actions," memories of specific
-  past interactions. It is often implemented by storing successful past episodes and
-  replaying them as few-shot examples.
-- **Procedural memory** is "remembering the rules used to perform tasks,"
-  generalized skills and behavior. It is held across model weights, agent code, and
-  the prompt; LangMem focuses on saving learned procedures as updated instructions in
-  the agent's prompt.
+- **Semantic memory** holds facts: things the system knows about you or the world, such
+  as your name or your preferences. It is the closest thing to a profile.
+- **Episodic memory** holds past events: specific things that happened before. A common
+  use is to save examples of earlier conversations that went well and replay them later
+  as a guide, which is the same "show it an example" idea from the
+  [prompting chapter](10-how-to-prompt).
+- **Procedural memory** holds know-how: the rules and habits for doing a task. It often
+  lives right in the model's instructions and gets updated as the system learns a better
+  way to work.
 
-Assessment: the mnemonic is semantic = *what you know*, episodic = *what happened*,
-procedural = *how you do it*.
+Assessment: an easy way to keep them straight is semantic = *what you know*, episodic =
+*what happened*, procedural = *how you do it*.
 
-## How memory gets written and read
+## Writing and reading memory
 
-The hard problem is not storing a fact, it is deciding when to write and how to keep
-the store consistent over time.
+The hard part is not saving a single fact. It is deciding when to save, and keeping the
+saved memories consistent as they pile up and sometimes contradict each other.
 
-FACT: LangChain names two write paths. Writing "in the hot path" forms memories during
-runtime, so they are "immediately available" but they "impact agent latency." Writing
-"in the background" uses a separate task, which "eliminates latency" but forces you to
-decide how often to write and when to trigger formation. Reads use a namespace and key
-and support semantic search and filtering. (LangChain docs.)
+FACT: there are two moments you can write a memory. You can write it immediately, during
+the conversation, which makes it available right away but adds a small delay (builders
+call that delay "latency"). Or you can write it later, in the background, which avoids the
+delay but forces you to decide how often to save. (LangChain.)
 
-FACT: Mem0's write path runs two phases: an extraction phase where an LLM pulls salient
-facts from the conversation, and an update phase that compares new information against
-existing memories and issues `ADD`, `UPDATE`, `DELETE`, or `NOOP` operations to keep
-the store consistent. (Mem0 paper, arXiv:2504.19413.)
+FACT: Mem0, a popular memory tool, writes in two steps. First it pulls the important facts
+out of the conversation. Then it compares those facts against what it already stored and
+decides whether to add, update, delete, or do nothing, so the store stays consistent over
+time. (Mem0 paper, arXiv:2504.19413.)
 
-Assessment: practical write triggers are the end of a session, crossing a token
-budget, or an LLM judging something salient enough to keep. The recurring hard part is
-*update and consolidation*, resolving contradictions, de-duplicating, and expiring
-stale facts, not the initial store.
+Assessment: good moments to save are the end of a session, the point where a conversation
+grows long, or any time the model judges something worth keeping. The genuinely hard
+problem is keeping memory clean as it grows: resolving contradictions, removing
+duplicates, and dropping facts that have gone stale. Saving is easy; tidy upkeep is not.
 
-## The framework landscape
+## The main tools
 
-Assessment: the field clusters into three shapes. Read this as a map, not an
-endorsement; the benchmark numbers below are self-reported by each system's authors
-against baselines they chose, so treat them as claims, not settled fact.
+Assessment: the available tools fall into three shapes. Treat the performance numbers each
+one advertises with some caution, because they come from each tool's own makers, measured
+against rivals the makers themselves chose.
 
-**Operating-system-style tiered memory.** FACT: MemGPT (arXiv:2310.08560, "Towards
-LLMs as Operating Systems") borrows from OS virtual memory. It pages information
-between a fast in-window "main context," a searchable "recall storage" of conversation
-history, and a long-term "archival storage" vector store, and the model edits its own
-memory through function calls. Letta is the open-source framework MemGPT became, with
-the same core, recall, and archival tiers.
+- **Tiered, like a computer's memory.** FACT: MemGPT, and its open-source version Letta,
+  copies the way a computer juggles memory. It uses a small fast layer the model works in,
+  a searchable record of the conversation, and a large long-term store, and the model
+  shifts information between these layers itself. (MemGPT paper, arXiv:2310.08560.)
+- **A drop-in memory layer.** FACT: Mem0 and LangMem sit on top of an existing system and
+  handle the saving and recalling for you, extracting facts and storing them so you do not
+  have to wire it up yourself. (Mem0 paper; LangMem.)
+- **A memory that tracks time.** FACT: Zep, built on a tool called Graphiti, records not
+  just what is true but *when* it was true. When a fact changes, it marks the old version
+  as expired instead of deleting it, so you can still ask "what was the plan back in
+  January?" (Zep paper, arXiv:2501.13956.)
 
-**LLM-managed memory layers.** FACT: Mem0 is a "universal memory layer" that
-extracts, consolidates, and retrieves facts and drops in over an existing agent; its
-paper reports large latency and token-cost savings versus a full-context baseline on
-the LOCOMO benchmark, and a graph variant (Mem0g) that scores slightly higher.
-LangMem is LangChain's SDK for extracting and managing semantic, episodic, and
-procedural memories over a pluggable store.
-
-**Temporal knowledge graphs.** FACT: Zep, built on the open-source Graphiti engine,
-is a "temporally-aware knowledge graph." It uses a bi-temporal model that tracks both
-when an event occurred and when it was ingested; on a contradiction it closes the old
-fact's validity window rather than deleting it, which keeps history queryable and
-supports point-in-time questions like "what was the user's plan in January?" (Zep
-paper, arXiv:2501.13956.)
-
-Assessment: vector-only memory is the simplest but weakest at relational and temporal
-reasoning. Graph and temporal systems add that capability at a higher ingestion cost.
-Which you need is set by your queries: simple fact recall versus multi-hop "what
-changed when" reasoning. The MRAgent work in [chapter 9](09-mragent) is a fourth
-shape, a graph you actively *reconstruct* over rather than passively retrieve from.
+Assessment: the simplest option is a store that only matches by meaning. It is easy to set
+up but weak at questions that connect many facts or depend on timing. The time-aware and
+connected stores handle those better, but they cost more to build and maintain. Which one
+you need depends on your questions: plain recall, or "what changed, and when?" The
+[MRAgent chapter](09-mragent) covers a newer fourth idea, a memory the model actively
+rebuilds as it reasons, rather than one it just looks things up in.
 
 ## Sources
 
