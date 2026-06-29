@@ -17,11 +17,11 @@ chapter explains both, and shows the common shapes that most real systems are bu
 
 ## Two kinds: workflow and agent
 
-There are two main ways to build with a model.
-
-FACT: in a **workflow**, the model and its tools follow steps you wrote ahead of time, in
-code. In an **agent**, the model decides its own steps as it goes along. (Anthropic,
-*Building Effective Agents*; the same split appears in the LangGraph docs.)
+There are two main ways to build with a model, and the difference comes down to who is in
+charge of the steps. FACT: in a **workflow**, the model and its tools follow steps that you
+wrote ahead of time, in code, whereas in an **agent**, the model decides its own steps as it
+goes along. (Anthropic, *Building Effective Agents*; the same split appears in the LangGraph
+docs.)
 
 The real difference is who picks the order of the steps. In a workflow, you do, before it
 ever runs; in an agent, the model does, while it runs, based on what it discovers along the
@@ -66,21 +66,23 @@ LangGraph and OpenAI describe, so they are widely agreed on rather than one comp
 style.
 
 1. **Chain (do it in steps).** Break the task into a fixed line of steps, where each step
-   takes the previous step's output and you can drop a quick check in between. This works
-   well when a task splits cleanly into set parts.
-2. **Route (sort, then send).** First sort the request into a type, then send it to the
-   step built for that type. This works well when requests fall into clear groups, such as
-   a refund question versus a technical one.
-3. **Parallel (run at the same time).** Run several model calls at once and combine the
-   results. You might split a task into separate parts handled side by side, or run the
-   same task a few times and compare the answers for more confidence.
+   takes the previous step's output and you can drop a quick check in between, an approach
+   that works well whenever a task splits cleanly into a set sequence of parts.
+2. **Route (sort, then send).** First sort the incoming request into a type, then send it to
+   the step that was built for that type, which works well when requests fall into clearly
+   different groups, such as a refund question versus a technical one.
+3. **Parallel (run at the same time).** Run several model calls at once and then combine
+   their results, either by splitting a task into separate parts handled side by side, or by
+   running the same task a few times and comparing the answers for more confidence.
 4. **Manager and helpers.** A main "manager" model breaks the job into smaller jobs, hands
-   them to helper models, and combines what comes back. What sets it apart from "parallel"
-   is that the manager decides those smaller jobs on the spot, rather than you fixing them
-   in advance, which suits big, messy tasks like changes spread across many files.
-5. **Make and check.** One model writes a draft, a second model reviews it and gives notes,
-   and they loop until it is good enough. This works well when you can clearly define what
-   "good" means, and it is the machine version of draft-and-revise.
+   them to helper models, and combines whatever comes back; what sets it apart from
+   "parallel" is that the manager decides those smaller jobs on the spot rather than you
+   fixing them in advance, which makes it a good fit for big, messy tasks such as changes
+   spread across many files.
+5. **Make and check.** One model writes a draft while a second model reviews it and offers
+   notes, and the two loop back and forth until the result is good enough, which works well
+   whenever you can clearly define what "good" looks like. It is the machine version of
+   draft-and-revise.
 
 Assessment: "route" and "chain" alone handle a surprising amount of real work. "Manager and
 helpers" is the pattern that grows into a multi-agent system (see the

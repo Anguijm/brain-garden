@@ -11,9 +11,9 @@ created: 2026-06-29
 
 # Start here: what is an AI model?
 
-This is the ground floor. If words like "model," "token," or "prompt" feel fuzzy, read
-this first, because the rest of the section leans on them. You do not need any computer
-background to follow it.
+This is the ground floor, so if words like "model," "token," or "prompt" feel fuzzy to you,
+this is the chapter to read first, because nearly everything else in the section is built on
+top of them. You do not need any computer background whatsoever to follow along.
 
 ## The one big idea: it guesses the next word
 
@@ -33,11 +33,10 @@ finishing your sentences.
 
 ## How it learned: training
 
-The model became good at guessing by reading an enormous amount of text first.
-
-FACT: before you ever use it, the model is "trained," which means it is shown a huge body
-of text and slowly adjusts itself to predict text more accurately. (This is the standard
-description of how these models are built.)
+The model became good at guessing by reading an enormous amount of text before you ever got
+to use it. FACT: that preparation is called "training," which means the model is shown a
+huge body of text and slowly adjusts itself, over and over, until it predicts text more
+accurately. (This is the standard description of how these models are built.)
 
 Two consequences matter for you. The model learned all of this **ahead of time**, so it
 is not reading the live internet while it talks to you, unless it is given a search tool,
@@ -47,20 +46,22 @@ conversation starts from scratch, a point we return to in the
 
 ## A few words you will keep seeing
 
-You only need a handful of terms to follow everything else in this section.
+You really only need a handful of terms to follow everything else in this section.
 
-- **Model.** The program itself, the "brain" that does the guessing. Newer models are
-  better at it, and Claude is one well-known family of models.
-- **Prompt.** Whatever you type to the model: your question, plus any background you
-  provide. Better prompts produce better answers, which is a small skill of its own.
-- **Token.** Models do not read whole words; they read small chunks called tokens. FACT:
-  one token is roughly three-quarters of a word, very approximately four characters of
-  English, so "tokenize" might be split into "token" and "ize." You never have to count
-  them yourself, but two things follow: you usually **pay per token**, and there is a
-  **limit** on how many a model can handle at once.
-- **Context window.** This is how much the model can read at one time, meaning your prompt
-  plus everything said in the chat so far. Picture a desk that only holds so many papers:
-  once it is full, something has to come off. The size of that desk is the context window.
+- **Model.** The program itself, the "brain" that does the actual guessing. Newer models
+  are noticeably better at it, and Claude is one well-known family of these models.
+- **Prompt.** Whatever you type to the model, meaning your question plus any background you
+  decide to provide. Better prompts reliably produce better answers, which turns out to be
+  a small skill of its own.
+- **Token.** Models do not read whole words; instead they read small chunks called tokens.
+  FACT: one token is roughly three-quarters of a word, very approximately four characters of
+  English, so a word like "tokenize" might be split into "token" and "ize." You never have
+  to count them yourself, but two consequences matter: you usually **pay per token**, and
+  there is a hard **limit** on how many a model can handle at one time.
+- **Context window.** This is how much text the model can read at once, meaning your prompt
+  plus everything that has been said in the chat so far. Picture a desk that only holds so
+  many sheets of paper: once it is full, something already on it has to come off. The size
+  of that desk is the context window.
 
 ## Three limits to always keep in mind
 
@@ -81,15 +82,15 @@ remember nothing else, remember these.
 ## Why this matters for the rest of this section
 
 Once you see those three limits, the rest of the section falls into place, because each
-part is really a way to give the model something it cannot do on its own:
+part is really a way of giving the model something it cannot manage on its own:
 
-- **[Tools](07-tools-and-mcp)** let it *do things*, such as searching the web or running
-  code, instead of only writing.
-- **[Memory](08-memory-for-agents)** lets it *remember* across chats.
-- **[Context engineering](09-context-engineering)** keeps its "desk" tidy so it does not
-  lose track.
-- **[Retrieval](10-retrieval-and-rag)** feeds it the right facts so it does not have to
-  guess from memory.
+- **[Tools](07-tools-and-mcp)** let it actually *do things*, such as searching the web or
+  running code, rather than only producing text.
+- **[Memory](08-memory-for-agents)** lets it *remember* information across separate chats.
+- **[Context engineering](09-context-engineering)** keeps its "desk" tidy and focused so it
+  does not lose track of what matters.
+- **[Retrieval](10-retrieval-and-rag)** feeds it the right facts at the right moment so it
+  does not have to guess from memory.
 
 Assessment: the most useful way to read this whole section is "the model, plus help." The
 model writes and reasons; everything else helps it act, remember, and stay accurate.
