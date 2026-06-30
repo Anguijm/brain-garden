@@ -8,6 +8,9 @@ than raw research. Newest is first.
 
 ## Latest
 
+- **[Godot, a plain-English course](topics/software/godot)** — learn the free, open-source
+  game engine from zero: nodes and scenes, the editor, GDScript, signals and the game loop,
+  building a small game, and exporting it. Illustrated.
 - **[Plastic and tissue: 3D-printed flying model aircraft](topics/making/3d-printed-tissue-aircraft)**
   — replacing balsa with X1C-printed LW-PLA frames and keeping the tissue: how printed
   airframes are built, where it flies (and where balsa still wins), and the honest
