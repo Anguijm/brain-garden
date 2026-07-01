@@ -64,6 +64,9 @@ You can read it straight through, or jump to what you need.
    together.
 6. **[Going further](06-going-further)** — 2D versus 3D, physics, menus, sound, and how to
    export your finished game so other people can play it.
+7. **[Pro-level patterns](07-pro-patterns)** — the advanced capstone: the real Godot 4.x
+   habits that keep a growing game tidy and fast, with code examples. Read this once the
+   earlier chapters feel comfortable.
 
 ## How to actually learn it
 
