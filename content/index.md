@@ -8,6 +8,10 @@ than raw research. Newest is first.
 
 ## Latest
 
+- **[Mobile game engines you can drive from the CLI](topics/software/mobile-game-engines)** —
+  a survey of free, hobbyist-friendly engines for building Android and iOS games from the
+  command line (Godot, Defold, Solar2D, Flame, libGDX, MonoGame, raylib, Ebitengine,
+  macroquad), with the real build commands and honest caveats. Illustrated.
 - **[Godot, a plain-English course](topics/software/godot)** — learn the free, open-source
   game engine from zero: nodes and scenes, the editor, GDScript, signals and the game loop,
   building a small game, and exporting it. Illustrated.
