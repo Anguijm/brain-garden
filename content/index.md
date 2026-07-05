@@ -8,6 +8,10 @@ than raw research. Newest is first.
 
 ## Latest
 
+- **[Muscle, aging, and "anabolic resistance"](topics/health/muscle-protein-synthesis-aging)**
+  — the real science behind a muscle-supplement pitch: how muscle stops responding to protein
+  as you age, what leucine and HMB actually do, and an honest verdict on Apex Muscle Defense
+  (real science, oversold product). Illustrated.
 - **[Mobile game engines you can drive from the CLI](topics/software/mobile-game-engines)** —
   a survey of free, hobbyist-friendly engines for building Android and iOS games from the
   command line (Godot, Defold, Solar2D, Flame, libGDX, MonoGame, raylib, Ebitengine,
