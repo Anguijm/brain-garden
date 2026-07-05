@@ -77,6 +77,8 @@ helps, might help, or can hurt.
    truth about "fat burners" and berberine, and the real list of things to avoid.
 4. **[A simple daily plan](04-daily-plan)** — the do-this version: what to take, when, in
    what order to add it, and roughly what it costs.
+5. **[If you are prone to gout (high uric acid)](05-gout-and-uric-acid)** — how gout changes
+   the plan: what helps, what to watch (don't crash-diet), and the doctor's lane.
 
 This connects to the note on [muscle and aging](../muscle-protein-synthesis-aging), which
 covers the protein-and-muscle side in depth, and it runs on the same

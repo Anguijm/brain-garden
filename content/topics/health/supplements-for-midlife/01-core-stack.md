@@ -129,6 +129,28 @@ doses (above 1 gram a day) are linked to a small, dose-dependent rise in a heart
 problem called atrial fibrillation, so do not overdo it. (Meta-analyses.) Eating fatty fish
 twice a week is a fine substitute.
 
+## What about HMB and leucine?
+
+You may notice this stack leaves out two things a "muscle" supplement pushes hard, standalone
+**leucine** and **HMB**, like the Apex product in the
+[muscle-and-aging note](../muscle-protein-synthesis-aging). That is on purpose.
+
+Assessment: leucine is the amino acid that flips on muscle-building, but you already get
+plenty of it from protein, and whey is especially rich in it. FACT: leucine taken on its own,
+across 17 trials, produced no meaningful gain in muscle or strength. (Meta-analysis, from the
+muscle note.) So hitting your protein target does the job; a separate leucine pill adds little.
+
+Assessment: HMB is made from leucine and mostly slows muscle *breakdown*. FACT: its evidence
+is modest and mostly about sparing muscle during illness or bed rest, and much of the benefit
+disappears once you are training and eating enough protein. (Meta-analyses, from the muscle
+note.) There is a thin case for it while dieting, since it is anti-catabolic, but resistance
+training plus enough protein already protect your muscle in a deficit, and the studied dose is
+3 grams (the product had only 1). Assessment: for a healthy, training, well-fed 48-year-old,
+whey plus creatine plus enough protein covers what leucine and HMB are sold to do, more cheaply
+and with better evidence. Save HMB for a genuine catabolic situation, like serious illness or
+bed rest, at the real 3-gram dose. Neither one raises uric acid, if gout is a concern (see the
+[gout chapter](05-gout-and-uric-acid)).
+
 ## Sources
 
 - Creatine + resistance training in older adults, meta-analysis — https://pmc.ncbi.nlm.nih.gov/articles/PMC5679696/
