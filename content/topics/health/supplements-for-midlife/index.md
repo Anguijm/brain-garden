@@ -75,6 +75,8 @@ helps, might help, or can hurt.
    cherry, collagen, electrolytes, and what actually helps you sleep.
 3. **[The weight-loss aisle, and what can hurt](03-weight-loss-and-harms)** — the honest
    truth about "fat burners" and berberine, and the real list of things to avoid.
+4. **[A simple daily plan](04-daily-plan)** — the do-this version: what to take, when, in
+   what order to add it, and roughly what it costs.
 
 This connects to the note on [muscle and aging](../muscle-protein-synthesis-aging), which
 covers the protein-and-muscle side in depth, and it runs on the same
