@@ -8,6 +8,10 @@ than raw research. Newest is first.
 
 ## Latest
 
+- **[Supplements for a midlife body: help, not hurt](topics/health/supplements-for-midlife)**
+  — an honest, evidence-based guide for a 48-year-old overweight man who's training: the short
+  stack that actually works (creatine, protein, vitamin D, psyllium), what's situational, and
+  the real list of things to avoid, with safety and bloodwork first. Illustrated.
 - **[Muscle, aging, and "anabolic resistance"](topics/health/muscle-protein-synthesis-aging)**
   — the real science behind a muscle-supplement pitch: how muscle stops responding to protein
   as you age, what leucine and HMB actually do, and an honest verdict on Apex Muscle Defense
