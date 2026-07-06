@@ -97,6 +97,11 @@ through MCP looks exactly like any other tool: a name, a description, and its in
 just makes tools easy to share and reuse across different apps. By 2026 it had become the
 common way for agents to reach the outside world.
 
+
+## See also
+
+- **In this series:** [← Workflows vs agents](06-workflows-vs-agents) · [Memory for agents →](08-memory-for-agents) · [Overview](../ai-engineering)
+
 ## Sources
 
 - Claude Developer docs, *Tool use with Claude* — https://platform.claude.com/docs/en/docs/build-with-claude/tool-use/overview

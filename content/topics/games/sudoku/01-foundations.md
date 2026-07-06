@@ -38,3 +38,7 @@ Keep these in your back pocket; the rest of the series is variations on them.
 
 1. **What is the only digit that can go in this cell?** (cell-focused)
 2. **Where is the only place this digit can go in this unit?** (digit-focused)
+
+## See also
+
+- **In this series:** [Singles →](02-singles) · [Overview](../sudoku)

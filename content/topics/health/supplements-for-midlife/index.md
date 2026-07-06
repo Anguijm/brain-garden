@@ -84,3 +84,8 @@ This connects to the note on [muscle and aging](../muscle-protein-synthesis-agin
 covers the protein-and-muscle side in depth, and it runs on the same
 [don't-get-fooled habit](../../../connections/using-ai-well) as the rest of this garden: a
 confident pitch is not evidence.
+
+## See also
+
+- **[Muscle, aging, and anabolic resistance](../muscle-protein-synthesis-aging)** — the muscle-and-aging science behind the plan.
+- **[Using AI well](../../../connections/using-ai-well)** — the same 'a confident pitch is not evidence' habit.

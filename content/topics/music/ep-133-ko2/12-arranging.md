@@ -60,3 +60,7 @@ perform a punch-in move and [resample](16-advanced-techniques.md) it into a
 dedicated transition sample.
 
 Next: [Performing live](13-performing-live.md).
+
+## See also
+
+- **In this series:** [← Mixing, the master compressor, and sidechain](11-mixing-and-master) · [Performing live →](13-performing-live) · [Overview](../ep-133-ko2)

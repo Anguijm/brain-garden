@@ -42,3 +42,7 @@ two digits that share the exact same two cells (and only those), that's a hidden
 pair. Three digits sharing the same three cells, a hidden triple. Hidden subsets are
 worth the effort because they cut clutter that no naked technique would catch, and
 they often expose a naked single right after.
+
+## See also
+
+- **In this series:** [← Naked subsets](03-naked-subsets) · [Intersections →](05-intersections) · [Overview](../sudoku)

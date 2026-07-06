@@ -117,6 +117,11 @@ Assessment (across sources): treat it as a steamer, slow cooker, and porridge po
   little and rinse next time.
 - **Keep-warm** is safe for hours, but flavor/texture are best within a few hours.
 
+
+## See also
+
+- **[Making with the X1C](../../connections/making-with-the-x1c)** — a different 'one tool, many jobs' story (there one printer, here one appliance).
+
 ## Sources
 
 All are recipe blogs / aggregators (hobbyist tier); good for ideas and method,

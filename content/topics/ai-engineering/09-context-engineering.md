@@ -80,6 +80,12 @@ drives [retrieval](10-retrieval-and-rag), which pulls in only the facts you need
 [splitting work across agents](12-multi-agent-systems), which gives each one its own clean
 window.
 
+
+## See also
+
+- **In this series:** [← Memory for agents](08-memory-for-agents) · [Retrieval and RAG →](10-retrieval-and-rag) · [Overview](../ai-engineering)
+- **[Finite resources](../../connections/finite-resources)** — the context window as one of the garden's four hard ceilings.
+
 ## Sources
 
 - Anthropic, *Effective Context Engineering for AI Agents* — https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents

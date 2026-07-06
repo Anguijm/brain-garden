@@ -53,3 +53,7 @@ sidechain, hands-free sampling, MIDI thru). Use a good cable and a powered port,
 don't interrupt an update mid-flash.
 
 Next: [Advanced techniques](16-advanced-techniques.md).
+
+## See also
+
+- **In this series:** [← MIDI and sync](14-midi-and-sync) · [Advanced techniques and recipes →](16-advanced-techniques) · [Overview](../ep-133-ko2)

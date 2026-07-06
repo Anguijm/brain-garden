@@ -65,6 +65,11 @@ real milestone, and it proves the whole loop works before you write a single lin
 That code is the next step. The [GDScript chapter](03-gdscript) shows how a script attaches
 to one of these nodes and makes it actually do something.
 
+
+## See also
+
+- **In this series:** [← Nodes and scenes](01-nodes-and-scenes) · [GDScript →](03-gdscript) · [Overview](../godot)
+
 ## Sources
 
 - Godot docs, *First look at Godot's editor* — https://docs.godotengine.org/en/stable/getting_started/introduction/first_look_at_the_editor.html

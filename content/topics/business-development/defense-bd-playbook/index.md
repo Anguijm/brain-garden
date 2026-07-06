@@ -75,3 +75,7 @@ If you are standing up a BD function, read it in order. If you are running a liv
 pursuit, jump to chapter 1 for the lifecycle, chapter 2 to make the bid/no-bid
 call, then chapters 4 and 6 to build the capture plan. The templates in chapter 11
 are meant to be copied and filled in per opportunity.
+
+## See also
+
+- **[The AI engineering course](../../ai-engineering)** — the AI wing behind the 'Gen AI in BD' chapter.

@@ -41,3 +41,7 @@ bottom; the first thing that works resets you to the top.
 - Hard: add intersections and X-Wing.
 - Expert: add wings, fish, and chains.
 - Diabolical: the deep end of Lesson 12, or uniqueness shortcuts.
+
+## See also
+
+- **In this series:** [← Advanced chains and last resort](12-advanced-chains) · [Overview](../sudoku)

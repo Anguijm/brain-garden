@@ -91,6 +91,11 @@ removes, hold a mode button then use `-`/`+` and the knobs.
 - **Note repeat** — hold `TIMING` + pad for rolls/fills.
 - **Mute group** — pads set to choke each other (e.g. hats).
 
+
+## See also
+
+- **In this series:** [← Advanced techniques and recipes](16-advanced-techniques) · [Recipes →](18-recipes) · [Overview](../ep-133-ko2)
+
 ## Sources
 
 This course was synthesized chiefly from Teenage Engineering's official guide and

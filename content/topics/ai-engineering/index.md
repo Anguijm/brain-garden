@@ -87,3 +87,8 @@ Assessment: this rule runs through the whole section. A plain model call beats a
 setup you do not need. One agent beats five that mostly talk to each other. Giving the
 model more freedom costs more money, more waiting, and makes problems harder to find. So
 add freedom only when you truly need it.
+
+## See also
+
+- **[Using AI well](../../connections/using-ai-well)** — the discipline running under this whole wing: a fluent model is an assistant, not an oracle.
+- **[Using Gen AI in BD without fooling yourself](../business-development/defense-bd-playbook/10-gen-ai-in-bd)** — the same AI ideas put to work in a real job.

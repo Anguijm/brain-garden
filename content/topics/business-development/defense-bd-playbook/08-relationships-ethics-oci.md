@@ -77,3 +77,7 @@ potentially your eligibility to contract at all. When unsure, ask your contracts
 and legal team before you act, not after.
 
 Next: [Pipeline, metrics, and cadence](09-pipeline-metrics-cadence.md).
+
+## See also
+
+- **In this series:** [← Proposal management](07-proposal-management) · [Pipeline, metrics, and cadence →](09-pipeline-metrics-cadence) · [Overview](../defense-bd-playbook)

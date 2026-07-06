@@ -100,6 +100,12 @@ you need depends on your questions: plain recall, or "what changed, and when?" T
 [MRAgent chapter](14-mragent) covers a newer fourth idea, a memory the model actively
 rebuilds as it reasons, rather than one it just looks things up in.
 
+
+## See also
+
+- **In this series:** [← Tools and MCP](07-tools-and-mcp) · [Context engineering →](09-context-engineering) · [Overview](../ai-engineering)
+- **[MRAgent](14-mragent)** — a specific, research-grade memory design.
+
 ## Sources
 
 - LangChain, *Memory overview* — https://docs.langchain.com/oss/python/concepts/memory

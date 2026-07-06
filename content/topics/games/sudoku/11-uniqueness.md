@@ -48,3 +48,7 @@ For URs, scan for three matching {X,Y} cells that form a rectangle with a fourth
 busier cell. For BUG, notice when the grid collapses to almost-all bivalue cells; the
 lone three-candidate cell is your answer. Both are shortcuts, not necessities: a
 puzzle is always solvable without uniqueness logic, this just gets there faster.
+
+## See also
+
+- **In this series:** [← Chains](10-chains) · [Advanced chains and last resort →](12-advanced-chains) · [Overview](../sudoku)

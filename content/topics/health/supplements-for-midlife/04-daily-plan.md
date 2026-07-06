@@ -112,3 +112,8 @@ consistent, and let the boring basics do the heavy lifting.
 
 This is general information, not medical advice; run it past your doctor or pharmacist,
 especially with any health conditions or medications.
+
+## See also
+
+- **In this series:** [← The weight-loss aisle, and what can hurt](03-weight-loss-and-harms) · [If you are prone to gout (high uric acid) →](05-gout-and-uric-acid) · [Overview](../supplements-for-midlife)
+- **[If you are prone to gout (high uric acid)](05-gout-and-uric-acid)** — how to adjust the plan if you are gout-prone.

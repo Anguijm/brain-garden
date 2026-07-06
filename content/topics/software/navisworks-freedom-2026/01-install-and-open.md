@@ -75,3 +75,7 @@ can carry a password or an expiry date set by the author; if so, Freedom will
 prompt or refuse accordingly.
 
 Next: [The interface](02-interface.md).
+
+## See also
+
+- **In this series:** [The interface →](02-interface) · [Overview](../navisworks-freedom-2026)

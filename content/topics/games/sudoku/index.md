@@ -42,3 +42,8 @@ has a forced answer.
 Lesson 13 is the practical heart: walk its checklist top to bottom and the first
 technique that works resets you to the top. Lessons 1 to 8 solve the vast majority of
 puzzles.
+
+## See also
+
+- **[Finite resources](../../../connections/finite-resources)** — sudoku is the garden's cleanest constraint-solving example: narrow the search cheaply first.
+- **[Homebrew on portable game devices](../portable-homebrew)** — another games note: a classic puzzle to run on a handheld.

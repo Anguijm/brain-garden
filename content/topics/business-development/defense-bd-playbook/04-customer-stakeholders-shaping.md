@@ -149,3 +149,7 @@ without a single improper act. That outcome is built over many honest
 conversations and demonstrated competence, not bought.
 
 Next: [Teaming and partnerships](05-teaming-partnerships.md).
+
+## See also
+
+- **In this series:** [← The acquisition landscape](03-acquisition-landscape) · [Teaming and partnerships →](05-teaming-partnerships) · [Overview](../defense-bd-playbook)

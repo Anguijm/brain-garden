@@ -86,6 +86,13 @@ one good agent would have. The honest default, the same one from the
 [workflows chapter](06-workflows-vs-agents), is to reach for a team only when the work is
 genuinely wide and the payoff is worth roughly fifteen times the cost.
 
+
+## See also
+
+- **In this series:** [← Evaluation and testing](11-evaluation-and-testing) · [Safety and best practices →](13-safety-and-best-practices) · [Overview](../ai-engineering)
+- **[Workflows vs agents](06-workflows-vs-agents)** — the simpler single-agent picture this builds on.
+- **[MRAgent](14-mragent)** — memory shared across agents.
+
 ## Sources
 
 - Anthropic, *How we built our multi-agent research system* — https://www.anthropic.com/engineering/multi-agent-research-system

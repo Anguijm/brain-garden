@@ -92,3 +92,7 @@ communicated as a decision to support a teammate instead) can preserve the
 relationship.
 
 Next: [The acquisition landscape](03-acquisition-landscape.md).
+
+## See also
+
+- **In this series:** [← The capture lifecycle](01-capture-lifecycle) · [The acquisition landscape →](03-acquisition-landscape) · [Overview](../defense-bd-playbook)

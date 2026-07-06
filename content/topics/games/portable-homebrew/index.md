@@ -141,3 +141,9 @@ Assessment: at its best, homebrew is about ownership, creativity, preservation, 
 learning, keeping good hardware useful, giving developers a playground, and saving
 software and media history that the official channels eventually abandon. That's the
 version of the scene worth celebrating, and it's the version this note is about.
+
+## See also
+
+- **[Godot, a plain-English course](../../software/godot)** — a friendly engine for building your own games.
+- **[Mobile game engines (CLI)](../../software/mobile-game-engines)** — more engines that fit small hardware.
+- **[Sudoku](../sudoku)** — a classic puzzle to run on one.

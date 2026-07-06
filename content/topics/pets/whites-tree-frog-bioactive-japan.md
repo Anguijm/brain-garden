@@ -235,6 +235,14 @@ open.
 5. Seed the cleanup crew; let it establish 10–14 days.
 6. Add the two frogs. Feed lightly; watch weight.
 
+
+## See also
+
+- **[Using AI well](../../connections/using-ai-well)** — this note is a worked example of it: an adversarial pass over an AI's confident build plan.
+- **[Making with the X1C](../../connections/making-with-the-x1c)** — the terrarium uses printed parts too (PETG, not PLA).
+- **[Plastic-and-tissue model aircraft](../making/3d-printed-tissue-aircraft)** — the same heat-and-humidity materials call.
+- **[Puppy training](puppy-training)** — the garden's other animal-care guide.
+
 ## Sources
 
 Care basics (independent care sheets, converging; all hobbyist/vendor tier unless

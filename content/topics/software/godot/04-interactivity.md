@@ -115,6 +115,11 @@ talk. With [nodes and scenes](01-nodes-and-scenes), [the editor](02-the-editor),
 [scripts](03-gdscript), that is everything you need to build a small game, which is exactly
 what the [next chapter](05-first-game) does.
 
+
+## See also
+
+- **In this series:** [← GDScript](03-gdscript) · [Building a small game →](05-first-game) · [Overview](../godot)
+
 ## Sources
 
 - Godot docs, *Idle and Physics Processing* — https://docs.godotengine.org/en/stable/tutorials/scripting/idle_and_physics_processing.html

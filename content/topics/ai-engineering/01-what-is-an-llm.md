@@ -95,6 +95,11 @@ part is really a way of giving the model something it cannot manage on its own:
 Assessment: the most useful way to read this whole section is "the model, plus help." The
 model writes and reasons; everything else helps it act, remember, and stay accurate.
 
+
+## See also
+
+- **In this series:** [How to write a good prompt →](02-how-to-prompt) · [Overview](../ai-engineering)
+
 ## Sources
 
 - Anthropic, *Introduction to Claude / models overview* — https://docs.anthropic.com/en/docs/about-claude/models

@@ -75,3 +75,7 @@ outgrown Freedom and want Navisworks Simulate (authoring + 4D) or Manage (adds
 clash detection). Say the word and I'll write that course.
 
 Next: [Glossary and file types](09-glossary.md).
+
+## See also
+
+- **In this series:** [← Playing back 4D simulations and animations](07-simulation-playback) · [Glossary and file types →](09-glossary) · [Overview](../navisworks-freedom-2026)

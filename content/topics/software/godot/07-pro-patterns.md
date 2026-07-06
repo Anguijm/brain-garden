@@ -265,6 +265,12 @@ Resources; reference nodes safely; give characters state machines; sequence with
 and polish with tweens; and pool the things you spawn in bulk. Adopt these as a game grows
 and it stays a pleasure to work on instead of a house of cards.
 
+
+## See also
+
+- **In this series:** [← Going further](06-going-further) · [Overview](../godot)
+- **[Mobile: full engines](../mobile-game-engines/01-full-engines)** — how Godot stacks up against other full engines.
+
 ## Sources
 
 - Godot docs, *Static typing in GDScript* — https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/static_typing.html

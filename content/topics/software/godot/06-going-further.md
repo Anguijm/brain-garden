@@ -87,6 +87,11 @@ game loop, input, and signals make them interactive; physics, UI, and audio fill
 and exporting shares them with the world. Everything beyond this course is a deeper look at
 one of those pieces, built on the same foundation you already have.
 
+
+## See also
+
+- **In this series:** [← Building a small game](05-first-game) · [Pro-level patterns →](07-pro-patterns) · [Overview](../godot)
+
 ## Sources
 
 - Godot docs, *Exporting projects* — https://docs.godotengine.org/en/stable/tutorials/export/exporting_projects.html

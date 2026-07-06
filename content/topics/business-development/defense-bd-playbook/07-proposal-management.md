@@ -106,3 +106,7 @@ pursuit with them, and the basis for deciding whether a protest is warranted (se
 [chapter 3](03-acquisition-landscape.md)).
 
 Next: [Relationships, ethics, and OCI](08-relationships-ethics-oci.md).
+
+## See also
+
+- **In this series:** [← Win strategy and competitive analysis](06-win-strategy-competitive) · [Relationships, ethics, and OCI →](08-relationships-ethics-oci) · [Overview](../defense-bd-playbook)

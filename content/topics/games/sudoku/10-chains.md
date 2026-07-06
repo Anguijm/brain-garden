@@ -42,3 +42,7 @@ Map your bivalue cells, they're the raw material. For remote pairs, look for sev
 cells with the identical pair, connected in a line of sight. For XY-chains, walk from
 one bivalue cell to another that shares a candidate, trying to start and finish on
 the same digit. These reward practice; start with short chains (3 to 5 cells).
+
+## See also
+
+- **In this series:** [← Colouring](09-colouring) · [Uniqueness →](11-uniqueness) · [Overview](../sudoku)

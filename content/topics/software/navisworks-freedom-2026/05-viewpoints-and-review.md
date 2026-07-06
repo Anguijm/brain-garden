@@ -60,3 +60,7 @@ it, click through the clash viewpoints, read the comment on each, and see precis
 what's hitting what. You just can't re-run or re-group the clashes yourself.
 
 Next: [Sectioning and measuring](06-sectioning-and-measuring.md).
+
+## See also
+
+- **In this series:** [← Selecting objects and reading properties](04-selection-and-properties) · [Sectioning and measuring →](06-sectioning-and-measuring) · [Overview](../navisworks-freedom-2026)

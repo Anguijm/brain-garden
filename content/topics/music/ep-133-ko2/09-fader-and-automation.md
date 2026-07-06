@@ -56,3 +56,7 @@ into the same group. When you need movement that the fader can't express per pad
 [resample](16-advanced-techniques.md) the moving version into a new sample.
 
 Next: [Effects](10-effects.md).
+
+## See also
+
+- **In this series:** [← Sequencing](08-sequencing) · [Effects →](10-effects) · [Overview](../ep-133-ko2)

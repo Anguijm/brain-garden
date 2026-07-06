@@ -78,6 +78,11 @@ year (for example "2026") to freshen any of them.
 - `replicator initiative / CDAO / software acquisition pathway update`
 - `[customer]'s stated modernization priorities posture statement`
 
+
+## See also
+
+- **In this series:** [← Glossary](12-glossary) · [Further reading →](14-further-reading) · [Overview](../defense-bd-playbook)
+
 ## Sources worth monitoring
 
 Assessment: a small set of reliable sources beats a sprawling feed. Group them by

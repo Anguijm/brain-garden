@@ -108,3 +108,8 @@ care about iPhone, favor a tool with official iOS export.
 2. **[Frameworks](02-frameworks)** — Flutter + Flame, libGDX, MonoGame, HaxeFlixel.
 3. **[Minimal libraries](03-minimal-libraries)** — raylib, Ebitengine, macroquad, plus a note
    on Bevy.
+
+## See also
+
+- **[Godot, a plain-English course](../godot)** — the plain-English deep course on the top pick here.
+- **[Homebrew on portable game devices](../../games/portable-homebrew)** — running homemade games on real handheld hardware.

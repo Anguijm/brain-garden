@@ -258,6 +258,14 @@ heat are your friends. Point it at static models, gliders, and small electric RC
 works today; point it at a rubber-powered scale warbird and you are taking on the one
 job balsa still does best.
 
+
+## See also
+
+- **[Finite resources](../../../connections/finite-resources)** — weight as a hard ceiling: geometry beats material.
+- **[Making with the X1C](../../../connections/making-with-the-x1c)** — the X1C thread this note inverts.
+- **[Weighty game pieces (cold-casting)](../cold-cast-game-pieces)** — the opposite extreme: making pieces as heavy as possible.
+- **[White's (dumpy) tree frogs](../../pets/whites-tree-frog-bioactive-japan)** — the same PETG-over-PLA materials call, in a terrarium.
+
 ## Sources
 
 - Model Aviation (AMA), *Balsa Density, Grain, and Grade* — https://www.modelaviation.com/balsa

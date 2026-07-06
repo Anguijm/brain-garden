@@ -93,6 +93,12 @@ expensive right ones. None of it works unless you record what the agent did at e
 its prompts, tool calls, time, and cost, so you can look back. Builders call that recording
 "tracing," and it is the starting point for both debugging and the online testing above.
 
+
+## See also
+
+- **In this series:** [← Retrieval and RAG](10-retrieval-and-rag) · [Multi-agent systems →](12-multi-agent-systems) · [Overview](../ai-engineering)
+- **[Using AI well](../../connections/using-ai-well)** — part of the garden's spine: how you actually know an answer is good.
+
 ## Sources
 
 - Anthropic, *How we built our multi-agent research system* — https://www.anthropic.com/engineering/multi-agent-research-system

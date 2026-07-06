@@ -104,6 +104,11 @@ want help:
   caffeine to reduce jitters. (Meta-analysis.) Assessment: it is calming, not a real sleeping
   pill; use it to smooth out a pre-workout coffee or to wind down.
 
+
+## See also
+
+- **In this series:** [← The core stack that actually works](01-core-stack) · [The weight-loss aisle, and what can hurt →](03-weight-loss-and-harms) · [Overview](../supplements-for-midlife)
+
 ## Sources
 
 - ISSN Position Stand on caffeine (2021) — https://pmc.ncbi.nlm.nih.gov/articles/PMC7777221/

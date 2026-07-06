@@ -43,3 +43,7 @@ Go digit by digit. For your chosen digit, find rows (or columns) where it has ex
 two candidate spots. Then check whether two of those rows share the same column pair.
 When they do, you've got an X-Wing, and the eliminations are in the crossing lines,
 not in the four corner cells.
+
+## See also
+
+- **In this series:** [← Intersections](05-intersections) · [Swordfish and Jellyfish →](07-swordfish-jellyfish) · [Overview](../sudoku)

@@ -89,3 +89,7 @@ specific gaps you are still closing. Everything in the proposal then serves that
 page.
 
 Next: [Proposal management](07-proposal-management.md).
+
+## See also
+
+- **In this series:** [← Teaming and partnerships](05-teaming-partnerships) · [Proposal management →](07-proposal-management) · [Overview](../defense-bd-playbook)

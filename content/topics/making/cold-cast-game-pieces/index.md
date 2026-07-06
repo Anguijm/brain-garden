@@ -129,3 +129,9 @@ heft. If you want the quick version, print the piece hollow and fill it with
 **epoxy + steel shot**. Either way you get the metal feel and repeatable batches
 without an electroplating bench. For the brighter, plated-metal finish instead, see
 the [electroplating route](../plated-game-components).
+
+## See also
+
+- **[Making with the X1C](../../../connections/making-with-the-x1c)** — the shared-toolchain thread.
+- **[Metal-look game pieces (electroplating)](../plated-game-components)** — the plating route to the same heavy-piece goal.
+- **[Plastic-and-tissue model aircraft](../3d-printed-tissue-aircraft)** — same printer, opposite goal (minimum weight).

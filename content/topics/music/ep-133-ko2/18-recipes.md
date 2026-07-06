@@ -215,4 +215,7 @@ way to grow, because each one drills a different core skill (chopping, four-on-f
 groove, 808 glides, breakbeat editing, syncopation, texture, and resampling walls).
 Those skills transfer everywhere.
 
-Back to the [course overview](../ep-133-ko2).
+
+## See also
+
+- **In this series:** [← Troubleshooting, reset, and reference](17-troubleshooting-reference) · [Overview](../ep-133-ko2)

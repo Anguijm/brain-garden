@@ -113,6 +113,11 @@ learn Haxe, a language you may not have met, and its ecosystem is smaller than t
 here. For a 2D-focused hobbyist who does not mind a less common language, it is a solid,
 tidy option.
 
+
+## See also
+
+- **In this series:** [← Mobile: full engines](01-full-engines) · [Minimal libraries →](03-minimal-libraries) · [Overview](../mobile-game-engines)
+
 ## Sources
 
 - Flame — https://pub.dev/packages/flame ; https://github.com/flame-engine/flame

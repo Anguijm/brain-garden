@@ -80,3 +80,7 @@ recorder; tight one-shots and short loops are where it shines, and they keep you
 from filling memory mid-session.
 
 Next: [Chopping](06-chopping.md).
+
+## See also
+
+- **In this series:** [← Sound mode and the four ways to load sounds](04-sound-and-loading) · [Chopping a sample across the pads →](06-chopping) · [Overview](../ep-133-ko2)

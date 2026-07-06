@@ -46,3 +46,7 @@ Hunt for bivalue cells; wings are built from them. Find a pivot, look at the biv
 cells it sees, and check whether two of them share a third digit Z while each shares
 one of the pivot's digits. Then look for any cell sitting in view of both wings, that
 is where Z dies.
+
+## See also
+
+- **In this series:** [← Swordfish and Jellyfish](07-swordfish-jellyfish) · [Colouring →](09-colouring) · [Overview](../sudoku)

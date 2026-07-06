@@ -70,6 +70,11 @@ own character dodge enemies on screen will teach you more in an hour than any am
 reading. When you finish, the [last chapter](06-going-further) points you toward 3D,
 physics, sound, and how to share your game with other people.
 
+
+## See also
+
+- **In this series:** [← Making it interactive](04-interactivity) · [Going further →](06-going-further) · [Overview](../godot)
+
 ## Sources
 
 - Godot docs, *Your first 2D game* (Dodge the Creeps) — https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html

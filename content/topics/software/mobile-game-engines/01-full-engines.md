@@ -90,6 +90,12 @@ a small, community-run project now, so it carries more single-maintainer risk th
 Defold. If you like Lua and want a mobile-first tool, it is worth a look; just go in aware
 that the ecosystem is older and smaller than it once was.
 
+
+## See also
+
+- **In this series:** [Frameworks →](02-frameworks) · [Overview](../mobile-game-engines)
+- **[Godot, a plain-English course](../godot)** — Godot, covered as a full course.
+
 ## Sources
 
 - Godot, command-line export — https://docs.godotengine.org/en/stable/tutorials/editor/command_line_tutorial.html

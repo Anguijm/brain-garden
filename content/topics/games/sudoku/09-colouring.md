@@ -41,3 +41,7 @@ Use this when a digit is stubborn and you can find a network of conjugate pairs 
 it. It's a single-digit technique, which keeps it manageable: you're only ever
 tracking one number. Look first for a same-colour clash (it solves the digit
 outright), then for cells caught between the two colours.
+
+## See also
+
+- **In this series:** [← Wings](08-wings) · [Chains →](10-chains) · [Overview](../sudoku)

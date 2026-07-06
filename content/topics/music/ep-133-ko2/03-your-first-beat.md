@@ -72,3 +72,7 @@ tighter [sequencing](08-sequencing.md), [effects](10-effects.md), and
 [arrangement](12-arranging.md).
 
 Next: [Sound mode and loading sounds](04-sound-and-loading.md).
+
+## See also
+
+- **In this series:** [← How it's organized](02-how-its-organized) · [Sound mode and the four ways to load sounds →](04-sound-and-loading) · [Overview](../ep-133-ko2)

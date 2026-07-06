@@ -58,4 +58,7 @@ created: 2026-06-24
 - **Publish** — the Manage/Simulate command that bakes an NWF into a shareable NWD;
   the step that produces the files Freedom opens.
 
-Back to the [course overview](../navisworks-freedom-2026).
+
+## See also
+
+- **In this series:** [← Output, performance, and shortcuts](08-output-tips-shortcuts) · [Overview](../navisworks-freedom-2026)

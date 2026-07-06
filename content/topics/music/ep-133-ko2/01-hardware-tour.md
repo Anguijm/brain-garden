@@ -112,3 +112,7 @@ USB-C or **four AAA batteries** (about 20 hours on alkalines); it switches to US
 power automatically when plugged in.
 
 Next: [How it's organized](02-how-its-organized.md).
+
+## See also
+
+- **In this series:** [How it's organized →](02-how-its-organized) · [Overview](../ep-133-ko2)

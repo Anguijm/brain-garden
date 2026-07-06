@@ -103,6 +103,11 @@ Assessment: Bevy is powerful but is a full engine with a real learning curve, an
 if you are set on Rust and want more than macroquad offers, but it is not a gentle starting
 point. For a first Rust game, start with macroquad; grow into Bevy if you outgrow it.
 
+
+## See also
+
+- **In this series:** [← Frameworks](02-frameworks) · [Overview](../mobile-game-engines)
+
 ## Sources
 
 - raylib — https://github.com/raysan5/raylib ; Android build https://github.com/raysan5/raylib/wiki/Working-for-Android ; iOS discussion https://github.com/raysan5/raylib/discussions/2681

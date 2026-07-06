@@ -135,3 +135,9 @@ most: nail the **conductive-coating** step on a single coin first, then scale up
 
 Source / inspiration: HEN3DRIK, ["I made a FAKE John Wick coin look 100%
 REAL!"](https://youtube.com/shorts/8qB9KIB8rwo) (electroplating 3D prints).
+
+## See also
+
+- **[Making with the X1C](../../../connections/making-with-the-x1c)** — the thread tying the X1C's four very different jobs together.
+- **[Weighty game pieces (cold-casting)](../cold-cast-game-pieces)** — the other route to heavy pieces (casting, not plating).
+- **[Plastic-and-tissue model aircraft](../3d-printed-tissue-aircraft)** — the inversion: chasing the lightest possible print.

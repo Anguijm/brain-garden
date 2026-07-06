@@ -108,6 +108,13 @@ setting off a flare.
 This is general information, not medical advice; gout is managed by your doctor, so bring
 these points to them.
 
+
+## See also
+
+- **In this series:** [← A simple daily plan](04-daily-plan) · [Overview](../supplements-for-midlife)
+- **[The core stack that actually works](01-core-stack)** — the core stack these tweaks modify.
+- **[Muscle, aging, and anabolic resistance](../muscle-protein-synthesis-aging)** — the muscle science behind the protein advice.
+
 ## Sources
 
 - 2020 ACR Guideline for the Management of Gout — https://pmc.ncbi.nlm.nih.gov/articles/PMC10563586/

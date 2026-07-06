@@ -110,6 +110,12 @@ walled-off setup, along with safety limits. (Anthropic.) That is exactly what th
 [testing chapter](11-evaluation-and-testing) and the
 [safety chapter](13-safety-and-best-practices) are about.
 
+
+## See also
+
+- **In this series:** [← Pictures and voice (multimodal)](05-pictures-and-voice) · [Tools and MCP →](07-tools-and-mcp) · [Overview](../ai-engineering)
+- **[Multi-agent systems](12-multi-agent-systems)** — what happens when several agents work together.
+
 ## Sources
 
 - Anthropic, *Building Effective Agents* — https://www.anthropic.com/engineering/building-effective-agents

@@ -61,3 +61,7 @@ high-pass riser at the end of a bar). The master compressor and sidechain that g
 it all together are in the next chapter.
 
 Next: [Mixing and the master](11-mixing-and-master.md).
+
+## See also
+
+- **In this series:** [← The fader and recording automation](09-fader-and-automation) · [Mixing, the master compressor, and sidechain →](11-mixing-and-master) · [Overview](../ep-133-ko2)

@@ -95,6 +95,11 @@ it behavior, with `@export` for the values you want to tune by hand. That is the
 nearly every script you will write. The [next chapter](04-interactivity) puts scripts in
 motion: the game loop, reading the player's input, and signals.
 
+
+## See also
+
+- **In this series:** [← The editor and your first project](02-the-editor) · [Making it interactive →](04-interactivity) · [Overview](../godot)
+
 ## Sources
 
 - Godot docs, *GDScript basics* — https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html

@@ -70,3 +70,7 @@ them: bake a reverse or a filter sweep into the audio by
 rather than per-pad when you want movement.
 
 Next: [Sequencing](08-sequencing.md).
+
+## See also
+
+- **In this series:** [← Chopping a sample across the pads](06-chopping) · [Sequencing →](08-sequencing) · [Overview](../ep-133-ko2)

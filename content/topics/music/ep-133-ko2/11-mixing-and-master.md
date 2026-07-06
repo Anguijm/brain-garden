@@ -58,3 +58,7 @@ K.O. II beat sound finished. Get the static balance right with levels first, the
 use the master section to glue, not to rescue a bad balance.
 
 Next: [Arranging](12-arranging.md).
+
+## See also
+
+- **In this series:** [← Effects](10-effects) · [Arranging →](12-arranging) · [Overview](../ep-133-ko2)

@@ -80,3 +80,7 @@ Assessment: "hide unselected" is the fastest way to study one assembly, select t
 thing you care about, isolate it, orbit around it, then Unhide All when done.
 
 Next: [Saved viewpoints and review data](05-viewpoints-and-review.md).
+
+## See also
+
+- **In this series:** [← Navigating the model](03-navigation) · [Saved viewpoints and review data →](05-viewpoints-and-review) · [Overview](../navisworks-freedom-2026)

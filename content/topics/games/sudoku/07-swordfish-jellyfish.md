@@ -44,3 +44,7 @@ These are tedious by hand, so save them for when singles, subsets, intersections
 X-Wing have all stalled. Go one digit at a time. Sketch which columns each row uses
 for that digit. If three rows collectively touch only three columns, you have a
 swordfish. The payoff, as always, is the elimination in the crossing lines.
+
+## See also
+
+- **In this series:** [← X-Wing](06-x-wing) · [Wings →](08-wings) · [Overview](../sudoku)

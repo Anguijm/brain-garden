@@ -45,3 +45,7 @@ unsatisfying by hand and error-prone, so treat it as the move of last resort.
 For human enjoyment, Lessons 1 to 8 solve the vast majority of puzzles. Lessons 9 to
 11 cover almost all of the rest. Lesson 12 is for the few diabolicals and for the fun
 of it. Don't feel you must master the deep end to be good.
+
+## See also
+
+- **In this series:** [← Uniqueness](11-uniqueness) · [Workflow →](13-workflow) · [Overview](../sudoku)

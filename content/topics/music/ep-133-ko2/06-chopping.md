@@ -51,3 +51,7 @@ great chopped phrase and want to lock it down as one sound to save voices, bounc
 with [resampling](16-advanced-techniques.md).
 
 Next: [Shaping a sound](07-shaping-sounds.md).
+
+## See also
+
+- **In this series:** [← Sampling](05-sampling) · [Shaping a sound (sound edit), and its limits →](07-shaping-sounds) · [Overview](../ep-133-ko2)

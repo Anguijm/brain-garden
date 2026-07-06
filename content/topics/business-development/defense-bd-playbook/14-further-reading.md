@@ -208,4 +208,7 @@ DoD Contracts Report (the market), and the GAO Bid Protest Annual Report (the
 risk). When something should change the playbook itself, paste it in and I will
 synthesize and re-publish, with honest labels per the vault's rules.
 
-Back to the [overview](../defense-bd-playbook).
+
+## See also
+
+- **In this series:** [← Staying current](13-staying-current) · [Overview](../defense-bd-playbook)

@@ -96,3 +96,7 @@ Decompose every instruction (Section L), evaluation factor (Section M), and "sha
   relationship? (See [chapter 3](03-acquisition-landscape.md).)
 
 Next: [Glossary](12-glossary.md).
+
+## See also
+
+- **In this series:** [← Using Gen AI in BD without fooling yourself](10-gen-ai-in-bd) · [Glossary →](12-glossary) · [Overview](../defense-bd-playbook)

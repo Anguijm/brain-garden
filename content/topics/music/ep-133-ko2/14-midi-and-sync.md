@@ -67,3 +67,7 @@ for its own sounds and another aimed at external channels, and you have a comple
 little studio.
 
 Next: [Samples and your computer](15-samples-and-computer.md).
+
+## See also
+
+- **In this series:** [← Performing live](13-performing-live) · [Samples and your computer →](15-samples-and-computer) · [Overview](../ep-133-ko2)

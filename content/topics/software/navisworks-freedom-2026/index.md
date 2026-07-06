@@ -68,3 +68,7 @@ Per the vault's rule, every claim is FACT, Assessment, or Speculation:
 9. [Glossary and file types](09-glossary.md)
 
 Start with [Install and open a model](01-install-and-open.md).
+
+## See also
+
+- **[Godot, a plain-English course](../godot)** — another plain-English, step-by-step software course in the garden.

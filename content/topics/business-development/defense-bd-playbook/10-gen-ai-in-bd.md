@@ -137,3 +137,9 @@ sensitive data firmly in human, accredited hands. Used that way, it sharpens the
 playbook; used as an authority, it will confidently help you lose.
 
 Next: [Templates and checklists](11-templates-checklists.md).
+
+## See also
+
+- **In this series:** [← Pipeline, metrics, and cadence](09-pipeline-metrics-cadence) · [Templates and checklists →](11-templates-checklists) · [Overview](../defense-bd-playbook)
+- **[Using AI well](../../../connections/using-ai-well)** — the garden's spine: assistant, not oracle.
+- **[The AI engineering course](../../ai-engineering)** — the plain-English AI course behind these ideas.

@@ -60,3 +60,7 @@ sets live or die, and most K.O. II transitions are a punch-in riser plus a scene
 change landing on the downbeat.
 
 Next: [MIDI and sync](14-midi-and-sync.md).
+
+## See also
+
+- **In this series:** [← Arranging](12-arranging) · [MIDI and sync →](14-midi-and-sync) · [Overview](../ep-133-ko2)

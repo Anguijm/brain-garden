@@ -77,6 +77,12 @@ walks you through building a small game called "Dodge the Creeps." FACT: that tu
 official Getting Started docs. (Godot docs.) Read a chapter here for the why, then build
 alongside the official tutorial for the how.
 
+
+## See also
+
+- **[Mobile game engines (CLI)](../mobile-game-engines)** — Godot is one of the CLI-friendly mobile engines compared there.
+- **[Homebrew on portable game devices](../../games/portable-homebrew)** — where games like these can end up running.
+
 ## Sources
 
 - Godot Engine documentation — https://docs.godotengine.org/en/stable/

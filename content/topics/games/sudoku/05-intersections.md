@@ -46,3 +46,7 @@ After basic singles stall, sweep each box digit by digit and ask "are all my spo
 for this digit on one line?" (pointing). Then sweep each line and ask "are all my
 spots for this digit in one box?" (claiming). These two are the most reliable
 "unstickers" once singles and subsets dry up.
+
+## See also
+
+- **In this series:** [← Hidden subsets](04-hidden-subsets) · [X-Wing →](06-x-wing) · [Overview](../sudoku)

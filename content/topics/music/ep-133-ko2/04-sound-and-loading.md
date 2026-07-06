@@ -66,3 +66,7 @@ Watch the screen: `FUL` means the sample memory is full, and you will see a low-
 warning when only about 20 seconds of recording space remain.
 
 Next: [Sampling](05-sampling.md).
+
+## See also
+
+- **In this series:** [← Your first beat (a 10-minute quick win)](03-your-first-beat) · [Sampling →](05-sampling) · [Overview](../ep-133-ko2)

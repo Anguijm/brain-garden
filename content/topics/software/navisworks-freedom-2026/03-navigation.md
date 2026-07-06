@@ -93,3 +93,7 @@ Assessment: Full Render is the prettiest but heaviest; if navigation gets choppy
 a big model, drop to Shaded to keep things smooth.
 
 Next: [Selecting objects and reading properties](04-selection-and-properties.md).
+
+## See also
+
+- **In this series:** [← The interface](02-interface) · [Selecting objects and reading properties →](04-selection-and-properties) · [Overview](../navisworks-freedom-2026)

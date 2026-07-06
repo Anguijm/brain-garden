@@ -57,6 +57,11 @@ when the problem is genuinely hard and a wrong answer would be costly, and fall 
 plain, faster model for everyday questions. This is the same "start simple" habit that runs
 through the whole section.
 
+
+## See also
+
+- **In this series:** [← How to write a good prompt](02-how-to-prompt) · [Cost and speed →](04-cost-and-speed) · [Overview](../ai-engineering)
+
 ## Sources
 
 - Anthropic, *Extended thinking* — https://docs.anthropic.com/en/docs/build-with-claude/extended-thinking

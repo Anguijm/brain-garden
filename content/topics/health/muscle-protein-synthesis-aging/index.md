@@ -185,6 +185,14 @@ the studies actually measured.
 This is general information, not medical advice; talk to your doctor before starting a
 supplement or a new exercise program, especially with any health conditions.
 
+
+## See also
+
+- **[Supplements for a midlife body](../supplements-for-midlife)** — the practical supplement plan built on this science.
+- **[The core stack that actually works](../supplements-for-midlife/01-core-stack)** — where leucine and HMB are handled in the stack.
+- **[If you are prone to gout (high uric acid)](../supplements-for-midlife/05-gout-and-uric-acid)** — whether any of this raises uric acid.
+- **[Using AI well](../../../connections/using-ai-well)** — the same honest-appraisal habit: separate real science from marketing.
+
 ## Sources
 
 - Moore DR et al. (2015), older adults need more protein per meal for muscle synthesis, *J Gerontol A* — https://academic.oup.com/biomedgerontology/article-abstract/70/1/57/2947642

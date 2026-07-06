@@ -45,3 +45,7 @@ exact same pair, that's a naked pair. For triples, look for two or three small c
 whose candidates all draw from the same little pool of three digits. The win is the
 *elimination*, not a placement: naked subsets usually don't solve a cell directly,
 they shrink other cells until a single appears.
+
+## See also
+
+- **In this series:** [← Singles](02-singles) · [Hidden subsets →](04-hidden-subsets) · [Overview](../sudoku)

@@ -59,3 +59,7 @@ strong **presentation** tool, free, runs on any Windows machine, and plays the
 author's full 4D story without anyone needing a paid seat.
 
 Next: [Output, performance, and shortcuts](08-output-tips-shortcuts.md).
+
+## See also
+
+- **In this series:** [← Sectioning and measuring](06-sectioning-and-measuring) · [Output, performance, and shortcuts →](08-output-tips-shortcuts) · [Overview](../navisworks-freedom-2026)

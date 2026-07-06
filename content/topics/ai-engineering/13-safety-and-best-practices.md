@@ -103,6 +103,12 @@ Assessment: the habits that hold up across every chapter:
    and outside content as untrusted, and gate serious actions on a human.
 8. **Cap what it can spend.** Budgets on tokens, steps, and helpers, plus time limits.
 
+
+## See also
+
+- **In this series:** [← Multi-agent systems](12-multi-agent-systems) · [MRAgent →](14-mragent) · [Overview](../ai-engineering)
+- **[Using AI well](../../connections/using-ai-well)** — overconfidence and hallucination as named failure modes.
+
 ## Sources
 
 - OWASP GenAI Security Project, *Top 10 for LLM Applications (2025)* — https://genai.owasp.org/llm-top-10/

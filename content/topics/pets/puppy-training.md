@@ -171,6 +171,11 @@ because they come from individual studies, not settled consensus.
   behaviors like resource guarding, separation anxiety, or serious leash
   reactivity, those are worth a vet behaviorist's help if they show up.
 
+
+## See also
+
+- **[White's (dumpy) tree frogs](whites-tree-frog-bioactive-japan)** — the other hands-on animal-care build in the garden.
+
 ## Sources
 
 1. American Kennel Club, [Positive Reinforcement Dog Training](https://www.akc.org/expert-advice/training/operant-conditioning-positive-reinforcement-dog-training/) (tier 3)

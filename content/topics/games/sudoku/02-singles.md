@@ -51,3 +51,7 @@ even if that cell could also have taken a 7 or a 9.
 Most "I'm stuck" moments early on are missed hidden singles. Train the
 digit-focused scan: pick a digit, walk all nine boxes (or rows, or columns), and
 ask where it can still go.
+
+## See also
+
+- **In this series:** [← Foundations](01-foundations) · [Naked subsets →](03-naked-subsets) · [Overview](../sudoku)

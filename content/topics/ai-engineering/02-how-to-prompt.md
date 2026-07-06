@@ -80,6 +80,11 @@ Assessment: a good prompt usually carries four things, what you want, the facts 
 format you want, and what to do when it is unsure. State those plainly and you will get
 noticeably more out of any model, without learning a single technical trick.
 
+
+## See also
+
+- **In this series:** [← what is an AI model](01-what-is-an-llm) · ["Thinking" and reasoning models →](03-reasoning-models) · [Overview](../ai-engineering)
+
 ## Sources
 
 - Anthropic, *Prompt engineering overview* — https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview

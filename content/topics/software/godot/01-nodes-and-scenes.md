@@ -82,6 +82,11 @@ and your running game is one big tree of those scenes. Hold onto that and every 
 chapter, the editor, scripting, signals, will slot neatly onto it. The
 [next chapter](02-the-editor) shows you where all of this lives on screen.
 
+
+## See also
+
+- **In this series:** [The editor and your first project →](02-the-editor) · [Overview](../godot)
+
 ## Sources
 
 - Godot docs, *Nodes and scenes* — https://docs.godotengine.org/en/stable/getting_started/step_by_step/nodes_and_scenes.html

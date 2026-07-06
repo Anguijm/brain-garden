@@ -59,6 +59,11 @@ Assessment: multimodal is genuinely useful for reading and explaining what sits 
 image, as long as you treat its answers the way you treat every other answer it gives,
 helpful and fast, but worth a second look whenever the stakes are real.
 
+
+## See also
+
+- **In this series:** [← Cost and speed](04-cost-and-speed) · [Workflows vs agents →](06-workflows-vs-agents) · [Overview](../ai-engineering)
+
 ## Sources
 
 - Anthropic, *Vision (using images with Claude)* — https://docs.anthropic.com/en/docs/build-with-claude/vision

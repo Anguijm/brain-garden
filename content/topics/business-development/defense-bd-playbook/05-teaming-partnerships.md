@@ -77,3 +77,7 @@ of a loss. Make the team's combined story to the customer coherent: one solution
 clear roles, no seams.
 
 Next: [Win strategy and competitive analysis](06-win-strategy-competitive.md).
+
+## See also
+
+- **In this series:** [← Customer, stakeholders, and shaping](04-customer-stakeholders-shaping) · [Win strategy and competitive analysis →](06-win-strategy-competitive) · [Overview](../defense-bd-playbook)

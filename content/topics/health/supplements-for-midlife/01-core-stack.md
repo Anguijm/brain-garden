@@ -151,6 +151,13 @@ and with better evidence. Save HMB for a genuine catabolic situation, like serio
 bed rest, at the real 3-gram dose. Neither one raises uric acid, if gout is a concern (see the
 [gout chapter](05-gout-and-uric-acid)).
 
+
+## See also
+
+- **In this series:** [Training, recovery, and sleep →](02-recovery-and-sleep) · [Overview](../supplements-for-midlife)
+- **[Muscle, aging, and anabolic resistance](../muscle-protein-synthesis-aging)** — why protein and leucine matter more as you age.
+- **[If you are prone to gout (high uric acid)](05-gout-and-uric-acid)** — how these choices affect uric acid.
+
 ## Sources
 
 - Creatine + resistance training in older adults, meta-analysis — https://pmc.ncbi.nlm.nih.gov/articles/PMC5679696/

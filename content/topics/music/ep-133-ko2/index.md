@@ -81,3 +81,7 @@ runs on USB-C power or four AAA batteries.
 Start at [chapter 1](01-hardware-tour.md), or jump to
 [your first beat](03-your-first-beat.md) if you want a quick win before the theory.
 New to making beats? The [recipes](18-recipes.md) are the fun way in.
+
+## See also
+
+- **[Finite resources](../../../connections/finite-resources)** — sample memory as a hard ceiling; resampling is the same 'flatten to keep building' move as AI compaction.

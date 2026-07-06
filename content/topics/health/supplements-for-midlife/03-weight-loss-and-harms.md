@@ -120,6 +120,12 @@ This is general information, not medical advice; talk to your doctor or pharmaci
 starting supplements or a new exercise program, especially with any health conditions or
 medications.
 
+
+## See also
+
+- **In this series:** [← Training, recovery, and sleep](02-recovery-and-sleep) · [A simple daily plan →](04-daily-plan) · [Overview](../supplements-for-midlife)
+- **[Using AI well](../../../connections/using-ai-well)** — the same don't-get-fooled discipline, applied to supplement marketing.
+
 ## Sources
 
 - Berberine metabolic effects, meta-analysis — https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2022.1013055/full
