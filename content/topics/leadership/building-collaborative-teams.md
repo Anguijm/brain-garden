@@ -100,6 +100,8 @@ scoreboard.
   a big collaborative team, decide whether you even need a team or a working group.
 - **[Leading your teammates](leading-your-teammates)** — the person-to-person side of making
   a group of specialists actually pull together.
+- **[Collaborative overload](collaborative-overload)** — the flip side: collaboration's hidden
+  cost, and how a few helpful people end up carrying too much of it.
 - **[Finite resources](../../connections/finite-resources)** — a cousin idea from elsewhere
   in the garden: a smaller, tighter effort often beats a big one spread thin.
 

@@ -32,8 +32,8 @@ dig into the sources behind any rule that grabs you.
 
 ## How this is organized
 
-The library sorts into four groups that keep pointing at each other: leading people,
-developing them, managing yourself, and building teams.
+The library sorts into five groups that keep pointing at each other: leading people,
+growing as a leader, developing others, managing yourself, and building teams.
 
 **Leading people:**
 
@@ -47,11 +47,23 @@ developing them, managing yourself, and building teams.
   (authenticity, logic, empathy) and how to find and fix the one you most often break.
 - **[Level 5 leadership](level-5-leadership)** — Jim Collins on the leaders who take a company
   from good to great: a rare mix of deep humility and fierce professional will.
+- **[Why should anyone be led by you?](why-should-anyone-be-led-by-you)** — Goffee and Jones on
+  authentic leadership: the four qualities (including selective vulnerability) that make people
+  choose to follow you.
 - **[Leading your teammates](leading-your-teammates)** — Tom Brady and Nitin Nohria on
   the quieter kind of leadership: making the people around you better, even when you hold
   no title over them.
 
-**Developing people:**
+**Growing as a leader:**
+
+- **[How managers become leaders](how-managers-become-leaders)** — Watkins on the "seven
+  seismic shifts" from running a function to running a whole business.
+- **[Why leadership training fails](why-leadership-training-fails)** — Beer and colleagues on
+  why courses don't stick: fix the system people work in, not just the individuals.
+- **[The making of an expert](making-of-an-expert)** — Ericsson on deliberate practice, how
+  real skill is built (and the modern correction to the "10,000 hours" myth).
+
+**Developing others:**
 
 - **[Becoming the boss](becoming-the-boss)** — Linda Hill on the brutal transition from star
   individual to first-time manager, and the five myths that trip new managers up.
@@ -95,6 +107,8 @@ developing them, managing yourself, and building teams.
 - **[Building collaborative teams](building-collaborative-teams)** — Gratton and Erickson on
   the paradox that the big, diverse, expert teams we need are exactly the ones that struggle
   to cooperate, and the eight practices that fix it.
+- **[Collaborative overload](collaborative-overload)** — Cross, Rebele, and Grant on the hidden
+  cost of collaboration: a few helpful people carry too much of it and burn out.
 
 ## See also
 

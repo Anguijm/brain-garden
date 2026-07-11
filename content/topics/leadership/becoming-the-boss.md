@@ -76,6 +76,8 @@ and mental shift the job demands, and on that it is very good.
   taking back the work you should be delegating.
 - **[Begin with trust](begin-with-trust)** — how you earn the credibility that a title alone
   does not give you.
+- **[How managers become leaders](how-managers-become-leaders)** — the *next* version of this
+  leap, from running a function to running a whole business.
 
 ## Sources
 

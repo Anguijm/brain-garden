@@ -25,7 +25,7 @@ Every change is written down in the revision log at the bottom.
 
 ## The ten rules
 
-*Rules 1 to 8 are about leading people and managing yourself; rules 9 and 10 are about building teams.*
+*Rules 1 to 8 are about leading, developing, and managing; rules 9 and 10 are about building teams.*
 
 1. **Begin with trust, and fix your own wobble.** People trust you on three lines: that they
    get the real you (authenticity), that your judgment is sound (logic), and that you care
@@ -33,15 +33,17 @@ Every change is written down in the revision log at the bottom.
    it, because nothing else you do lands without trust.
    *From: [Begin with trust](begin-with-trust)*
 
-2. **Lead the person, not just the problem.** What separates good leaders from merely clever
-   ones is emotional intelligence, the skill of reading and managing people; brains and
-   technical chops only get you in the door. It starts with self-awareness.
-   *From: [What makes a leader?](what-makes-a-leader)*
+2. **Lead with emotional intelligence, and flex your style to the moment.** What separates good
+   leaders from merely clever ones is the skill of reading and managing people, not raw
+   brainpower. And there is no single best way to lead: carry a full kit of styles (vision,
+   coaching, consensus, bonds) and switch to fit the situation, saving "do what I say" for a
+   real crisis.
+   *From: [What makes a leader?](what-makes-a-leader) and [Leadership that gets results](leadership-that-gets-results)*
 
 3. **Authority is earned, not issued: win commitment, not compliance.** A title gives you
-   almost nothing. Real authority is earned by showing character, competence, and results.
-   And getting people to obey is a false victory, only committed people take initiative and
-   real risks.
+   almost nothing. Real authority is earned by showing character, competence, and results. And
+   getting people to obey is a false victory, only committed people take initiative and real
+   risks.
    *From: [Becoming the boss](becoming-the-boss)*
 
 4. **Manage each person as unique: know their strengths, triggers, and how they learn.**
@@ -58,14 +60,15 @@ Every change is written down in the revision log at the bottom.
 
 6. **Develop people by drawing out, not pouring in.** Coach with questions instead of jumping
    to answers, and spotlight what is already working instead of piling on criticism; that is
-   how people actually grow. And when someone is failing, check whether your own distrust is
-   helping cause it: a boss's low expectations can quietly manufacture a poor performer.
-   *From: [The leader as coach](the-leader-as-coach), [The feedback fallacy](the-feedback-fallacy), and [The set-up-to-fail syndrome](set-up-to-fail)*
+   how people actually grow.
+   *From: [The leader as coach](the-leader-as-coach) and [The feedback fallacy](the-feedback-fallacy)*
 
-7. **Match your leadership style to the moment.** There is no single best way to lead. Carry a
-   full kit (setting a vision, coaching, building consensus, building bonds), and save "do
-   what I say" for a genuine crisis.
-   *From: [Leadership that gets results](leadership-that-gets-results)*
+7. **Change the system, not just the person.** Behavior follows the roles, incentives, and
+   context around people more than their willpower. So when performance is off, redesign the
+   conditions people work in, don't just train, exhort, or blame individuals: a bad system
+   beats a good person every time, and even a boss's own distrust can quietly manufacture a
+   poor performer.
+   *From: [Why leadership training fails](why-leadership-training-fails) and [The set-up-to-fail syndrome](set-up-to-fail)*
 
 8. **Know your job; protect your time and energy; push initiative down.** A manager's real work
    is fast, fragmented, and improvised, so study your own days and cut the busywork; free time
@@ -89,27 +92,32 @@ Every change is written down in the revision log at the bottom.
 ## The bench
 
 Assessment: strong candidate rules that don't have a slot yet, or are waiting for more
-sources to back them. With 21 sources feeding only ten rules, the bench is deep, that is the
+sources to back them. With 26 sources feeding only ten rules, the bench is deep, that is the
 constraint working as intended. When one earns promotion, it displaces a weaker rule above and
 the swap goes in the log.
 
+- **Manage collaboration as a scarce resource, and protect your best people from overload.** A
+  few helpful people carry most of the collaborative load and burn out. (The strongest current
+  candidate for a slot.) *From: [Collaborative overload](collaborative-overload)*
+- **As you rise, let go of the skills that got you here.** Each bigger job demands a different
+  way of working, from specialist toward generalist and strategist.
+  *From: [How managers become leaders](how-managers-become-leaders)*
 - **Lead with humility and fierce will.** Serve the company, not your ego; credit others for
-  wins and take the blame for losses. (Strong, but overlaps with rules 1 and 3 for now.)
-  *From: [Level 5 leadership](level-5-leadership)*
+  wins and take the blame for losses. *From: [Level 5 leadership](level-5-leadership)*
 - **Do real work yourself, and lead from any seat.** Don't lead only by reviewing and
-  delegating; put your hands on the shared product, and you can set the standard from any
-  chair in the room. *From: [The discipline of teams](the-discipline-of-teams) and [Leading your teammates](leading-your-teammates)*
-- **Spend most of your time on the few hardest people.** Roughly 90 percent of your attention
-  goes to the 10 percent who most need it. *From: [Leading your teammates](leading-your-teammates)*
+  delegating; put your hands on the shared product, and you can set the standard from any chair.
+  *From: [The discipline of teams](the-discipline-of-teams) and [Leading your teammates](leading-your-teammates)*
 - **Hold real one-on-ones, and make them your report's meeting, not your status update.**
-  A weekly, focused 1:1 is a manager's highest-leverage ritual. *From: [Make the most of your one-on-one meetings](one-on-one-meetings)*
-- **Shape how your team communicates: equal airtime, face-to-face, explore outside.** How a
-  team talks predicts its success as much as who is on it. *From: [The new science of building great teams](new-science-of-teams)*
-- **Seed a new team with people who already trust each other.** When 20 to 40 percent of a
-  team already knows one another, it cooperates from day one.
-  *From: [Eight ways to build collaborative teams](building-collaborative-teams)*
-- **Model and teach collaboration; you can't buy it.** (For now, carried inside rule 10.)
-  *From: [Eight ways to build collaborative teams](building-collaborative-teams)*
+  *From: [Make the most of your one-on-one meetings](one-on-one-meetings)*
+- **Build real skill through deliberate practice.** Effortful, feedback-driven work at the edge
+  of your ability beats mindless repetition (though later research says talent and other
+  factors matter more than the "10,000 hours" story implied).
+  *From: [The making of an expert](making-of-an-expert)*
+
+Assessment: a few more ideas live *inside* the rules rather than on the bench: leading as your
+authentic self (rules 1 to 3), shaping how a team communicates and modeling collaboration
+(rule 10), and spending most of your time on the hardest few people (a coaching call under
+rules 4 and 6).
 
 ## How this list stays alive
 
@@ -120,40 +128,34 @@ reason, so the list's own history is part of what you can read here.
 
 ## Revision log
 
-- **2026-07-12 — v4.** Rolled in five more sources: [the leader as coach](the-leader-as-coach),
-  [the making of a corporate athlete](corporate-athlete), [the power of small wins](power-of-small-wins),
-  [one-on-one meetings](one-on-one-meetings), and [the new science of building great teams](new-science-of-teams).
-  With 21 sources feeding ten slots, these mostly *deepened* existing rules instead of adding
-  new ones: coaching folded into "develop people by drawing out" (rule 6), the progress
-  principle into the motivation rule (5), and energy management into the know-your-job rule (8).
-  Two new candidates (hold real one-on-ones; shape team communication) went to the bench, and
-  "coach more" left the bench because it now lives inside rule 6. No rule was displaced, a sign
-  the ten are starting to stabilize.
-- **2026-07-12 — v3.** Rolled in five more sources: [Level 5 leadership](level-5-leadership),
-  [becoming the boss](becoming-the-boss), [who's got the monkey?](whos-got-the-monkey),
-  [the set-up-to-fail syndrome](set-up-to-fail), and [psychological safety](psychological-safety).
-  Added two rules: authority is earned / commitment over compliance (rule 3), and make it safe
-  to tell the truth (rule 9). Folded the set-up-to-fail idea into the feedback rule (6) and the
-  "monkey" into the know-your-job rule (8). To make room, combined the two separate team rules
-  into one "build teams on purpose" rule (10), and moved "do real work / lead from any seat"
-  plus a new "humility and fierce will" candidate to the bench. With 16 sources and ten slots,
-  the rules now each carry several sources; the bench holds the overflow.
-- **2026-07-12 — v2.1.** Restored "know your own job, and make the time to do it" (Mintzberg)
-  as rule 7, at the operator's request. To hold the count at ten, folded "model and teach
-  collaboration" into rule 9 (set a team's conditions) and moved it to the bench.
-- **2026-07-12 — v2.** Added five starred sources: Herzberg on [motivation](how-to-motivate),
-  the [feedback fallacy](the-feedback-fallacy), [begin with trust](begin-with-trust), the
-  [secrets of great teamwork](secrets-of-great-teamwork), and
-  [what great managers do](what-great-managers-do). The library had tilted toward leading
-  and developing individual people, and v1 was team-heavy (five of ten rules), so the list
-  rebalanced. Added four new rules (trust, individualizing, motivation, feedback), merged the
-  small-team rules and the do-real-work rules, and moved three rules to the bench.
-- **2026-07-11 — v1.** Founded the list on the first six sources in the library: Goleman's
+- **2026-07-12 — v5.** Rolled in five more sources: [how managers become leaders](how-managers-become-leaders),
+  [why leadership training fails](why-leadership-training-fails), [why should anyone be led by you?](why-should-anyone-be-led-by-you),
+  [collaborative overload](collaborative-overload), and [the making of an expert](making-of-an-expert).
+  The big move: a genuinely new, cross-cutting rule, **"change the system, not just the person"**
+  (rule 7), which three sources now back (leadership-training, set-up-to-fail, and the team
+  "set conditions" idea). To hold the count at ten, merged the two Goleman rules (emotional
+  intelligence plus the six styles) into one (rule 2), and moved the set-up-to-fail point out of
+  rule 6 into the new system rule. Four ideas went to the bench, "manage collaboration as a
+  scarce resource" the strongest candidate for a future slot.
+- **2026-07-12 — v4.** Rolled in five sources (the leader as coach, corporate athlete, small
+  wins, one-on-one meetings, the new science of teams). With the list saturating, these mostly
+  *deepened* existing rules instead of adding new ones: coaching into rule 6, the progress
+  principle into rule 5, energy management into rule 8. Two candidates benched. No rule displaced.
+- **2026-07-12 — v3.** Rolled in five sources (Level 5, becoming the boss, the monkey,
+  set-up-to-fail, psychological safety). Added two rules (commitment over compliance; make it
+  safe to tell the truth), folded set-up-to-fail and the monkey into existing rules, merged the
+  two team rules, and benched Level 5's humility rule and the do-real-work rule.
+- **2026-07-12 — v2.1.** Restored "know your own job" (Mintzberg) as a rule at the operator's
+  request; folded "model and teach collaboration" into the team rule and the bench.
+- **2026-07-12 — v2.** Added five starred sources (Herzberg, the feedback fallacy, begin with
+  trust, secrets of great teamwork, what great managers do). Rebalanced away from a team-heavy
+  v1: added rules on trust, individualizing, motivation, and feedback; merged team rules.
+- **2026-07-11 — v1.** Founded the list on the first six sources: Goleman's
   [emotional intelligence](what-makes-a-leader) and [six styles](leadership-that-gets-results),
-  Katzenbach and Smith on [what a team is](the-discipline-of-teams), Gratton and Erickson on
+  Katzenbach and Smith on [teams](the-discipline-of-teams), Gratton and Erickson on
   [collaborative teams](building-collaborative-teams), Mintzberg on
-  [the manager's real job](the-managers-job), and Brady and Nohria on
-  [leading teammates](leading-your-teammates). Two ideas parked on the bench.
+  [the manager's job](the-managers-job), and Brady and Nohria on
+  [leading teammates](leading-your-teammates).
 
 ## See also
 

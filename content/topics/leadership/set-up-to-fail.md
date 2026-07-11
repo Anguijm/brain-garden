@@ -87,6 +87,8 @@ your own role before blaming the person, is sound.
   person is good at instead of boxing them in.
 - **[Begin with trust](begin-with-trust)** — the syndrome is, at root, a trust breakdown the
   boss sets in motion.
+- **[Why leadership training fails](why-leadership-training-fails)** — the same lesson writ
+  large: fix the system that shapes behavior, not just the individual.
 
 ## Sources
 

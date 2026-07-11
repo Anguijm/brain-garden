@@ -10,10 +10,10 @@ than raw research. Newest is first.
 
 - **[Leadership and management: a working knowledge base](topics/leadership)** — plain-English,
   honestly-labeled notes on the most-cited ideas in management and leadership, built from
-  twenty-one HBR classics (Goleman, Herzberg, Mintzberg, Collins, Buckingham, Edmondson,
-  Amabile, Pentland, Ibarra, Katzenbach & Smith, and more), each with a "how much to trust
-  this" section, plus a living **[Ten Rules](topics/leadership/ten-rules)** list that updates as
-  the library grows. Illustrated.
+  twenty-six HBR classics (Goleman, Herzberg, Mintzberg, Collins, Hill, Buckingham, Edmondson,
+  Amabile, Pentland, Ericsson, Cross, Ibarra, Katzenbach & Smith, and more), each with a "how
+  much to trust this" section, plus a living **[Ten Rules](topics/leadership/ten-rules)** list
+  that updates as the library grows. Illustrated.
 - **[Supplements for a midlife body: help, not hurt](topics/health/supplements-for-midlife)**
   — an honest, evidence-based guide for a 48-year-old overweight man who's training: the short
   stack that actually works (creatine, protein, vitamin D, psyllium), what's situational, and
