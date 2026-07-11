@@ -32,35 +32,46 @@ dig into the sources behind any rule that grabs you.
 
 ## How this is organized
 
-The library sorts into two halves that keep pointing at each other: leading people, and
-building teams.
+The library sorts into three groups that keep pointing at each other: leading people,
+managing and developing them, and building teams.
 
-**On leadership (how leaders lead):**
+**Leading people:**
 
 - **[What makes a leader?](what-makes-a-leader)** — Daniel Goleman's case that emotional
   intelligence, not raw intellect, is what separates strong leaders. The five parts of
   it, and how to spot and grow them.
 - **[Leadership that gets results](leadership-that-gets-results)** — Goleman's six
-  leadership styles and when each one helps or hurts. The natural sequel: this is
-  emotional intelligence put to work.
+  leadership styles and when each one helps or hurts. The natural sequel: emotional
+  intelligence put to work.
+- **[Begin with trust](begin-with-trust)** — Frei and Morriss on the three parts of trust
+  (authenticity, logic, empathy) and how to find and fix the one you most often break.
 - **[Leading your teammates](leading-your-teammates)** — Tom Brady and Nitin Nohria on
   the quieter kind of leadership: making the people around you better, even when you hold
   no title over them.
 
-**On teams (how groups perform):**
+**Managing and developing people:**
+
+- **[What great managers do](what-great-managers-do)** — Marcus Buckingham on managing each
+  person as unique: their strengths, triggers, and how they learn. Chess, not checkers.
+- **[How do you motivate employees?](how-to-motivate)** — Herzberg's classic: pay and perks
+  stop unhappiness, but only the work itself (achievement, responsibility, growth) creates
+  real drive.
+- **[The feedback fallacy](the-feedback-fallacy)** — Buckingham and Goodall on why piling on
+  criticism backfires, and why spotlighting what works grows people instead.
+- **[The manager's job: folklore and fact](the-managers-job)** — Henry Mintzberg's demolition
+  of the tidy "plan, organize, coordinate, control" myth, and his map of the ten roles a
+  manager really plays.
+
+**Building teams:**
 
 - **[The discipline of teams](the-discipline-of-teams)** — Katzenbach and Smith's sharp
-  definition of what a real team actually is, and why most groups we call teams are not
-  one.
-- **[Building collaborative teams](building-collaborative-teams)** — Gratton and
-  Erickson on the paradox that the big, diverse, expert teams we need are exactly the
-  ones that struggle to cooperate, and the eight practices that fix it.
-
-**On the job itself:**
-
-- **[The manager's job: folklore and fact](the-managers-job)** — Henry Mintzberg's
-  demolition of the tidy "plan, organize, coordinate, control" myth, and his map of the
-  ten roles a manager really plays.
+  definition of what a real team actually is, and why most groups we call teams are not one.
+- **[The secrets of great teamwork](secrets-of-great-teamwork)** — Haas and Mortensen on the
+  four conditions that make a team work (and why you set conditions rather than fix
+  personalities).
+- **[Building collaborative teams](building-collaborative-teams)** — Gratton and Erickson on
+  the paradox that the big, diverse, expert teams we need are exactly the ones that struggle
+  to cooperate, and the eight practices that fix it.
 
 ## See also
 

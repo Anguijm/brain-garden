@@ -104,6 +104,8 @@ risk.
 
 ## See also
 
+- **[The secrets of great teamwork](secrets-of-great-teamwork)** — the companion piece: this
+  note defines what a team *is*, that one lists the conditions that make it work.
 - **[Building collaborative teams](building-collaborative-teams)** — the modern follow-up:
   what to do when the team you need is too big, too spread out, and too expert to cooperate
   easily.

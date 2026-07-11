@@ -113,6 +113,8 @@ model. It just means you hold the slogans loosely and keep the useful core.
 
 - **[Leadership that gets results](leadership-that-gets-results)** — the sequel: the six
   leadership styles, which are emotional intelligence actually put to work.
+- **[What great managers do](what-great-managers-do)** — the flip side: this is about
+  *leading* (the shared), that one is about *managing* (the unique).
 - **[Leading your teammates](leading-your-teammates)** — empathy and reading people, from a
   peer's seat rather than a boss's.
 - **[Using AI well](../../connections/using-ai-well)** — the same "a confident claim is not
