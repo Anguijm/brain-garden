@@ -78,6 +78,8 @@ and mental shift the job demands, and on that it is very good.
   does not give you.
 - **[How managers become leaders](how-managers-become-leaders)** — the *next* version of this
   leap, from running a function to running a whole business.
+- **[Saving your rookie managers from themselves](saving-rookie-managers)** — the same
+  transition seen from your boss's chair: the traps, and how a good boss heads them off.
 
 ## Sources
 

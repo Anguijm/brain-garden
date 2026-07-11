@@ -1,0 +1,72 @@
+---
+type: note
+series: leadership
+title: "Discovering your authentic leadership"
+status: curated
+tags: [leadership, management, authentic-leadership, verification]
+created: 2026-07-12
+---
+
+# Discovering your authentic leadership
+
+The big idea of this article is that there is no universal formula for a great leader, so
+stop trying to copy one. Bill George and colleagues argue that authentic leadership grows out
+of your own life story, especially the hard parts, and that anyone willing to do the inner
+work can lead well, without waiting for a title.
+
+FACT: this ran in Harvard Business Review in 2007 and draws on interviews with 125 leaders.
+(George, Sims, McLean & Mayer, "Discovering Your Authentic Leadership.")
+
+## Your life story is the foundation
+
+Assessment: after 50 years and 1,000-plus studies, researchers never found a set of traits
+that reliably makes a great leader. FACT: the authors' own study of 125 leaders (ages 23 to
+93) found the same thing: their leadership came not from shared traits but from their life
+stories, and how they made sense of them. The turning points are often the painful ones the
+authors call "crucibles" (loss, illness, exclusion), which authentic leaders reframe so they
+are the author of their story, not its victim.
+
+## Five things authentic leaders develop
+
+![Diagram: a center circle reading "your life story and crucibles," with five surrounding elements feeding in: know your authentic self (self-awareness), practice your values, balance intrinsic and extrinsic motivation, build a support team, and stay grounded by integrating your life. An arrow points out to: empower others, and lasting results.](img/authentic-leadership.png)
+*Authentic leadership: rooted in your story, built on five dimensions. Diagram.*
+
+- **Know your authentic self.** FACT: asked the single most important capability to develop,
+  75 Stanford business-school advisers were nearly unanimous: self-awareness. It means facing
+  your blind spots, not just your strengths.
+- **Practice your values.** You only truly learn your values when they are tested under
+  pressure. Decide your non-negotiables before the pressure hits.
+- **Balance your motivations.** Guard against chasing only external markers (money, status)
+  and anchor your drive in intrinsic meaning.
+- **Build a support team.** A real network, including at least one person who accepts you
+  "warts and all" and will tell you the truth.
+- **Stay grounded.** Be the same person at work, at home, and with friends.
+
+## How much to trust this
+
+Assessment: the core message is a healthy one, don't imitate a leadership template, build from
+who you actually are, and self-awareness is the foundation. That advice is sound and echoes the
+trust and emotional-intelligence notes elsewhere here.
+
+The honest caveats are real, though. FACT: the 125 leaders were hand-picked *because* they
+already had reputations for being authentic and effective, so "effective leaders are
+authentic" is partly baked into who was studied. Every example is a success story, with no
+failed authentic leaders for comparison, and "authenticity" is never actually measured. And
+the piece is an adaptation of lead author Bill George's book, a commercial angle. Assessment:
+take it as an inspiring, useful frame for self-development, not as proof that authenticity
+causes results.
+
+## See also
+
+- **[Why should anyone be led by you?](why-should-anyone-be-led-by-you)** — the close cousin:
+  authentic leadership as "be yourself, with more skill."
+- **[Begin with trust](begin-with-trust)** — the authenticity that lets people trust you.
+- **[What makes a leader?](what-makes-a-leader)** — self-awareness, the capability both notes
+  put first.
+
+## Sources
+
+- Bill George, Peter Sims, Andrew N. McLean & Diana Mayer, "Discovering Your Authentic
+  Leadership", Harvard Business Review (February 2007) —
+  https://hbr.org/2007/02/discovering-your-authentic-leadership
+- Adapted from Bill George's book *True North* (2007).

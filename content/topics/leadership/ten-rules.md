@@ -83,19 +83,25 @@ Every change is written down in the revision log at the bottom.
    hard truths and learn fast.
    *From: [Psychological safety](psychological-safety)*
 
-10. **Build teams on purpose.** Form a real team only when the work genuinely needs joint effort
-    and mutual accountability (often a working group is the smarter, lower-risk choice). Then
-    set its conditions instead of fixing personalities: a compelling goal it owns, small size,
-    sharp roles with an open path, and a shared mindset.
-    *From: [The discipline of teams](the-discipline-of-teams), [The secrets of great teamwork](secrets-of-great-teamwork), and [Eight ways to build collaborative teams](building-collaborative-teams)*
+10. **Build teams on purpose, and keep them small, stable, and safe to challenge.** Form a real
+    team only when the work genuinely needs joint effort and mutual accountability (often a
+    working group is smarter). Then set its conditions instead of fixing personalities: a clear
+    membership (everyone knows who's on it), a compelling goal it owns, a *small* size (no
+    double digits), stable membership, sharp roles, a shared mindset, and a protected dissenting
+    voice.
+    *From: [The discipline of teams](the-discipline-of-teams), [Why teams don't work](why-teams-dont-work), [The secrets of great teamwork](secrets-of-great-teamwork), and [Eight ways to build collaborative teams](building-collaborative-teams)*
 
 ## The bench
 
 Assessment: strong candidate rules that don't have a slot yet, or are waiting for more
-sources to back them. With 26 sources feeding only ten rules, the bench is deep, that is the
-constraint working as intended. When one earns promotion, it displaces a weaker rule above and
-the swap goes in the log.
+sources to back them. With around 40 sources feeding only ten rules, the bench is deep, that is
+the constraint working as intended. When one earns promotion, it displaces a weaker rule above
+and the swap goes in the log.
 
+- **Manage your network, not just your team.** Build relationships across the whole
+  organization, where you have no formal authority; politics is a normal feature of
+  organizations, not a flaw. (A real gap in the ten, and the strongest current candidate.)
+  *From: [Are you a good boss, or a great one?](good-boss-great-one)*
 - **Manage collaboration as a scarce resource, and protect your best people from overload.** A
   few helpful people carry most of the collaborative load and burn out. (The strongest current
   candidate for a slot.) *From: [Collaborative overload](collaborative-overload)*
@@ -128,6 +134,16 @@ reason, so the list's own history is part of what you can read here.
 
 ## Revision log
 
+- **2026-07-12 — v6.** Rolled in a large batch of 13 more sources (authentic leadership, seven
+  transformations, the leadership pipeline, producing leaders, saving rookie managers,
+  good-boss-great-one, Mintzberg's 50-years-later reflection, group emotional intelligence, why
+  teams don't work, team personalities, multicultural teams, the "last 8%" team, and
+  superteams). Strikingly, they barely moved the ten, the list is now highly stable. The one
+  deepening: rule 10 was sharpened with Hackman's conditions (keep teams small, stable, and safe
+  to challenge, with a protected dissenting voice). The one clear new candidate, **"manage your
+  network, not just your team"** (Hill and Lineback), is a genuine gap and went to the top of
+  the bench. Everything else reinforced rules already here (authentic leadership under 1 to 3,
+  group EI and the "last 8%" team and superteams under 9 and 10).
 - **2026-07-12 — v5.** Rolled in five more sources: [how managers become leaders](how-managers-become-leaders),
   [why leadership training fails](why-leadership-training-fails), [why should anyone be led by you?](why-should-anyone-be-led-by-you),
   [collaborative overload](collaborative-overload), and [the making of an expert](making-of-an-expert).
