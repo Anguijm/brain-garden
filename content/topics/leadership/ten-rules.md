@@ -25,7 +25,7 @@ Every change is written down in the revision log at the bottom.
 
 ## The ten rules
 
-*Rules 1 to 6 are about leading and developing people; rules 7 to 10 are about building teams.*
+*Rules 1 to 7 are about leading people and managing yourself; rules 8 to 10 are about building teams.*
 
 1. **Begin with trust, and fix your own wobble.** People trust you on three lines: that they
    get the real you (authenticity), that your judgment is sound (logic), and that you care
@@ -61,21 +61,23 @@ Every change is written down in the revision log at the bottom.
    bonds, and save "do what I say" for a genuine crisis.
    *From: [Leadership that gets results](leadership-that-gets-results)*
 
-7. **Don't call it a team unless the work needs one.** A real team means joint work and mutual
+7. **Know your own job, and make the time to do it.** A manager's real work is fast,
+   fragmented, and improvised, not tidy planning, so study your own days honestly and cut the
+   superficial busywork. And free time is made, not found: turn what matters into an
+   obligation or it won't happen.
+   *From: [The manager's job: folklore and fact](the-managers-job)*
+
+8. **Don't call it a team unless the work needs one.** A real team means joint work and mutual
    accountability. A working group, where people do their own jobs well, is often the smarter,
    lower-risk choice. Decide on purpose instead of drifting into the word.
    *From: [The discipline of teams](the-discipline-of-teams)*
 
-8. **Set a team's conditions instead of fixing personalities.** Give it a compelling goal it
+9. **Set a team's conditions instead of fixing personalities.** Give it a compelling goal it
    owns, keep membership small, define roles sharply while leaving the *path* open, and build
-   a shared mindset so subgroups don't split into "us versus them." Get the conditions right
-   and the team mostly runs itself.
+   a shared mindset so subgroups don't split into "us versus them." One big lever: leaders
+   model and teach collaboration rather than trying to buy it with bonuses. Get the conditions
+   right and the team mostly runs itself.
    *From: [The secrets of great teamwork](secrets-of-great-teamwork), [The discipline of teams](the-discipline-of-teams), and [Eight ways to build collaborative teams](building-collaborative-teams)*
-
-9. **Model and teach collaboration; you can't buy it.** Big, diverse, expert teams naturally
-   resist cooperating. Leaders fix that by visibly collaborating themselves and training the
-   actual skill, not by tuning bonuses, which barely moved the needle.
-   *From: [Eight ways to build collaborative teams](building-collaborative-teams)*
 
 10. **Do real work yourself, and lead from any seat.** No leader earns a team's trust by only
     reviewing and delegating; put your own hands on the shared product. And leadership isn't a
@@ -94,9 +96,9 @@ swap goes in the log.
 - **Spend most of your time on the few hardest people.** Roughly 90 percent of your attention
   goes to the 10 percent who most need it, and can most drag the group down.
   *From: [Leading your teammates](leading-your-teammates)*
-- **Know your own job, and make the time to do it.** The work is fast, fragmented, and
-  improvised; study your own days, and remember free time is made, not found.
-  *From: [The manager's job: folklore and fact](the-managers-job)*
+- **Model and teach collaboration; you can't buy it.** Leaders build cooperation by
+  collaborating visibly and training the skill, not by tuning bonuses. (For now, carried
+  inside rule 9.) *From: [Eight ways to build collaborative teams](building-collaborative-teams)*
 - **Seed a new team with people who already trust each other.** When 20 to 40 percent of a
   team already knows one another, it cooperates from day one.
   *From: [Eight ways to build collaborative teams](building-collaborative-teams)*
@@ -112,6 +114,9 @@ reason, so the list's own history is part of what you can read here.
 
 ## Revision log
 
+- **2026-07-12 — v2.1.** Restored "know your own job, and make the time to do it" (Mintzberg)
+  as rule 7, at the operator's request. To hold the count at ten, folded "model and teach
+  collaboration" into rule 9 (set a team's conditions) and moved it to the bench.
 - **2026-07-12 — v2.** Added five starred sources: Herzberg on
   [motivation](how-to-motivate), the [feedback fallacy](the-feedback-fallacy),
   [begin with trust](begin-with-trust), the [secrets of great teamwork](secrets-of-great-teamwork),
