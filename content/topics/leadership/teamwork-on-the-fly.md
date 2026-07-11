@@ -48,7 +48,7 @@ they risk survivorship bias; the one empirical claim (teams facing more novelty 
 is cited without method. Assessment: take the framework as a solid lens and the anecdotes as
 illustration.
 
-**Evidence check (2026 review, verdict: mixed).** The one empirically solid leg is psychological safety, and even there a 2017 meta-analysis (Frazier et al., 136 studies) finds only a moderate correlation with performance (about r = .3), mostly from cross-sectional data that can't prove causation, and a 2024 CIPD evidence review rates the construct's evidence as weak relative to other climate factors. "Teaming" itself, as distinct from psychological safety, rests mainly on hand-picked case studies rather than tested effects, so treat it as a useful lens rather than a proven method.
+**Evidence check (2026 review, verdict: mixed).** The one empirically solid leg is psychological safety, and even there a [2017 meta-analysis](https://doi.org/10.1111/peps.12183) (Frazier et al., 136 samples, *Personnel Psychology*) finds only a moderate association with task performance, drawn almost entirely from cross-sectional data that can't establish causation. A [2024 CIPD/CEBMa evidence review](https://www.cipd.org/globalassets/media/knowledge/knowledge-hub/evidence-reviews/2024-pdfs/8550-psychological-safety-scientific-summary.pdf) still treats psychological safety as a useful concept but judges the underlying studies "rather low" in quality (most are cross-sectional; only eight of 89 rated moderate or better), leaving the direction of many effects uncertain. "Teaming" itself, as distinct from psychological safety, rests mainly on hand-picked case studies rather than tested effects, so treat it as a useful lens rather than a proven method.
 
 ## See also
 

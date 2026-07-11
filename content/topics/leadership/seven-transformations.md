@@ -52,7 +52,7 @@ which is a strong assumption. Assessment: treat the seven logics as a thought-pr
 developmental map, not a validated measurement, and Mandela-as-Alchemist as illustration, not
 data.
 
-**Evidence check (2026 review, verdict: mixed).** A 2006 review in The Leadership Quarterly (McCauley et al.) found the research linking developmental stage to leadership effectiveness has serious limitations: small, non-random samples and weak designs. The stage-measurement idea itself is well validated, but the specific "higher logic makes better leaders" payoff rests on a handful of small studies (n roughly 40-75), one of which found the ordinary personality trait conscientiousness did much of the predictive work, so treat the effect as real-but-modest and far less certain than the article's confident tone implies.
+**Evidence check (2026 review, verdict: mixed).** A 2006 review in The Leadership Quarterly ([McCauley et al.](https://doi.org/10.1016/j.leaqua.2006.10.006)) found the research linking developmental stage to leadership effectiveness has serious limitations, restricted samples and weak research designs, and only mixed support overall. The stage-measurement idea itself is reasonably well validated, but the specific "higher logic makes better leaders" payoff rests on a handful of small studies (n roughly 40-75). The strongest, [Strang and Kuhnert (2009)](https://doi.org/10.1016/j.leaqua.2009.03.009) with 67 executives, did find developmental level predicting 360-degree leader performance beyond personality, yet the ordinary trait conscientiousness was the one Big Five factor that also predicted it, so treat the effect as real-but-modest and far less certain than the article's confident tone implies.
 
 ## See also
 

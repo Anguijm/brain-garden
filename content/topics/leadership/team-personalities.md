@@ -51,7 +51,7 @@ Google's psychological-safety findings and so downplays them rather than reconci
 take the "balance the mix" idea as a sensible lens, and be skeptical of anything that leads
 toward buying a personality test.
 
-**Evidence check (2026 review, verdict: mixed).** The best available evidence is only mixed: meta-analyses find the personality-composition effect is small (correlations around .10 to .24, near zero in lab studies), and more personality *diversity* actually lowered performance on some traits (Peeters 2006; Bell 2007). The five-role "balance the mix" idea descends from Belbin, whose measure has weak reliability and whose "balanced teams win" claim is unproven, and Google's own 180-team study found composition mattered far less than team norms like the psychological safety this article argues against.
+**Evidence check (2026 review, verdict: mixed).** The best available evidence is only mixed: meta-analyses find the personality-composition effect is small (correlations around .10 to .24, near zero in lab studies), and more personality *diversity* actually lowered performance on some traits ([Peeters 2006](https://doi.org/10.1002/per.588); [Bell 2007](https://doi.org/10.1037/0021-9010.92.3.595)). The five-role "balance the mix" idea descends from Belbin, whose measure has weak reliability and whose "balanced teams win" claim is unproven, and Google's own 180-team study found composition mattered far less than team norms like the psychological safety this article argues against.
 
 ## See also
 

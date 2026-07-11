@@ -53,7 +53,7 @@ borrowed from Edmondson's research and Project Aristotle, asserted rather than d
 one cited "diversity plus safety" finding is a single study in one industry. Assessment: use it
 as a fast introduction; the deeper [Edmondson note](psychological-safety) is the better source.
 
-**Evidence check (2026 review, verdict: mixed).** A large 2017 meta-analysis (Frazier et al.) confirms psychological safety is positively linked to learning and performance, but the effect is only moderate and gets noticeably weaker when performance is measured objectively rather than by self-report; later work (Eldor et al., 2023) even finds that too much of it can hurt routine-task performance. Treat the "single biggest factor" line as marketing, not settled science: it comes from Google's Project Aristotle, an internal study that was never peer-reviewed.
+**Evidence check (2026 review, verdict: mixed).** A large 2017 meta-analysis, [Frazier et al. in *Personnel Psychology*](https://doi.org/10.1111/peps.12183) (136 samples, over 22,000 people), confirms psychological safety is positively linked to learning and performance, but the effect is only moderate and gets noticeably weaker when performance is measured objectively rather than by self-report. Later work by [Eldor et al. (2023) in *Organizational Behavior and Human Decision Processes*](https://doi.org/10.1016/j.obhdp.2023.104255) even finds the link is nonlinear: too much of it can hurt routine-task performance. Treat the "single biggest factor" line as marketing, not settled science: it comes from Google's Project Aristotle, an internal study that was never peer-reviewed.
 
 ## See also
 

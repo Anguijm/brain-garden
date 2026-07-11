@@ -62,7 +62,7 @@ amount varies enormously by field. Assessment: so keep the deliberate-practice *
 drop the "anyone can master anything with enough hours" slogan. (This note is exactly the kind
 of claim the vault's queued academic-evidence check is for.)
 
-**Evidence check (2026 review, verdict: well-supported).** The note's calibration is sound and matches the literature, but the exact size of the effect is genuinely unsettled, not just "small": a 2019 double-blind replication (Macnamara and Maitra) found the original violinist result much weaker than reported, while critics (Debatin et al. 2021) argue the meta-analyses undercount deliberate practice because they ignore how individualized the practice was. So treat the "roughly 12 percent" figure as one contested estimate rather than a settled number; what is robust is the direction, that practice matters a lot but is not the whole story and 10,000 hours is not a magic threshold.
+**Evidence check (2026 review, verdict: well-supported).** The note's calibration is sound and matches the literature, but the exact size of the effect is genuinely unsettled, not just "small": a 2019 double-blind replication ([Macnamara and Maitra](https://doi.org/10.1098/rsos.190327), *Royal Society Open Science*) found the original violinist result much weaker than reported, while critics ([Debatin et al. 2021](https://doi.org/10.1007/s12144-021-02326-x), *Current Psychology*) argue the meta-analyses undercount deliberate practice because they ignore how individualized the practice was. So treat the "roughly 12 percent" figure as one contested estimate rather than a settled number; what is robust is the direction, that practice matters a lot but is not the whole story and 10,000 hours is not a magic threshold.
 
 ## See also
 

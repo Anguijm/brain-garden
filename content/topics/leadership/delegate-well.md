@@ -47,7 +47,7 @@ example ("Anika"), and the results are asserted. It also under-addresses the rea
 delegating (trust, competence gaps, what happens when a handoff fails). Assessment: keep the
 reframe and the four moves; don't expect the harder questions answered here.
 
-**Evidence check (2026 review, verdict: mixed).** The underlying idea holds up directionally, but with two caveats the article ignores: meta-analyses find delegation mainly improves how people feel about the leader and only modestly improves actual performance (rho around .31), and the "be less involved" advice is not linear — multiple studies find an inverted-U where over-delegating raises stress and job demands and hurts performance past an optimal point.
+**Evidence check (2026 review, verdict: mixed).** The underlying idea holds up directionally, but with two caveats the article ignores. A meta-analysis of empowering (delegating) leadership across 105 samples ([Lee, Willis & Tian, 2018, *Journal of Organizational Behavior*](https://doi.org/10.1002/job.2220)) finds its benefits run mostly through how people relate to the leader (trust, leader-member exchange, and psychological empowerment), with a real but more modest direct gain in task performance. And "be less involved" is not linear: field studies find an inverted-U in which over-delegating past an optimal point raises followers' job-induced tension and hurts performance ([Lee, Cheong, Kim & Yun, 2017, *Group & Organization Management*](https://doi.org/10.1177/1059601116646474), with a team-level replication in 2024). Both are field studies rather than large replications, so read the exact turning point as directional, not settled.
 
 ## See also
 

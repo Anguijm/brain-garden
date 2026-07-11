@@ -47,7 +47,7 @@ Assessment: treat it as a nice distillation of ideas better grounded in the
 [psychological safety](psychological-safety) and [teamwork on the fly](teamwork-on-the-fly)
 notes.
 
-**Evidence check (2026 review, verdict: mixed).** The three pillars themselves have never been empirically tested; they are an opinion-piece assertion. The strongest evidence is for the underlying construct, psychological safety, and even there a 2017 meta-analysis (Frazier et al.) ties it firmly to team learning but only weakly to creativity and task performance, while a 2023 study (Eldor et al.) finds the performance benefit is curvilinear rather than "more is always better.
+**Evidence check (2026 review, verdict: mixed).** The three pillars themselves have never been empirically tested; they are an opinion-piece assertion. The strongest evidence is for the underlying construct, psychological safety, and even there a 2017 meta-analysis of 136 samples ([Frazier et al., *Personnel Psychology*](https://doi.org/10.1111/peps.12183)) ties it firmly to team learning behavior (corrected r = .62) but only weakly to creativity (r = .13), with a more modest link to task performance, while a 2023 study ([Eldor et al., *Organizational Behavior and Human Decision Processes*](https://doi.org/10.1016/j.obhdp.2023.104255)) finds the performance benefit is curvilinear rather than "more is always better."
 
 ## See also
 

@@ -93,7 +93,7 @@ advice to keep employees *out* of redesigning their own jobs runs against everyt
 practice believes about involving people. Take the two-scale idea as a strong lens, not a
 proven law.
 
-**Evidence check (2026 review, verdict: mixed).** The strict two-scale separation is largely an artifact of Herzberg's interview method. King (1970, Psychological Bulletin) found no support for the theory's strong versions once other methods are used, and a 2010 meta-analysis (Judge et al.) found pay does modestly raise satisfaction, so "money never motivates" is too strong. What does hold up independently is narrower: that intrinsic job content relates to motivation and performance (Fried & Ferris, 1987).
+**Evidence check (2026 review, verdict: mixed).** The strict two-scale separation is largely an artifact of Herzberg's interview method. [King (1970, *Psychological Bulletin*)](https://doi.org/10.1037/h0029444) reviewed five versions of the theory and found its strong versions unsupported once methods other than Herzberg's own are used, and a 2010 meta-analysis ([Judge et al., *Journal of Vocational Behavior*](https://doi.org/10.1016/j.jvb.2010.04.002)) found pay has a small but real positive association with satisfaction (about r = .15), so "money never motivates" is too strong. What does hold up independently is narrower: a meta-analysis of the job characteristics model found that intrinsic job content relates to motivation, and more weakly to performance (Fried & Ferris, 1987, *Personnel Psychology*).
 
 ## See also
 

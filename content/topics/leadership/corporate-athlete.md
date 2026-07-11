@@ -70,7 +70,7 @@ need less sleep," the exact meal-macro ratios, so take the specific numbers and 
 loose 2001-era claims to re-check, not fact. The framework is the keeper; the details are
 softer than they sound.
 
-**Evidence check (2026 review, verdict: mixed).** Peer-reviewed meta-analyses do back the recovery idea, but modestly: breaks and detaching from work reliably cut fatigue and burnout, yet the measured effect on actual performance is small and mostly limited to lighter tasks (Albulescu et al. 2022; Steed et al. 2021; Bennett et al. 2018 found the tie to 'vigor' is only r≈.12). Treat this as sound burnout-prevention advice rather than a proven peak-performance formula, and note the left/right-brain split it cites was debunked by a 1,011-brain imaging study (Nielsen et al. 2013).
+**Evidence check (2026 review, verdict: mixed).** Peer-reviewed meta-analyses do back the recovery idea, but modestly: breaks and detaching from work reliably cut fatigue and burnout, yet the measured effect on actual performance is small and mostly limited to lighter, less cognitively demanding tasks ([Albulescu et al. 2022](https://doi.org/10.1371/journal.pone.0272460); Steed et al. 2021; Bennett et al. 2018 found that psychological detachment's tie to 'vigor' is only r≈.12). Treat this as sound burnout-prevention advice rather than a proven peak-performance formula, and note the left/right-brain split it cites was debunked by a 1,011-brain imaging study ([Nielsen et al. 2013](https://doi.org/10.1371/journal.pone.0071275)).
 
 ## See also
 

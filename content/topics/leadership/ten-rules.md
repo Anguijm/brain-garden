@@ -27,10 +27,11 @@ Every change is written down in the revision log at the bottom.
 
 *Rules 1 to 8 are about leading, developing, and managing; rules 9 and 10 are about building teams.*
 
-1. **Begin with trust, and fix your own wobble.** People trust you on three lines: that they
-   get the real you (authenticity), that your judgment is sound (logic), and that you care
-   about them (empathy). Almost everyone reliably breaks the same one. Find yours and work on
-   it, because nothing else you do lands without trust.
+1. **Begin with trust, and fix your own wobble.** People trust you on three lines: that your
+   words and actions line up (integrity), that your judgment is sound (logic), and that you
+   care about them (empathy). Almost everyone reliably breaks the same one. Find yours and work
+   on it, because nothing else you do lands without trust. (The validated driver is *integrity
+   and consistency*, not "being your authentic self," which is the weakest, most-critiqued leg.)
    *From: [Begin with trust](begin-with-trust)*
 
 2. **Lead with emotional intelligence, and flex your style to the moment.** What separates good
@@ -46,16 +47,19 @@ Every change is written down in the revision log at the bottom.
    risks.
    *From: [Becoming the boss](becoming-the-boss)*
 
-4. **Manage each person as unique: know their strengths, triggers, and how they learn.**
-   Average managers play checkers, treating everyone the same; great managers play chess.
-   Learn what energizes each person, what switches it on (usually recognition, in the form
-   they value), and how they best pick up something new.
+4. **Manage each person as unique: know their strengths and what motivates them.** Average
+   managers play checkers, treating everyone the same; great managers play chess. Learn what
+   energizes each person and what switches it on (usually recognition, in the form they value).
+   Skip the old idea of matching a "learning style" (independent research doesn't support it);
+   develop everyone with specific feedback and real practice instead. Just make sure people
+   read the individual treatment as *fair*, or it breeds resentment.
    *From: [What great managers do](what-great-managers-do)*
 
-5. **Motivate through the work itself, and fuel daily progress.** Pay, perks, and pressure buy
-   short-term movement, not motivation. Real drive comes from achievement, responsibility, and
-   growth, and day to day the biggest lever is helping people make visible progress in
-   meaningful work, so clear the obstacles and mark the small wins.
+5. **Make the work itself the main engine, and fuel daily progress.** Deep, lasting drive comes
+   from achievement, responsibility, growth, and visible progress in meaningful work, so clear
+   the obstacles and mark the small wins. Pay and incentives matter too (they genuinely raise
+   effort and output), so make them fair and steady rather than your only lever, and don't
+   dangle controlling rewards over work people already find interesting.
    *From: [How do you motivate employees?](how-to-motivate) and [The power of small wins](power-of-small-wins)*
 
 6. **Develop people by drawing out, not pouring in.** Coach with questions instead of jumping
@@ -77,10 +81,11 @@ Every change is written down in the revision log at the bottom.
    person's back.
    *From: [The manager's job: folklore and fact](the-managers-job), [Who's got the monkey?](whos-got-the-monkey), and [The making of a corporate athlete](corporate-athlete)*
 
-9. **Make it safe to tell the truth, and keep standards high.** Psychological safety is candor,
-   not niceness: people must feel free to raise problems, admit mistakes, and disagree. It is
-   not the enemy of high standards, you want both, because safety is what lets a team surface
-   hard truths and learn fast.
+9. **Make it safe to tell the truth, *and* hold high standards, you need both.** Psychological
+   safety is candor, not niceness: people must feel free to raise problems, admit mistakes, and
+   disagree. But safety *without* accountability can make routine work *worse*, not better, so
+   the high-standards half is essential, not optional. Its real payoff is that hard truths and
+   errors surface early, which is what lets a team learn (rather than a direct bump in output).
    *From: [Psychological safety](psychological-safety)*
 
 10. **Build teams on purpose, and keep them small, stable, and safe to challenge.** Form a real
@@ -139,7 +144,8 @@ inflated numbers, and make it contingent.** Two deeper patterns held up: rules b
 *conjunction* (safety AND standards; clarity AND protected time) beat rules built on a single
 hero variable, and earned credibility *augments* formal authority rather than replacing it.
 
-The sharpest per-rule caveats:
+The sharpest per-rule caveats (the corrections for rules 1, 4, 5, and 9 are now folded into the
+rule wording itself, v9; the rest stand as caveats):
 
 - **Rule 1:** "authenticity" is the weakest, most-critiqued leg of trust; the validated model is
   competence, benevolence, and *integrity/consistency*. Lean on integrity, and hold the trust
@@ -186,6 +192,15 @@ reason, so the list's own history is part of what you can read here.
 
 ## Revision log
 
+- **2026-07-12 — v9.** At the operator's direction, folded four evidence-review corrections into
+  the rule *wording* itself. Rule 1 now leans on integrity and consistency rather than
+  "authenticity" (the weakest, most-critiqued leg of trust). Rule 4 drops the debunked "learning
+  styles" clause and adds a fairness condition. Rule 5 no longer claims "not carrots and sticks",
+  it says pay genuinely raises effort and that intrinsic and extrinsic motivation coexist, while
+  keeping intrinsic drive the main engine. Rule 9 makes the "AND high standards" half explicitly
+  essential (safety without accountability can worsen routine work) and calibrates safety's
+  payoff to candor and error-reporting. Alongside this, a citation-verification pass hardened the
+  sources behind every note's evidence check.
 - **2026-07-12 — v8.** Ran an independent academic-evidence review across all 49 notes and the
   ten rules (60 reviewers checking each framework against the peer-reviewed literature, per the
   plan in `00_inbox/leadership-academic-evidence-todo.md`). Verdicts: rules 8 and 9

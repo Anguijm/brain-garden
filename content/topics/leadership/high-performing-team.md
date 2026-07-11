@@ -53,7 +53,7 @@ The biology claims are asserted without citation. Assessment: keep the map and t
 conversation exercise, which are the real value, and treat the statistics as marketing color,
 not evidence.
 
-**Evidence check (2026 review, verdict: mixed).** Even the psychological-safety research this leans on is weaker than "well-supported" suggests: a 2017 Personnel Psychology meta-analysis found only a moderate, mostly indirect link to performance that is inflated by publication and self-report bias, and a 2023 study found the effect can actually reverse (too much safety hurts routine-task performance). The evidence is almost entirely correlational surveys rather than experiments, so treat the safety-plus-courage 2x2 as a useful map, not a proven cause of team performance.
+**Evidence check (2026 review, verdict: mixed).** Even the psychological-safety research this leans on is weaker than "well-supported" suggests. The main [2017 Personnel Psychology meta-analysis (Frazier et al.)](https://doi.org/10.1111/peps.12183) found only a moderate link to task performance, weaker than its link to intermediate behaviors like learning and information-sharing, so its effect on performance looks largely indirect; the authors themselves flag that publication and common-method (self-report) bias likely inflate the numbers. A [2023 study (Eldor, Hodor and Cappelli)](https://doi.org/10.1016/j.obhdp.2023.104255) found the relationship is nonlinear and can even reverse: beyond a point, too much safety depresses routine-task performance unless it is paired with collective accountability. The evidence is almost entirely correlational surveys rather than experiments, so treat the safety-plus-courage 2x2 as a useful map, not a proven cause of team performance.
 
 ## See also
 

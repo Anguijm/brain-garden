@@ -102,7 +102,7 @@ it just means read it as a sharp lens, not a proof. Its best use is the humble o
 whether you even need a team, or whether a well-run working group would do the job with less
 risk.
 
-**Evidence check (2026 review, verdict: mixed).** Later meta-analyses back the mechanism but not every rule: interdependence and shared goals really do predict team performance (Courtright et al., 2015, ~7,500 teams), but the "keep teams small" prescription doesn't generalize — a large 2023 meta-analysis found the team-size/performance link is basically null and highly context-dependent, so treat "smaller is better" as a rough default, not a finding. And because the framework has never been tested as a causal package, read the six requirements as a useful checklist rather than proven success factors.
+**Evidence check (2026 review, verdict: mixed).** Later meta-analyses back the mechanism but not every rule. Interdependence and shared goals really do predict team performance ([Courtright et al., 2015](https://doi.org/10.1037/apl0000027), a meta-analysis of roughly 7,500 teams). But the "keep teams small" prescription doesn't generalize: a large 2023 meta-analysis of 208 studies ([Bernerth et al., 2023](https://doi.org/10.1002/job.2708)) found the team-size/performance link is essentially null on average and highly context-dependent (stronger only when tasks are complex), so treat "smaller is better" as a rough default, not a finding. And because the framework has never been tested as a causal package, read the six requirements as a useful checklist rather than proven success factors.
 
 ## See also
 

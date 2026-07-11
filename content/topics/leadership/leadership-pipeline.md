@@ -53,7 +53,7 @@ company-reported numbers (attrition rates, internal-hire targets) aren't indepen
 audited. Assessment: it also reads as an early-2000s "the web will fix this" piece. Take the
 five rules as solid practice, the specifics as dated.
 
-**Evidence check (2026 review, verdict: mixed).** Peer-reviewed meta-analyses (e.g. Lacerenza et al. 2017) confirm that leadership development broadly works, but it is formal, classroom-inclusive training whose effects are best documented; the article's central prescription that experiential, on-the-job development beats classroom learning (the 70-20-10 idea) has little empirical support and rests on the same retrospective, self-selected-success reasoning that Rosenzweig's Halo Effect flags as survivorship bias. Treat the fusion principle as a reasonable practice, not a demonstrated cause of a leader pipeline.
+**Evidence check (2026 review, verdict: mixed).** A large peer-reviewed meta-analysis, [Lacerenza et al. 2017](https://doi.org/10.1037/apl0000241) (Journal of Applied Psychology, 335 samples), confirms that leadership development broadly works, but the best-documented effects come from formal training programs, not from the article's central prescription that experiential, on-the-job development beats classroom learning. That 70-20-10 idea has little rigorous empirical support (it traces to self-reported executive surveys) and rests on the same retrospective, study-the-winners reasoning that Phil Rosenzweig's [The Halo Effect (2007)](https://scholar.google.com/scholar?q=Rosenzweig+The+Halo+Effect+Eight+Other+Business+Delusions) flags as a core delusion of best-practice business research. Treat the fusion principle as a reasonable practice, not a demonstrated cause of a leader pipeline.
 
 ## See also
 

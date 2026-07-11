@@ -77,7 +77,7 @@ effort, even if only partly accurate," to protect the person's confidence. Telli
 something you know is untrue is a poor habit that will cost you trust. Keep the individualizing
 core; skip that bit.
 
-**Evidence check (2026 review, verdict: mixed).** The peer-reviewed record is uneven: the "learning styles" pillar (analyzers/doers/watchers) is contradicted by the research, not merely contested — Pashler et al. (2009) found no evidence that matching instruction to a learning style helps. And while building on strengths is genuinely beneficial, independent meta-analyses put the effect on performance at only about d = 0.28 (Virga et al., 2023), far more modest than the article implies, with much of the supportive engagement data being Gallup's own correlational work (Harter et al., 2002).
+**Evidence check (2026 review, verdict: mixed).** The peer-reviewed record is uneven. The "learning styles" pillar (analyzers/doers/watchers) is contradicted by the research, not merely contested: the authoritative review by [Pashler et al. (2009)](https://doi.org/10.1111/j.1539-6053.2009.01038.x) in *Psychological Science in the Public Interest* found no reliable evidence that matching instruction to a person's preferred learning style improves outcomes. And while building on strengths is genuinely beneficial, a pre-registered meta-analysis of controlled trials put the effect on job performance at only about d = 0.28 ([Virga et al., 2023](https://doi.org/10.1111/apps.12451)), far more modest than the article implies, and an effect that faded to non-significance at follow-up. Much of the supportive engagement data, meanwhile, is Gallup's own correlational meta-analysis (Harter et al., 2002), not independent causal evidence.
 
 ## See also
 

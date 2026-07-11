@@ -53,7 +53,7 @@ anecdotes, with several openly fictional teaching vignettes, and the one hard nu
 model is a plausible, influential framework; treat the causal claims as theory, and the
 examples as illustration.
 
-**Evidence check (2026 review, verdict: mixed).** the quantitative research that exists lands softer than the article implies. Meta-analyses find team emotional intelligence correlates only moderately with team effectiveness (about r = 0.4) and the link is correlational, not proven causal; and because self-report/"mixed" EI overlaps heavily with ordinary personality traits (Joseph & Newman 2010; O'Boyle et al. 2011), its unique added predictive power is small, with critics (Landy 2005; Locke 2005) faulting the popular Goleman-lineage framing this piece draws on for weak construct validity.
+**Evidence check (2026 review, verdict: mixed).** The quantitative research that exists lands softer than the article implies. A 2026 systematic review and meta-analysis finds team emotional intelligence correlates only moderately with team effectiveness ([about r = 0.41](https://doi.org/10.3390/admsci16030116); 8 studies, N ≈ 3,400), and the link is correlational, not proven causal. Self-report and "mixed" EI also overlap heavily with ordinary personality traits (Joseph & Newman 2010), so much of its apparent value is shared with traits you could measure anyway; a large meta-analysis still finds it adds modest incremental validity beyond personality and cognitive ability ([O'Boyle et al. 2011](https://doi.org/10.1002/job.714)), which is why the picture is genuinely mixed rather than damning. Critics (Landy 2005; Locke 2005) fault the popular Goleman-lineage framing this piece draws on for weak construct validity.
 
 ## See also
 

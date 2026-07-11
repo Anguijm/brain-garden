@@ -74,7 +74,7 @@ problem will never become my problem" can turn into an excuse not to help, which
 what Covey pushes back on. Use it as a guard against *reverse delegation*, not as a licence to
 abandon people. Paired with real coaching, it is one of the most practical ideas here.
 
-**Evidence check (2026 review, verdict: mixed).** The "monkey" itself is a memorable metaphor, not a tested finding: "reverse delegation" has essentially no peer-reviewed research behind it, and the closest evidence (meta-analyses of "empowering leadership") shows only a modest link to actual performance (roughly ρ=.31 in Kim et al., 2018). Pushing work back down is also double-edged: Cheong et al. (2016) found it can raise subordinates' stress and hurt performance, so treat this as a useful time-management prompt, not proof that offloading every problem improves outcomes.
+**Evidence check (2026 review, verdict: mixed).** The "monkey" itself is a memorable metaphor, not a tested finding: "reverse delegation" has essentially no peer-reviewed research behind it, and the closest evidence, a meta-analysis of "empowering leadership," links it only modestly to actual performance (ρ=.31 for behavioral and performance outcomes in [Kim, Beehr & Prewett, 2018](https://doi.org/10.1177/1548051817750538)). Pushing work back down is also double-edged: [Cheong et al., 2016](https://doi.org/10.1016/j.leaqua.2016.01.006) found empowering behaviors can raise subordinates' job-induced tension and dampen the performance benefit, so treat this as a useful time-management prompt, not proof that offloading every problem improves outcomes.
 
 ## See also
 

@@ -47,7 +47,7 @@ alignment tool and their development space. Assessment: for the deeper, evidence
 (including the important "make it *their* meeting" stance), use the [Rogelberg
 note](one-on-one-meetings); use this one to get started.
 
-**Evidence check (2026 review, verdict: mixed).** the evidence base is thinner than the confident tone suggests. The Gallup engagement link is proprietary and correlational (not proof that 1:1s cause engagement), the 'engagement' being measured overlaps heavily with ordinary job satisfaction, and a landmark 1996 meta-analysis (Kluger & DeNisi) found feedback actually lowers performance in over a third of cases, so the 'exchange feedback' step is not automatically helpful; the 'critique the behavior, not the person' rule is the part research supports best.
+**Evidence check (2026 review, verdict: mixed).** the evidence base is thinner than the confident tone suggests. The Gallup engagement link is proprietary and correlational (not proof that 1:1s cause engagement), and the 'engagement' it measures overlaps heavily with ordinary job satisfaction. A landmark 1996 meta-analysis, [Kluger & DeNisi in Psychological Bulletin](https://doi.org/10.1037/0033-2909.119.2.254), pooled over 600 effect sizes and found that although feedback raises performance on average, it actually lowered performance in more than a third of cases, so the 'exchange feedback' step is not automatically helpful; the 'critique the behavior, not the person' rule is the part research supports best.
 
 ## See also
 

@@ -82,7 +82,7 @@ disclose that both did paid work for Google and Microsoft, two companies used as
 examples. Assessment: none of that undercuts the concept, which stands on a deep literature; it
 just means read the company anecdotes as illustrations, not proof.
 
-**Evidence check (2026 review, verdict: mixed).** Independent reviews are more cautious than this article: psychological safety is heavily studied and reliably correlates with good outcomes, but its link to actual performance is only moderate (Frazier et al. 2017 meta-analysis), the evidence is mostly cross-sectional rather than causal, and a 2024 CIPD evidence review rated the underlying study quality "rather low." Treat it as a genuine, useful construct that predicts learning and engagement well, but read the strong performance and "best-supported" claims (and the never-peer-reviewed Google "Project Aristotle" story) as softer than they sound.
+**Evidence check (2026 review, verdict: mixed).** Independent reviews are more cautious than this article: psychological safety is heavily studied and reliably correlates with good outcomes, but its link to actual performance is only moderate ([Frazier et al. 2017 meta-analysis](https://doi.org/10.1111/peps.12183)), the evidence is mostly cross-sectional rather than causal, and a [2024 CIPD evidence review](https://www.cipd.org/globalassets/media/knowledge/knowledge-hub/evidence-reviews/2024-pdfs/8550-psychological-safety-scientific-summary.pdf) rated the underlying study quality "rather low." Treat it as a genuine, useful construct that predicts learning and engagement well, but read the strong performance and "best-supported" claims (and the never-peer-reviewed Google "Project Aristotle" story) as softer than they sound.
 
 ## See also
 
