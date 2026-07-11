@@ -23,6 +23,13 @@ ends with a short "how much to trust this" section that says plainly how solid t
 evidence is. Claims are labeled FACT (backed by a named source), Assessment (my read), or
 Speculation.
 
+## Start here: the ten rules
+
+The whole library boils down to a living code: **[Ten rules for leading and building
+teams](ten-rules)**. It is capped at ten on purpose, each rule links back to the source it
+came from, and it changes (with a written log) as we add more research. Read it first, then
+dig into the sources behind any rule that grabs you.
+
 ## How this is organized
 
 The library sorts into two halves that keep pointing at each other: leading people, and
