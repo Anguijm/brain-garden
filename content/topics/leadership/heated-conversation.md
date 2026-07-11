@@ -13,7 +13,9 @@ The big idea of this article is that good teams need *productive conflict*, disa
 improves ideas and catches risks, but many teams dodge it because they can't handle the
 emotions it stirs up. Liane Davey argues that a team which keeps avoiding hard conversations
 piles up "conflict debt": a backlog of unspoken, unresolved issues that quietly blocks progress.
-Airing it out beats bottling it up.
+One calibration up front: the research payoff here is in handling the *emotion* well and keeping
+disagreement from turning personal; disagreement by itself doesn't reliably boost team output
+(see the evidence check).
 
 FACT: this is a 2019 HBR.org article by Liane Davey. (Davey, "Let Your Team Have That Heated
 Conversation.")
@@ -26,7 +28,7 @@ tells you something is hurt, a challenged belief, disorienting news, or a threat
 sense of competence, without telling you exactly what. Your job is to find the injury.
 
 ![Diagram: a fork. The avoid path: fear of emotion leads to skipping the conversation, the issue goes undiscussed, "conflict debt" piles up, and progress stalls, looping back to more avoidance. The engage path: open with "This is important, what do I need to understand?", find the injury, reflect and paraphrase to the root, then pivot to "what would a good path forward look like?", and the emotion dissipates.](img/productive-conflict.png)
-*Avoiding conflict compounds; engaging it resolves. Diagram.*
+*Davey's fork: avoiding conflict compounds the debt; engaging it drains the emotion. Diagram.*
 
 The practical move in a heated moment:
 
@@ -53,7 +55,7 @@ neuroscience-flavored claims are asserted, and "in the majority of cases the emo
 is an impression, not a measured rate. Assessment: sound, experience-based counsel, held as
 that.
 
-**Evidence check (2026 review, verdict: mixed).** Add that the broader "productive conflict improves teams" premise is weaker than the popular framing implies: [De Dreu and Weingart's 2003 meta-analysis](https://doi.org/10.1037/0021-9010.88.4.741) (Journal of Applied Psychology) found task conflict correlated negatively with team performance, and [de Wit, Greer, and Jehn's 2012 meta-analysis](https://doi.org/10.1037/a0024844) of 116 studies found essentially no robust overall effect for task conflict, with benefits only under narrow conditions (top-management teams, financial or decision-quality outcomes). What the research robustly supports is the flip side, that emotional/relationship conflict reliably harms teams, so the note's real payoff is managing the emotion and keeping disagreement from turning personal, not the claim that airing disagreements boosts output.
+**Evidence check (2026 review, verdict: mixed).** Add that the broader "productive conflict improves teams" premise is weaker than the popular framing implies: [De Dreu and Weingart's 2003 meta-analysis](https://doi.org/10.1037/0021-9010.88.4.741) (Journal of Applied Psychology) found task conflict correlated negatively with team performance, and [de Wit, Greer, and Jehn's 2012 meta-analysis](https://doi.org/10.1037/a0024844) of 116 studies found essentially no robust overall effect for task conflict, with benefits only under narrow conditions (top-management teams, financial or decision-quality outcomes). What the research robustly supports is the flip side, that emotional/relationship conflict reliably harms teams, so the note's real payoff is managing the emotion and keeping disagreement from turning personal, not the claim that airing disagreements boosts output. Bottom line: put your energy into keeping disagreement from getting personal and helping people feel heard, not into stirring up more debate for its own sake.
 
 ## See also
 

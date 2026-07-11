@@ -28,8 +28,11 @@ The conditions that force you to build a team are the same ones that pull it apa
 
 FACT: the study found cooperation drops as a team grows past about 20 members, as more of it
 goes virtual, as background diversity rises, and, strikingly, the more highly educated experts
-it holds, the more likely it is to stall in conflict. Assessment: so the job is not to avoid
-those traits, which the work demands, but to deliberately counteract them.
+it holds, the more likely it is to stall in conflict. Assessment: one leg of that needs
+softening: later meta-analyses find demographic diversity has essentially no reliable effect
+on team performance (see the evidence check), so read the diversity arrow as this study's
+finding, not a law. The job is still not to avoid these traits, which the work demands, but
+to deliberately counteract the friction they bring.
 
 ## The eight practices, in four groups
 
@@ -69,14 +72,17 @@ about how you build a single team.
    reach the goal (which invites creativity). The counterintuitive lesson: clarity about who
    does what, ambiguity about how.
 
-## The surprise: rewards barely mattered
+## The surprise that didn't hold up: rewards
 
-Assessment: one finding is worth pulling out because it contradicts common practice. FACT:
-the type of reward system, team bonus versus individual, tied to collaboration or not, had no
-detectable effect on how well these complex teams performed. Most formal HR programs did
-little. Only two moved the needle: training in collaboration skills, and support for
-informal community. Assessment: the takeaway is to spend less energy engineering incentives
-and more on teaching people how to work together and giving them reasons to connect.
+Assessment: one finding is worth pulling out because later research contradicts it. FACT: in
+*this* study, the type of reward system, team bonus versus individual, tied to collaboration
+or not, had no detectable effect on how well these complex teams performed; of the formal HR
+programs, only collaboration-skills training and support for informal community moved the
+needle. But a 2014 meta-analysis of 146 studies found team-based rewards genuinely do improve
+team performance (see the evidence check below). Assessment: so the safe reading is narrower
+than the article's: don't expect incentive design alone to rescue a big, complex team, and
+don't neglect the training and community work this study found effective. Rewards remain a
+real lever; this study just failed to detect it.
 
 ## How much to trust this
 
@@ -94,7 +100,7 @@ others were bailed out or broken up), a good reminder that a company can be grea
 collaboration and still fail for other reasons. Read the eight as a design guide, not a
 scoreboard.
 
-**Evidence check (2026 review, verdict: mixed).** Two of the eight claims don't hold up against later meta-analyses. A 2014 meta-analysis of 146 studies ([Garbers & Konradt, *Journal of Occupational and Organizational Psychology*](https://doi.org/10.1111/joop.12039)) found team-based financial rewards do improve performance (a positive effect of about g = 0.45), contradicting the article's "rewards barely mattered" surprise. And diversity meta-analyses ([Horwitz & Horwitz 2007, *Journal of Management*](https://doi.org/10.1177/0149206307308587); Bell et al. 2011) find surface-level demographic diversity has essentially no reliable effect on performance, while more job-related kinds of diversity can even help slightly, so treating diversity as a force that corrodes cooperation overstates the case. The leadership and pre-existing-relationships practices fare better in the wider evidence.
+**Evidence check (2026 review, verdict: mixed).** Two of the eight claims don't hold up against later meta-analyses. A 2014 meta-analysis of 146 studies ([Garbers & Konradt, *Journal of Occupational and Organizational Psychology*](https://doi.org/10.1111/joop.12039)) found team-based financial rewards do improve performance (a positive effect of about g = 0.45, close to a medium-sized effect on the usual scale), contradicting the article's "rewards barely mattered" surprise. And diversity meta-analyses ([Horwitz & Horwitz 2007, *Journal of Management*](https://doi.org/10.1177/0149206307308587); Bell et al. 2011) find surface-level demographic diversity has essentially no reliable effect on performance, while more job-related kinds of diversity can even help slightly, so treating diversity as a force that corrodes cooperation overstates the case. The leadership and pre-existing-relationships practices fare better in the wider evidence. Bottom line: when you stand up a big expert team, seed it with people who already trust each other, train collaboration skills, define roles sharply, and still use team rewards despite this article's null result.
 
 ## See also
 
@@ -104,6 +110,8 @@ scoreboard.
   a group of specialists actually pull together.
 - **[Collaborative overload](collaborative-overload)** — the flip side: collaboration's hidden
   cost, and how a few helpful people end up carrying too much of it.
+- **[Managing multicultural teams](multicultural-teams)** — the culture-specific version of
+  this note's diversity friction, with fixes.
 - **[Finite resources](../../connections/finite-resources)** — a cousin idea from elsewhere
   in the garden: a smaller, tighter effort often beats a big one spread thin.
 

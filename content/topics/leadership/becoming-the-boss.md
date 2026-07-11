@@ -26,34 +26,40 @@ each one collides with reality fast.
 ![Diagram: a two-column table, myth on the left and reality on the right, across five rows. The role: authority versus a web of interdependence. Where power comes from: your title versus credibility you have to earn. What you want: control versus commitment. Your focus: managing people one by one versus leading the whole team. The job: keeping things running smoothly versus driving change.](img/myth-vs-reality.png)
 *What new managers expect, and what the job actually is. Diagram.*
 
-- **"Now I have authority and freedom."** FACT: reality is the opposite, you are hemmed in by
-  a web of people (your team, your boss, peers, outsiders) all making conflicting demands. One
-  new manager put it: "It's humbling that someone who works for me could get me fired."
-- **"My power comes from my position."** FACT: formal title buys you almost nothing. Real
-  authority has to be *earned* by building credibility and trust, by showing character,
-  competence, and the ability to get things done.
-- **"I have to get my people to comply."** FACT: compliance is a false win. What you actually
-  need is *commitment*, because only committed people take initiative and risks. Getting
-  people to obey is not the same as getting them to care.
-- **"My job is a good one-on-one relationship with each person."** FACT: managing individuals
-  one by one is not the same as *leading a team*. You have to build the group and shape its
-  culture, or individual favors will quietly wreck it.
-- **"My job is to keep things running smoothly."** FACT: keeping the status quo is not enough.
-  A manager is a change agent, expected to push improvements, sometimes beyond their formal
-  authority. One manager was fired for hunkering down on internal fixes instead of fighting
-  for what his team needed.
+- **"Now I have authority and freedom."** FACT: the reality Hill documents is the opposite,
+  you are hemmed in by a web of people (your team, your boss, peers, outsiders) all making
+  conflicting demands. One new manager put it: "It's humbling that someone who works for me
+  could get me fired."
+- **"My power comes from my position."** FACT: in Hill's fieldwork, the formal title bought
+  far less than new managers expected. Real authority has to be *earned* by building
+  credibility and trust, by showing character, competence, and the ability to get things
+  done. (Assessment: the research nuance is that the title still matters, as the platform
+  that gets you a hearing; credibility is what converts it into more than compliance.)
+- **"I have to get my people to comply."** FACT: Hill's finding is that compliance is a false
+  win. What you actually need is *commitment*, because only committed people take initiative
+  and risks. Getting people to obey is not the same as getting them to care.
+- **"My job is a good one-on-one relationship with each person."** FACT: Hill observed that
+  managing individuals one by one is not the same as *leading a team*. You have to build the
+  group and shape its culture, or individual favors will quietly wreck it.
+- **"My job is to keep things running smoothly."** FACT: in Hill's account, keeping the
+  status quo is not enough. A manager is a change agent, expected to push improvements,
+  sometimes beyond their formal authority. One manager was fired for hunkering down on
+  internal fixes instead of fighting for what his team needed.
 
 ## Learning by doing (and asking for help)
 
-Assessment: Hill's other key point is that you cannot learn this in a classroom. It is a
-craft learned on the job, through trial and mostly error, which is disorienting for star
+Assessment: Hill's other key point is that you cannot fully learn this in a classroom. It is
+a craft learned on the job, through trial and mostly error, which is disorienting for star
 performers who are used to rarely making mistakes. The learning is slow and often invisible
-while it is happening.
+while it is happening. (Hold the anti-classroom absolutism loosely: training does transfer to
+the job better than this implies, see the evidence check; it just cannot substitute for the
+lived transition.)
 
-FACT: there is a sixth trap hiding underneath: new managers think the boss is supposed to have
-all the answers, so asking for help feels like admitting the promotion was a mistake. In
-reality nobody has the answers, and the ones who quietly find a mentor or a peer to lean on
-do far better. Assessment: get help early, ideally from someone who is not also your judge.
+FACT: Hill describes a sixth trap hiding underneath: new managers think the boss is supposed
+to have all the answers, so asking for help feels like admitting the promotion was a mistake.
+Assessment: in her observation, nobody has the answers, and the managers who quietly found a
+mentor or a peer to lean on fared far better. Get help early, ideally from someone who is not
+also your judge.
 
 ## How much to trust this
 
@@ -68,7 +74,7 @@ no control group or hard numbers. Assessment: so treat this as sharp, well-groun
 observation rather than measured proof. That is fine for what it is, a map of the emotional
 and mental shift the job demands, and on that it is very good.
 
-**Evidence check (2026 review, verdict: mixed).** Independent research backs the direction of Hill's ideas but not their strength or certainty: meta-analyses confirm that commitment and trust in a leader do predict performance, but the effects are modest (corrected correlations around .16 to .20; [Riketta 2002](https://scholar.google.com/scholar?q=Riketta+Attitudinal+organizational+commitment+and+job+performance+a+meta-analysis), [Dirks & Ferrin 2002](https://doi.org/10.1037/0021-9010.87.4.611)), the transformational-leadership paradigm underneath them has been criticized for unclear definitions and invalid measurement (van Knippenberg & Sitkin 2013), and formal training does transfer to the job (Lacerenza 2017), which softens the "you can't learn this in a classroom" line. The specific five-myths framework itself has never been tested at scale, so read the FACT labels here as well-grounded field observation rather than measured proof.
+**Evidence check (2026 review, verdict: mixed).** Independent research backs the direction of Hill's ideas but not their strength or certainty: meta-analyses confirm that commitment and trust in a leader do predict performance, but the effects are modest (corrected correlations around .16 to .20, which is small on the usual scale where .10 counts as small and .30 as moderate; [Riketta 2002](https://doi.org/10.1002/job.141), [Dirks & Ferrin 2002](https://doi.org/10.1037/0021-9010.87.4.611)), the transformational-leadership paradigm underneath them has been criticized for unclear definitions and invalid measurement (van Knippenberg & Sitkin 2013), and formal training does transfer to the job (Lacerenza 2017), which softens the "you can't learn this in a classroom" line. The specific five-myths framework itself has never been tested at scale, so read the myth-versus-reality contrasts as well-grounded field observation rather than measured proof. Bottom line: use the five myths as a self-check when you step into the job, keep earning trust and commitment (they help, just modestly), and take formal training instead of assuming the job can only be learned the hard way.
 
 ## See also
 

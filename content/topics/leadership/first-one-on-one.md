@@ -19,6 +19,9 @@ One-on-One Meeting.")
 
 ## Prepare, conduct, follow up
 
+Mayberry's workflow is a three-stage loop: prepare before the meeting, conduct it well, then
+follow up and feed what you learned into the next one.
+
 ![Diagram: a three-stage loop. Prepare (set the stage, set an agenda, review past notes). Conduct (catch up, cover key points, exchange feedback, finish strong). Follow up (send a recap, reflect). An arrow loops reflection back into the next prepare.](img/first-1-on-1.png)
 *A new manager's first 1:1: prepare, conduct, follow up. Diagram.*
 
@@ -47,7 +50,7 @@ alignment tool and their development space. Assessment: for the deeper, evidence
 (including the important "make it *their* meeting" stance), use the [Rogelberg
 note](one-on-one-meetings); use this one to get started.
 
-**Evidence check (2026 review, verdict: mixed).** the evidence base is thinner than the confident tone suggests. The Gallup engagement link is proprietary and correlational (not proof that 1:1s cause engagement), and the 'engagement' it measures overlaps heavily with ordinary job satisfaction. A landmark 1996 meta-analysis, [Kluger & DeNisi in Psychological Bulletin](https://doi.org/10.1037/0033-2909.119.2.254), pooled over 600 effect sizes and found that although feedback raises performance on average, it actually lowered performance in more than a third of cases, so the 'exchange feedback' step is not automatically helpful; the 'critique the behavior, not the person' rule is the part research supports best.
+**Evidence check (2026 review, verdict: mixed).** The evidence base is thinner than the confident tone suggests. The Gallup engagement link is proprietary and correlational (not proof that 1:1s cause engagement), and the 'engagement' it measures overlaps heavily with ordinary job satisfaction. A landmark 1996 meta-analysis, [Kluger & DeNisi in Psychological Bulletin](https://doi.org/10.1037/0033-2909.119.2.254), pooled over 600 effect sizes and found that although feedback raises performance on average, it actually lowered performance in more than a third of cases, so the 'exchange feedback' step is not automatically helpful; the 'critique the behavior, not the person' rule is the part research supports best. Bottom line: use the prepare-conduct-follow-up checklist to get started, but make the meeting the report's and don't assume a feedback exchange every session automatically helps.
 
 ## See also
 

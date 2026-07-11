@@ -2,10 +2,13 @@
 type: note
 series: leadership
 title: "The secret to building a high-performing team"
-status: curated
+status: archived
+draft: true
 tags: [leadership, management, teams, verification]
 created: 2026-07-12
 ---
+
+> Archived 2026-07-12: this note was folded into [psychological-safety](../../topics/leadership/psychological-safety) during the v10 consolidation. Kept here unchanged as the version record; the public URL now redirects.
 
 # The secret to building a high-performing team
 
@@ -22,7 +25,7 @@ FACT: this is a 2025 HBR.org article, drawing on the author's "Last 8%" research
 
 Assessment: the whole model is a two-by-two: connection on one axis, courage on the other.
 
-![Diagram: a two-by-two grid. The horizontal axis is connection (low to high); the vertical axis is courage (low to high). Low connection, low courage is a fear-based culture. High connection, low courage is a family culture (nice but avoids hard things). Low connection, high courage is a transactional culture (results over relationships, burnout). High connection, high courage is the target: accountability plus care.](img/last-8-culture.png)
+![Diagram: a two-by-two grid. The horizontal axis is connection (low to high); the vertical axis is courage (low to high). Low connection, low courage is a fear-based culture. High connection, low courage is a family culture (nice but avoids hard things). Low connection, high courage is a transactional culture (results over relationships, burnout). High connection, high courage is the target: accountability plus care.](../../topics/leadership/img/last-8-culture.png)
 *You need both connection and courage. The top-right corner is the goal. Diagram.*
 
 - **Family culture** (high connection, low courage) — nice, but avoids hard conversations;
@@ -34,7 +37,7 @@ Assessment: the whole model is a two-by-two: connection on one axis, courage on 
   and safe enough to take smart risks.
 
 Assessment: this is essentially the same insight as [psychological
-safety](psychological-safety) (candor plus high standards), dressed in different language. FACT:
+safety](../../topics/leadership/psychological-safety) (candor plus high standards), dressed in different language. FACT:
 the author's memorable framing is "the last 8 percent", the highest-stakes part of a
 conversation that people habitually leave out. The practical tool is a structured team
 conversation: show the map, be honest about where you think the team sits, ask where *they*
@@ -57,11 +60,11 @@ not evidence.
 
 ## See also
 
-- **[Psychological safety](psychological-safety)** — the better-grounded version of this same
+- **[Psychological safety](../../topics/leadership/psychological-safety)** — the better-grounded version of this same
   "candor plus standards" idea.
-- **[Why teams don't work](why-teams-dont-work)** — Hackman on protecting the dissenting voice,
+- **[Why teams don't work](../../topics/leadership/why-teams-dont-work)** — Hackman on protecting the dissenting voice,
   which is "courage" in action.
-- **[The feedback fallacy](the-feedback-fallacy)** — how to make the "courage" part land
+- **[The feedback fallacy](../../topics/leadership/the-feedback-fallacy)** — how to make the "courage" part land
   without crushing people.
 
 ## Sources

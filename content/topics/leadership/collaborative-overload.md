@@ -33,10 +33,11 @@ they are not equal.
 - **Personal** (your time and energy) is finite. Every meeting and request spends it, and it's
   gone.
 
-FACT: the trap is that people default to asking for the *personal* resource, a 30-minute
-meeting, when a five-minute answer or an introduction would do. So the most helpful people get
-buried. Assessment: as someone becomes known as capable and willing, requests pile up, their
-own work stalls, and the virtuous cycle turns vicious. Women and top performers get hit hardest.
+FACT: the authors' claim is that people default to asking for the *personal* resource, a
+30-minute meeting, when a five-minute answer or an introduction would do. So the most helpful
+people get buried. Assessment: as someone becomes known as capable and willing, requests pile
+up, their own work stalls, and the virtuous cycle turns vicious. Assessment: women and top
+performers get hit hardest, though the supporting evidence varies in strength.
 
 ## What to do about it
 
@@ -67,7 +68,7 @@ and a self-report poll of varying strength. And the 2016 tool examples are dated
 has almost certainly grown worse in the Slack-and-Zoom era. Assessment: the core diagnosis and
 the resource distinction are the keepers.
 
-**Evidence check (2026 review, verdict: mixed).** Independent peer-reviewed work backs the core mechanisms ([Kim et al. 2023](https://scholar.google.com/scholar?q=The+consequences+of+collaborative+overload%3A+A+long-term+investigation+of+helping+behavior+Kim+2023) links helping *escalation* to burnout; Bergeron et al. 2013 shows heavy helpers advance more slowly; Heilman & Chen 2005 shows the gender asymmetry), and network science confirms the general shape that load concentrates on a few people. But the "collaboration burns you out" framing is more conditional than the article implies: a [2026 meta-analysis of 186 studies](https://doi.org/10.1111/aphw.70158) (Wiese et al.) finds helping is on average positively linked to well-being and life satisfaction, so the real danger is *overload and non-volitional* helping specifically, not collaboration itself, and the headline 3-5%/20-35% figures remain proprietary to the authors' consulting data and unreplicated.
+**Evidence check (2026 review, verdict: mixed).** Independent peer-reviewed work backs the core mechanisms ([Kim et al. 2023](https://doi.org/10.1016/j.jbusres.2022.113348) links helping *escalation* to burnout; Bergeron et al. 2013 shows heavy helpers advance more slowly; Heilman & Chen 2005 shows the gender asymmetry), and network science confirms the general shape that load concentrates on a few people. But the "collaboration burns you out" framing is more conditional than the article implies: a [2026 meta-analysis of 186 studies](https://doi.org/10.1111/aphw.70158) (Wiese et al.) finds helping is on average positively linked to well-being and life satisfaction, so the real danger is *overload and non-volitional* helping specifically, not collaboration itself, and the headline 3-5%/20-35% figures remain proprietary to the authors' consulting data and unreplicated. Bottom line: find out who actually carries your team's collaborative load, steer requests toward answers and introductions instead of meetings, and treat the famous percentages as a warning rather than a measurement.
 
 ## See also
 

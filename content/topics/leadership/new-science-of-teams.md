@@ -20,16 +20,19 @@ studies across many organizations. (Pentland, "The New Science of Building Great
 
 ## Three things that define a great team's communication
 
+Pentland's badge data reduces a winning team's communication to three measurable dimensions.
+
 ![Diagram: three stacked bands. Energy: how many exchanges happen, and face-to-face counts most (phone and video less, email and text least). Engagement: whether that energy is spread evenly across all members, not hogged by a few. Exploration: how much the team also connects outward to other groups and brings information back.](img/team-communication.png)
 *The three measurable dimensions of a winning team's communication. Diagram.*
 
-- **Energy** — the number of exchanges among members. FACT: face-to-face is the most valuable
-  form of communication, phone and video less so, and email and texting least.
-- **Engagement** — whether that energy is spread *evenly* across everyone, not concentrated in
+- **Energy**: the number of exchanges among members. FACT: Pentland's data says face-to-face is
+  the most valuable form of communication, phone and video less so, and email and texting least.
+- **Engagement**: whether that energy is spread *evenly* across everyone, not concentrated in
   a few loud members. Teams with quiet, left-out members do worse.
-- **Exploration** — how much the team connects *outside* itself and brings information back.
-  This matters most for creative work. FACT: because energy is finite, the best teams
-  *oscillate* between talking among themselves (engagement) and reaching outward (exploration).
+- **Exploration**: how much the team connects *outside* itself and brings information back.
+  This matters most for creative work. FACT: Pentland reports that because energy is finite,
+  the best teams *oscillate* between talking among themselves (engagement) and reaching outward
+  (exploration).
 
 Assessment: the article boils the ideal down to a simple signature: everyone talks and listens
 about equally in short bursts, people face each other with energy, members connect directly
@@ -65,7 +68,7 @@ causal confidence; the headline $15 million is a *forecast*, not a measured resu
 Assessment: keep the communication-pattern idea and the cheap fixes, and be skeptical of both
 the precision of the numbers and the "measure everyone with sensors" enthusiasm.
 
-**Evidence check (2026 review, verdict: mixed).** The nearest independent tests of the core idea undercut it. A 2017 study of the related MIT "collective intelligence" work ([Bates & Gupta, *Intelligence*](https://doi.org/10.1016/j.intell.2016.11.004)) ran three experiments (312 people) and found that individual IQ, not equal turn-taking, drove about 80 percent of the differences in group problem-solving; the turn-taking and social-sensitivity effects did not hold up. A *Journal of Applied Psychology* reanalysis ([Credé & Howardson 2017](https://doi.org/10.1037/apl0000176)) likewise judged the collective-intelligence factor weak and partly a statistical artifact, though the original authors published a rebuttal defending it. Team-composition meta-analyses also show member ability does predict performance, so treat "how you talk matters more than who's on the team" and the three dimensions as plausible heuristics, not measured law.
+**Evidence check (2026 review, verdict: mixed).** The nearest independent tests of the core idea undercut it. A 2017 study of the related MIT "collective intelligence" work ([Bates & Gupta, *Intelligence*](https://doi.org/10.1016/j.intell.2016.11.004)) ran three experiments (312 people) and found that individual IQ, not equal turn-taking, drove about 80 percent of the differences in group problem-solving; the turn-taking and social-sensitivity effects did not hold up. A *Journal of Applied Psychology* reanalysis ([Credé & Howardson 2017](https://doi.org/10.1037/apl0000176)) likewise judged the collective-intelligence factor weak and partly a statistical artifact, though the original authors published a rebuttal defending it. Team-composition meta-analyses also show member ability does predict performance, so treat "how you talk matters more than who's on the team" and the three dimensions as plausible heuristics, not measured law. Bottom line: go ahead and try the cheap fixes (shared breaks, seating that mixes people, equal airtime), but keep hiring for ability and don't buy sensors expecting communication patterns alone to make a team great.
 
 ## See also
 

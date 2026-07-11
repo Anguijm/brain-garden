@@ -27,11 +27,11 @@ them across a team is what matters.
 ![Diagram: five psychological team roles as labeled bars. Results-oriented (drives to get things done). Relationship-focused (builds cohesion). Process followers (keep order and rules). Innovators (drive change). Pragmatists (challenge ideas). Two example teams show unhealthy imbalances: one with no relationship-builders, one that is almost all relationship-builders.](img/team-roles.png)
 *Five psychological roles. A great team balances them. Diagram.*
 
-- **Results-oriented** — organize and drive the work forward.
-- **Relationship-focused** — build cohesion and read the room.
-- **Process followers** — keep order, detail, and rules.
-- **Innovators** — push change and spot problems early.
-- **Pragmatists** — hard-headed challengers who test ideas.
+- **Results-oriented:** organize and drive the work forward.
+- **Relationship-focused:** build cohesion and read the room.
+- **Process followers:** keep order, detail, and rules.
+- **Innovators:** push change and spot problems early.
+- **Pragmatists:** hard-headed challengers who test ideas.
 
 FACT: the authors' cautionary examples cut both ways: a finance team with no relationship-
 builders and almost no results-drivers stalled; a social-work team that was 86 percent
@@ -51,7 +51,7 @@ Google's psychological-safety findings and so downplays them rather than reconci
 take the "balance the mix" idea as a sensible lens, and be skeptical of anything that leads
 toward buying a personality test.
 
-**Evidence check (2026 review, verdict: mixed).** The best available evidence is only mixed: meta-analyses find the personality-composition effect is small (correlations around .10 to .24, near zero in lab studies), and more personality *diversity* actually lowered performance on some traits ([Peeters 2006](https://doi.org/10.1002/per.588); [Bell 2007](https://doi.org/10.1037/0021-9010.92.3.595)). The five-role "balance the mix" idea descends from Belbin, whose measure has weak reliability and whose "balanced teams win" claim is unproven, and Google's own 180-team study found composition mattered far less than team norms like the psychological safety this article argues against.
+**Evidence check (2026 review, verdict: mixed).** The best available evidence is only mixed: meta-analyses find the personality-composition effect is small (correlations around .10 to .24, small to modest on the usual scale, and near zero in lab studies), and more personality *diversity* actually lowered performance on some traits ([Peeters 2006](https://doi.org/10.1002/per.588); [Bell 2007](https://doi.org/10.1037/0021-9010.92.3.595)). The five-role "balance the mix" idea descends from Belbin, whose measure has weak reliability and whose "balanced teams win" claim is unproven, and Google's own 180-team study found composition mattered far less than team norms like the psychological safety this article argues against. Bottom line: think about the mix of roles when you staff a team, but fix norms and working conditions first, and do not buy a personality test on the strength of this piece.
 
 ## See also
 
@@ -61,6 +61,9 @@ toward buying a personality test.
   skills side; this note adds the personality side.
 - **[Psychological safety](psychological-safety)** — the finding this article argues against;
   read them together.
+- **[The secrets of great teamwork](secrets-of-great-teamwork)** — the direct counter-claim
+  (conditions matter, personalities mostly don't); read both, the conditions side has the
+  better-replicated evidence.
 
 ## Sources
 

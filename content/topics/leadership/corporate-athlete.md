@@ -26,11 +26,11 @@ four together produce what the authors call the "ideal performance state."
 ![Diagram: a four-tier pyramid. The base is physical capacity (the body's energy). Above it, emotional capacity (a calm, positive inner climate). Above that, mental capacity (focus). At the peak, spiritual capacity (energy from a deep sense of purpose). Arrows labeled rituals link the tiers.](img/performance-pyramid.png)
 *The performance pyramid: four kinds of capacity, built by rituals. Diagram.*
 
-- **Physical** (the base) — the body is the fundamental source of energy; everything else
+- **Physical** (the base): the body is the fundamental source of energy; everything else
   rests on it.
-- **Emotional** — the inner climate (calm, confident, positive) that peak performance needs.
-- **Mental** — focus, the ability to aim your physical and emotional energy at the task.
-- **Spiritual** (the top) — not religion, but the energy that comes from your deepest values
+- **Emotional**: the inner climate (calm, confident, positive) that peak performance needs.
+- **Mental**: focus, the ability to aim your physical and emotional energy at the task.
+- **Spiritual** (the top): not religion, but the energy that comes from your deepest values
   and sense of purpose. It is what carries you through hardship.
 
 ## Oscillate: stress, then recover
@@ -42,8 +42,10 @@ stress, it is the *absence of recovery*. The authors call the failure to alterna
 FACT: they build the case from sport. Muscle grows by being stressed past its limit and then
 allowed to recover; skip the recovery and you get breakdown, skip the stress and you get
 atrophy. In tennis, the best players use tiny recovery rituals between points, and their heart
-rates drop 15 to 20 percent in those seconds. The body also runs on a roughly 90-to-120-minute
-cycle, so work is best broken up on that rhythm.
+rates drop 15 to 20 percent in those seconds. The authors also assert that the body runs on a
+roughly 90-to-120-minute cycle, so work is best broken up on that rhythm. Assessment: the
+'90-to-120-minute ultradian rhythm' is a contested piece of pop-physiology, not settled
+science; keep the break-taking habit, hold the exact cycle length loosely.
 
 The practical engine is **rituals**, small, repeated routines that make recovery automatic:
 
@@ -70,7 +72,7 @@ need less sleep," the exact meal-macro ratios, so take the specific numbers and 
 loose 2001-era claims to re-check, not fact. The framework is the keeper; the details are
 softer than they sound.
 
-**Evidence check (2026 review, verdict: mixed).** Peer-reviewed meta-analyses do back the recovery idea, but modestly: breaks and detaching from work reliably cut fatigue and burnout, yet the measured effect on actual performance is small and mostly limited to lighter, less cognitively demanding tasks ([Albulescu et al. 2022](https://doi.org/10.1371/journal.pone.0272460); Steed et al. 2021; Bennett et al. 2018 found that psychological detachment's tie to 'vigor' is only r≈.12). Treat this as sound burnout-prevention advice rather than a proven peak-performance formula, and note the left/right-brain split it cites was debunked by a 1,011-brain imaging study ([Nielsen et al. 2013](https://doi.org/10.1371/journal.pone.0071275)).
+**Evidence check (2026 review, verdict: mixed).** Peer-reviewed meta-analyses do back the recovery idea, but modestly: breaks and detaching from work reliably cut fatigue and burnout, yet the measured effect on actual performance is small and mostly limited to lighter, less cognitively demanding tasks ([Albulescu et al. 2022](https://doi.org/10.1371/journal.pone.0272460); Steed et al. 2021; Bennett et al. 2018 found that psychological detachment's tie to 'vigor' is only r≈.12, a small correlation near the bottom of the usual scale where .10 counts as small). Treat this as sound burnout-prevention advice rather than a proven peak-performance formula, and note the left/right-brain split it cites was debunked by a 1,011-brain imaging study ([Nielsen et al. 2013](https://doi.org/10.1371/journal.pone.0071275)). Bottom line: build real breaks, sleep, exercise, and after-hours detachment into your routine as burnout protection, without expecting them to directly boost output on demanding work.
 
 ## See also
 

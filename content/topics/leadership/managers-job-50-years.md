@@ -28,10 +28,10 @@ so diagnose your form first.
 ![Diagram: four labeled cards for the organizational forms. Personal (built around one leader; a start-up). Programmed (run on standard processes; McDonald's). Professional (relies on expert professionals; a hospital). Project (organized around projects; a film company). A note shows all four in one industry: corner diner, fast food, gourmet restaurant, catering.](img/four-forms.png)
 *Four organizational forms. Each needs a different kind of managing. Diagram.*
 
-- **Personal** — built around one leader, like an entrepreneurial start-up.
-- **Programmed** — run on standardized processes, like McDonald's.
-- **Professional** — relies on the expertise of its people, like a hospital.
-- **Project** — organized around specific projects, like a film studio or research lab.
+- **Personal**: built around one leader, like an entrepreneurial start-up.
+- **Programmed**: run on standardized processes, like McDonald's.
+- **Professional**: relies on the expertise of its people, like a hospital.
+- **Project**: organized around specific projects, like a film studio or research lab.
 
 FACT: Mintzberg's warning is that a playbook that fits one form fails in another, running
 Amazon's retail machine is not much help for running a space venture. Assessment: he also
@@ -55,11 +55,13 @@ handling.
 
 The caveat is simply what this is. FACT: it's an opinion interview, not research, so the
 provocative bits ("leadership is destructive," the Bezos and Musk asides) are assertions, and
-the Welch anecdote is secondhand and unverifiable. Assessment: the durable substance (the four
-forms, emergent structure) traces to Mintzberg's real body of work; this piece is a
-plain-language recap of it.
+the Welch anecdote is secondhand and unverifiable. Assessment: the "grounded, hands-on
+manager" picture traces to Mintzberg's real, replicated body of work; hold the four forms more
+loosely, because the one rigorous test of form-matching found it did not predict effectiveness
+(see the evidence check). This piece is a plain-language recap, strongest where the original
+research was strongest.
 
-**Evidence check (2026 review, verdict: mixed).** The evidence splits: the "grounded, hands-on manager" description replicates well ([Kurke & Aldrich 1983](https://doi.org/10.1287/mnsc.29.8.975)), though a 2006 restudy (Tengblad) found managers' time was less fragmented than Mintzberg claimed. But the four-forms idea the piece foregrounds is weaker than implied: the one rigorous head-to-head test ([Doty, Glick & Huber 1993](https://doi.org/10.5465/256810)) found that matching Mintzberg's ideal-type forms did NOT predict effectiveness, and a 2015 review (Krabberød) found the field never grappled with that failure.
+**Evidence check (2026 review, verdict: mixed).** The evidence splits: the "grounded, hands-on manager" description replicates well ([Kurke & Aldrich 1983](https://doi.org/10.1287/mnsc.29.8.975)), though a 2006 restudy (Tengblad) found managers' time was less fragmented than Mintzberg claimed. But the four-forms idea the piece foregrounds is weaker than implied: the one rigorous head-to-head test ([Doty, Glick & Huber 1993](https://doi.org/10.5465/256810)) found that matching Mintzberg's ideal-type forms did NOT predict effectiveness, and a 2015 review (Krabberød) found the field never grappled with that failure. Bottom line: stay hands-on and close to the actual work, and treat the four forms as a prompt for diagnosing your organization, not a proven playbook.
 
 ## See also
 

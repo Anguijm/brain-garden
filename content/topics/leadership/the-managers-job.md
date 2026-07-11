@@ -49,26 +49,26 @@ lets you make the decisions.
 
 **Interpersonal roles** (they come straight from your position):
 
-- **Figurehead** — the ceremonial head: greeting visitors, signing documents, showing up.
-- **Leader** — hiring, training, motivating, and getting the best from your people.
-- **Liaison** — building a web of contacts *outside* your chain of command for information
+- **Figurehead**: the ceremonial head, greeting visitors, signing documents, showing up.
+- **Leader**: hiring, training, motivating, and getting the best from your people.
+- **Liaison**: building a web of contacts *outside* your chain of command for information
   and favors.
 
 **Informational roles** (you become the nerve center of your unit):
 
-- **Monitor** — constantly scanning for information, asking around, picking up signals.
-- **Disseminator** — passing information down to people who would not otherwise get it.
-- **Spokesperson** — sending information out to the world: your boss, the board, the public.
+- **Monitor**: constantly scanning for information, asking around, picking up signals.
+- **Disseminator**: passing information down to people who would not otherwise get it.
+- **Spokesperson**: sending information out to the world (your boss, the board, the public).
 
 **Decisional roles** (you turn information into action):
 
-- **Entrepreneur** — voluntarily starting changes and improvement projects. FACT: managers
+- **Entrepreneur**: voluntarily starting changes and improvement projects. FACT: managers
   juggled as many as 50 of these at once, at various stages.
-- **Disturbance handler** — dealing with the crises you did not choose: the strike, the lost
-  contract, the emergency.
-- **Resource allocator** — deciding who gets what, including your own scarcest resource, your
+- **Disturbance handler**: dealing with the crises you did not choose (the strike, the lost
+  contract, the emergency).
+- **Resource allocator**: deciding who gets what, including your own scarcest resource, your
   time.
-- **Negotiator** — committing the unit's resources in real deals, which only you have the
+- **Negotiator**: committing the unit's resources in real deals, which only you have the
   authority and the information to do.
 
 ## What to do with this
@@ -102,10 +102,11 @@ completely, but the human shape of the work, fast, social, and improvised, has c
 surprisingly little. Read the specific statistics as historical snapshots and the ten roles
 as the durable part.
 
-**Evidence check (2026 review, verdict: mixed).** Later research gives a split verdict. The busy, fragmented, verbal picture of the job has been independently replicated: Kurke and Aldrich's 1983 study in *Management Science*, pointedly titled "Mintzberg was Right!", confirmed the same variety, brevity, and fragmentation. But the tidy ten-role map is the least empirically validated part; Colin Hales's [1986 critical review of the evidence](https://doi.org/10.1111/j.1467-6486.1986.tb00936.x) in the *Journal of Management Studies* found that the work categories used across these studies overlap and resist clean, comparable separation. A 30-year comparison by [Tengblad (2006)](https://doi.org/10.1111/j.1467-6486.2006.00651.x), in the same journal, found managers' days were less fragmented than Mintzberg's famous statistics imply, so treat the sub-nine-minute figures as an upper bound.
+**Evidence check (2026 review, verdict: mixed).** Later research gives a split verdict. The busy, fragmented, verbal picture of the job has been independently replicated: Kurke and Aldrich's 1983 study in *Management Science*, pointedly titled "Mintzberg was Right!", confirmed the same variety, brevity, and fragmentation. But the tidy ten-role map is the least empirically validated part; Colin Hales's [1986 critical review of the evidence](https://doi.org/10.1111/j.1467-6486.1986.tb00936.x) in the *Journal of Management Studies* found that the work categories used across these studies overlap and resist clean, comparable separation. A 30-year comparison by [Tengblad (2006)](https://doi.org/10.1111/j.1467-6486.2006.00651.x), in the same journal, found managers' days were less fragmented than Mintzberg's famous statistics imply, so treat the sub-nine-minute figures as an upper bound. Bottom line: build your day around the reality of fragmented, verbal work (guard reflection time on the calendar) and use the ten roles as a loose self-audit checklist, not a precise job description.
 
 ## See also
 
+- **["The manager's job," 50 years later](managers-job-50-years)** — Mintzberg's own look back, and the four organizational forms.
 - **[Leadership that gets results](leadership-that-gets-results)** — a useful contrast: how
   much of a real, chaotic manager's day actually looks like a chosen "style."
 - **[What makes a leader?](what-makes-a-leader)** — the human skills that carry you through a

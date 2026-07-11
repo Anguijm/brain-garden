@@ -31,14 +31,14 @@ conflicting norms for how fast decisions get made.
 
 The four **strategies**, from lightest touch to last resort:
 
-- **Adaptation** — the team acknowledges the difference and works around it. FACT: the authors
+- **Adaptation:** the team acknowledges the difference and works around it. FACT: the authors
   call this the best option, it costs the least manager time and the team *learns* from solving
   its own problem. It works when people can chalk the friction up to culture, not personality.
-- **Structural intervention** — rearrange the team (for example, into smaller mixed subgroups)
+- **Structural intervention:** rearrange the team (for example, into smaller mixed subgroups)
   to reduce friction.
-- **Managerial intervention** — set the ground rules early, or step in to break a stalemate.
+- **Managerial intervention:** set the ground rules early, or step in to break a stalemate.
   Use rarely; overuse makes the team dependent on you.
-- **Exit** — remove a member. A true last resort.
+- **Exit:** remove a member. A true last resort.
 
 Assessment: the standout lesson is to respect the *other* side's hierarchy when you escalate,
 go up your own chain to reach theirs at the same level, rather than leapfrogging their people
@@ -57,7 +57,7 @@ authors themselves note some "cultural" conflicts are really ordinary management
 it's a 2006 piece, pre-remote-work. Assessment: take the four strategies as a solid heuristic;
 hold the cultural generalizations loosely and treat people as individuals.
 
-**Evidence check (2026 review, verdict: mixed).** A 2010 meta-analysis of 108 studies (10,632 teams) by Stahl and colleagues, [*Unraveling the Effects of Cultural Diversity in Teams*](https://scholar.google.com/scholar?q=Unraveling+the+effects+of+cultural+diversity+in+teams+Stahl+Maznevski+Voigt+Jonsen) (Journal of International Business Studies), found cultural diversity cuts both ways: it raises task conflict and lowers social integration (cohesion), but also lifts creativity and satisfaction, so the "problems" framing is only half the story. And a 2016 meta-analysis of 558 studies by Taras, Steel, and Kirkman, [*Does Country Equate with Culture?*](https://doi.org/10.1007/s11575-016-0283-x) (Management International Review), found about 80% of cultural-value variation lies within countries rather than between them, so the national generalizations here (Americans decide fast, the Japanese are indirect) are weak predictors for any individual and should be treated as loose priors, not rules.
+**Evidence check (2026 review, verdict: mixed).** A 2010 meta-analysis of 108 studies (10,632 teams) by Stahl and colleagues, [*Unraveling the Effects of Cultural Diversity in Teams*](https://doi.org/10.1057/jibs.2009.85) (Journal of International Business Studies), found cultural diversity cuts both ways: it raises task conflict and lowers social integration (cohesion), but also lifts creativity and satisfaction, so the "problems" framing is only half the story. And a 2016 meta-analysis of 558 studies by Taras, Steel, and Kirkman, [*Does Country Equate with Culture?*](https://doi.org/10.1007/s11575-016-0283-x) (Management International Review), found about 80% of cultural-value variation lies within countries rather than between them, so the national generalizations here (Americans decide fast, the Japanese are indirect) are weak predictors for any individual and should be treated as loose priors, not rules. Bottom line: default to letting the team adapt on its own, step in only when it truly stalls, and read people as individuals rather than by their passports.
 
 ## See also
 

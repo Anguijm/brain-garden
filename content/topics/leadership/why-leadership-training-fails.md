@@ -14,11 +14,14 @@ then go right back to unchanged jobs and revert to their old habits. Michael Bee
 colleagues call it "the great training robbery." The reason is simple and important: behavior
 is shaped more by the *system* around a person, their role, incentives, and relationships,
 than by any course they attend. Fix the system first, and training can help; skip that, and
-training is money down the drain.
+much of what people learn washes out when they return to an unchanged job. (One calibration
+up front: training itself works better than this article's framing implies; the evidence
+check below sizes both halves of the claim.)
 
 FACT: this ran in Harvard Business Review in 2016. FACT: U.S. companies spent about $160
-billion on training in 2015, and roughly $356 billion globally, for a famously poor return.
-(Beer, Finnström & Schrader, "Why Leadership Training Fails.")
+billion on training in 2015, and roughly $356 billion globally. Assessment: the authors call
+the return on that famously poor; the best modern meta-analysis is kinder to training (see
+the evidence check). (Beer, Finnström & Schrader, "Why Leadership Training Fails.")
 
 ## Why training doesn't stick
 
@@ -74,7 +77,7 @@ success stories are self-estimated company anecdotes (a "tenfold" return, and so
 academic studies they lean on (behavior following role and system) are real and decades-deep.
 Assessment: trust the core principle strongly; treat the specific ROI numbers as illustrations.
 
-**Evidence check (2026 review, verdict: mixed).** Note that this is only half-right. The "context beats willpower" claim is well-supported: the classic Ohio State/International Harvester studies (Fleishman, Harris & Burtt, 1955) found trained supervisors reverted to old habits unless their own boss's leadership climate backed the new style, and a transfer-of-training meta-analysis ([Blume, Ford, Baldwin & Huang, 2010, *Journal of Management*](https://doi.org/10.1177/0149206309352880)) confirms that a supportive work environment predicts whether training sticks. But the stronger "training is money down the drain" framing is contradicted by the best modern evidence: a 2017 meta-analysis of 335 samples ([Lacerenza et al., *Journal of Applied Psychology*](https://doi.org/10.1037/apl0000241)) found leadership training is actually quite effective on average, with large gains in learning and on-the-job transfer, and with how the training is designed and delivered (needs analysis, feedback, spaced practice) as a major lever. And the often-cited "only 10% of training transfers" figure is an unsourced myth, traceable to a 1982 rhetorical aside rather than to any data.
+**Evidence check (2026 review, verdict: mixed).** Note that this is only half-right. The "context beats willpower" claim is well-supported: the classic Ohio State/International Harvester studies (Fleishman, Harris & Burtt, 1955) found trained supervisors reverted to old habits unless their own boss's leadership climate backed the new style, and a transfer-of-training meta-analysis ([Blume, Ford, Baldwin & Huang, 2010, *Journal of Management*](https://doi.org/10.1177/0149206309352880)) confirms that a supportive work environment predicts whether training sticks. But the stronger "training is money down the drain" framing is contradicted by the best modern evidence: a 2017 meta-analysis of 335 samples ([Lacerenza et al., *Journal of Applied Psychology*](https://doi.org/10.1037/apl0000241)) found leadership training is actually quite effective on average, with large gains in learning and on-the-job transfer, and with how the training is designed and delivered (needs analysis, feedback, spaced practice) as a major lever. And the often-cited "only 10% of training transfers" figure is an unsourced myth, traceable to a 1982 rhetorical aside rather than to any data. Bottom line: fix the role, incentives, and boss behavior around a person before sending them to a course, but do not skip the course, because well-designed training genuinely works.
 
 ## See also
 

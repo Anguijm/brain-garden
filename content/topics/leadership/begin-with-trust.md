@@ -28,6 +28,10 @@ drivers of trust.
 
 - **Authenticity:** people feel they are getting the real you, not a mask or a filtered
   version. An authenticity wobble is when people sense you are hiding what you really think.
+  (One translation note: the [ten rules](ten-rules) render this corner as *integrity*, your
+  words and actions lining up consistently, because that is the validated core of it in the
+  trust research; "authenticity" as self-expression is the corner's weakest, most-critiqued
+  reading. See the evidence check.)
 - **Logic:** people have faith in your judgment and your ability to deliver. A logic wobble
   is when they doubt your reasoning, or, just as often, when your reasoning is fine but you
   communicate it so poorly that it *seems* shaky.
@@ -74,7 +78,7 @@ Frei was a paid Uber adviser who held Uber shares (she discloses it), so the fla
 independent verdict. Assessment: the triangle stands on its own usefulness regardless of how
 the Uber story is scored.
 
-**Evidence check (2026 review, verdict: mixed).** The three-corner structure is the strongest part: it closely tracks organizational psychology's most-validated trust model (Mayer, Davis & Schoorman 1995), which splits trustworthiness into ability, benevolence, and integrity, and a [meta-analysis of 132 independent samples](https://doi.org/10.1037/0021-9010.92.4.909) (Colquitt, Scott & LePine 2007) confirmed each of those dimensions has its own link to trust. But the article's signature moves are not established science. The corners overlap far more than the clean triangle implies: in that same meta-analysis the benevolence and integrity dimensions (the model's versions of the empathy and authenticity corners) correlate about .68 once corrected, and are hard to tell apart empirically. The idea that you have one stable "wobble," and that fixing it is the "fastest" path, has never been tested in controlled research. And "authenticity" fares worst as a construct: a meta-analysis of authentic leadership found it largely redundant with the older transformational-leadership measures ([Banks et al. 2016](https://scholar.google.com/scholar?q=A+meta-analytic+review+of+authentic+and+transformational+leadership%3A+A+test+for+redundancy+Banks)).
+**Evidence check (2026 review, verdict: mixed).** The three-corner structure is the strongest part: it closely tracks organizational psychology's most-validated trust model (Mayer, Davis & Schoorman 1995), which splits trustworthiness into ability, benevolence, and integrity, and a [meta-analysis of 132 independent samples](https://doi.org/10.1037/0021-9010.92.4.909) (Colquitt, Scott & LePine 2007) confirmed each of those dimensions has its own link to trust. But the article's signature moves are not established science. The corners overlap far more than the clean triangle implies: in that same meta-analysis the benevolence and integrity dimensions (the model's versions of the empathy and authenticity corners) correlate about .68 once corrected (a large correlation, meaning the two corners mostly move together), and are hard to tell apart empirically. The idea that you have one stable "wobble," and that fixing it is the "fastest" path, has never been tested in controlled research. And "authenticity" fares worst as a construct: a meta-analysis of authentic leadership found it largely redundant with the older transformational-leadership measures ([Banks et al. 2016](https://doi.org/10.1016/j.leaqua.2016.02.006)). Bottom line: use the triangle as a self-diagnosis question, ask which corner you break most, but do not expect one clean wobble or a fast fix.
 
 ## See also
 

@@ -27,6 +27,9 @@ canceled them, dominated them, or turned them into a status report.
 
 ## How to run them
 
+Rogelberg's advice follows a simple three-part shape: open with rapport, spend the core on
+the report's topics, and close with action items.
+
 ![Diagram: a three-part meeting flow. Open: be present (phone away), check your mood, start with rapport and appreciation. Core: listen (the report talks 50 to 90 percent of the time), then add your perspective and solve problems together. Close: agree on action items for both of you, write them down, thank them, end on time. A side note reads: the report co-owns the agenda.](img/one-on-one-structure.png)
 *A good 1:1: open, core, close, with the report doing most of the talking. Diagram.*
 
@@ -61,7 +64,7 @@ character, not a real case. The author also wrote a book arguing meetings matter
 is his thesis. Assessment: none of that makes the advice wrong, it is sensible and low-risk,
 just hold the exact numbers as informed guidance rather than hard law.
 
-**Evidence check (2026 review, verdict: mixed).** Direct research on 1:1s specifically is thin: the field's own review ([Flinchum et al., 2023](https://doi.org/10.1177/20413866221097570)) calls them "understudied" even though they make up nearly half of all workplace meetings, and the cadence and talk-time figures come from cross-sectional self-report surveys where same-source bias inflates the associations. The general direction is backed by robust adjacent work on manager-report relationship quality, but more manager contact is not automatically better. A landmark feedback meta-analysis ([Kluger & DeNisi, 1996](https://doi.org/10.1037/0033-2909.119.2.254), 607 effect sizes) found that even though feedback helped on average, over a third of feedback episodes actually hurt performance, and a field study on the "meeting load paradox" (Romney, Allen, & Heydarifard, 2025) finds meeting benefits follow an inverted-U, rising and then reversing once frequency passes a threshold. So treat "weekly, 30 minutes, 50-90 percent talk time" as sensible defaults to adapt, not proven optima.
+**Evidence check (2026 review, verdict: mixed).** Direct research on 1:1s specifically is thin: the field's own review ([Flinchum et al., 2023](https://doi.org/10.1177/20413866221097570)) calls them "understudied" even though they make up nearly half of all workplace meetings, and the cadence and talk-time figures come from cross-sectional self-report surveys where same-source bias inflates the associations. The general direction is backed by robust adjacent work on manager-report relationship quality, but more manager contact is not automatically better. A landmark feedback meta-analysis ([Kluger & DeNisi, 1996](https://doi.org/10.1037/0033-2909.119.2.254), 607 effect sizes) found that even though feedback helped on average, over a third of feedback episodes actually hurt performance, and a field study on the "meeting load paradox" (Romney, Allen, & Heydarifard, 2025) finds meeting benefits follow an inverted-U, rising and then reversing once frequency passes a threshold. So treat "weekly, 30 minutes, 50-90 percent talk time" as sensible defaults to adapt, not proven optima. Bottom line: hold regular 1:1s that the report owns, and tune the frequency and length to the person rather than treating weekly-30-minutes as a law.
 
 ## See also
 

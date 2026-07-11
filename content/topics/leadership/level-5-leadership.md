@@ -25,11 +25,11 @@ levels plus something more.
 ![Diagram: a five-tier pyramid. Level 1 at the base, a highly capable individual. Level 2, a contributing team member. Level 3, a competent manager. Level 4, an effective leader who drives a clear vision. Level 5 at the peak, an executive who builds lasting greatness through humility plus will.](img/level5-pyramid.png)
 *The Level 5 hierarchy. The top level adds humility and will to everything below. Diagram.*
 
-- **Level 1, Highly capable individual** — contributes through talent and hard work.
-- **Level 2, Contributing team member** — works well toward group goals.
-- **Level 3, Competent manager** — organizes people and resources toward objectives.
-- **Level 4, Effective leader** — rallies people to a clear, compelling vision.
-- **Level 5, Executive** — builds enduring greatness through humility plus fierce will.
+- **Level 1, Highly capable individual:** contributes through talent and hard work.
+- **Level 2, Contributing team member:** works well toward group goals.
+- **Level 3, Competent manager:** organizes people and resources toward objectives.
+- **Level 4, Effective leader:** rallies people to a clear, compelling vision.
+- **Level 5, Executive:** builds enduring greatness through humility plus fierce will.
 
 ## Humility plus will
 
@@ -42,9 +42,10 @@ qualities at once.
   style, answered only "eccentric," and who quietly grew the company to beat rivals like
   Procter & Gamble.
 - **Fierce professional will.** Underneath the modesty is iron resolve to do whatever it
-  takes for the company to win, and to keep it winning after they are gone. FACT: Level 5
-  leaders deliberately set up strong successors, while ego-driven leaders often pick weak
-  ones (what better proof of your greatness than the place falling apart when you leave?).
+  takes for the company to win, and to keep it winning after they are gone. FACT: Collins reports
+  that the Level 5 leaders in his sample set up strong successors, while comparison leaders
+  often picked weak ones. Assessment: read the motive part (ego versus service) as his
+  interpretation.
 
 Assessment: Collins captures the mindset with "the window and the mirror." When things go
 well, a Level 5 leader looks *out the window* and credits other people and luck. When things
@@ -67,7 +68,7 @@ stumbled badly (Circuit City went bankrupt; Gillette was acquired). Assessment: 
 as an inspiring ideal and a good self-check ("am I serving the company or my ego?"), not as a
 formula that guarantees results.
 
-**Evidence check (2026 review, verdict: mixed).** Independent tests have undercut the causal claim: a 2008 [Academy of Management Perspectives study by Niendorf and Beck](https://doi.org/10.5465/amp.2008.35590350) found Collins's eleven "good-to-great" firms performed no better than the average S&P 500 company, so treat this as a leadership ideal, not a formula that produces great companies. The humility half is genuinely supported by later, better-designed research, but only as a moderate, context-dependent effect (a 2022 [meta-analysis in Frontiers in Psychology](https://doi.org/10.3389/fpsyg.2022.980322) puts the leader-humility-to-task-performance correlation near 0.33, and a 2019 study in Organizational Behavior and Human Decision Processes found humble leaders are often simultaneously rated as less competent).
+**Evidence check (2026 review, verdict: mixed).** Independent tests have undercut the causal claim: a 2008 [Academy of Management Perspectives study by Niendorf and Beck](https://doi.org/10.5465/amp.2008.35590350) found Collins's eleven "good-to-great" firms performed no better than the average S&P 500 company, so treat this as a leadership ideal, not a formula that produces great companies. The humility half is genuinely supported by later, better-designed research, but only as a moderate, context-dependent effect (a 2022 [meta-analysis in Frontiers in Psychology](https://doi.org/10.3389/fpsyg.2022.980322) puts the leader-humility-to-task-performance correlation near 0.33, and a 2019 study in Organizational Behavior and Human Decision Processes found humble leaders are often simultaneously rated as less competent). Bottom line: practice the window-and-mirror habit (credit others, own the failures) because humility helps teams, but do not treat Level 5 as a recipe for company greatness.
 
 ## See also
 

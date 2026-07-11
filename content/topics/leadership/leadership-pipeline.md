@@ -53,12 +53,13 @@ company-reported numbers (attrition rates, internal-hire targets) aren't indepen
 audited. Assessment: it also reads as an early-2000s "the web will fix this" piece. Take the
 five rules as solid practice, the specifics as dated.
 
-**Evidence check (2026 review, verdict: mixed).** A large peer-reviewed meta-analysis, [Lacerenza et al. 2017](https://doi.org/10.1037/apl0000241) (Journal of Applied Psychology, 335 samples), confirms that leadership development broadly works, but the best-documented effects come from formal training programs, not from the article's central prescription that experiential, on-the-job development beats classroom learning. That 70-20-10 idea has little rigorous empirical support (it traces to self-reported executive surveys) and rests on the same retrospective, study-the-winners reasoning that Phil Rosenzweig's [The Halo Effect (2007)](https://scholar.google.com/scholar?q=Rosenzweig+The+Halo+Effect+Eight+Other+Business+Delusions) flags as a core delusion of best-practice business research. Treat the fusion principle as a reasonable practice, not a demonstrated cause of a leader pipeline.
+**Evidence check (2026 review, verdict: mixed).** A large peer-reviewed meta-analysis, [Lacerenza et al. 2017](https://doi.org/10.1037/apl0000241) (Journal of Applied Psychology, 335 samples), confirms that leadership development broadly works, but the best-documented effects come from formal training programs, not from the article's central prescription that experiential, on-the-job development beats classroom learning. That experience-first idea (often sold as the "70-20-10 rule": 70 percent of development from job experiences, 20 from relationships, 10 from courses) has little rigorous empirical support (it traces to self-reported executive surveys), and the article's study-the-winners method has the retrospective bias Phil Rosenzweig's ["halo effect" critique (2007, *California Management Review*)](https://doi.org/10.2307/41166403) flags as a core delusion of best-practice business research. Treat the fusion principle as a reasonable practice, not a demonstrated cause of a leader pipeline. Bottom line: grow people for your pivotal roles openly and on purpose, but pair stretch assignments with well-designed formal training instead of assuming experience alone does the job.
 
 ## See also
 
-- **[Why leadership training fails](why-leadership-training-fails)** — the same lesson: develop
-  people on the job and in a supportive system, not in a one-off course.
+- **[Why leadership training fails](why-leadership-training-fails)** — the same theme, with
+  the same correction: the system around development matters, and formal training works
+  better than either article claims (both evidence checks size it).
 - **[What makes a company great at producing leaders?](producing-leaders)** — the modern
   companion: what firms that reliably export leaders actually do.
 - **[How managers become leaders](how-managers-become-leaders)** — the personal side of the

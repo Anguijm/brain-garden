@@ -2,10 +2,13 @@
 type: note
 series: leadership
 title: "Discovering your authentic leadership"
-status: curated
+status: archived
+draft: true
 tags: [leadership, management, authentic-leadership, verification]
 created: 2026-07-12
 ---
+
+> Archived 2026-07-12: this note was folded into [why-should-anyone-be-led-by-you](../../topics/leadership/why-should-anyone-be-led-by-you) during the v10 consolidation. Kept here unchanged as the version record; the public URL now redirects.
 
 # Discovering your authentic leadership
 
@@ -28,7 +31,7 @@ are the author of their story, not its victim.
 
 ## Five things authentic leaders develop
 
-![Diagram: a center circle reading "your life story and crucibles," with five surrounding elements feeding in: know your authentic self (self-awareness), practice your values, balance intrinsic and extrinsic motivation, build a support team, and stay grounded by integrating your life. An arrow points out to: empower others, and lasting results.](img/authentic-leadership.png)
+![Diagram: a center circle reading "your life story and crucibles," with five surrounding elements feeding in: know your authentic self (self-awareness), practice your values, balance intrinsic and extrinsic motivation, build a support team, and stay grounded by integrating your life. An arrow points out to: empower others, and lasting results.](../../topics/leadership/img/authentic-leadership.png)
 *Authentic leadership: rooted in your story, built on five dimensions. Diagram.*
 
 - **Know your authentic self.** FACT: asked the single most important capability to develop,
@@ -60,10 +63,10 @@ causes results.
 
 ## See also
 
-- **[Why should anyone be led by you?](why-should-anyone-be-led-by-you)** — the close cousin:
+- **[Why should anyone be led by you?](../../topics/leadership/why-should-anyone-be-led-by-you)** — the close cousin:
   authentic leadership as "be yourself, with more skill."
-- **[Begin with trust](begin-with-trust)** — the authenticity that lets people trust you.
-- **[What makes a leader?](what-makes-a-leader)** — self-awareness, the capability both notes
+- **[Begin with trust](../../topics/leadership/begin-with-trust)** — the authenticity that lets people trust you.
+- **[What makes a leader?](../../topics/leadership/what-makes-a-leader)** — self-awareness, the capability both notes
   put first.
 
 ## Sources

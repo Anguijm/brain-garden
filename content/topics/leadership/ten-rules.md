@@ -29,22 +29,26 @@ Every change is written down in the revision log at the bottom.
 
 1. **Begin with trust, and fix your own wobble.** People trust you on three lines: that your
    words and actions line up (integrity), that your judgment is sound (logic), and that you
-   care about them (empathy). Almost everyone reliably breaks the same one. Find yours and work
-   on it, because nothing else you do lands without trust. (The validated driver is *integrity
-   and consistency*, not "being your authentic self," which is the weakest, most-critiqued leg.)
+   care about them (empathy). Find the one *you* most often break and work on it, because
+   nothing else you do lands without trust. (The validated driver is *integrity and
+   consistency*, not "being your authentic self," which is the weakest, most-critiqued leg;
+   and "everyone has one stable wobble" is the authors' claim, untested, so treat the triangle
+   as a self-diagnostic, not a measurement.)
    *From: [Begin with trust](begin-with-trust)*
 
-2. **Lead with emotional intelligence, and flex your style to the moment.** What separates good
-   leaders from merely clever ones is the skill of reading and managing people, not raw
-   brainpower. And there is no single best way to lead: carry a full kit of styles (vision,
-   coaching, consensus, bonds) and switch to fit the situation, saving "do what I say" for a
-   real crisis.
+2. **Read people, and flex your style to the moment.** Reading and managing people is a real
+   leadership skill, but it adds to sound judgment rather than replacing it (the measured
+   effect of "emotional intelligence" is modest once you account for brains and personality).
+   The part that earns the slot: there is no single best way to lead. Carry a full kit of
+   styles (vision, coaching, consensus, bonds) and switch to fit the situation, saving "do
+   what I say" for a real crisis.
    *From: [What makes a leader?](what-makes-a-leader) and [Leadership that gets results](leadership-that-gets-results)*
 
-3. **Authority is earned, not issued: win commitment, not compliance.** A title gives you
-   almost nothing. Real authority is earned by showing character, competence, and results. And
-   getting people to obey is a false victory, only committed people take initiative and real
-   risks.
+3. **Your title is the platform; credibility is the engine. Win commitment, not compliance.**
+   Formal authority gets you a hearing and baseline compliance, and that is all. Show
+   character, competence, and results and the same authority converts into commitment, and
+   only committed people take initiative and real risks. Skip the earning and you keep the
+   title while losing the team.
    *From: [Becoming the boss](becoming-the-boss)*
 
 4. **Manage each person as unique: know their strengths and what motivates them.** Average
@@ -62,16 +66,19 @@ Every change is written down in the revision log at the bottom.
    dangle controlling rewards over work people already find interesting.
    *From: [How do you motivate employees?](how-to-motivate) and [The power of small wins](power-of-small-wins)*
 
-6. **Develop people by drawing out, not pouring in.** Coach with questions instead of jumping
-   to answers, and spotlight what is already working instead of piling on criticism; that is
-   how people actually grow.
+6. **Develop people by drawing out, not pouring in.** Coach capable people with questions
+   instead of jumping to answers (novices still need direct guidance first). Build on what is
+   already working, and when you must correct, aim it at the task, never the person: specific,
+   task-focused feedback is what actually improves performance, while drive-by judgment of the
+   person reliably backfires.
    *From: [The leader as coach](the-leader-as-coach) and [The feedback fallacy](the-feedback-fallacy)*
 
 7. **Change the system, not just the person.** Behavior follows the roles, incentives, and
    context around people more than their willpower. So when performance is off, redesign the
-   conditions people work in, don't just train, exhort, or blame individuals: a bad system
-   beats a good person every time, and even a boss's own distrust can quietly manufacture a
-   poor performer.
+   conditions people work in, don't just train, exhort, or blame individuals: over time a bad
+   system wears down good people, and even a boss's own distrust can quietly manufacture a
+   poor performer. (Fix both sides: pair the system change with person-level coaching, and
+   pilot structural fixes before scaling them, since incentives get gamed.)
    *From: [Why leadership training fails](why-leadership-training-fails) and [The set-up-to-fail syndrome](set-up-to-fail)*
 
 8. **Know your job; protect your time and energy; push initiative down.** A manager's real work
@@ -88,12 +95,14 @@ Every change is written down in the revision log at the bottom.
    errors surface early, which is what lets a team learn (rather than a direct bump in output).
    *From: [Psychological safety](psychological-safety)*
 
-10. **Build teams on purpose, and keep them small, stable, and safe to challenge.** Form a real
+10. **Build teams on purpose: sized to the task, stable, and safe to challenge.** Form a real
     team only when the work genuinely needs joint effort and mutual accountability (often a
     working group is smarter). Then set its conditions instead of fixing personalities: a clear
-    membership (everyone knows who's on it), a compelling goal it owns, a *small* size (no
-    double digits), stable membership, sharp roles, a shared mindset, and a protected dissenting
-    voice.
+    membership (everyone knows who's on it), a compelling goal it owns, a size matched to the
+    task (err small when the work is tightly coupled, since every extra member adds
+    coordination load, but research finds no magic number), stable membership, sharp roles, a
+    shared mindset, and protected dissent (guard the real skeptic; an appointed devil's
+    advocate works less well).
     *From: [The discipline of teams](the-discipline-of-teams), [Why teams don't work](why-teams-dont-work), [The secrets of great teamwork](secrets-of-great-teamwork), and [Eight ways to build collaborative teams](building-collaborative-teams)*
 
 ## The bench
@@ -132,20 +141,27 @@ rules 4 and 6).
 
 ## What the research says (2026 evidence review)
 
-Assessment: we ran an independent academic-evidence review across the whole library and these
-ten rules, checking each against the peer-reviewed literature (meta-analyses and replications)
-rather than the original articles. The verdict on the rules: **all ten hold up as sound rules of
-thumb, but none is a proven law.** Two came out well-supported (rules 8 and 9); the other eight
-are "mixed", the direction is right, but the evidence is thinner and more contingent than the
-sources imply. None was contradicted.
+Assessment: we ran an evidence review across the whole library and these ten rules, checking
+each against the peer-reviewed literature (meta-analyses and replications) rather than the
+original articles. Honesty about the method: the review was AI-run (fleets of research agents
+grading each claim and then a second pass verifying every citation resolves to a real paper).
+It is independent of the HBR authors, but no human has yet read the primary papers; the
+[how to read the evidence](how-to-read-the-evidence) note lists the six load-bearing studies
+worth reading first to close that gap. The verdict on the rules: **all ten hold up as sound
+rules of thumb, but none is a proven law.** Two came out well-supported (rules 8 and 9); the
+other eight are "mixed", the direction is right, but the evidence is thinner and more
+contingent than the sources imply. None was flat-out contradicted, though the old rule 10
+clause "keep teams small" came closest (the size evidence is near-null), which is why v10
+rewords it.
 
 The correction is the same every time: **keep the direction, lower the confidence, strip the
 inflated numbers, and make it contingent.** Two deeper patterns held up: rules built on a
 *conjunction* (safety AND standards; clarity AND protected time) beat rules built on a single
 hero variable, and earned credibility *augments* formal authority rather than replacing it.
 
-The sharpest per-rule caveats (the corrections for rules 1, 4, 5, and 9 are now folded into the
-rule wording itself, v9; the rest stand as caveats):
+The sharpest per-rule caveats. As of v10 every correction below is folded into the rule
+wording itself; this list stays as the record of what the review found and why the rules read
+the way they now do:
 
 - **Rule 1:** "authenticity" is the weakest, most-critiqued leg of trust; the validated model is
   competence, benevolence, and *integrity/consistency*. Lean on integrity, and hold the trust
@@ -188,10 +204,28 @@ laws. Every source note now carries its own "evidence check" line with the speci
 Assessment: this page is meant to change as the library does. Each new source we add gets
 read for whether it sharpens a rule, replaces one, or belongs on the bench. The number
 stays at ten. Nothing changes silently: every edit lands in the log below with a date and a
-reason, so the list's own history is part of what you can read here.
+reason, so the list's own history is part of what you can read here. Standing cadence: the
+evidence review gets re-run yearly (next due mid-2027), because meta-analyses get superseded
+and replications land; the log will record what changed.
 
 ## Revision log
 
+- **2026-07-12 — v10.** Finished the job v9 started: folded the remaining evidence-review
+  corrections into the rule wording. Rule 2 no longer claims people-skills "beat" brainpower
+  (the measured emotional-intelligence effect is modest); it keeps the flex-your-style core.
+  Rule 3 now treats the title as the platform and credibility as the engine, instead of
+  "a title gives you almost nothing." Rule 6 scopes coaching-by-questions to capable people
+  and re-aims correction at the task, not the person. Rule 7 drops the "every time" absolute
+  and adds "pair person and system fixes; pilot before scaling." Rule 10 replaces "no double
+  digits" with size-to-the-task (the size evidence is near-null) and clarifies protected
+  dissent beats an appointed devil's advocate. Rule 1 drops the untested "almost everyone
+  reliably breaks the same one" universal. Alongside: this page now says plainly that the 2026
+  review was AI-run, the whole-library reconciliation pass folded every evidence-check
+  correction into note bodies at point of use, five overlapping notes were merged into their
+  primaries (with redirects), and a new [how to read the evidence](how-to-read-the-evidence)
+  note glosses the statistics and lists the load-bearing papers for human spot-checking. The
+  bench's "manage your network" remains the strongest promotion candidate; promoting it (and
+  choosing what it displaces) stays an operator call.
 - **2026-07-12 — v9.** At the operator's direction, folded four evidence-review corrections into
   the rule *wording* itself. Rule 1 now leans on integrity and consistency rather than
   "authenticity" (the weakest, most-critiqued leg of trust). Rule 4 drops the debunked "learning

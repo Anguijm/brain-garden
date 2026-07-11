@@ -28,7 +28,7 @@ work so each person's natural strengths get used.
 
 To play chess with your people, he says you have to learn three things about each one.
 
-![Diagram: three columns under the heading "learn this about each person." Strengths: what energizes them (found by asking about their best day). Triggers: what switches the strength on, most powerfully recognition, and each person wants it from a different audience (peers, the boss, experts, or customers). Learning style: how they take in a new skill, by analyzing, by doing, or by watching.](img/three-levers.png)
+![Diagram: three columns under the heading "learn this about each person." Strengths: what energizes them (found by asking about their best day). Triggers: what switches the strength on, most powerfully recognition, and each person wants it from a different audience (peers, the boss, experts, or customers). Learning preference: how they like to take on a new skill, by analyzing, doing, or watching, with a footnote that this is a comfort preference, not a teaching method, since matching instruction to "style" doesn't help.](img/three-levers.png)
 *The three things a great manager learns about each person. Diagram.*
 
 ## Strengths, triggers, learning style
@@ -41,18 +41,21 @@ them, and to ask: "what was the best day you've had at work in the last three mo
 dig into what they were doing and why it felt good.
 
 **Triggers.** A strength has to be switched on, and the switch is different for everyone.
-FACT: the most powerful trigger by far is recognition, but people want it from different
-audiences: some from their peers, some from the boss, some from experts in their field, some
+FACT: Buckingham says the most powerful trigger by far is recognition, but people want it
+from different audiences: some from their peers, some from the boss, some from experts in their field, some
 from customers. Assessment: match the recognition to the person and it lands; give it in the
 wrong form and it barely registers. (One profiled manager built custom awards; another
 covered the walls with a top performer's sales charts because that person thrived on public,
 measured recognition.)
 
-**Learning style.** People take on a new skill in different ways. FACT: Buckingham names
-three. *Analyzers* need to take a task apart and prepare before they do it, so give them
-information and time. *Doers* learn by trying, so give them a real but simple task and let
-them figure it out. *Watchers* learn by seeing the whole thing done, so have them shadow a
-strong performer rather than sit in a classroom.
+**Learning preference.** People differ in how they *like* to take on a new skill. FACT:
+Buckingham names three styles: *analyzers* want to take a task apart and prepare, *doers* want
+to try it, and *watchers* want to see the whole thing done first. Assessment: treat these as
+preferences worth knowing, not as a teaching method. Independent research has tested "match
+the instruction to the learning style" and found it does not improve outcomes (see the
+evidence check). Whatever someone's preference, skill grows the same way, through real
+practice, specific feedback, and a strong example to copy, so use the styles to make a person
+comfortable, not to decide how they will learn.
 
 ## Managing around a weakness
 
@@ -71,13 +74,13 @@ Now the caveats. FACT: Buckingham co-created the StrengthsFinder tool and this a
 adapted from his own book, so the strong "build on strengths, don't fix weaknesses" line is
 a philosophy he sells, not a neutral survey of the evidence. The company stories are
 persuasive single anecdotes, not proof, and the three learning styles are presented as
-settled science when learning-styles theories are actually contested. Assessment: one piece
+settled science when independent research has contradicted the style-matching idea outright. Assessment: one piece
 of his advice is worth flagging as *bad*: he suggests always blaming a failure on "lack of
 effort, even if only partly accurate," to protect the person's confidence. Telling people
 something you know is untrue is a poor habit that will cost you trust. Keep the individualizing
 core; skip that bit.
 
-**Evidence check (2026 review, verdict: mixed).** The peer-reviewed record is uneven. The "learning styles" pillar (analyzers/doers/watchers) is contradicted by the research, not merely contested: the authoritative review by [Pashler et al. (2009)](https://doi.org/10.1111/j.1539-6053.2009.01038.x) in *Psychological Science in the Public Interest* found no reliable evidence that matching instruction to a person's preferred learning style improves outcomes. And while building on strengths is genuinely beneficial, a pre-registered meta-analysis of controlled trials put the effect on job performance at only about d = 0.28 ([Virga et al., 2023](https://doi.org/10.1111/apps.12451)), far more modest than the article implies, and an effect that faded to non-significance at follow-up. Much of the supportive engagement data, meanwhile, is Gallup's own correlational meta-analysis (Harter et al., 2002), not independent causal evidence.
+**Evidence check (2026 review, verdict: mixed).** The peer-reviewed record is uneven. The "learning styles" pillar (analyzers/doers/watchers) is contradicted by the research, not merely contested: the authoritative review by [Pashler et al. (2009)](https://doi.org/10.1111/j.1539-6053.2009.01038.x) in *Psychological Science in the Public Interest* found no reliable evidence that matching instruction to a person's preferred learning style improves outcomes. And while building on strengths is genuinely beneficial, a pre-registered meta-analysis of controlled trials put the effect on job performance at only about d = 0.28 (a small effect) ([Virga et al., 2023](https://doi.org/10.1111/apps.12451)), far more modest than the article implies, and an effect that faded to non-significance at follow-up. Much of the supportive engagement data, meanwhile, is Gallup's own correlational meta-analysis (Harter et al., 2002), not independent causal evidence. Bottom line: keep learning each person's strengths and shaping their work around them, but expect modest gains and drop the learning-styles teaching idea entirely.
 
 ## See also
 

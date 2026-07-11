@@ -39,8 +39,8 @@ that criticism triggers a "fight or flight" response that narrows thinking, whil
 to what is going well opens it up. Assessment: pointing at someone's gaps does not teach
 them; it mostly makes them defensive.
 
-**Myth 3: excellence is universal, so you can define it and transfer it.** FACT: excellence
-is personal and a little mysterious. The two best free-throw shooters in basketball history
+**Myth 3: excellence is universal, so you can define it and transfer it.** Assessment: the
+authors' view is that excellence is personal and a little mysterious. The two best free-throw shooters in basketball history
 used completely different techniques (one shot underhand). And studying failure only teaches
 you about failure, not about what great looks like. Assessment: a generic "ideal" model,
 copied onto everyone, produces adequacy, not excellence.
@@ -80,7 +80,7 @@ brain, and the famous fMRI study is described without a citation. Assessment: ke
 humility and the "spotlight what works" habit, which are valuable, but do not swing all the
 way to "never correct anyone." The authors themselves don't go that far.
 
-**Evidence check (2026 review, verdict: mixed).** The rater-unreliability finding is solidly backed ([Scullen, Mount & Goff 2000](https://doi.org/10.1037/0021-9010.85.6.956): idiosyncratic rater effects make up over half of a performance rating), but the article's blanket anti-criticism prescription is not. A large [meta-analysis (Kluger & DeNisi 1996)](https://doi.org/10.1037/0033-2909.119.2.254) found feedback raises performance on average (d ≈ .41, though over a third of interventions actually lowered it), and later work (Finkelstein & Fishbach 2012, *Journal of Consumer Research*) shows experts actively seek and respond to negative feedback. The supporting neuroscience, by contrast, rests on a single small fMRI study the article never cites.
+**Evidence check (2026 review, verdict: mixed).** The rater-unreliability finding is solidly backed ([Scullen, Mount & Goff 2000](https://doi.org/10.1037/0021-9010.85.6.956): idiosyncratic rater effects make up over half of a performance rating), but the article's blanket anti-criticism prescription is not. A large [meta-analysis (Kluger & DeNisi 1996)](https://doi.org/10.1037/0033-2909.119.2.254) found feedback raises performance on average (d ≈ .41, a small-to-medium effect, though over a third of interventions actually lowered it), and later work (Finkelstein & Fishbach 2012, *Journal of Consumer Research*) shows experts actively seek and respond to negative feedback. The supporting neuroscience, by contrast, rests on a single small fMRI study the article never cites. Bottom line: stay humble about your ratings of people and spotlight what works, but keep giving specific, task-focused corrections when they are needed.
 
 ## See also
 

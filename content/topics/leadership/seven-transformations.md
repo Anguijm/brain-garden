@@ -20,23 +20,27 @@ given to thousands of managers. (Rooke & Torbert, "Seven Transformations of Lead
 
 ## The seven action logics
 
+The logics form a ladder from least to most effective, with the share of leaders the authors
+placed at each rung.
+
 ![Diagram: a seven-rung ladder rising from least to most effective, each labeled with the share of leaders at that level. Opportunist 5 percent, Diplomat 12 percent, Expert 38 percent, Achiever 30 percent, Individualist 10 percent, Strategist 4 percent, Alchemist 1 percent. The bottom three are marked less effective; the top four more effective.](img/action-logics.png)
 *The seven action logics, from least to most effective. Diagram.*
 
-- **Opportunist** (5%) — wins any way possible; self-serving, manipulative.
-- **Diplomat** (12%) — avoids conflict, follows the group's norms.
-- **Expert** (38%, the largest group) — rules by logic and expertise; a great individual
+- **Opportunist** (5%): wins any way possible; self-serving, manipulative.
+- **Diplomat** (12%): avoids conflict, follows the group's norms.
+- **Expert** (38%, the largest group): rules by logic and expertise; a great individual
   contributor who can be dismissive of others.
-- **Achiever** (30%) — delivers results through teams; the first genuinely effective level.
-- **Individualist** (10%) — sees that no single way of working is "natural," and bridges the
+- **Achiever** (30%): delivers results through teams; the first genuinely effective level.
+- **Individualist** (10%): sees that no single way of working is "natural," and bridges the
   gaps between strategy and performance.
-- **Strategist** (4%) — leads deep organizational and personal transformation.
-- **Alchemist** (1%) — leads change across whole societies (their example is Mandela).
+- **Strategist** (4%): leads deep organizational and personal transformation.
+- **Alchemist** (1%): leads change across whole societies (their example is Mandela).
 
-FACT: the bottom three logics (55% of the sample) were markedly less effective at carrying out
-strategy; only the top few consistently transformed their organizations. A study of ten CEOs
-found all five who scored as Strategists succeeded at transformation, versus two of the other
-five.
+FACT: the authors report that the bottom three logics (55 percent of their sample) were
+markedly less effective at carrying out strategy, and that only the top few consistently
+transformed their organizations. Assessment: that payoff claim rests on their own proprietary
+assessment tool (see the evidence check). Their study of ten CEOs found all five who scored as
+Strategists succeeded at transformation, versus two of the other five.
 
 ## How much to trust this
 
@@ -52,7 +56,7 @@ which is a strong assumption. Assessment: treat the seven logics as a thought-pr
 developmental map, not a validated measurement, and Mandela-as-Alchemist as illustration, not
 data.
 
-**Evidence check (2026 review, verdict: mixed).** A 2006 review in The Leadership Quarterly ([McCauley et al.](https://doi.org/10.1016/j.leaqua.2006.10.006)) found the research linking developmental stage to leadership effectiveness has serious limitations, restricted samples and weak research designs, and only mixed support overall. The stage-measurement idea itself is reasonably well validated, but the specific "higher logic makes better leaders" payoff rests on a handful of small studies (n roughly 40-75). The strongest, [Strang and Kuhnert (2009)](https://doi.org/10.1016/j.leaqua.2009.03.009) with 67 executives, did find developmental level predicting 360-degree leader performance beyond personality, yet the ordinary trait conscientiousness was the one Big Five factor that also predicted it, so treat the effect as real-but-modest and far less certain than the article's confident tone implies.
+**Evidence check (2026 review, verdict: mixed).** A 2006 review in The Leadership Quarterly ([McCauley et al.](https://doi.org/10.1016/j.leaqua.2006.10.006)) found the research linking developmental stage to leadership effectiveness has serious limitations, restricted samples and weak research designs, and only mixed support overall. The stage-measurement idea itself is reasonably well validated, but the specific "higher logic makes better leaders" payoff rests on a handful of small studies (n roughly 40-75). The strongest, [Strang and Kuhnert (2009)](https://doi.org/10.1016/j.leaqua.2009.03.009) with 67 executives, did find developmental level predicting 360-degree leader performance beyond personality, yet the ordinary trait conscientiousness was the one Big Five factor that also predicted it, so treat the effect as real-but-modest and far less certain than the article's confident tone implies. Bottom line: use the ladder as a private mirror for how you react under pressure (especially the Expert-to-Achiever jump), not as a tool for grading or promoting other people.
 
 ## See also
 

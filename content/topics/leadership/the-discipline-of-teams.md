@@ -49,7 +49,9 @@ Each piece is a requirement, not decoration:
 
 - **Small number.** FACT: nearly every effective team they studied had between 2 and 25
   people, most fewer than 10. Big groups struggle to interact, so they split into subteams
-  or settle for vague "missions." Keep teams small.
+  or settle for vague "missions." Assessment: hold small size as the authors' strong default
+  rather than a law; the meta-analytic evidence on team size is near-null on average (see the
+  evidence check), so size to the task and err small when the work is tightly coupled.
 - **Complementary skills.** A team needs the right mix of three kinds of skill: technical or
   functional expertise, problem-solving and decision-making, and people skills. Assessment:
   interestingly, they found no team started with all the skills it needed. Teams are where
@@ -102,7 +104,7 @@ it just means read it as a sharp lens, not a proof. Its best use is the humble o
 whether you even need a team, or whether a well-run working group would do the job with less
 risk.
 
-**Evidence check (2026 review, verdict: mixed).** Later meta-analyses back the mechanism but not every rule. Interdependence and shared goals really do predict team performance ([Courtright et al., 2015](https://doi.org/10.1037/apl0000027), a meta-analysis of roughly 7,500 teams). But the "keep teams small" prescription doesn't generalize: a large 2023 meta-analysis of 208 studies ([Bernerth et al., 2023](https://doi.org/10.1002/job.2708)) found the team-size/performance link is essentially null on average and highly context-dependent (stronger only when tasks are complex), so treat "smaller is better" as a rough default, not a finding. And because the framework has never been tested as a causal package, read the six requirements as a useful checklist rather than proven success factors.
+**Evidence check (2026 review, verdict: mixed).** Later meta-analyses back the mechanism but not every rule. Interdependence and shared goals really do predict team performance ([Courtright et al., 2015](https://doi.org/10.1037/apl0000027), a meta-analysis of roughly 7,500 teams). But the "keep teams small" prescription doesn't generalize: a large 2023 meta-analysis of 208 studies ([Bernerth et al., 2023](https://doi.org/10.1002/job.2708)) found the team-size/performance link is essentially null on average and highly context-dependent (stronger only when tasks are complex), so treat "smaller is better" as a rough default, not a finding. And because the framework has never been tested as a causal package, read the six requirements as a useful checklist rather than proven success factors. Bottom line: before you build a team, confirm the work actually requires joint output, and if it does, invest in shared goals and mutual accountability instead of fussing over exact head count.
 
 ## See also
 

@@ -2,10 +2,13 @@
 type: note
 series: leadership
 title: "Learn to delegate well"
-status: curated
+status: archived
+draft: true
 tags: [leadership, management, delegation, verification]
 created: 2026-07-12
 ---
+
+> Archived 2026-07-12: this note was folded into [whos-got-the-monkey](../../topics/leadership/whos-got-the-monkey) during the v10 consolidation. Kept here unchanged as the version record; the public URL now redirects.
 
 # Learn to delegate well
 
@@ -23,7 +26,7 @@ Assessment: leaders confuse being *involved* (hands in the work) with being *ess
 thing that makes it go). His diagnostic: if you took an unexpected week off, would your
 priorities still move? If not, you're more involved than essential.
 
-![Diagram: a two-by-two of involvement (low to high) against how essential you are (low to high). High-essential, low-involved is the leader/catalyst (the goal). High-essential, high-involved is the bottleneck (burnout, stalled team). Low-essential, high-involved is a super-sized individual contributor (busy, not productive). An arrow runs from bottleneck to catalyst, labeled "delegate well."](img/essential-vs-involved.png)
+![Diagram: a two-by-two of involvement (low to high) against how essential you are (low to high). High-essential, low-involved is the leader/catalyst (the goal). High-essential, high-involved is the bottleneck (burnout, stalled team). Low-essential, high-involved is a super-sized individual contributor (busy, not productive). An arrow runs from bottleneck to catalyst, labeled "delegate well."](../../topics/leadership/img/essential-vs-involved.png)
 *Aim for essential-but-not-involved: the catalyst, not the bottleneck. Diagram.*
 
 Four moves to delegate well:
@@ -40,7 +43,7 @@ Four moves to delegate well:
 
 Assessment: the "essential vs. involved" reframe is a genuinely useful mental model, and the
 four moves are sensible. It's a cleaner, more modern framing of the same lesson as
-[who's got the monkey?](whos-got-the-monkey).
+[who's got the monkey?](../../topics/leadership/whos-got-the-monkey).
 
 The honest caveat is that it's coaching opinion, not research: no data, a single composite
 example ("Anika"), and the results are asserted. It also under-addresses the real hard parts of
@@ -51,11 +54,11 @@ reframe and the four moves; don't expect the harder questions answered here.
 
 ## See also
 
-- **[Who's got the monkey?](whos-got-the-monkey)** — the vivid classic on the same trap: the
+- **[Who's got the monkey?](../../topics/leadership/whos-got-the-monkey)** — the vivid classic on the same trap: the
   manager who absorbs everyone's next move.
-- **[Know your own job (the manager's job)](the-managers-job)** — why protecting your own scarce
+- **[Know your own job (the manager's job)](../../topics/leadership/the-managers-job)** — why protecting your own scarce
   time and focus matters.
-- **[Becoming the boss](becoming-the-boss)** — delegation as the core skill of the doing-to-
+- **[Becoming the boss](../../topics/leadership/becoming-the-boss)** — delegation as the core skill of the doing-to-
   leading shift.
 
 ## Sources

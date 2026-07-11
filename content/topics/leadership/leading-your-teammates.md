@@ -21,6 +21,9 @@ honestly, more usable, because it is concrete and about the everyday moves anyon
 
 ## The seven behaviors
 
+Brady's seven behaviors all grow out of one root: put the team ahead of yourself, then act
+on it in specific ways.
+
 ![Diagram: seven team-first leadership behaviors as a numbered ladder rising from a base labeled put the team first. The rungs read, in order, put the team first even in personal adversity, credit the unsung people, set the standard of full effort, learn what motivates each person, complement the formal leader's style, counter the outside pressures that breed selfishness, and connect as people outside work.](img/seven-behaviors.png)
 *Seven ways to lead from beside people rather than above them. Diagram.*
 
@@ -77,7 +80,7 @@ for some and would simply wound others, so use judgment rather than copying it. 
 thoughtful champion's playbook, held up honestly to the light, exactly the way the rest of
 this library reads its gurus.
 
-**Evidence check (2026 review, verdict: mixed).** The general idea does have research behind it. Meta-analyses find teams with shared, peer-level leadership perform modestly better (corrected correlations roughly .18 to .35; [Wang et al. 2014](https://doi.org/10.1037/a0034531), D'Innocenzo et al. 2016). But the effect is small, conditional (mainly on complex, interdependent work), largely correlational (high-performing teams may generate peer leadership rather than the reverse), and stronger for how members feel than for objectively measured results; the biggest numbers come from a "transformational" construct a major 2013 critique ([van Knippenberg & Sitkin](https://doi.org/10.5465/19416520.2013.759433)) argues is poorly defined and confounded with its own effects. So Brady's direction is right, but the strength and cause-and-effect certainty he implies are not established.
+**Evidence check (2026 review, verdict: mixed).** The general idea does have research behind it. Meta-analyses find teams with shared, peer-level leadership perform modestly better (corrected correlations roughly .18 to .35; [Wang et al. 2014](https://doi.org/10.1037/a0034531), D'Innocenzo et al. 2016). But the effect is small, conditional (mainly on complex, interdependent work), largely correlational (high-performing teams may generate peer leadership rather than the reverse), and stronger for how members feel than for objectively measured results; the biggest numbers come from a "transformational" construct a major 2013 critique ([van Knippenberg & Sitkin](https://doi.org/10.5465/19416520.2013.759433)) argues is poorly defined and confounded with its own effects. So Brady's direction is right, but the strength and cause-and-effect certainty he implies are not established. Bottom line: encourage peer leadership on complex, interdependent work and model the team-first behaviors yourself, but expect a modest lift, not a transformation.
 
 ## See also
 

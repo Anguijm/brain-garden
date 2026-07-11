@@ -31,7 +31,10 @@ opposite.
   repetition.
 - **Get immediate feedback** so you can see and fix mistakes (the article's example: a golfer
   hits ten balls from the same spot to learn, where playing a round gives one shot and no
-  correction).
+  correction). Assessment: one reconciliation with the wider research: feedback builds skill
+  when it targets the task and the next attempt; feedback aimed at the person can backfire (a
+  large meta-analysis found feedback worsened performance in about a third of cases, see
+  [saving your rookie managers](saving-rookie-managers)).
 - **Concentrate hard, for a limited time.** FACT: even elite performers rarely sustain more
   than four to five hours of true deliberate practice a day.
 - **Get a coach.** Good coaches give the honest, sometimes painful feedback you can't generate
@@ -39,8 +42,9 @@ opposite.
 
 FACT: the article makes a strong claim, that talent barely matters (Benjamin Bloom found no
 early predictors among 120 elite performers; there's no IQ-to-expertise correlation in chess,
-music, or sports), and popularized the idea that reaching the top takes roughly ten years or
-10,000 hours.
+music, or sports), and offered the rough guide that reaching the top takes about ten years of
+sustained effort (the "10,000 hours" version came later, from Malcolm Gladwell's
+popularization).
 
 ## How much to trust this: the important part
 
@@ -59,10 +63,9 @@ memory, personality, opportunity, coaching quality, and yes, some innate factors
 himself objected that the popular "10,000-hour rule" (spread by Malcolm Gladwell) distorted his
 work; 10,000 was a rough average for one group of elite violinists, not a threshold, and the
 amount varies enormously by field. Assessment: so keep the deliberate-practice *method*, and
-drop the "anyone can master anything with enough hours" slogan. (This note is exactly the kind
-of claim the vault's queued academic-evidence check is for.)
+drop the "anyone can master anything with enough hours" slogan.
 
-**Evidence check (2026 review, verdict: well-supported).** The note's calibration is sound and matches the literature, but the exact size of the effect is genuinely unsettled, not just "small": a 2019 double-blind replication ([Macnamara and Maitra](https://doi.org/10.1098/rsos.190327), *Royal Society Open Science*) found the original violinist result much weaker than reported, while critics ([Debatin et al. 2021](https://doi.org/10.1007/s12144-021-02326-x), *Current Psychology*) argue the meta-analyses undercount deliberate practice because they ignore how individualized the practice was. So treat the "roughly 12 percent" figure as one contested estimate rather than a settled number; what is robust is the direction, that practice matters a lot but is not the whole story and 10,000 hours is not a magic threshold.
+**Evidence check (2026 review, verdict: well-supported).** The note's calibration is sound and matches the literature, but the exact size of the effect is genuinely unsettled, not just "small": a 2019 double-blind replication ([Macnamara and Maitra](https://doi.org/10.1098/rsos.190327), *Royal Society Open Science*) found the original violinist result much weaker than reported, while critics ([Debatin et al. 2021](https://doi.org/10.1007/s12144-021-02326-x), *Current Psychology*) argue the meta-analyses undercount deliberate practice because they ignore how individualized the practice was. So treat the "roughly 12 percent" figure (a modest share: practice explaining about one-eighth of the performance differences, with the rest coming from other factors) as one contested estimate rather than a settled number; what is robust is the direction, that practice matters a lot but is not the whole story and 10,000 hours is not a magic threshold. Bottom line: practice deliberately at the edge of your ability, with feedback and a coach, but stop promising yourself or others that enough hours will make anyone an expert at anything.
 
 ## See also
 
@@ -70,8 +73,9 @@ of claim the vault's queued academic-evidence check is for.)
   this note says is essential.
 - **[What great managers do](what-great-managers-do)** — developing each person's strengths;
   deliberate practice is how those strengths actually grow.
-- **[Why leadership training fails](why-leadership-training-fails)** — why skill is best built
-  on the job, in context, not in a one-off course.
+- **[Why leadership training fails](why-leadership-training-fails)** — the system around a
+  skill matters as much as the practice; training works best when the job demands what it
+  teaches.
 
 ## Sources
 

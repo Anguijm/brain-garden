@@ -23,17 +23,18 @@ draws on different emotional-intelligence skills.
 
 Each style has a one-line motto that captures its spirit.
 
-| Style | In a phrase | Works best when | Effect on team mood |
-|---|---|---|---|
-| **Coercive** | "Do what I tell you" | a real crisis or turnaround, or a problem employee | strongly negative |
-| **Authoritative** | "Come with me" | the team is adrift and needs a clear direction | strongly positive |
-| **Affiliative** | "People come first" | healing rifts or morale, rebuilding trust | positive |
-| **Democratic** | "What do you think?" | you need buy-in, or input from capable people | positive |
-| **Pacesetting** | "Do as I do, now" | quick results from a skilled, motivated team | negative |
-| **Coaching** | "Try this" | helping a willing person grow for the long term | positive |
+| Style | Works best when | Effect on team mood |
+|---|---|---|
+| **Coercive** | a real crisis or turnaround, or a problem employee | strongly negative |
+| **Authoritative** | the team is adrift and needs a clear direction | strongly positive |
+| **Affiliative** | healing rifts or morale, rebuilding trust | positive |
+| **Democratic** | you need buy-in, or input from capable people | positive |
+| **Pacesetting** | quick results from a skilled, motivated team | negative |
+| **Coaching** | helping a willing person grow for the long term | positive |
 
-![Diagram: a bar chart of the six leadership styles and their measured effect on team climate. Authoritative plus 0.54, affiliative plus 0.46, democratic plus 0.43, and coaching plus 0.42 rise as green bars above the line. Coercive minus 0.26 and pacesetting minus 0.25 drop below the line as red bars.](img/six-styles.png)
-*How each style tends to move the mood (and results) of a team. Diagram.*
+![Diagram: a bar chart of the six leadership styles and the effect on team climate reported in Goleman's Hay/McBer data. Authoritative plus 0.54, affiliative plus 0.46, democratic plus 0.43, and coaching plus 0.42 rise as green bars above the line. Coercive minus 0.26 and pacesetting minus 0.25 drop below the line as red bars. A footnote marks the figures as Goleman's own consulting data, never independently replicated.](img/six-styles.png)
+*How each style moved climate in Goleman's own data. Correlations from a private consulting
+dataset, never independently replicated; read the direction, not the decimals. Diagram.*
 
 FACT: Goleman ties the styles to "climate," his word for the working mood of a team,
 measured across six things like how much freedom people feel and how committed they are. In
@@ -48,8 +49,8 @@ which to use like a strong medicine, in small doses.
 
 Four styles generally help, and you should build all of them:
 
-- **Authoritative** is the single most positive. You set a clear destination ("here is
-  where we are going and why") but let people find their own way there. Best when a group
+- **Authoritative** ("come with me") is the single most positive. You set a clear destination
+  ("here is where we are going and why") but let people find their own way there. Best when a group
   is lost and needs direction. It stalls with a team of experts who know more than you.
 - **Affiliative** builds bonds and heals stress ("people come first"). Its weakness is that
   praise alone lets poor work slide, so never use it by itself. Pair it with authoritative.
@@ -99,7 +100,7 @@ tend to sour a team; clear direction and coaching tend to lift it), but do not t
 decimal-point correlations as precise laws. As with the [emotional intelligence
 note](what-makes-a-leader), keep the useful frame and go easy on the slogans.
 
-**Evidence check (2026 review, verdict: mixed).** Independent research is less flattering than the article. A 2010 meta-analysis ([Harms & Credé, *Journal of Leadership & Organizational Studies*](https://doi.org/10.1177/1548051809350894)) found that the correlation between emotional intelligence and (transformational) leadership collapses from about .59 to .12 once the two are no longer rated by the same person, so much of the apparent effect is rating bias; and a critical review ([Antonakis, Ashkanasy & Dasborough, 2009, *The Leadership Quarterly*](https://doi.org/10.1016/j.leaqua.2009.01.006)) argued that no study has shown emotional intelligence to add predictive power for leadership beyond IQ and personality. The six-style and 'one-third of results' figures themselves come from a proprietary consulting dataset published in a non-peer-reviewed magazine, and have never been independently replicated.
+**Evidence check (2026 review, verdict: mixed).** Keep two things apart here. First, the six-style framework itself has never been independently tested: the style-climate decimals and the 'one-third of results' figure come from a proprietary consulting dataset published in a non-peer-reviewed magazine, and have never been replicated, so the toolkit stands as useful practice wisdom, not measured science. Second, the emotional-intelligence foundation the styles rest on is also less flattering in independent research: a 2010 meta-analysis ([Harms & Credé, *Journal of Leadership & Organizational Studies*](https://doi.org/10.1177/1548051809350894)) found the correlation between emotional intelligence and (transformational) leadership collapses from about .59 (a large correlation, rare in this field) to .12 (small, close to nothing) once the two are no longer rated by the same person, so much of the apparent effect is rating bias; and a critical review ([Antonakis, Ashkanasy & Dasborough, 2009, *The Leadership Quarterly*](https://doi.org/10.1016/j.leaqua.2009.01.006)) argued that no study has shown emotional intelligence to add predictive power for leadership beyond IQ and personality. Note that neither of those studies tests the six styles directly; they undercut the foundation, not the menu. The practical advice, flex your approach to the situation, remains sensible and is echoed across better-tested contingency research. Bottom line: use the six styles as a practice menu and match them to the situation, but ignore the decimal numbers when judging how well any style is working.
 
 ## See also
 

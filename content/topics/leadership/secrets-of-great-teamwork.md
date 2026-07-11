@@ -30,6 +30,8 @@ conditions." (Hackman, *Leading Teams*.)
 
 ## The four conditions
 
+Here are the conditions that do the heavy lifting: three from Hackman's classic research, plus one the authors added for modern scattered teams.
+
 ![Diagram: four pillars holding up "team effectiveness." Three original pillars: compelling direction (a clear, challenging, meaningful goal), strong structure (right people and number, good task design, clear norms), supportive context (rewards, information, training, resources). A fourth pillar added for modern teams: shared mindset (a common identity and shared information that beats "us vs them" and knowledge gaps).](img/enabling-conditions.png)
 *Three classic conditions plus one modern addition. Diagram.*
 
@@ -74,7 +76,7 @@ of remote work, though its warnings about distance and digital communication rea
 their time rather than dated. Assessment: treat the four conditions as a reliable checklist,
 and the individual stories as illustrations.
 
-**Evidence check (2026 review, verdict: mixed).** The general idea that team-level conditions matter is well-supported, but the headline "it's the conditions, not the personalities" is overstated. A 2007 [Journal of Applied Psychology meta-analysis by Bell](https://doi.org/10.1037/0021-9010.92.3.595) found that team members' personality composition (notably conscientiousness and agreeableness) independently predicts performance, so both matter. And the familiar claim that enabling conditions drive most of a team's effectiveness (Wageman and Hackman's "60-30-10 rule," which puts roughly 60% on team design) rests on their own correlational, self-report diagnostic-survey research ([Wageman, Hackman & Lehman, 2005](https://doi.org/10.1177/0021886305281984)), not on experiments showing that fixing the conditions causes better teams.
+**Evidence check (2026 review, verdict: mixed).** The general idea that team-level conditions matter is well-supported, but the headline "it's the conditions, not the personalities" is overstated. A 2007 [Journal of Applied Psychology meta-analysis by Bell](https://doi.org/10.1037/0021-9010.92.3.595) found that team members' personality composition (notably conscientiousness and agreeableness) independently predicts performance, so both matter. And the familiar claim that enabling conditions drive most of a team's effectiveness (Wageman and Hackman's "60-30-10 rule," which puts roughly 60% on team design) rests on their own correlational, self-report diagnostic-survey research ([Wageman, Hackman & Lehman, 2005](https://doi.org/10.1177/0021886305281984)), not on experiments showing that fixing the conditions causes better teams. Bottom line: when a team struggles, check direction, structure, support, and shared mindset first, but do not write off who is on the team, since composition matters too.
 
 ## See also
 
@@ -88,6 +90,9 @@ and the individual stories as illustrations.
   healthy structure a team needs to work.
 - **[The new science of building great teams](new-science-of-teams)** — the "shared mindset"
   measured: the communication patterns that mark a great team.
+- **[Great teams are about personalities](team-personalities)** — the direct counter-claim
+  (personality mix matters most); the two notes disagree, and the conditions side has the
+  better-replicated evidence.
 
 ## Sources
 

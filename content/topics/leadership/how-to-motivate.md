@@ -39,15 +39,17 @@ completely different set from the things that make them *motivated*. They are no
 of one scale. They are two separate scales.
 
 ![Diagram: two columns split by a center line. On the left, dissatisfiers (hygiene factors): company policy, supervision, relationship with the boss, working conditions, salary, relationship with peers, status, security. On the right, motivators: achievement, recognition, the work itself, responsibility, advancement, growth. A note reads: fixing the left removes unhappiness; only the right creates drive.](img/motivation-hygiene.png)
-*The two separate scales: hygiene factors stop dissatisfaction, motivators create drive. Diagram.*
+*The two scales as Herzberg drew them: hygiene stops dissatisfaction, motivators create drive.
+(How separate the scales really are is contested; see the evidence check.) Diagram.*
 
 - **Hygiene factors** (Herzberg's word for the dissatisfiers) are things *around* the job:
-  company policy, your boss, pay, working conditions, job security. FACT: get these wrong
-  and people are miserable. But get them right and you do not get motivation, you just get
-  the absence of complaints. Fixing hygiene takes people from unhappy up to neutral.
+  company policy, your boss, pay, working conditions, job security. FACT: Herzberg's claim is
+  that getting these wrong makes people miserable, but getting them right buys only the
+  absence of complaints, taking people from unhappy up to neutral, never up to motivated.
 - **Motivators** are things *inside* the work: achievement, recognition for it,
-  responsibility, the work itself, and growth. FACT: these are what actually move people
-  from neutral up to genuinely engaged.
+  responsibility, the work itself, and growth. FACT: these, in Herzberg's model, are what
+  move people from neutral up to genuinely engaged. (The strict two-scale split is the
+  contested part; see the evidence check.)
 
 Assessment: the practical punchline is that better pay and perks are worth doing (a
 mistreated, underpaid person will not be motivated by anything), but they buy you a
@@ -93,7 +95,7 @@ advice to keep employees *out* of redesigning their own jobs runs against everyt
 practice believes about involving people. Take the two-scale idea as a strong lens, not a
 proven law.
 
-**Evidence check (2026 review, verdict: mixed).** The strict two-scale separation is largely an artifact of Herzberg's interview method. [King (1970, *Psychological Bulletin*)](https://doi.org/10.1037/h0029444) reviewed five versions of the theory and found its strong versions unsupported once methods other than Herzberg's own are used, and a 2010 meta-analysis ([Judge et al., *Journal of Vocational Behavior*](https://doi.org/10.1016/j.jvb.2010.04.002)) found pay has a small but real positive association with satisfaction (about r = .15), so "money never motivates" is too strong. What does hold up independently is narrower: a meta-analysis of the job characteristics model found that intrinsic job content relates to motivation, and more weakly to performance (Fried & Ferris, 1987, *Personnel Psychology*).
+**Evidence check (2026 review, verdict: mixed).** The strict two-scale separation is largely an artifact of Herzberg's interview method. [King (1970, *Psychological Bulletin*)](https://doi.org/10.1037/h0029444) reviewed five versions of the theory and found its strong versions unsupported once methods other than Herzberg's own are used, and a 2010 meta-analysis ([Judge et al., *Journal of Vocational Behavior*](https://doi.org/10.1016/j.jvb.2010.04.002)) found pay has a small but real positive association with satisfaction (about r = .15), so "money never motivates" is too strong. What does hold up independently is narrower: a meta-analysis of the job characteristics model found that intrinsic job content relates to motivation, and more weakly to performance (Fried & Ferris, 1987, *Personnel Psychology*). Bottom line: fix pay and conditions enough to stop the misery, then build drive by enriching the work itself, but do not assume money never matters.
 
 ## See also
 

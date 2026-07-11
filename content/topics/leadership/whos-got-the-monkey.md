@@ -5,6 +5,9 @@ title: "Management time: who's got the monkey?"
 status: curated
 tags: [leadership, management, delegation, verification]
 created: 2026-07-12
+updated: 2026-07-12
+aliases:
+  - "topics/leadership/delegate-well"
 ---
 
 # Who's got the monkey?
@@ -13,11 +16,13 @@ The big idea of this article is a vivid answer to a common puzzle: why are manag
 out of time while their people are always out of work? William Oncken and Donald Wass say it
 is because the "next move" on a problem, what they call the monkey, keeps leaping off the
 subordinate's back onto the manager's. Say "let me think about it" and you have just adopted
-the monkey. Do that all day and you drown, while your people wait on you.
+the monkey. Do that all day and you drown, while your people wait on you. (This note also
+folds in Jesse Sostrin's modern framing of the same trap, "be more essential and less
+involved"; the original is archived.)
 
-FACT: this first ran in Harvard Business Review in 1974 and was reprinted as a classic in
-1999 with a commentary by Stephen Covey. (Oncken & Wass, "Management Time: Who's Got the
-Monkey?")
+FACT: the anchor article first ran in Harvard Business Review in 1974 and was reprinted as a
+classic in 1999 with a commentary by Stephen Covey. (Oncken & Wass, "Management Time: Who's
+Got the Monkey?")
 
 ## How the monkey jumps
 
@@ -61,6 +66,30 @@ the problem back" can sound cold and controlling. The real goal is not to dodge 
 problems but to *grow* their ability and trust to handle their own, which takes coaching, not
 just a firm shove.
 
+## The modern framing: essential, not involved
+
+Assessment: Jesse Sostrin's 2017 piece restates the monkey lesson in useful modern terms.
+Leaders confuse being *involved* (hands in the work) with being *essential* (the thing that
+makes it go). His diagnostic: if you took an unexpected week off, would your priorities still
+move? If not, you're more involved than essential.
+
+![Diagram: a two-by-two of involvement (low to high) against how essential you are (low to high). High-essential, low-involved is the leader/catalyst (the goal). High-essential, high-involved is the bottleneck (burnout, stalled team). Low-essential, high-involved is a super-sized individual contributor (busy, not productive). An arrow runs from bottleneck to catalyst, labeled "delegate well."](img/essential-vs-involved.png)
+*Aim for essential-but-not-involved: the catalyst, not the bottleneck. Diagram.*
+
+His four moves to delegate well:
+
+- **Start with your reasons**: share the context and why it matters, not just the task.
+- **Inspire their commitment**: define the work, check it against their capacity, and confirm
+  their understanding face to face (they can't read your mind).
+- **Engage at the right level**: stay involved enough to support and hold accountable, not so
+  much that you micromanage; ask them what cadence fits.
+- **Practice "yes," "no," and "yes, if"**: say yes to what draws on your best; route the rest
+  to others; and make the case for where your impact is higher.
+
+Assessment: this is coaching opinion, not research (no data, one composite example), and it
+under-addresses the hard parts of delegating: trust, competence gaps, what happens when a
+handoff fails. Keep the reframe and the four moves.
+
 ## How much to trust this
 
 Assessment: as a mental model, the monkey is genuinely useful and sticky, and most managers
@@ -74,20 +103,24 @@ problem will never become my problem" can turn into an excuse not to help, which
 what Covey pushes back on. Use it as a guard against *reverse delegation*, not as a licence to
 abandon people. Paired with real coaching, it is one of the most practical ideas here.
 
-**Evidence check (2026 review, verdict: mixed).** The "monkey" itself is a memorable metaphor, not a tested finding: "reverse delegation" has essentially no peer-reviewed research behind it, and the closest evidence, a meta-analysis of "empowering leadership," links it only modestly to actual performance (ρ=.31 for behavioral and performance outcomes in [Kim, Beehr & Prewett, 2018](https://doi.org/10.1177/1548051817750538)). Pushing work back down is also double-edged: [Cheong et al., 2016](https://doi.org/10.1016/j.leaqua.2016.01.006) found empowering behaviors can raise subordinates' job-induced tension and dampen the performance benefit, so treat this as a useful time-management prompt, not proof that offloading every problem improves outcomes.
+**Evidence check (2026 review, verdict: mixed).** The "monkey" itself is a memorable metaphor, not a tested finding: "reverse delegation" has essentially no peer-reviewed research behind it. The closest literature, on "empowering leadership" (leaders who delegate and push initiative down), backs the direction but at modest strength: a meta-analysis across 105 samples ([Lee, Willis & Tian, 2018, *Journal of Organizational Behavior*](https://doi.org/10.1002/job.2220)) finds its benefits run mostly through trust and psychological empowerment, with a smaller direct gain in task performance, and a related meta-analysis reports a modest overall link (rho about .31, right at the conventional threshold for a moderate correlation; [Kim, Beehr & Prewett, 2018](https://doi.org/10.1177/1548051817750538)). Pushing work back down is also double-edged: [Cheong et al., 2016](https://doi.org/10.1016/j.leaqua.2016.01.006) found empowering behaviors can raise subordinates' job-induced tension, and field studies find an inverted-U where over-delegating past a point hurts performance ([Lee, Cheong, Kim & Yun, 2017](https://doi.org/10.1177/1059601116646474)). So treat the monkey as a useful time-management prompt with a real but bounded upside, not proof that offloading every problem improves outcomes. Bottom line: end every "we've got a problem" conversation with an agreed next move that stays with the other person, but pair the handback with coaching and watch for people you are overloading.
 
 ## See also
 
-- **[Learn to delegate well](delegate-well)** — the same trap in modern terms: be more essential and less involved.
 - **[Becoming the boss](becoming-the-boss)** — the new-manager trap this cures: doing the
   work yourself instead of delegating it.
 - **[The manager's job](the-managers-job)** — why protecting your own scarce time matters so
   much.
 - **[How do you motivate employees?](how-to-motivate)** — pushing initiative down the ladder
   *is* handing people the responsibility that actually motivates them.
+- **[The leader as coach](the-leader-as-coach)** — Covey's point in practice: growing people's
+  ability to carry their own monkeys.
 
 ## Sources
 
 - William Oncken Jr. & Donald L. Wass, "Management Time: Who's Got the Monkey?", Harvard
   Business Review (1974, reprinted November–December 1999 with a commentary by Stephen R.
   Covey) — https://hbr.org/1999/11/management-time-whos-got-the-monkey
+- Jesse Sostrin, "To Be a Great Leader, You Have to Learn How to Delegate Well", Harvard
+  Business Review (October 2017) —
+  https://hbr.org/2017/10/to-be-a-great-leader-you-have-to-learn-how-to-delegate-well

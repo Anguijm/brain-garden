@@ -19,16 +19,18 @@ Abrahams & Groysberg, "What Makes a Company Great at Producing Leaders?")
 
 ## Four qualities of a talent incubator
 
+The authors boil the survey down to four qualities that talent-incubator companies share.
+
 ![Diagram: four qualities around a center node reading "produces more leaders than it keeps." Strategic talent management (deliberate hiring, internal mobility, planned attrition, alumni networks). Heavy investment in training and development. Strong culture and operations. Respected in the wider world.](img/talent-incubator.png)
 *What companies that reliably grow leaders have in common. Diagram.*
 
-- **Strategic talent management** — deliberate recruiting, internal mobility, and a "keep the
+- **Strategic talent management**: deliberate recruiting, internal mobility, and a "keep the
   best, let the rest go" stance that feeds a strong alumni network.
-- **Heavy investment in development** — training as a standing part of the mission, sponsored
+- **Heavy investment in development**: training as a standing part of the mission, sponsored
   from the top, not an occasional perk.
-- **Strong culture and operations** — a high-performance learning culture with the resources
+- **Strong culture and operations**: a high-performance learning culture with the resources
   and scale to back it.
-- **Respect in the wider environment** — a durable reputation for excellence.
+- **Respect in the wider environment**: a durable reputation for excellence.
 
 FACT: the top-named incubators were mostly consultancies and tech and consumer-goods giants
 (McKinsey, Google, Microsoft, Unilever, P&G, Amazon). Assessment: the practical levers are
@@ -48,7 +50,7 @@ and attract strong people to begin with. HBR itself appends a "read the methodol
 note. Assessment: treat this as informed opinion about which companies have the reputation, not
 proof of what produces leaders.
 
-**Evidence check (2026 review, verdict: mixed).** Independent research cuts both ways: leadership development itself is genuinely effective ([Lacerenza et al.'s 2017 meta-analysis](https://doi.org/10.1037/apl0000241) of 335 independent samples, in the *Journal of Applied Psychology*, found moderate positive effects), but the "four qualities" recipe is the exact study-only-the-winners design that Rosenzweig's *The Halo Effect* (2007) argues produces inflated, single-cause conclusions, and the wider talent-management evidence base is thin (Cappelli & Keller, 2014, *Annual Review of Organizational Psychology and Organizational Behavior*). Notably, [Groysberg's own peer-reviewed work](https://doi.org/10.1287/mnsc.1070.0809) (Groysberg, Lee & Nanda, *Management Science*, 2008) found that star performers usually decline after leaving their firm, so a reputation for "exporting leaders" is not proof those leaders stay effective elsewhere.
+**Evidence check (2026 review, verdict: mixed).** Independent research cuts both ways: leadership development itself is genuinely effective ([Lacerenza et al.'s 2017 meta-analysis](https://doi.org/10.1037/apl0000241) of 335 independent samples, in the *Journal of Applied Psychology*, found moderate positive effects), but the "four qualities" recipe is the exact study-only-the-winners design that Rosenzweig's *The Halo Effect* (2007) argues produces inflated, single-cause conclusions, and the wider talent-management evidence base is thin (Cappelli & Keller, 2014, *Annual Review of Organizational Psychology and Organizational Behavior*). Notably, [Groysberg's own peer-reviewed work](https://doi.org/10.1287/mnsc.1070.0809) (Groysberg, Lee & Nanda, *Management Science*, 2008) found that star performers usually decline after leaving their firm, so a reputation for "exporting leaders" is not proof those leaders stay effective elsewhere. Bottom line: borrow the practices (rotation, early real responsibility, mentoring, sustained investment) because they are sensible, but do not treat reputation lists like this as proof of what actually produces leaders.
 
 ## See also
 
