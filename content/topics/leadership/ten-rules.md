@@ -50,28 +50,29 @@ Every change is written down in the revision log at the bottom.
    they value), and how they best pick up something new.
    *From: [What great managers do](what-great-managers-do)*
 
-5. **Motivate through the work itself, not carrots and sticks.** Pay, perks, and pressure buy
-   short-term movement, not motivation, and wear off the moment you stop. Real drive comes
-   from achievement, responsibility, and growth, so enrich the job instead of just sweetening
-   the deal around it.
-   *From: [How do you motivate employees?](how-to-motivate)*
+5. **Motivate through the work itself, and fuel daily progress.** Pay, perks, and pressure buy
+   short-term movement, not motivation. Real drive comes from achievement, responsibility, and
+   growth, and day to day the biggest lever is helping people make visible progress in
+   meaningful work, so clear the obstacles and mark the small wins.
+   *From: [How do you motivate employees?](how-to-motivate) and [The power of small wins](power-of-small-wins)*
 
-6. **Grow people by spotlighting what works, and check yourself before you write anyone off.**
-   Attention to strengths builds people; piling on criticism mostly makes them defensive. And
-   when someone is failing, ask whether your own distrust is helping cause it: a boss's low
-   expectations can quietly manufacture a poor performer.
-   *From: [The feedback fallacy](the-feedback-fallacy) and [The set-up-to-fail syndrome](set-up-to-fail)*
+6. **Develop people by drawing out, not pouring in.** Coach with questions instead of jumping
+   to answers, and spotlight what is already working instead of piling on criticism; that is
+   how people actually grow. And when someone is failing, check whether your own distrust is
+   helping cause it: a boss's low expectations can quietly manufacture a poor performer.
+   *From: [The leader as coach](the-leader-as-coach), [The feedback fallacy](the-feedback-fallacy), and [The set-up-to-fail syndrome](set-up-to-fail)*
 
 7. **Match your leadership style to the moment.** There is no single best way to lead. Carry a
    full kit (setting a vision, coaching, building consensus, building bonds), and save "do
    what I say" for a genuine crisis.
    *From: [Leadership that gets results](leadership-that-gets-results)*
 
-8. **Know your own job, protect your time, and push initiative down.** A manager's real work
+8. **Know your job; protect your time and energy; push initiative down.** A manager's real work
    is fast, fragmented, and improvised, so study your own days and cut the busywork; free time
-   is made, not found. And don't take back "the monkey": keep the next move on the other
-   person's back instead of doing their work for them.
-   *From: [The manager's job: folklore and fact](the-managers-job) and [Who's got the monkey?](whos-got-the-monkey)*
+   is made, not found. Manage your *energy* too, not just your hours, by alternating hard
+   effort with real recovery. And don't take back "the monkey": keep the next move on the other
+   person's back.
+   *From: [The manager's job: folklore and fact](the-managers-job), [Who's got the monkey?](whos-got-the-monkey), and [The making of a corporate athlete](corporate-athlete)*
 
 9. **Make it safe to tell the truth, and keep standards high.** Psychological safety is candor,
    not niceness: people must feel free to raise problems, admit mistakes, and disagree. It is
@@ -88,9 +89,9 @@ Every change is written down in the revision log at the bottom.
 ## The bench
 
 Assessment: strong candidate rules that don't have a slot yet, or are waiting for more
-sources to back them. With 16 sources feeding only ten rules, the bench is getting deep, that
-is the constraint working as intended. When one earns promotion, it displaces a weaker rule
-above and the swap goes in the log.
+sources to back them. With 21 sources feeding only ten rules, the bench is deep, that is the
+constraint working as intended. When one earns promotion, it displaces a weaker rule above and
+the swap goes in the log.
 
 - **Lead with humility and fierce will.** Serve the company, not your ego; credit others for
   wins and take the blame for losses. (Strong, but overlaps with rules 1 and 3 for now.)
@@ -100,8 +101,10 @@ above and the swap goes in the log.
   chair in the room. *From: [The discipline of teams](the-discipline-of-teams) and [Leading your teammates](leading-your-teammates)*
 - **Spend most of your time on the few hardest people.** Roughly 90 percent of your attention
   goes to the 10 percent who most need it. *From: [Leading your teammates](leading-your-teammates)*
-- **Coach more than you think you have time for.** (For now, carried inside rules 6 and 7.)
-  *From: [Leadership that gets results](leadership-that-gets-results) and [The feedback fallacy](the-feedback-fallacy)*
+- **Hold real one-on-ones, and make them your report's meeting, not your status update.**
+  A weekly, focused 1:1 is a manager's highest-leverage ritual. *From: [Make the most of your one-on-one meetings](one-on-one-meetings)*
+- **Shape how your team communicates: equal airtime, face-to-face, explore outside.** How a
+  team talks predicts its success as much as who is on it. *From: [The new science of building great teams](new-science-of-teams)*
 - **Seed a new team with people who already trust each other.** When 20 to 40 percent of a
   team already knows one another, it cooperates from day one.
   *From: [Eight ways to build collaborative teams](building-collaborative-teams)*
@@ -117,6 +120,15 @@ reason, so the list's own history is part of what you can read here.
 
 ## Revision log
 
+- **2026-07-12 — v4.** Rolled in five more sources: [the leader as coach](the-leader-as-coach),
+  [the making of a corporate athlete](corporate-athlete), [the power of small wins](power-of-small-wins),
+  [one-on-one meetings](one-on-one-meetings), and [the new science of building great teams](new-science-of-teams).
+  With 21 sources feeding ten slots, these mostly *deepened* existing rules instead of adding
+  new ones: coaching folded into "develop people by drawing out" (rule 6), the progress
+  principle into the motivation rule (5), and energy management into the know-your-job rule (8).
+  Two new candidates (hold real one-on-ones; shape team communication) went to the bench, and
+  "coach more" left the bench because it now lives inside rule 6. No rule was displaced, a sign
+  the ten are starting to stabilize.
 - **2026-07-12 — v3.** Rolled in five more sources: [Level 5 leadership](level-5-leadership),
   [becoming the boss](becoming-the-boss), [who's got the monkey?](whos-got-the-monkey),
   [the set-up-to-fail syndrome](set-up-to-fail), and [psychological safety](psychological-safety).

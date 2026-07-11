@@ -86,6 +86,8 @@ way to "never correct anyone." The authors themselves don't go that far.
   build on each person's strengths rather than fix their weaknesses.
 - **[Leadership that gets results](leadership-that-gets-results)** — the coaching style, done
   as spotlighting rather than criticizing.
+- **[The leader as coach](the-leader-as-coach)** — the same "draw out, don't pour in" stance,
+  applied to coaching conversations.
 - **[The set-up-to-fail syndrome](set-up-to-fail)** — what happens when a boss's judgment goes
   the other way: distrust and criticism that quietly create a poor performer.
 - **[Using AI well](../../connections/using-ai-well)** — the rater problem is this garden's

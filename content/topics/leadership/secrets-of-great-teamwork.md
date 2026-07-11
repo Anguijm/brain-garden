@@ -84,6 +84,8 @@ and the individual stories as illustrations.
   inside, teammate to teammate.
 - **[Psychological safety](psychological-safety)** — a core part of the "shared mindset" and
   healthy structure a team needs to work.
+- **[The new science of building great teams](new-science-of-teams)** — the "shared mindset"
+  measured: the communication patterns that mark a great team.
 
 ## Sources
 

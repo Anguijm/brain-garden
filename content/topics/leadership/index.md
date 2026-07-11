@@ -32,8 +32,8 @@ dig into the sources behind any rule that grabs you.
 
 ## How this is organized
 
-The library sorts into three groups that keep pointing at each other: leading people,
-managing and developing them, and building teams.
+The library sorts into four groups that keep pointing at each other: leading people,
+developing them, managing yourself, and building teams.
 
 **Leading people:**
 
@@ -51,24 +51,35 @@ managing and developing them, and building teams.
   the quieter kind of leadership: making the people around you better, even when you hold
   no title over them.
 
-**Managing and developing people:**
+**Developing people:**
 
 - **[Becoming the boss](becoming-the-boss)** — Linda Hill on the brutal transition from star
   individual to first-time manager, and the five myths that trip new managers up.
 - **[What great managers do](what-great-managers-do)** — Marcus Buckingham on managing each
   person as unique: their strengths, triggers, and how they learn. Chess, not checkers.
+- **[The leader as coach](the-leader-as-coach)** — Ibarra and Scoular on the shift from
+  telling to asking, and the GROW model for drawing solutions out of people.
 - **[How do you motivate employees?](how-to-motivate)** — Herzberg's classic: pay and perks
   stop unhappiness, but only the work itself (achievement, responsibility, growth) creates
   real drive.
+- **[The power of small wins](power-of-small-wins)** — Amabile and Kramer on the biggest
+  everyday motivator managers overlook: helping people make visible progress in real work.
 - **[The feedback fallacy](the-feedback-fallacy)** — Buckingham and Goodall on why piling on
   criticism backfires, and why spotlighting what works grows people instead.
 - **[The set-up-to-fail syndrome](set-up-to-fail)** — Manzoni and Barsoux on how a boss's own
   distrust can quietly turn a decent employee into a poor performer.
-- **[Who's got the monkey?](whos-got-the-monkey)** — Oncken and Wass on why managers drown
-  while their people idle: the "next move" keeps jumping onto the boss's back.
+- **[Make the most of your one-on-one meetings](one-on-one-meetings)** — Rogelberg on the
+  manager's key ritual: a regular meeting that belongs to the direct report.
+
+**Managing yourself:**
+
 - **[The manager's job: folklore and fact](the-managers-job)** — Henry Mintzberg's demolition
   of the tidy "plan, organize, coordinate, control" myth, and his map of the ten roles a
   manager really plays.
+- **[Who's got the monkey?](whos-got-the-monkey)** — Oncken and Wass on why managers drown
+  while their people idle: the "next move" keeps jumping onto the boss's back.
+- **[The making of a corporate athlete](corporate-athlete)** — Loehr and Schwartz on managing
+  your energy, not just your time: train the whole person, and oscillate effort with recovery.
 
 **Building teams:**
 
@@ -77,6 +88,8 @@ managing and developing them, and building teams.
 - **[The secrets of great teamwork](secrets-of-great-teamwork)** — Haas and Mortensen on the
   four conditions that make a team work (and why you set conditions rather than fix
   personalities).
+- **[The new science of building great teams](new-science-of-teams)** — Pentland on how a
+  team's *communication patterns* (measured with sensors) predict its success.
 - **[Psychological safety](psychological-safety)** — Edmondson and Kerrissey on what it really
   means (candor, not niceness), and why safety and high standards go together.
 - **[Building collaborative teams](building-collaborative-teams)** — Gratton and Erickson on
