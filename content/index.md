@@ -10,8 +10,8 @@ than raw research. Newest is first.
 
 - **[Leadership and management: a working knowledge base](topics/leadership)** — plain-English,
   honestly-labeled notes on the most-cited ideas in management and leadership, built from
-  around forty HBR classics (Goleman, Herzberg, Mintzberg, Collins, Hill, Hackman, Buckingham,
-  Edmondson, Amabile, Pentland, Ericsson, Cross, and more), each with a "how much to trust
+  nearly fifty HBR classics (Goleman, Herzberg, Mintzberg, Collins, Hill, Hackman, Buckingham,
+  Edmondson, Amabile, Pentland, Ericsson, Cross, Zak, and more), each with a "how much to trust
   this" section, plus a living **[Ten Rules](topics/leadership/ten-rules)** list that updates as
   the library grows. Illustrated.
 - **[Supplements for a midlife body: help, not hurt](topics/health/supplements-for-midlife)**

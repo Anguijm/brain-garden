@@ -9,10 +9,10 @@ created: 2026-07-11
 
 # Leadership and management: a working knowledge base
 
-This is a substantial library of the most-cited ideas in management and leadership, each
-boiled down to plain language you can actually use. It now spans around forty classic
-Harvard Business Review articles, across leading people, developing them, running yourself,
-and building teams.
+This is a comprehensive library of the most-cited ideas in management and leadership, each
+boiled down to plain language you can actually use. It spans nearly fifty classic Harvard
+Business Review articles, across leading people, developing them, running yourself, and
+building teams.
 
 One honest note up front, because it shapes how to read everything here. Most of these
 ideas are *frameworks*, not laws. They come from smart people who studied real
@@ -33,103 +33,114 @@ dig into the sources behind any rule that grabs you.
 
 ## How this is organized
 
-The library sorts into six groups that keep pointing at each other.
+The library sorts into seven groups that keep pointing at each other.
 
 **Leading people (who you are as a leader):**
 
-- **[What makes a leader?](what-makes-a-leader)** — Goleman: emotional intelligence, not raw
-  intellect, is what separates strong leaders.
+- **[What makes a leader?](what-makes-a-leader)** — Goleman: emotional intelligence beats raw
+  intellect.
 - **[Leadership that gets results](leadership-that-gets-results)** — Goleman's six leadership
-  styles and when each one helps or hurts.
-- **[Begin with trust](begin-with-trust)** — Frei and Morriss on the three parts of trust, and
-  finding the one you most often break.
-- **[Level 5 leadership](level-5-leadership)** — Collins on the good-to-great leaders: deep
-  humility plus fierce professional will.
+  styles.
+- **[Begin with trust](begin-with-trust)** — Frei and Morriss on the three drivers of trust.
+- **[The neuroscience of trust](neuroscience-of-trust)** — Zak's eight behaviors that build
+  trust.
+- **[Level 5 leadership](level-5-leadership)** — Collins: humility plus fierce will.
 - **[Why should anyone be led by you?](why-should-anyone-be-led-by-you)** — Goffee and Jones on
-  authentic leadership and its four surprising qualities.
-- **[Discovering your authentic leadership](authentic-leadership)** — Bill George on building
-  your leadership from your own life story, not a template.
-- **[Leading your teammates](leading-your-teammates)** — Brady and Nohria on lifting the people
-  around you, even with no title over them.
+  authentic leadership.
+- **[Discovering your authentic leadership](authentic-leadership)** — Bill George on leading
+  from your own life story.
+- **[Leading your teammates](leading-your-teammates)** — Brady and Nohria on lifting people with
+  no title over them.
 
 **Growing as a leader (how leaders and skills develop):**
 
-- **[How managers become leaders](how-managers-become-leaders)** — Watkins on the seven seismic
-  shifts from running a function to running a business.
-- **[Seven transformations of leadership](seven-transformations)** — Rooke and Torbert on the
-  seven "action logics" leaders grow through.
-- **[Why leadership training fails](why-leadership-training-fails)** — Beer on why courses don't
-  stick: fix the system, not just the individual.
+- **[How managers become leaders](how-managers-become-leaders)** — Watkins's seven seismic
+  shifts.
+- **[Seven transformations of leadership](seven-transformations)** — Rooke and Torbert's seven
+  action logics.
+- **[Why leadership training fails](why-leadership-training-fails)** — Beer: fix the system, not
+  the individual.
 - **[Developing your leadership pipeline](leadership-pipeline)** — Conger and Fulmer on growing
-  future leaders through real assignments, not lists.
-- **[What makes a company great at producing leaders?](producing-leaders)** — Groysberg on what
-  "talent incubator" companies do differently.
-- **[The making of an expert](making-of-an-expert)** — Ericsson on deliberate practice (and the
-  correction to the "10,000 hours" myth).
+  future leaders.
+- **[What makes a company great at producing leaders?](producing-leaders)** — Groysberg on
+  talent incubators.
+- **[The making of an expert](making-of-an-expert)** — Ericsson on deliberate practice.
 
 **Being a manager (the role, and running yourself):**
 
-- **[Becoming the boss](becoming-the-boss)** — Hill on the brutal move from star individual to
-  first-time manager, and its five myths.
-- **[Saving your rookie managers from themselves](saving-rookie-managers)** — Walker on the five
-  rookie traps, from the boss's side.
+- **[Becoming the boss](becoming-the-boss)** — Hill on the first-time-manager transition.
+- **[Saving your rookie managers from themselves](saving-rookie-managers)** — Walker's five
+  rookie traps.
 - **[Are you a good boss, or a great one?](good-boss-great-one)** — Hill and Lineback's three
-  imperatives: manage yourself, your network, your team.
-- **[The manager's job: folklore and fact](the-managers-job)** — Mintzberg's demolition of the
-  tidy "plan, organize, coordinate, control" myth.
-- **["The manager's job," 50 years later](managers-job-50-years)** — Mintzberg at 85: diagnose
-  your organization's form, and manage on the ground.
-- **[Who's got the monkey?](whos-got-the-monkey)** — Oncken and Wass on why the "next move"
-  keeps jumping onto the boss's back.
+  imperatives.
+- **[The manager's job: folklore and fact](the-managers-job)** — Mintzberg on what managers
+  really do.
+- **["The manager's job," 50 years later](managers-job-50-years)** — Mintzberg on diagnosing
+  your org's form.
+- **[Who's got the monkey?](whos-got-the-monkey)** — Oncken and Wass on reverse delegation.
+- **[Learn to delegate well](delegate-well)** — Sostrin: be more essential and less involved.
 - **[The making of a corporate athlete](corporate-athlete)** — Loehr and Schwartz on managing
-  your energy, not just your time.
+  your energy.
 
 **Developing your people:**
 
 - **[What great managers do](what-great-managers-do)** — Buckingham on managing each person as
-  unique: strengths, triggers, learning style.
-- **[The leader as coach](the-leader-as-coach)** — Ibarra and Scoular on asking rather than
-  telling, and the GROW model.
+  unique.
+- **[The leader as coach](the-leader-as-coach)** — Ibarra and Scoular on asking, not telling
+  (GROW).
 - **[How do you motivate employees?](how-to-motivate)** — Herzberg: only the work itself creates
-  real drive, not carrots and sticks.
-- **[The power of small wins](power-of-small-wins)** — Amabile and Kramer on progress as the
-  biggest everyday motivator.
-- **[The feedback fallacy](the-feedback-fallacy)** — Buckingham and Goodall on why criticism
-  backfires and spotlighting strengths works.
-- **[The set-up-to-fail syndrome](set-up-to-fail)** — Manzoni and Barsoux on how a boss's own
-  distrust manufactures a poor performer.
+  drive.
+- **[The power of small wins](power-of-small-wins)** — Amabile and Kramer on progress as the top
+  motivator.
+- **[The feedback fallacy](the-feedback-fallacy)** — Buckingham and Goodall on spotlighting
+  strengths.
+- **[Feedback isn't enough](feedback-isnt-enough)** — Bregman and Jacobson: be an ally, not a
+  critic.
+- **[The set-up-to-fail syndrome](set-up-to-fail)** — Manzoni and Barsoux on the boss-driven
+  failure spiral.
 - **[Make the most of your one-on-one meetings](one-on-one-meetings)** — Rogelberg on the
-  manager's key ritual: the report's meeting, not yours.
+  report's meeting.
+- **[How to lead your first one-on-one](first-one-on-one)** — Mayberry's tactical starter guide.
 
 **Building teams (what makes a team work):**
 
-- **[The discipline of teams](the-discipline-of-teams)** — Katzenbach and Smith on what a real
-  team actually is, versus a working group.
-- **[Why teams don't work](why-teams-dont-work)** — Hackman on why teams underperform, and the
-  five conditions that fix it.
-- **[The secrets of great teamwork](secrets-of-great-teamwork)** — Haas and Mortensen on the
-  four conditions that make a team work.
-- **[The new science of building great teams](new-science-of-teams)** — Pentland on how a team's
-  communication patterns predict success.
-- **[Great teams are about personalities](team-personalities)** — Winsborough on balancing the
-  mix of psychological roles, not just skills.
-- **[Managing multicultural teams](multicultural-teams)** — Brett on the four cultural barriers
-  and four ways to handle them.
-- **[Building collaborative teams](building-collaborative-teams)** — Gratton and Erickson on the
-  paradox of big, diverse, expert teams.
+- **[The discipline of teams](the-discipline-of-teams)** — Katzenbach and Smith on team vs.
+  working group.
+- **[Why teams don't work](why-teams-dont-work)** — Hackman's five conditions.
+- **[The secrets of great teamwork](secrets-of-great-teamwork)** — Haas and Mortensen's four
+  conditions.
+- **[Great teams are about personalities](team-personalities)** — Winsborough on the mix of
+  roles.
+- **[Managing multicultural teams](multicultural-teams)** — Brett's four barriers and four
+  strategies.
+- **[Building collaborative teams](building-collaborative-teams)** — Gratton and Erickson's eight
+  practices.
 
-**Team culture and collaboration:**
+**Team culture and psychological safety:**
 
-- **[Psychological safety](psychological-safety)** — Edmondson on what it really means (candor,
-  not niceness) and why it pairs with high standards.
+- **[Psychological safety](psychological-safety)** — Edmondson on candor, not niceness.
+- **[What is psychological safety?](what-is-psych-safety)** — Gallo's plain-English primer.
 - **[Building the emotional intelligence of groups](group-emotional-intelligence)** — Druskat
-  and Wolff on group EI, built through norms at three levels.
+  and Wolff on group EI.
 - **[The secret to building a high-performing team](high-performing-team)** — Pawliw-Fry on
-  connection plus courage (a cousin of psychological safety).
-- **[How to build a superteam](superteams)** — Friedman on seven practices for a team that keeps
-  getting better.
-- **[Collaborative overload](collaborative-overload)** — Cross and Grant on the hidden cost of
-  collaboration: a few people carry too much of it.
+  connection plus courage.
+- **[Let your team have that heated conversation](heated-conversation)** — Davey on productive
+  conflict.
+- **[Teamwork on the fly](teamwork-on-the-fly)** — Edmondson on "teaming."
+- **[The three pillars of a teaming culture](three-pillars-teaming)** — Edmondson: curiosity,
+  passion, empathy.
+
+**Collaboration:**
+
+- **[The new science of building great teams](new-science-of-teams)** — Pentland on communication
+  patterns.
+- **[How to build a superteam](superteams)** — Friedman's seven practices.
+- **[Collaborative overload](collaborative-overload)** — Cross and Grant on collaboration's
+  hidden cost.
+- **[Collaboration without burnout](collaboration-without-burnout)** — Cross et al. on reclaiming
+  your time.
+- **[Cracking the code of sustained collaboration](cracking-the-code)** — Gino on collaboration
+  as a skill (read with caution).
 
 ## See also
 

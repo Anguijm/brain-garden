@@ -69,6 +69,7 @@ the resource distinction are the keepers.
 
 ## See also
 
+- **[Collaboration without burnout](collaboration-without-burnout)** — the individual's guide to reclaiming your own collaborative time.
 - **[Building collaborative teams](building-collaborative-teams)** — the other side of the
   coin: how to *get* collaboration; this note is about its cost.
 - **[Who's got the monkey?](whos-got-the-monkey)** — protecting your own finite time from other

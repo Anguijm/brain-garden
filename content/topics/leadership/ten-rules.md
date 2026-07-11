@@ -94,7 +94,7 @@ Every change is written down in the revision log at the bottom.
 ## The bench
 
 Assessment: strong candidate rules that don't have a slot yet, or are waiting for more
-sources to back them. With around 40 sources feeding only ten rules, the bench is deep, that is
+sources to back them. With nearly 50 sources feeding only ten rules, the bench is deep, that is
 the constraint working as intended. When one earns promotion, it displaces a weaker rule above
 and the swap goes in the log.
 
@@ -103,8 +103,8 @@ and the swap goes in the log.
   organizations, not a flaw. (A real gap in the ten, and the strongest current candidate.)
   *From: [Are you a good boss, or a great one?](good-boss-great-one)*
 - **Manage collaboration as a scarce resource, and protect your best people from overload.** A
-  few helpful people carry most of the collaborative load and burn out. (The strongest current
-  candidate for a slot.) *From: [Collaborative overload](collaborative-overload)*
+  few helpful people carry most of the collaborative load and burn out. (Now double-sourced.)
+  *From: [Collaborative overload](collaborative-overload) and [Collaboration without burnout](collaboration-without-burnout)*
 - **As you rise, let go of the skills that got you here.** Each bigger job demands a different
   way of working, from specialist toward generalist and strategist.
   *From: [How managers become leaders](how-managers-become-leaders)*
@@ -114,7 +114,7 @@ and the swap goes in the log.
   delegating; put your hands on the shared product, and you can set the standard from any chair.
   *From: [The discipline of teams](the-discipline-of-teams) and [Leading your teammates](leading-your-teammates)*
 - **Hold real one-on-ones, and make them your report's meeting, not your status update.**
-  *From: [Make the most of your one-on-one meetings](one-on-one-meetings)*
+  *From: [Make the most of your one-on-one meetings](one-on-one-meetings) and [How to lead your first one-on-one](first-one-on-one)*
 - **Build real skill through deliberate practice.** Effortful, feedback-driven work at the edge
   of your ability beats mindless repetition (though later research says talent and other
   factors matter more than the "10,000 hours" story implied).
@@ -134,6 +134,15 @@ reason, so the list's own history is part of what you can read here.
 
 ## Revision log
 
+- **2026-07-12 — v7.** Rolled in the final 10 sources, completing the reading list (the
+  neuroscience of trust, the psychological-safety primer, teamwork on the fly, the three pillars
+  of teaming, collaboration without burnout, cracking the code, the heated-conversation piece,
+  delegating well, feedback isn't enough, and leading your first one-on-one). Not one changed
+  the ten rules, the strongest possible confirmation that the list has converged. These were the
+  complementary tier, and every one reinforced a rule already here. Two bench candidates each
+  picked up a second source: "manage collaboration as a scarce resource" (now two Cross pieces)
+  and "hold real one-on-ones" (Rogelberg plus Mayberry). The list is stable; the next
+  refinements will come from the academic-evidence review, not from more HBR articles.
 - **2026-07-12 — v6.** Rolled in a large batch of 13 more sources (authentic leadership, seven
   transformations, the leadership pipeline, producing leaders, saving rookie managers,
   good-boss-great-one, Mintzberg's 50-years-later reflection, group emotional intelligence, why

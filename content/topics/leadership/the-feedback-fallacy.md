@@ -82,6 +82,7 @@ way to "never correct anyone." The authors themselves don't go that far.
 
 ## See also
 
+- **[Feedback isn't enough](feedback-isnt-enough)** — the sequel: why feedback needs an ongoing coaching relationship to land.
 - **[What great managers do](what-great-managers-do)** — the same author's positive program:
   build on each person's strengths rather than fix their weaknesses.
 - **[Leadership that gets results](leadership-that-gets-results)** — the coaching style, done

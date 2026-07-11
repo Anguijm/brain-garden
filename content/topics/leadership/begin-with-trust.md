@@ -76,6 +76,7 @@ the Uber story is scored.
 
 ## See also
 
+- **[The neuroscience of trust](neuroscience-of-trust)** — eight concrete behaviors that build the trust this note is about.
 - **[What makes a leader?](what-makes-a-leader)** — empathy and self-awareness, the human
   skills two corners of the triangle rest on.
 - **[The discipline of teams](the-discipline-of-teams)** — trust is the soil that "we hold

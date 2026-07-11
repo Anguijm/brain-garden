@@ -76,6 +76,7 @@ abandon people. Paired with real coaching, it is one of the most practical ideas
 
 ## See also
 
+- **[Learn to delegate well](delegate-well)** — the same trap in modern terms: be more essential and less involved.
 - **[Becoming the boss](becoming-the-boss)** — the new-manager trap this cures: doing the
   work yourself instead of delegating it.
 - **[The manager's job](the-managers-job)** — why protecting your own scarce time matters so

@@ -63,6 +63,7 @@ just hold the exact numbers as informed guidance rather than hard law.
 
 ## See also
 
+- **[How to lead your first one-on-one](first-one-on-one)** — the tactical starter guide for a brand-new manager's first 1:1s.
 - **[The leader as coach](the-leader-as-coach)** — the 1:1 is where coaching actually happens;
   bring the questions here.
 - **[Begin with trust](begin-with-trust)** — regular, present 1:1s are how you build the trust
