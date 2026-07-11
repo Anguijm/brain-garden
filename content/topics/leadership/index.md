@@ -45,12 +45,16 @@ managing and developing them, and building teams.
   intelligence put to work.
 - **[Begin with trust](begin-with-trust)** — Frei and Morriss on the three parts of trust
   (authenticity, logic, empathy) and how to find and fix the one you most often break.
+- **[Level 5 leadership](level-5-leadership)** — Jim Collins on the leaders who take a company
+  from good to great: a rare mix of deep humility and fierce professional will.
 - **[Leading your teammates](leading-your-teammates)** — Tom Brady and Nitin Nohria on
   the quieter kind of leadership: making the people around you better, even when you hold
   no title over them.
 
 **Managing and developing people:**
 
+- **[Becoming the boss](becoming-the-boss)** — Linda Hill on the brutal transition from star
+  individual to first-time manager, and the five myths that trip new managers up.
 - **[What great managers do](what-great-managers-do)** — Marcus Buckingham on managing each
   person as unique: their strengths, triggers, and how they learn. Chess, not checkers.
 - **[How do you motivate employees?](how-to-motivate)** — Herzberg's classic: pay and perks
@@ -58,6 +62,10 @@ managing and developing them, and building teams.
   real drive.
 - **[The feedback fallacy](the-feedback-fallacy)** — Buckingham and Goodall on why piling on
   criticism backfires, and why spotlighting what works grows people instead.
+- **[The set-up-to-fail syndrome](set-up-to-fail)** — Manzoni and Barsoux on how a boss's own
+  distrust can quietly turn a decent employee into a poor performer.
+- **[Who's got the monkey?](whos-got-the-monkey)** — Oncken and Wass on why managers drown
+  while their people idle: the "next move" keeps jumping onto the boss's back.
 - **[The manager's job: folklore and fact](the-managers-job)** — Henry Mintzberg's demolition
   of the tidy "plan, organize, coordinate, control" myth, and his map of the ten roles a
   manager really plays.
@@ -69,6 +77,8 @@ managing and developing them, and building teams.
 - **[The secrets of great teamwork](secrets-of-great-teamwork)** — Haas and Mortensen on the
   four conditions that make a team work (and why you set conditions rather than fix
   personalities).
+- **[Psychological safety](psychological-safety)** — Edmondson and Kerrissey on what it really
+  means (candor, not niceness), and why safety and high standards go together.
 - **[Building collaborative teams](building-collaborative-teams)** — Gratton and Erickson on
   the paradox that the big, diverse, expert teams we need are exactly the ones that struggle
   to cooperate, and the eight practices that fix it.

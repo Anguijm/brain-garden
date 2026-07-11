@@ -82,6 +82,8 @@ and the individual stories as illustrations.
   hard case, big and scattered expert teams.
 - **[Leading your teammates](leading-your-teammates)** — building the shared mindset from the
   inside, teammate to teammate.
+- **[Psychological safety](psychological-safety)** — a core part of the "shared mindset" and
+  healthy structure a team needs to work.
 
 ## Sources
 

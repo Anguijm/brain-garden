@@ -25,7 +25,7 @@ Every change is written down in the revision log at the bottom.
 
 ## The ten rules
 
-*Rules 1 to 7 are about leading people and managing yourself; rules 8 to 10 are about building teams.*
+*Rules 1 to 8 are about leading people and managing yourself; rules 9 and 10 are about building teams.*
 
 1. **Begin with trust, and fix your own wobble.** People trust you on three lines: that they
    get the real you (authenticity), that your judgment is sound (logic), and that you care
@@ -38,72 +38,75 @@ Every change is written down in the revision log at the bottom.
    technical chops only get you in the door. It starts with self-awareness.
    *From: [What makes a leader?](what-makes-a-leader)*
 
-3. **Manage each person as unique: know their strengths, triggers, and how they learn.**
+3. **Authority is earned, not issued: win commitment, not compliance.** A title gives you
+   almost nothing. Real authority is earned by showing character, competence, and results.
+   And getting people to obey is a false victory, only committed people take initiative and
+   real risks.
+   *From: [Becoming the boss](becoming-the-boss)*
+
+4. **Manage each person as unique: know their strengths, triggers, and how they learn.**
    Average managers play checkers, treating everyone the same; great managers play chess.
    Learn what energizes each person, what switches it on (usually recognition, in the form
    they value), and how they best pick up something new.
    *From: [What great managers do](what-great-managers-do)*
 
-4. **Motivate through the work itself, not carrots and sticks.** Pay, perks, and pressure buy
+5. **Motivate through the work itself, not carrots and sticks.** Pay, perks, and pressure buy
    short-term movement, not motivation, and wear off the moment you stop. Real drive comes
    from achievement, responsibility, and growth, so enrich the job instead of just sweetening
    the deal around it.
    *From: [How do you motivate employees?](how-to-motivate)*
 
-5. **Grow people by spotlighting what works, not cataloging what's wrong.** Attention to
-   strengths builds people; piling on criticism mostly makes them defensive. And stay humble
-   about your verdicts: you are a shaky judge of other people, so describe your own reaction
-   ("here's where you lost me") instead of pronouncing the truth about them.
-   *From: [The feedback fallacy](the-feedback-fallacy)*
+6. **Grow people by spotlighting what works, and check yourself before you write anyone off.**
+   Attention to strengths builds people; piling on criticism mostly makes them defensive. And
+   when someone is failing, ask whether your own distrust is helping cause it: a boss's low
+   expectations can quietly manufacture a poor performer.
+   *From: [The feedback fallacy](the-feedback-fallacy) and [The set-up-to-fail syndrome](set-up-to-fail)*
 
-6. **Carry a full kit of styles, and match the style to the moment.** There is no single best
-   way to lead. Flex between setting a vision, coaching, building consensus, and building
-   bonds, and save "do what I say" for a genuine crisis.
+7. **Match your leadership style to the moment.** There is no single best way to lead. Carry a
+   full kit (setting a vision, coaching, building consensus, building bonds), and save "do
+   what I say" for a genuine crisis.
    *From: [Leadership that gets results](leadership-that-gets-results)*
 
-7. **Know your own job, and make the time to do it.** A manager's real work is fast,
-   fragmented, and improvised, not tidy planning, so study your own days honestly and cut the
-   superficial busywork. And free time is made, not found: turn what matters into an
-   obligation or it won't happen.
-   *From: [The manager's job: folklore and fact](the-managers-job)*
+8. **Know your own job, protect your time, and push initiative down.** A manager's real work
+   is fast, fragmented, and improvised, so study your own days and cut the busywork; free time
+   is made, not found. And don't take back "the monkey": keep the next move on the other
+   person's back instead of doing their work for them.
+   *From: [The manager's job: folklore and fact](the-managers-job) and [Who's got the monkey?](whos-got-the-monkey)*
 
-8. **Don't call it a team unless the work needs one.** A real team means joint work and mutual
-   accountability. A working group, where people do their own jobs well, is often the smarter,
-   lower-risk choice. Decide on purpose instead of drifting into the word.
-   *From: [The discipline of teams](the-discipline-of-teams)*
+9. **Make it safe to tell the truth, and keep standards high.** Psychological safety is candor,
+   not niceness: people must feel free to raise problems, admit mistakes, and disagree. It is
+   not the enemy of high standards, you want both, because safety is what lets a team surface
+   hard truths and learn fast.
+   *From: [Psychological safety](psychological-safety)*
 
-9. **Set a team's conditions instead of fixing personalities.** Give it a compelling goal it
-   owns, keep membership small, define roles sharply while leaving the *path* open, and build
-   a shared mindset so subgroups don't split into "us versus them." One big lever: leaders
-   model and teach collaboration rather than trying to buy it with bonuses. Get the conditions
-   right and the team mostly runs itself.
-   *From: [The secrets of great teamwork](secrets-of-great-teamwork), [The discipline of teams](the-discipline-of-teams), and [Eight ways to build collaborative teams](building-collaborative-teams)*
-
-10. **Do real work yourself, and lead from any seat.** No leader earns a team's trust by only
-    reviewing and delegating; put your own hands on the shared product. And leadership isn't a
-    title: you can set the standard and lift the group from any chair in the room.
-    *From: [The discipline of teams](the-discipline-of-teams) and [Leading your teammates](leading-your-teammates)*
+10. **Build teams on purpose.** Form a real team only when the work genuinely needs joint effort
+    and mutual accountability (often a working group is the smarter, lower-risk choice). Then
+    set its conditions instead of fixing personalities: a compelling goal it owns, small size,
+    sharp roles with an open path, and a shared mindset.
+    *From: [The discipline of teams](the-discipline-of-teams), [The secrets of great teamwork](secrets-of-great-teamwork), and [Eight ways to build collaborative teams](building-collaborative-teams)*
 
 ## The bench
 
 Assessment: strong candidate rules that don't have a slot yet, or are waiting for more
-sources to back them. When one earns promotion, it displaces a weaker rule above and the
-swap goes in the log.
+sources to back them. With 16 sources feeding only ten rules, the bench is getting deep, that
+is the constraint working as intended. When one earns promotion, it displaces a weaker rule
+above and the swap goes in the log.
 
-- **Coach more than you think you have time for.** The most developmental move is the one
-  leaders skip, always pleading no time. (For now, carried inside rules 5 and 6.)
-  *From: [Leadership that gets results](leadership-that-gets-results) and [The feedback fallacy](the-feedback-fallacy)*
+- **Lead with humility and fierce will.** Serve the company, not your ego; credit others for
+  wins and take the blame for losses. (Strong, but overlaps with rules 1 and 3 for now.)
+  *From: [Level 5 leadership](level-5-leadership)*
+- **Do real work yourself, and lead from any seat.** Don't lead only by reviewing and
+  delegating; put your hands on the shared product, and you can set the standard from any
+  chair in the room. *From: [The discipline of teams](the-discipline-of-teams) and [Leading your teammates](leading-your-teammates)*
 - **Spend most of your time on the few hardest people.** Roughly 90 percent of your attention
-  goes to the 10 percent who most need it, and can most drag the group down.
-  *From: [Leading your teammates](leading-your-teammates)*
-- **Model and teach collaboration; you can't buy it.** Leaders build cooperation by
-  collaborating visibly and training the skill, not by tuning bonuses. (For now, carried
-  inside rule 9.) *From: [Eight ways to build collaborative teams](building-collaborative-teams)*
+  goes to the 10 percent who most need it. *From: [Leading your teammates](leading-your-teammates)*
+- **Coach more than you think you have time for.** (For now, carried inside rules 6 and 7.)
+  *From: [Leadership that gets results](leadership-that-gets-results) and [The feedback fallacy](the-feedback-fallacy)*
 - **Seed a new team with people who already trust each other.** When 20 to 40 percent of a
   team already knows one another, it cooperates from day one.
   *From: [Eight ways to build collaborative teams](building-collaborative-teams)*
-- **Credit the people no one notices.** Deliberately thank and reward the invisible roles.
-  (For now, carried inside rule 10.) *From: [Leading your teammates](leading-your-teammates)*
+- **Model and teach collaboration; you can't buy it.** (For now, carried inside rule 10.)
+  *From: [Eight ways to build collaborative teams](building-collaborative-teams)*
 
 ## How this list stays alive
 
@@ -114,20 +117,25 @@ reason, so the list's own history is part of what you can read here.
 
 ## Revision log
 
+- **2026-07-12 — v3.** Rolled in five more sources: [Level 5 leadership](level-5-leadership),
+  [becoming the boss](becoming-the-boss), [who's got the monkey?](whos-got-the-monkey),
+  [the set-up-to-fail syndrome](set-up-to-fail), and [psychological safety](psychological-safety).
+  Added two rules: authority is earned / commitment over compliance (rule 3), and make it safe
+  to tell the truth (rule 9). Folded the set-up-to-fail idea into the feedback rule (6) and the
+  "monkey" into the know-your-job rule (8). To make room, combined the two separate team rules
+  into one "build teams on purpose" rule (10), and moved "do real work / lead from any seat"
+  plus a new "humility and fierce will" candidate to the bench. With 16 sources and ten slots,
+  the rules now each carry several sources; the bench holds the overflow.
 - **2026-07-12 — v2.1.** Restored "know your own job, and make the time to do it" (Mintzberg)
   as rule 7, at the operator's request. To hold the count at ten, folded "model and teach
   collaboration" into rule 9 (set a team's conditions) and moved it to the bench.
-- **2026-07-12 — v2.** Added five starred sources: Herzberg on
-  [motivation](how-to-motivate), the [feedback fallacy](the-feedback-fallacy),
-  [begin with trust](begin-with-trust), the [secrets of great teamwork](secrets-of-great-teamwork),
-  and [what great managers do](what-great-managers-do). The library had tilted toward leading
+- **2026-07-12 — v2.** Added five starred sources: Herzberg on [motivation](how-to-motivate),
+  the [feedback fallacy](the-feedback-fallacy), [begin with trust](begin-with-trust), the
+  [secrets of great teamwork](secrets-of-great-teamwork), and
+  [what great managers do](what-great-managers-do). The library had tilted toward leading
   and developing individual people, and v1 was team-heavy (five of ten rules), so the list
-  rebalanced. Added four new rules: trust and your wobble (rule 1), managing each person as
-  unique (rule 3), motivating through the work (rule 4), and spotlighting strengths over
-  criticism (rule 5). Merged the two small-team rules into one "set the conditions" rule
-  (rule 8), and merged "do real work" with "lead from any seat" (rule 10). Moved three rules
-  to the bench to hold the count at ten: Mintzberg's self-management rule, Brady's "hardest
-  few," and the standalone "coach more" rule (now carried inside other rules).
+  rebalanced. Added four new rules (trust, individualizing, motivation, feedback), merged the
+  small-team rules and the do-real-work rules, and moved three rules to the bench.
 - **2026-07-11 — v1.** Founded the list on the first six sources in the library: Goleman's
   [emotional intelligence](what-makes-a-leader) and [six styles](leadership-that-gets-results),
   Katzenbach and Smith on [what a team is](the-discipline-of-teams), Gratton and Erickson on

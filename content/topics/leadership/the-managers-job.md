@@ -108,6 +108,8 @@ as the durable part.
   much of a real, chaotic manager's day actually looks like a chosen "style."
 - **[What makes a leader?](what-makes-a-leader)** — the human skills that carry you through a
   fragmented, people-heavy job.
+- **[Who's got the monkey?](whos-got-the-monkey)** — how to protect the scarce time this note
+  says is your most precious resource: stop taking back your people's work.
 - **[Defense BD Playbook](../business-development/defense-bd-playbook)** — the ten roles made
   concrete in one real management job.
 
