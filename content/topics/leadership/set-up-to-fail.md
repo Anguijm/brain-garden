@@ -79,6 +79,8 @@ illustrations, not data. Assessment: treat the *spiral* as a well-argued pattern
 against, and the specific figures as suggestive rather than precise. The core lesson, check
 your own role before blaming the person, is sound.
 
+**Evidence check (2026 review, verdict: mixed).** The best research qualifies the drama here: the strong expectation-to-performance effect comes mainly from military recruits and men and largely fails to replicate for women, while in ordinary workplaces the effect is small; a 2005 review of naturalistic studies (Jussim and Harber) found self-fulfilling prophecies usually do NOT compound into a runaway spiral and often fade rather than accumulate, and the low-expectation "Golem" direction the syndrome actually depends on has barely been tested experimentally. Treat the spiral as a plausible pattern to guard against, not a demonstrated law.
+
 ## See also
 
 - **[The feedback fallacy](the-feedback-fallacy)** — how you talk to a struggling person can

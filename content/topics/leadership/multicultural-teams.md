@@ -57,6 +57,8 @@ authors themselves note some "cultural" conflicts are really ordinary management
 it's a 2006 piece, pre-remote-work. Assessment: take the four strategies as a solid heuristic;
 hold the cultural generalizations loosely and treat people as individuals.
 
+**Evidence check (2026 review, verdict: mixed).** A 2010 meta-analysis of 108 studies (10,632 teams) found cultural diversity has a near-null net effect on performance: it does raise conflict and lower cohesion, but it also lifts creativity and satisfaction, so the "problems" framing is only half the story. And a meta-analysis of 558 studies found about 80% of cultural-value variation lies within countries rather than between them, so the national generalizations here (Americans decide fast, the Japanese are indirect) are weak predictors for any individual and should be treated as loose priors, not rules.
+
 ## See also
 
 - **[The secrets of great teamwork](secrets-of-great-teamwork)** — the "4-D" (diverse,

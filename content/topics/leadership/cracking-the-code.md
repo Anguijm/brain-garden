@@ -47,6 +47,8 @@ win-win negotiation) rather than treating this piece as authoritative evidence. 
 the six behaviors as a checklist, and give this source less trust than most in the library. This
 is exactly why the vault labels sources rather than swallowing them.
 
+**Evidence check (2026 review, verdict: mixed).** The core idea that collaboration is trainable holds up in independent meta-analyses, but the real effects are only small-to-medium and are inflated by self-report and publication bias, and one of the six behaviors, feedback, actually backfires: a 1996 meta-analysis (Kluger & DeNisi) found feedback interventions worsened performance more than a third of the time. Combined with Harvard's later finding of research misconduct against the author, treat the six-behavior list as a reasonable checklist, not proven science.
+
 ## See also
 
 - **[The feedback fallacy](the-feedback-fallacy)** — feedback done as drawing out, one of the

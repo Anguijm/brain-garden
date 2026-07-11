@@ -22,7 +22,11 @@ authors also sell training on their own ideas. That does not make them wrong. It
 you should treat each one as a useful lens for thinking, not as proof. Every note below
 ends with a short "how much to trust this" section that says plainly how solid the
 evidence is. Claims are labeled FACT (backed by a named source), Assessment (my read), or
-Speculation.
+Speculation. In 2026 the whole library also went through an independent academic-evidence
+review: each note carries an **"evidence check"** line that grades its framework against the
+peer-reviewed record (meta-analyses and replications). The short version, most of these ideas
+are directionally sound but were written with more confidence and bigger numbers than the
+evidence carries.
 
 ## Start here: the ten rules
 

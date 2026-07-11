@@ -125,6 +125,58 @@ authentic self (rules 1 to 3), shaping how a team communicates and modeling coll
 (rule 10), and spending most of your time on the hardest few people (a coaching call under
 rules 4 and 6).
 
+## What the research says (2026 evidence review)
+
+Assessment: we ran an independent academic-evidence review across the whole library and these
+ten rules, checking each against the peer-reviewed literature (meta-analyses and replications)
+rather than the original articles. The verdict on the rules: **all ten hold up as sound rules of
+thumb, but none is a proven law.** Two came out well-supported (rules 8 and 9); the other eight
+are "mixed", the direction is right, but the evidence is thinner and more contingent than the
+sources imply. None was contradicted.
+
+The correction is the same every time: **keep the direction, lower the confidence, strip the
+inflated numbers, and make it contingent.** Two deeper patterns held up: rules built on a
+*conjunction* (safety AND standards; clarity AND protected time) beat rules built on a single
+hero variable, and earned credibility *augments* formal authority rather than replacing it.
+
+The sharpest per-rule caveats:
+
+- **Rule 1:** "authenticity" is the weakest, most-critiqued leg of trust; the validated model is
+  competence, benevolence, and *integrity/consistency*. Lean on integrity, and hold the trust
+  triangle as a self-diagnostic, not a measured model.
+- **Rule 2:** emotional intelligence's real effect is modest (true correlations about .15 to
+  .25, near-zero once you control for IQ and personality), and packaged "situational leadership"
+  models are largely unvalidated. Keep flexing your style; drop the big EI claims.
+- **Rule 3:** don't treat "earned" and "issued" as opposites, formal authority is the platform
+  that secures legitimate compliance; earned credibility is what converts compliance into
+  commitment.
+- **Rule 4:** the "how they learn" clause rests on *learning styles*, which independent
+  replications have debunked. Keep individualizing on strengths and motivation (with a fairness
+  condition); drop matching to a "learning style."
+- **Rule 5:** "not carrots and sticks" is too strong, pay does reliably raise effort and output,
+  and intrinsic and extrinsic motivation coexist. Make intrinsic drive the primary engine, and
+  design incentives to be fair and non-controlling rather than banning them.
+- **Rule 6:** coaching-by-questions is a default for developing capable people, not a universal
+  law, novices often need direct guidance, and corrective feedback should be *task-focused*, not
+  person-focused. (The "3:1 positivity ratio" some feedback advice cites has been retracted.)
+- **Rule 7:** context shapes behavior as much as the person, but structural levers are not
+  automatically safe or effective (incentives get gamed; nudges shrink under scrutiny), so pair
+  person and system fixes, and pilot before scaling.
+- **Rule 8 (well-supported):** role clarity and protecting time and energy are robust; the
+  "push initiative down" leg is softer and culture-dependent, so treat "don't take back the
+  monkey" as a default bias, not an absolute.
+- **Rule 9 (well-supported):** the "AND high standards" is essential, not decoration, safety
+  *without* accountability can flatten routine performance. Safety's strongest, best-replicated
+  payoff is candor and error-reporting, not directly higher output. (Skip the "Project Aristotle
+  #1 predictor" claim; it was never peer-reviewed.)
+- **Rule 10:** "keep small" isn't meta-analytically supported (size effects are near-null and
+  task-dependent); size teams to the task, and treat a protected dissenting voice as a
+  decision-quality tool. Keep teams stable, but guard against complacency.
+
+Assessment: none of this changes the ten rules themselves, which stay as blunt, useful
+defaults. It changes how hard to lean on them: as calibrated starting points to reason from, not
+laws. Every source note now carries its own "evidence check" line with the specifics.
+
 ## How this list stays alive
 
 Assessment: this page is meant to change as the library does. Each new source we add gets
@@ -134,6 +186,16 @@ reason, so the list's own history is part of what you can read here.
 
 ## Revision log
 
+- **2026-07-12 — v8.** Ran an independent academic-evidence review across all 49 notes and the
+  ten rules (60 reviewers checking each framework against the peer-reviewed literature, per the
+  plan in `00_inbox/leadership-academic-evidence-todo.md`). Verdicts: rules 8 and 9
+  well-supported, the other eight mixed, none contradicted; of the 49 notes, one well-supported,
+  two weak (the neuroscience-of-trust and authentic-leadership pieces), and the rest mixed. Added
+  a "what the research says" section here with the key caveats, and folded a per-note evidence
+  check into every source note. The rule *wording* is unchanged (that stays the operator's call);
+  what changed is how hard to lean on each rule. Biggest corrections flagged: rule 1's
+  authenticity leg, rule 4's learning-styles clause, rule 5's "not carrots and sticks," and the
+  necessity of rule 9's "AND high standards."
 - **2026-07-12 — v7.** Rolled in the final 10 sources, completing the reading list (the
   neuroscience of trust, the psychological-safety primer, teamwork on the fly, the three pillars
   of teaming, collaboration without burnout, cracking the code, the heated-conversation piece,

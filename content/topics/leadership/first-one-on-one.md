@@ -47,6 +47,8 @@ alignment tool and their development space. Assessment: for the deeper, evidence
 (including the important "make it *their* meeting" stance), use the [Rogelberg
 note](one-on-one-meetings); use this one to get started.
 
+**Evidence check (2026 review, verdict: mixed).** the evidence base is thinner than the confident tone suggests. The Gallup engagement link is proprietary and correlational (not proof that 1:1s cause engagement), the 'engagement' being measured overlaps heavily with ordinary job satisfaction, and a landmark 1996 meta-analysis (Kluger & DeNisi) found feedback actually lowers performance in over a third of cases, so the 'exchange feedback' step is not automatically helpful; the 'critique the behavior, not the person' rule is the part research supports best.
+
 ## See also
 
 - **[Make the most of your one-on-one meetings](one-on-one-meetings)** — the research-grounded

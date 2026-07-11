@@ -51,6 +51,8 @@ observation and named vignettes, not controlled study, and the self-assessment t
 unvalidated. Assessment: take it as a well-argued framework for your own growth, not measured
 proof, and use the "prep, do, review" habit, which is genuinely practical.
 
+**Evidence check (2026 review, verdict: mixed).** The framework's building blocks hold up in the research: decades of meta-analyses confirm trust rests on competence plus character and that leadership skill and daily reflection both produce measurable gains. But two honest caveats belong here: trust's link to actual performance (as opposed to attitudes and goodwill) is modest and only correlational, not proven cause-and-effect, and no study has ever tested the specific three-imperatives model or its self-assessment tool, so treat the model as a well-grounded map rather than a validated instrument.
+
 ## See also
 
 - **[Becoming the boss](becoming-the-boss)** — the same authors on the first, hardest step

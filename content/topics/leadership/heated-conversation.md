@@ -53,6 +53,8 @@ neuroscience-flavored claims are asserted, and "in the majority of cases the emo
 is an impression, not a measured rate. Assessment: sound, experience-based counsel, held as
 that.
 
+**Evidence check (2026 review, verdict: mixed).** Add that the broader "productive conflict improves teams" premise is weaker than the popular framing implies: De Dreu and Weingart's 2003 meta-analysis found task conflict correlated negatively with team performance, and de Wit et al.'s 2012 meta-analysis of 116 studies found essentially no overall effect, with benefits only under narrow conditions. What the research robustly supports is the flip side, that emotional/relationship conflict reliably harms teams, so the note's real payoff is managing the emotion and keeping disagreement from turning personal, not the claim that airing disagreements boosts output.
+
 ## See also
 
 - **[Psychological safety](psychological-safety)** — the condition that makes productive

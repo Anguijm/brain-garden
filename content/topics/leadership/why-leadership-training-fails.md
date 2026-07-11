@@ -74,6 +74,8 @@ success stories are self-estimated company anecdotes (a "tenfold" return, and so
 academic studies they lean on (behavior following role and system) are real and decades-deep.
 Assessment: trust the core principle strongly; treat the specific ROI numbers as illustrations.
 
+**Evidence check (2026 review, verdict: mixed).** Note that this is only half-right: the "context beats willpower" claim is well-supported (classic Ohio State/International Harvester findings and transfer-climate meta-analyses show supervisor support and system climate strongly predict whether training sticks), but the stronger "training is money down the drain" framing is contradicted by the best modern evidence, a 2017 meta-analysis of 335 studies (Lacerenza et al., Journal of Applied Psychology) found leadership training is actually quite effective on average, with training-design quality, not fixing the system first, as the biggest lever. The often-cited "only 10% of training transfers" figure behind the "great training robbery" is an unsourced myth.
+
 ## See also
 
 - **[The set-up-to-fail syndrome](set-up-to-fail)** — the same "the system shapes the person"

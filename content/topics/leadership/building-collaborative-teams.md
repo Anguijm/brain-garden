@@ -94,6 +94,8 @@ others were bailed out or broken up), a good reminder that a company can be grea
 collaboration and still fail for other reasons. Read the eight as a design guide, not a
 scoreboard.
 
+**Evidence check (2026 review, verdict: mixed).** Two of the eight claims don't hold up against later meta-analyses: a 2014 meta-analysis (Garbers & Konradt) found team-based financial rewards do improve performance, contradicting the article's "rewards barely mattered" surprise, and diversity meta-analyses (Horwitz & Horwitz 2007; Bell et al. 2011) find demographic diversity has essentially no reliable effect on performance, so treating diversity as a force that corrodes cooperation overstates the case. The leadership and pre-existing-relationships practices fare better in the wider evidence.
+
 ## See also
 
 - **[The discipline of teams](the-discipline-of-teams)** — the foundation: before you build

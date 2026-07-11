@@ -47,6 +47,8 @@ collaboration, the 18 to 24 percent reclaimed) come from the authors' own affili
 not an independent source, and the individual stories are illustrations. Assessment: the advice
 is low-risk and sensible; treat the specific figures as the study's own claims.
 
+**Evidence check (2026 review, verdict: mixed).** The general problem is real (meta-analyses link heavy workload to burnout, and an independent 2023 longitudinal study confirms helping can escalate into overload), but the note's 'fix it yourself' framing is likely overstated: a 2017 JAMA Internal Medicine meta-analysis found individual-level burnout fixes yield only small benefits while organization-directed changes work better, so reclaiming your own time helps at the margin but is not a substitute for structural change. The specific 18-24% reclaim figure comes from the authors' own consulting data and has never been independently replicated.
+
 ## See also
 
 - **[Collaborative overload](collaborative-overload)** — the organizational-scale companion:

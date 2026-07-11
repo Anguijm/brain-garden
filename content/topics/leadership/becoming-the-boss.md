@@ -68,6 +68,8 @@ no control group or hard numbers. Assessment: so treat this as sharp, well-groun
 observation rather than measured proof. That is fine for what it is, a map of the emotional
 and mental shift the job demands, and on that it is very good.
 
+**Evidence check (2026 review, verdict: mixed).** Independent research backs the direction of Hill's ideas but not their strength or certainty: meta-analyses find that commitment and trust do beat positional authority, but the effects are modest (corrected correlations around .16 to .20; Riketta 2002, Dirks & Ferrin 2002), the transformational-leadership paradigm underneath them has been criticized for muddy definitions and measurement (van Knippenberg & Sitkin 2013), and formal training does transfer to the job (Lacerenza 2017), which softens the "you can't learn this in a classroom" line. The specific five-myths framework itself has never been tested at scale, so read the FACT labels here as well-grounded field observation rather than measured proof.
+
 ## See also
 
 - **[The manager's job](the-managers-job)** — what the work you are stepping into actually

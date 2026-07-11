@@ -74,6 +74,8 @@ teams, so it may not transfer cleanly to routine, low-autonomy jobs (they admit 
 manager advice as well-grounded interpretation, not tested law. The direction is very
 believable.
 
+**Evidence check (2026 review, verdict: mixed).** Independent research backs the direction but not the superlative: a 2015 meta-analysis (Klug & Maier, 85 studies) finds progress correlates with well-being only moderately (ρ≈.43), and a 40-year meta-analysis (Cerasoli et al., 2014) shows incentives and intrinsic motivation jointly drive performance, so "progress is the single biggest lever and recognition/incentives are the wrong target" is an overstatement, not a settled ranking. The specific diary figures come from one unreplicated correlational study, though the separate "setbacks outweigh wins" point is well established (Baumeister et al., 2001).
+
 ## See also
 
 - **[How do you motivate employees?](how-to-motivate)** — the companion: that note says drive

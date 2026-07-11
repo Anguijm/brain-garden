@@ -56,6 +56,8 @@ the piece is an adaptation of lead author Bill George's book, a commercial angle
 take it as an inspiring, useful frame for self-development, not as proof that authenticity
 causes results.
 
+**Evidence check (2026 review, verdict: weak).** Peer-reviewed evidence for the empirical claims is weak: meta-analyses find "authentic leadership" is statistically almost indistinguishable from the older "transformational leadership" (r≈.72) and adds little predictive power beyond it, and critics show the supporting studies are same-source self-report surveys that can't separate authenticity from simply liking your boss. Separately, the article's founding premise that "no traits predict leadership" is contradicted by a 2002 meta-analysis in which the Big Five personality traits correlated .48 with leadership.
+
 ## See also
 
 - **[Why should anyone be led by you?](why-should-anyone-be-led-by-you)** — the close cousin:

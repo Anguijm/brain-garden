@@ -47,6 +47,8 @@ fallacy](the-feedback-fallacy)); its own headline results (turnover cut to 3 per
 from 50 to 95 percent) are self-reported about one consulting client, uncontrolled. Assessment:
 trust the principle, which is well-echoed; treat the specific numbers as marketing.
 
+**Evidence check (2026 review, verdict: mixed).** Peer-reviewed backing is mixed: the best meta-analysis (Kluger & DeNisi 1996) confirms feedback alone often fails (a third of interventions made performance worse) but found this was NOT driven by whether feedback was positive or negative, so the "criticism triggers shame" mechanism is shakier than implied, and experts actually seek out negative feedback (Finkelstein & Fishbach 2012). Coaching does help, but meta-analytic effects are moderate (delta ~ 0.36; Jones et al. 2016) and the neuroscience the piece leans on has been criticized as overstated (Int. J. Evidence Based Coaching & Mentoring, 2024).
+
 ## See also
 
 - **[The feedback fallacy](the-feedback-fallacy)** — the piece this builds on: why criticism

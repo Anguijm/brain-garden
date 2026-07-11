@@ -57,6 +57,8 @@ The Oklahoma City Thunder success story is a hand-picked anecdote. Assessment: t
 practices where they echo the better-grounded notes here, and treat the specific numbers as the
 author's framing of his own data, not proof.
 
+**Evidence check (2026 review, verdict: mixed).** Beyond the caveats about Friedman's own survey, note that the outside research the practices lean on is weaker than the confident framing implies: psychological safety's tie to performance is only moderate and mostly correlational (Frazier et al. 2017; a 2024 CIPD review grades the causal evidence as weak), and feedback is close to a coin flip (Kluger & DeNisi's 1996 meta-analysis found over a third of feedback interventions actually made performance worse). Treat the seven practices as reasonable correlations, not proven cause-and-effect levers.
+
 ## See also
 
 - **[Psychological safety](psychological-safety)** — the research foundation under practices 1,

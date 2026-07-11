@@ -53,6 +53,8 @@ anecdotes, with several openly fictional teaching vignettes, and the one hard nu
 model is a plausible, influential framework; treat the causal claims as theory, and the
 examples as illustration.
 
+**Evidence check (2026 review, verdict: mixed).** the quantitative research that exists lands softer than the article implies. Meta-analyses find team emotional intelligence correlates only moderately with team effectiveness (about r = 0.4) and the link is correlational, not proven causal; and because self-report/"mixed" EI overlaps heavily with ordinary personality traits (Joseph & Newman 2010; O'Boyle et al. 2011), its unique added predictive power is small, with critics (Landy 2005; Locke 2005) faulting the popular Goleman-lineage framing this piece draws on for weak construct validity.
+
 ## See also
 
 - **[Psychological safety](psychological-safety)** — the modern descendant of these

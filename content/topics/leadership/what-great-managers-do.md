@@ -77,6 +77,8 @@ effort, even if only partly accurate," to protect the person's confidence. Telli
 something you know is untrue is a poor habit that will cost you trust. Keep the individualizing
 core; skip that bit.
 
+**Evidence check (2026 review, verdict: mixed).** The peer-reviewed record is uneven: the "learning styles" pillar (analyzers/doers/watchers) is contradicted by the research, not merely contested — Pashler et al. (2009) found no evidence that matching instruction to a learning style helps. And while building on strengths is genuinely beneficial, independent meta-analyses put the effect on performance at only about d = 0.28 (Virga et al., 2023), far more modest than the article implies, with much of the supportive engagement data being Gallup's own correlational work (Harter et al., 2002).
+
 ## See also
 
 - **[What makes a leader?](what-makes-a-leader)** — the other half of the split: this note is

@@ -99,6 +99,8 @@ tend to sour a team; clear direction and coaching tend to lift it), but do not t
 decimal-point correlations as precise laws. As with the [emotional intelligence
 note](what-makes-a-leader), keep the useful frame and go easy on the slogans.
 
+**Evidence check (2026 review, verdict: mixed).** Independent research is less flattering than the article. A 2010 meta-analysis (Harms & Crede) found the emotional-intelligence-to-leadership correlation collapses from about .59 to .12 once the same person no longer rates both, so much of the effect is rating bias, and reviewers (Antonakis et al., 2009) have never found EI to add predictive power beyond IQ and personality; the six-style and 'one-third of results' figures themselves come from a proprietary consulting dataset in a non-peer-reviewed magazine and have never been independently replicated.
+
 ## See also
 
 - **[What makes a leader?](what-makes-a-leader)** — the foundation: the emotional

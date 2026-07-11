@@ -80,6 +80,8 @@ brain, and the famous fMRI study is described without a citation. Assessment: ke
 humility and the "spotlight what works" habit, which are valuable, but do not swing all the
 way to "never correct anyone." The authors themselves don't go that far.
 
+**Evidence check (2026 review, verdict: mixed).** The rater-unreliability finding is solidly backed (Scullen et al. 2000: over half of a rating is the rater), but the article's anti-criticism prescription is not: a large 1996 meta-analysis (Kluger & DeNisi) found feedback improves performance on average, and later work (Finkelstein & Fishbach 2012) shows experts actively seek and benefit from negative feedback, while the supporting neuroscience rests on a single unreplicated fMRI study.
+
 ## See also
 
 - **[Feedback isn't enough](feedback-isnt-enough)** — the sequel: why feedback needs an ongoing coaching relationship to land.

@@ -74,6 +74,8 @@ Frei was a paid Uber adviser who held Uber shares (she discloses it), so the fla
 independent verdict. Assessment: the triangle stands on its own usefulness regardless of how
 the Uber story is scored.
 
+**Evidence check (2026 review, verdict: mixed).** The three-corner structure is the strongest part: it closely tracks organizational psychology's most-validated trust model (Mayer et al. 1995; Colquitt et al. 2007 meta-analysis of 132 samples), where competence, benevolence, and integrity each independently predict trust. But the article's signature moves are not established science -- the corners overlap far more than the clean triangle implies (empathy and authenticity/integrity correlate ~0.68 and are hard to tell apart), the idea that you have one stable "wobble" and that fixing it is the "fastest" path has never been tested in controlled research, and the "authenticity" construct in particular is largely redundant in leadership studies (Banks et al. 2016).
+
 ## See also
 
 - **[The neuroscience of trust](neuroscience-of-trust)** — eight concrete behaviors that build the trust this note is about.

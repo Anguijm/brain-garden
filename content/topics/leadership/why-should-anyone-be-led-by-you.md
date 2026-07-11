@@ -50,6 +50,8 @@ and minorities, who get stereotyped when they do. Assessment: treat the four qua
 thoughtful lens, and hold the "reveal your differences is most important" ranking as opinion,
 not proof.
 
+**Evidence check (2026 review, verdict: mixed).** The academic descendant of this article, "authentic leadership" theory, is among the more contested constructs in leadership research: meta-analysis finds it nearly redundant with transformational leadership and adding little on its own (Banks et al., 2016), most supporting studies are same-source questionnaires that cannot show authenticity causes followership (Antonakis et al., 2010), and prominent critics argue the construct is conceptually and methodologically broken (Alvesson & Einola). Even the "show your weakness" advice cuts both ways in experiments, helping in small doses and backfiring in large ones, so treat the four qualities as a useful heuristic rather than validated cause-and-effect.
+
 ## See also
 
 - **[Begin with trust](begin-with-trust)** — the authenticity corner of trust, in more depth.

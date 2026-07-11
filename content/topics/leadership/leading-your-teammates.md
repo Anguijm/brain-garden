@@ -77,6 +77,8 @@ for some and would simply wound others, so use judgment rather than copying it. 
 thoughtful champion's playbook, held up honestly to the light, exactly the way the rest of
 this library reads its gurus.
 
+**Evidence check (2026 review, verdict: mixed).** The general idea does have research behind it. Meta-analyses find teams with shared, peer-level leadership perform modestly better (corrected correlations roughly .18 to .35; Wang et al. 2014, D'Innocenzo et al. 2016). But the effect is small, conditional (mainly on complex, interdependent work), largely correlational (high-performing teams may generate peer leadership rather than the reverse), and stronger for how members feel than for objectively measured results; the biggest numbers come from a "transformational" construct a major 2013 critique (van Knippenberg & Sitkin) argues is poorly defined and confounded with its own effects. So Brady's direction is right, but the strength and cause-and-effect certainty he implies are not established.
+
 ## See also
 
 - **[The discipline of teams](the-discipline-of-teams)** — the formal backbone under Brady's

@@ -73,6 +73,8 @@ Goleman's finding that coaching is underused. Treat GROW's specifics (the no-"wh
 1-to-10 threshold) as the authors' practical craft, not proven law. The idea is strong; the
 salesmanship around it is worth noticing.
 
+**Evidence check (2026 review, verdict: mixed).** The best RCT-only meta-analysis (de Haan & Nilsson, 2023) finds coaching's effect is only moderate, not large, and is inflated by publication bias — and that evidence is mostly for professional coaches, not managers coaching their own teams, where reviews find mixed and sometimes null or negative effects on job performance (Beattie et al., 2014). GROW's specific session structure has essentially never been tested rigorously, so treat it as a useful habit rather than a validated method.
+
 ## See also
 
 - **[Leadership that gets results](leadership-that-gets-results)** — coaching is one of

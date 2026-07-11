@@ -59,6 +59,8 @@ and the model lines up with the author's own consulting business. Assessment: th
 to right brain" framing is a popular metaphor, not real neuroscience. Take the seven shifts as
 a sharp map of a real transition, not a validated instrument.
 
+**Evidence check (2026 review, verdict: mixed).** Independent research backs the broad direction (a 2007 study of ~1,000 managers found skill demands really do shift from technical toward strategic as you climb, and the 1980s derailment research shows early strengths can become liabilities), but the specific "seven shifts" has never been tested or validated as a model, and the "specialist to generalist" shift is actively disputed: Amanda Goodall's studies of hospitals, universities, and sports teams find leaders with deep domain expertise still outperform pure generalists even at the top. Treat it as a useful map, not a proven one, and note that all the supporting studies are correlational rather than causal.
+
 ## See also
 
 - **[Becoming the boss](becoming-the-boss)** — the first version of this leap, from star

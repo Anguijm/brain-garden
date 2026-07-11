@@ -59,6 +59,8 @@ the Welch anecdote is secondhand and unverifiable. Assessment: the durable subst
 forms, emergent structure) traces to Mintzberg's real body of work; this piece is a
 plain-language recap of it.
 
+**Evidence check (2026 review, verdict: mixed).** The evidence splits: the "grounded, hands-on manager" description replicates well (Kurke & Aldrich 1983), though a 2006 restudy found time was less fragmented than Mintzberg claimed. But the four-forms idea the piece foregrounds is weaker than implied: the one rigorous head-to-head test (Doty, Glick & Huber 1993) found that matching Mintzberg's ideal-type forms did NOT predict effectiveness, and a 2015 review notes the field never grappled with that failure.
+
 ## See also
 
 - **[The manager's job: folklore and fact](the-managers-job)** — the 1975 original this looks

@@ -61,6 +61,8 @@ and opinion. And it's a 2009 interview, so the "virtual teams" bits predate mode
 Assessment: trust the conditions and the small/stable/deviant findings; hold the exact
 thresholds loosely.
 
+**Evidence check (2026 review, verdict: mixed).** The broad claim that teams underperform their potential is well supported, but hold the specifics loosely: the largest meta-analysis on team size (Bernerth et al. 2023, 208 teams) found essentially no general link between size and performance, so "no double digits" is a rule of thumb, not a law, and much of Hackman's "enabling conditions" evidence rests on self-reported effectiveness rather than hard output. Treat the framework as a well-argued lens, and note that an appointed "deviant" works less reliably than genuine dissent.
+
 ## See also
 
 - **[The discipline of teams](the-discipline-of-teams)** — the companion definition: what a

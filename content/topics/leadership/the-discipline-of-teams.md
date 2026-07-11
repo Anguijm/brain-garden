@@ -102,6 +102,8 @@ it just means read it as a sharp lens, not a proof. Its best use is the humble o
 whether you even need a team, or whether a well-run working group would do the job with less
 risk.
 
+**Evidence check (2026 review, verdict: mixed).** Later meta-analyses back the mechanism but not every rule: interdependence and shared goals really do predict team performance (Courtright et al., 2015, ~7,500 teams), but the "keep teams small" prescription doesn't generalize — a large 2023 meta-analysis found the team-size/performance link is basically null and highly context-dependent, so treat "smaller is better" as a rough default, not a finding. And because the framework has never been tested as a causal package, read the six requirements as a useful checklist rather than proven success factors.
+
 ## See also
 
 - **[The secrets of great teamwork](secrets-of-great-teamwork)** — the companion piece: this

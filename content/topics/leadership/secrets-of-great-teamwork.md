@@ -74,6 +74,8 @@ of remote work, though its warnings about distance and digital communication rea
 their time rather than dated. Assessment: treat the four conditions as a reliable checklist,
 and the individual stories as illustrations.
 
+**Evidence check (2026 review, verdict: mixed).** The general idea that team-level conditions matter is well-supported, but the headline "it's the conditions, not the personalities" is overstated. A 2007 Journal of Applied Psychology meta-analysis (Bell) found team members' personalities (especially average conscientiousness and agreeableness) independently predict performance, so both matter, and the strongest "conditions explain 60-80% of effectiveness" figures come from the authors' own self-report survey (Wageman et al., 2005), which is correlational rather than proof that fixing conditions causes better teams.
+
 ## See also
 
 - **[The discipline of teams](the-discipline-of-teams)** — the companion piece: that one

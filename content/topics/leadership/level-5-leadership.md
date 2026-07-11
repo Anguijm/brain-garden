@@ -67,6 +67,8 @@ stumbled badly (Circuit City went bankrupt; Gillette was acquired). Assessment: 
 as an inspiring ideal and a good self-check ("am I serving the company or my ego?"), not as a
 formula that guarantees results.
 
+**Evidence check (2026 review, verdict: mixed).** Independent tests have undercut the causal claim: a 2008 Academy of Management Perspectives study found Collins's eleven "good-to-great" firms did not beat the S&P 500 in the following decade, so treat this as a leadership ideal, not a formula that produces great companies. The humility half is genuinely supported by later, better-designed research, but only as a moderate, context-dependent effect (a 2022 meta-analysis puts the humility-to-performance correlation near 0.33, and a 2019 study found humble leaders are often simultaneously rated as less competent).
+
 ## See also
 
 - **[What makes a leader?](what-makes-a-leader)** — Level 5's humility and self-awareness are

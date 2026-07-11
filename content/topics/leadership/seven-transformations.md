@@ -52,6 +52,8 @@ which is a strong assumption. Assessment: treat the seven logics as a thought-pr
 developmental map, not a validated measurement, and Mandela-as-Alchemist as illustration, not
 data.
 
+**Evidence check (2026 review, verdict: mixed).** A 2006 review in The Leadership Quarterly (McCauley et al.) found the research linking developmental stage to leadership effectiveness has serious limitations: small, non-random samples and weak designs. The stage-measurement idea itself is well validated, but the specific "higher logic makes better leaders" payoff rests on a handful of small studies (n roughly 40-75), one of which found the ordinary personality trait conscientiousness did much of the predictive work, so treat the effect as real-but-modest and far less certain than the article's confident tone implies.
+
 ## See also
 
 - **[How managers become leaders](how-managers-become-leaders)** — a different map of leader

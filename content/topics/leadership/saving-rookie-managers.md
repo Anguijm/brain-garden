@@ -52,6 +52,8 @@ consulting cases, with no data or studies; figures like "10 percent strategic, 9
 tactical" are illustrative, not measured. Assessment: take it as sound, experience-based
 coaching advice, which is exactly what it is.
 
+**Evidence check (2026 review, verdict: mixed).** the article's core diagnosis is actually backed by hard data (Benson, Li & Shue's 2019 study of 50,000+ salespeople confirmed top individual performers really are the ones most likely to be promoted and then flop as managers), but two of its five fixes are shakier than the confident tone implies: meta-analyses find delegation/empowerment barely moves performance (it mostly improves attitudes and can backfire if overdone), and Kluger and DeNisi's classic 1996 meta-analysis found feedback made performance worse in over a third of cases, so "delegate more" and "give more feedback" are double-edged, not automatic wins.
+
 ## See also
 
 - **[Becoming the boss](becoming-the-boss)** — the same transition from the *new manager's*

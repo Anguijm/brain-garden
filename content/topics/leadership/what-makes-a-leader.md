@@ -109,6 +109,8 @@ article is a simplified, dated popular-science version, and Goleman himself buil
 emotional-intelligence training, so he has a stake in the idea. None of that sinks the
 model. It just means you hold the slogans loosely and keep the useful core.
 
+**Evidence check (2026 review, verdict: mixed).** Independent meta-analyses find emotional intelligence's link to performance and leadership is real but modest, and largely overlaps with IQ and personality, so once you control for those it adds little; the famous "twice as important" and "90 percent" figures are Goleman's own and have never been reproduced. Reviewers also note that much of the apparent EI-leadership connection vanishes when the two aren't scored by the same person (Harms & Credé 2010), and that no rigorous study shows EI beats IQ plus the Big Five at predicting leadership (Antonakis et al. 2009), so treat the five-part model as a useful checklist, not a measured cause of leadership success.
+
 ## See also
 
 - **[Leadership that gets results](leadership-that-gets-results)** — the sequel: the six

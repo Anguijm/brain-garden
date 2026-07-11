@@ -48,6 +48,8 @@ and attract strong people to begin with. HBR itself appends a "read the methodol
 note. Assessment: treat this as informed opinion about which companies have the reputation, not
 proof of what produces leaders.
 
+**Evidence check (2026 review, verdict: mixed).** Independent research cuts both ways: leadership development itself is genuinely effective (Lacerenza et al.'s 2017 meta-analysis of 335 studies found moderate positive effects), but the "four qualities" recipe is the exact study-only-the-winners design that Rosenzweig's Halo Effect (2007) shows produces inflated, single-cause conclusions, and the wider talent-management evidence base is thin (Cappelli & Keller, 2014). Notably, Groysberg's own peer-reviewed work (Management Science, 2008) found star performers usually decline after leaving their firm, so a reputation for "exporting leaders" is not proof those leaders stay effective elsewhere.
+
 ## See also
 
 - **[Developing your leadership pipeline](leadership-pipeline)** — the how-to companion: the

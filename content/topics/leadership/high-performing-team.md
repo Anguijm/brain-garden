@@ -53,6 +53,8 @@ The biology claims are asserted without citation. Assessment: keep the map and t
 conversation exercise, which are the real value, and treat the statistics as marketing color,
 not evidence.
 
+**Evidence check (2026 review, verdict: mixed).** Even the psychological-safety research this leans on is weaker than "well-supported" suggests: a 2017 Personnel Psychology meta-analysis found only a moderate, mostly indirect link to performance that is inflated by publication and self-report bias, and a 2023 study found the effect can actually reverse (too much safety hurts routine-task performance). The evidence is almost entirely correlational surveys rather than experiments, so treat the safety-plus-courage 2x2 as a useful map, not a proven cause of team performance.
+
 ## See also
 
 - **[Psychological safety](psychological-safety)** — the better-grounded version of this same

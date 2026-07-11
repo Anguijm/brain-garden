@@ -102,6 +102,8 @@ completely, but the human shape of the work, fast, social, and improvised, has c
 surprisingly little. Read the specific statistics as historical snapshots and the ten roles
 as the durable part.
 
+**Evidence check (2026 review, verdict: mixed).** Later research gives a split verdict: the busy, fragmented, verbal picture of the job has been independently replicated (Kurke & Aldrich, 1983), but the tidy ten-role map is actually the least empirically validated part, since Hales's 1986 review found the roles overlap and resist clean separation. A 30-year replication (Tengblad, 2006) also found managers' days were less fragmented than Mintzberg's famous statistics imply, so treat the sub-nine-minute figures as an upper bound.
+
 ## See also
 
 - **[Leadership that gets results](leadership-that-gets-results)** — a useful contrast: how

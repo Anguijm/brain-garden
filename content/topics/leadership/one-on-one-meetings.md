@@ -61,6 +61,8 @@ character, not a real case. The author also wrote a book arguing meetings matter
 is his thesis. Assessment: none of that makes the advice wrong, it is sensible and low-risk,
 just hold the exact numbers as informed guidance rather than hard law.
 
+**Evidence check (2026 review, verdict: mixed).** Direct research on 1:1s specifically is thin: the academic field's own review (Flinchum et al., 2023) calls them "understudied," and the cadence and talk-time figures come from cross-sectional self-report surveys where same-source bias inflates the associations. The general direction is backed by robust adjacent work on manager-report relationship quality, but frequency is not monotonically good — a landmark feedback meta-analysis (Kluger & DeNisi, 1996) found over a third of feedback episodes actually hurt performance, and "meeting load" research finds benefits turn to burnout past a point, so treat "weekly, 30 minutes, 50-90 percent talk time" as sensible defaults to adapt, not proven optima.
+
 ## See also
 
 - **[How to lead your first one-on-one](first-one-on-one)** — the tactical starter guide for a brand-new manager's first 1:1s.

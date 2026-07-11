@@ -65,6 +65,8 @@ causal confidence; the headline $15 million is a *forecast*, not a measured resu
 Assessment: keep the communication-pattern idea and the cheap fixes, and be skeptical of both
 the precision of the numbers and the "measure everyone with sensors" enthusiasm.
 
+**Evidence check (2026 review, verdict: mixed).** The nearest independent tests of the core idea undercut it: a 2017 replication (Bates & Gupta, Intelligence) of the related MIT "collective intelligence" work found individual IQ, not equal turn-taking, drove about 80 percent of group-performance differences, and a Journal of Applied Psychology reanalysis (Credé & Howardson 2017) judged the effect weak or a statistical artifact. Team-composition meta-analyses also show member ability does predict performance, so treat "how you talk matters more than who's on the team" and the three dimensions as plausible heuristics, not measured law.
+
 ## See also
 
 - **[The secrets of great teamwork](secrets-of-great-teamwork)** — the "shared mindset" that

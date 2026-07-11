@@ -47,6 +47,8 @@ example ("Anika"), and the results are asserted. It also under-addresses the rea
 delegating (trust, competence gaps, what happens when a handoff fails). Assessment: keep the
 reframe and the four moves; don't expect the harder questions answered here.
 
+**Evidence check (2026 review, verdict: mixed).** The underlying idea holds up directionally, but with two caveats the article ignores: meta-analyses find delegation mainly improves how people feel about the leader and only modestly improves actual performance (rho around .31), and the "be less involved" advice is not linear — multiple studies find an inverted-U where over-delegating raises stress and job demands and hurts performance past an optimal point.
+
 ## See also
 
 - **[Who's got the monkey?](whos-got-the-monkey)** — the vivid classic on the same trap: the

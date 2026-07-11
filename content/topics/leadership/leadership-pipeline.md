@@ -53,6 +53,8 @@ company-reported numbers (attrition rates, internal-hire targets) aren't indepen
 audited. Assessment: it also reads as an early-2000s "the web will fix this" piece. Take the
 five rules as solid practice, the specifics as dated.
 
+**Evidence check (2026 review, verdict: mixed).** Peer-reviewed meta-analyses (e.g. Lacerenza et al. 2017) confirm that leadership development broadly works, but it is formal, classroom-inclusive training whose effects are best documented; the article's central prescription that experiential, on-the-job development beats classroom learning (the 70-20-10 idea) has little empirical support and rests on the same retrospective, self-selected-success reasoning that Rosenzweig's Halo Effect flags as survivorship bias. Treat the fusion principle as a reasonable practice, not a demonstrated cause of a leader pipeline.
+
 ## See also
 
 - **[Why leadership training fails](why-leadership-training-fails)** — the same lesson: develop

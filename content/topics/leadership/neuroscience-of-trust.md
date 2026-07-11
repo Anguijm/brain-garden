@@ -49,6 +49,8 @@ and he sells trust-consulting built on this model. Assessment: keep the eight be
 treat the neuroscience and the numbers as suggestive packaging, not proof, exactly the kind of
 claim this vault's queued academic-evidence pass is for.
 
+**Evidence check (2026 review, verdict: weak).** The oxytocin foundation is not merely 'suggestive lab games,' it has actively failed replication: a 2015 critical review pooled the trust-game studies to a near-zero effect (d about 0.08) and a 2020 preregistered replication with over 95% power found nothing, with some neuroscientists doubting intranasal oxytocin even reaches the brain, so treat the 'trust molecule' mechanism as largely debunked. Keep the eight behaviors as reasonable advice backed by a modest, correlational trust-performance link, not by the dramatic causal numbers.
+
 ## See also
 
 - **[Begin with trust](begin-with-trust)** — the practical companion: the three drivers of
