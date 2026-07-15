@@ -16,7 +16,9 @@ forward-deployed capabilities.
 
 Each issue is compiled by the vault's research engine from a fixed beat: NAVSEA press
 releases, USNI News, Naval News, Drydock Magazine, The Maritime Executive, and GAO
-reports. The staged sources are retained for audit, every claim is labeled (FACT means
+reports, plus a research beat (NSRP, ASNE, SNAME, arXiv, and academic publishers) and an
+events beat feeding a standing **Upcoming events** table (dates only as the organizers
+list them). The staged sources are retained for audit, every claim is labeled (FACT means
 the named source says it, in the same sentence; Assessment is the editor's read;
 Speculation is flagged), and every article ends with a one-sentence bottom line. The
 print edition is a two-column PDF, exactly four pages, front and back of two sheets.
@@ -25,8 +27,10 @@ print edition is a two-column PDF, exactly four pages, front and back of two she
 
 - **[Vol. 1, No. 1 — Week 29, July 15, 2026](2026-w29)** — GAO's fire-safety contracting
   report and industrial-base strategy gap; Rosyth's carrier cadence and a new Indian
-  Ocean dry dock; the Navy's additive-manufacturing pipeline by the numbers; Hanwha's
-  forward MRO trajectory; Australia's Henderson graving dock.
+  Ocean dry dock; the Navy's additive-manufacturing pipeline by the numbers; a research
+  radar on fiber-optic switchboard sensing; Hanwha's forward MRO trajectory; Australia's
+  Henderson graving dock; and the first Upcoming Events table (FMMS, NSRP panels,
+  MegaRust).
 
 ## See also
 
