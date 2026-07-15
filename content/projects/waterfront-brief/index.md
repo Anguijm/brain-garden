@@ -9,10 +9,12 @@ created: 2026-07-15
 
 # The Waterfront Brief
 
-A weekly four-page intelligence brief for middle and senior naval shipyard management,
-covering waterfront operations, maintenance engineering and technologies, fleet readiness
-impacts, and business practices, with priority on Pacific fleet sustainment and
-forward-deployed capabilities.
+A weekly four-page intelligence brief for middle and senior naval shipyard management.
+Scope: **US shipbuilding and ship repair, US Navy sustainment, and INDOPACOM allies and
+partners** (Japan, South Korea, Australia, the Philippines, India, and friends), across
+waterfront operations, maintenance engineering and technologies, fleet readiness
+impacts, and business practices. Out-of-area material appears only when it carries a
+direct, stated lesson for US or partner yards.
 
 Each issue is compiled by the vault's research engine from a fixed beat: NAVSEA press
 releases, USNI News, Naval News, Drydock Magazine, The Maritime Executive, and GAO
@@ -25,12 +27,12 @@ print edition is a two-column PDF, exactly four pages, front and back of two she
 
 ## Issues
 
-- **[Vol. 1, No. 1 — Week 29, July 15, 2026](2026-w29)** — GAO's fire-safety contracting
-  report and industrial-base strategy gap; Rosyth's carrier cadence and a new Indian
-  Ocean dry dock; the Navy's additive-manufacturing pipeline by the numbers; a research
-  radar on fiber-optic switchboard sensing; Hanwha's forward MRO trajectory; Australia's
-  Henderson graving dock; and the first Upcoming Events table (FMMS, NSRP panels,
-  MegaRust).
+- **[Vol. 1, No. 1 — Week 29, July 2026](2026-w29)** — the Navy's first-ever Vessel
+  Construction Manager contract ($2.2B to TOTE for the Landing Ship Medium); the May
+  2026 shipbuilding plan decoded for the waterfront; the 250,000-worker hiring target;
+  Korea's repair bench deepening to three yards; the Singapore lead-maintenance-activity
+  solicitation; GAO on fire-safety contracting; the AM pipeline by the numbers; and the
+  first Upcoming Events table (FMMS, NSRP panels, MegaRust).
 
 ## See also
 
