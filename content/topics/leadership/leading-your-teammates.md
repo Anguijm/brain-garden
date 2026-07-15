@@ -31,7 +31,7 @@ on it in specific ways.
    slighted, support the person who beat you and keep pushing the group. FACT: Brady, benched
    at Michigan, stood on a chair to lead the team's post-win song rather than sulk.
 2. **Credit the people no one notices.** Go out of your way to thank and reward the
-   low-glory roles. FACT: with Tampa Bay, Brady paid offensive linemen $1,000 of his own
+   low-glory roles. FACT: with Tampa Bay, Brady paid offensive linemen \$1,000 of his own
    money for every screen play that gained more than 15 yards; the point was the gesture, not
    the cash.
 3. **Set the standard, and demand full effort.** Hold the group to a bar *higher* than the

@@ -158,7 +158,7 @@ because they come from individual studies, not settled consensus.
   authors stress this is breed-specific and needs replication (PMC, 2024).
 - Speculation: Brain-imaging (fMRI) research on working detector dogs has found
   neural patterns that predict training success before training begins. This could
-  one day help select service dogs (which cost ~$20,000–$50,000 to train), but
+  one day help select service dogs (which cost ~\$20,000–\$50,000 to train), but
   it's a research frontier with no relevance to training a pet puppy today
   (PMC, 2024).
 

@@ -76,7 +76,7 @@ terms the controlling source is the FAR/DFARS.
 - **RFI** — Request for Information. Pre-solicitation market research you should
   answer to shape the requirement.
 - **RFP / RFQ** — Request for Proposal / Request for Quotation. The solicitation.
-- **SAT** — Simplified Acquisition Threshold ($350,000 as of Oct 1, 2025; verify
+- **SAT** — Simplified Acquisition Threshold (\$350,000 as of Oct 1, 2025; verify
   current). Below it, simplified procedures and small-business reservation apply.
 - **Section L / Section M** — Solicitation instructions (L) and evaluation factors
   (M). Write to M, comply with L. See [chapter 7](07-proposal-management.md).

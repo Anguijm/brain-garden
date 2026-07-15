@@ -45,7 +45,7 @@ FACT: the standout example is a bank call center. Energy and engagement *outside
 meetings predicted productivity, together explaining about a third of the differences between
 teams. The fix was almost silly: change the coffee-break schedule so a whole team broke *at
 the same time*, giving them informal face time. Average call-handling time dropped over 20
-percent in the weakest teams, and the bank projected $15 million a year in gains across its
+percent in the weakest teams, and the bank projected \$15 million a year in gains across its
 centers.
 
 Assessment: the practical levers are about *shaping interaction*, not picking smarter people:
@@ -64,7 +64,7 @@ Two honest flags. FACT: Pentland founded the company that sells the badge techno
 article showcases, so it doubles as a product pitch, and the whole method is continuous
 monitoring of who talks to whom, tone, and body language, which raises real privacy and
 surveillance questions the piece waves past. And most findings are correlations stated with
-causal confidence; the headline $15 million is a *forecast*, not a measured result.
+causal confidence; the headline \$15 million is a *forecast*, not a measured result.
 Assessment: keep the communication-pattern idea and the cheap fixes, and be skeptical of both
 the precision of the numbers and the "measure everyone with sensors" enthusiasm.
 

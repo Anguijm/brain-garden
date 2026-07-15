@@ -75,17 +75,17 @@ products in normal sizes. Your mileage will vary.
 
 | Item | Rough monthly cost |
 |---|---|
-| Creatine | ~$5-10 |
-| Whey protein (1-2 scoops/day) | ~$30-45 |
-| Vitamin D3 | ~$3-5 |
-| Psyllium | ~$5-10 |
-| Magnesium glycinate | ~$5-10 |
-| Omega-3 | ~$10-15 |
+| Creatine | ~\$5-10 |
+| Whey protein (1-2 scoops/day) | ~\$30-45 |
+| Vitamin D3 | ~\$3-5 |
+| Psyllium | ~\$5-10 |
+| Magnesium glycinate | ~\$5-10 |
+| Omega-3 | ~\$10-15 |
 
-Assessment: the minimal Level 1 stack (creatine plus protein) runs roughly $35-55 a month,
+Assessment: the minimal Level 1 stack (creatine plus protein) runs roughly \$35-55 a month,
 and most of that is the protein, which is really food money, not a supplement splurge. The
-fuller stack lands around $60-90 a month. Compare that to a single tub of a "muscle defense"
-or "fat burner" product at $70+ that does less, and the cheap, boring stack wins easily.
+fuller stack lands around \$60-90 a month. Compare that to a single tub of a "muscle defense"
+or "fat burner" product at \$70+ that does less, and the cheap, boring stack wins easily.
 
 ## How to run it
 

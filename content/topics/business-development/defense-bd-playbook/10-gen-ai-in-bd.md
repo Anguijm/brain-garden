@@ -25,9 +25,9 @@ calls in [chapter 6](06-win-strategy-competitive.md), and the reviews in
 FACT: In a controlled experiment with roughly 300 managers and executives,
 researchers had participants forecast a stock (Nvidia) one month out, then revise
 after either a peer discussion or a ChatGPT consultation. The group that consulted
-ChatGPT became more optimistic (raising estimates by about $5.11 on average), while
+ChatGPT became more optimistic (raising estimates by about \$5.11 on average), while
 the peer-discussion group became more conservative (lowering estimates by about
-$2.20). When checked against what actually happened, both groups were too
+\$2.20). When checked against what actually happened, both groups were too
 optimistic, but the ChatGPT users made worse predictions, while the peer-discussion
 users made better ones than before. The AI users also became more overconfident,
 offering more falsely precise "pinpoint" estimates. Source: José Parra-Moyano,

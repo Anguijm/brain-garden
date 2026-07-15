@@ -27,8 +27,8 @@ business-system requirements) carry real compliance weight.
 
 ## Dollar thresholds that shape the path
 
-FACT: As of October 1, 2025, the micro-purchase threshold is $15,000 and the
-simplified acquisition threshold (SAT) is $350,000 (FAR 2.101, per the FAR
+FACT: As of October 1, 2025, the micro-purchase threshold is \$15,000 and the
+simplified acquisition threshold (SAT) is \$350,000 (FAR 2.101, per the FAR
 inflation-adjustment final rule, Federal Register, Aug 27 2025). These matter
 because:
 

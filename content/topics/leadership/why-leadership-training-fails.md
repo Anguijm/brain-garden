@@ -18,8 +18,8 @@ much of what people learn washes out when they return to an unchanged job. (One 
 up front: training itself works better than this article's framing implies; the evidence
 check below sizes both halves of the claim.)
 
-FACT: this ran in Harvard Business Review in 2016. FACT: U.S. companies spent about $160
-billion on training in 2015, and roughly $356 billion globally. Assessment: the authors call
+FACT: this ran in Harvard Business Review in 2016. FACT: U.S. companies spent about \$160
+billion on training in 2015, and roughly \$356 billion globally. Assessment: the authors call
 the return on that famously poor; the best modern meta-analysis is kinder to training (see
 the evidence check). (Beer, Finnström & Schrader, "Why Leadership Training Fails.")
 
