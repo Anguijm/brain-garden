@@ -19,11 +19,13 @@ direct, stated lesson for US or partner yards.
 Each issue is compiled by the vault's research engine from a fixed beat: NAVSEA press
 releases, USNI News, Naval News, Drydock Magazine, The Maritime Executive, and GAO
 reports, plus a research beat (NSRP, ASNE, SNAME, arXiv, and academic publishers) and an
-events beat feeding a standing **Upcoming events** table (dates only as the organizers
-list them). The staged sources are retained for audit, every claim is labeled (FACT means
-the named source says it, in the same sentence; Assessment is the editor's read;
-Speculation is flagged), and every article ends with a one-sentence bottom line. The
-print edition is a two-column PDF, exactly four pages, front and back of two sheets.
+events beat feeding a standing **Upcoming events** section covering the next 90 days,
+emitted from a persistent registry (dates only as the organizers publish them; date-less
+events stay on an internal watchlist). The staged sources are retained for audit, every
+claim is labeled (FACT means the named source says it, in the same sentence; Assessment
+is the editor's read; Speculation is flagged), and every article ends with a one-sentence
+bottom line. The print edition is a two-column PDF: exactly four article pages (two
+sheets, front and back), with the events calendar on its own page after them.
 
 ## Issues
 
