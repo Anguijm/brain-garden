@@ -84,8 +84,11 @@ plugins:
   - source: github:quartz-community/description
     enabled: true
     order: 70
+  # LaTeX/KaTeX disabled on purpose (2026-07-16): no vault content uses math
+  # markup, and with it enabled any paragraph containing two dollar amounts
+  # ("$30 million ... $800 million") renders as mashed math-italic text.
   - source: github:quartz-community/latex
-    enabled: true
+    enabled: false
     options:
       renderEngine: katex
     order: 80
