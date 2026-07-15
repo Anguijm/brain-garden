@@ -8,6 +8,11 @@ than raw research. Newest is first.
 
 ## Latest
 
+- **[The Waterfront Brief](projects/waterfront-brief)** — a weekly four-page intelligence
+  brief for naval shipyard management: waterfront ops, maintenance technologies, readiness,
+  and business practices, compiled from NAVSEA, USNI News, Naval News, Drydock Magazine,
+  The Maritime Executive, and GAO, with every claim labeled and sourced. Print edition is
+  a two-column, exactly-four-page PDF.
 - **[Leadership and management: a working knowledge base](topics/leadership)** — plain-English,
   honestly-labeled notes on the most-cited ideas in management and leadership, built from
   nearly fifty HBR classics (Goleman, Herzberg, Mintzberg, Collins, Hill, Hackman, Buckingham,
