@@ -13,6 +13,11 @@ than raw research. Newest is first.
   and business practices, compiled from NAVSEA, USNI News, Naval News, Drydock Magazine,
   The Maritime Executive, and GAO, with every claim labeled and sourced. Print edition is
   a two-column, exactly-four-page PDF.
+- **[Building your own basketball spread model](topics/games/basketball-ats-model)** — how
+  to develop and train a model to predict NBA and NCAA games against the spread: the data
+  stack, the features that matter, walk-forward validation, calibration — and the honest
+  numbers on why the spread market usually wins (49.86% dog cover rate over 10,325 games;
+  52.38% break-even; edges that flip between eras). Illustrated.
 - **[Leadership and management: a working knowledge base](topics/leadership)** — plain-English,
   honestly-labeled notes on the most-cited ideas in management and leadership, built from
   nearly fifty HBR classics (Goleman, Herzberg, Mintzberg, Collins, Hill, Hackman, Buckingham,
