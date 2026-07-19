@@ -96,5 +96,6 @@ threads through several domains:
 Use the **explorer** on the left (the menu button on a phone) to browse everything
 by topic, and the **search** box to jump straight to anything. The **graph** view and
 the **theme tags** (`verification`, `finite-resources`, `maker-toolchain`, and friends)
-are the best way to stumble onto a connection. New notes appear at the top of the list
-above as they're promoted.
+are the best way to stumble onto a connection. Every external source cited anywhere in
+the garden is listed in the **[Source register](sources)**, article by article, in order
+of appearance. New notes appear at the top of the list above as they're promoted.

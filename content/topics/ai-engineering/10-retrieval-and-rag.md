@@ -98,5 +98,5 @@ fine-tuning for behavior, and memory for per-person details, all at the same tim
 ## Sources
 
 - Databricks, *The Ultimate Guide to Chunking Strategies for RAG* — https://community.databricks.com/t5/technical-blog/the-ultimate-guide-to-chunking-strategies-for-rag-applications/ba-p/113089
-- StackAI, *RAG Best Practices for Enterprise AI* — https://www.stackai.com/insights/retrieval-augmented-generation-(rag)-best-practices-for-enterprise-ai-chunking-embeddings-reranking-and-hybrid-search-optimization
+- StackAI, *RAG Best Practices for Enterprise AI* — https://www.stackai.com/insights/retrieval-augmented-generation-%28rag%29-best-practices-for-enterprise-ai-chunking-embeddings-reranking-and-hybrid-search-optimization
 - MTEB (Massive Text Embedding Benchmark) — https://huggingface.co/spaces/mteb/leaderboard

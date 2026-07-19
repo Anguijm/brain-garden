@@ -100,9 +100,10 @@ want help:
   or shift work, and low doses work as well as high ones. (AASM guideline; dose-response
   analysis.) Assessment: use the smallest dose, do not rely on it every night, and higher
   doses just cause morning grogginess.
-- **L-theanine**, 100 to 200 mg. FACT: it takes the edge off stress and pairs well with
-  caffeine to reduce jitters. (Meta-analysis.) Assessment: it is calming, not a real sleeping
-  pill; use it to smooth out a pre-workout coffee or to wind down.
+- **L-theanine**, 100 to 200 mg. Assessment: the meta-analysis behind this found small,
+  often uncertain gains in cognition and mood, alone or paired with caffeine; the "takes
+  the edge off stress" reputation goes beyond what those trials measured. It is calming
+  at best, not a sleeping pill; use it to smooth out a pre-workout coffee or to wind down.
 
 
 ## See also
@@ -112,8 +113,8 @@ want help:
 ## Sources
 
 - ISSN Position Stand on caffeine (2021) — https://pmc.ncbi.nlm.nih.gov/articles/PMC7777221/
-- Caffeine and blood pressure in hypertensives, meta-analysis — https://www.sciencedirect.com/science/article/pii/S0002916523024814
-- Caffeine 6 h before bed cuts sleep (Drake 2013) — https://jcsm.aasm.org/doi/10.5664/jcsm.3170
+- Coffee and blood pressure in hypertensives, meta-analysis — https://www.sciencedirect.com/science/article/pii/S0002916523024814
+- Caffeine 6 h before bed cuts sleep (Drake 2013) — https://doi.org/10.5664/jcsm.3170
 - Curcumin, soreness and muscle damage, meta-analysis — https://pubmed.ncbi.nlm.nih.gov/35574627/
 - Curcuminoids for knee osteoarthritis, meta-analysis — https://pubmed.ncbi.nlm.nih.gov/28470851/
 - Tart cherry and recovery, meta-analysis (2021) — https://journals.humankinetics.com/abstract/journals/ijsnem/31/2/article-p154.xml
@@ -121,4 +122,4 @@ want help:
 - ACSM Position Stand: exercise and fluid replacement — https://pubmed.ncbi.nlm.nih.gov/17277604/
 - Glycine before bed improves sleep (Yamadera 2007) — https://onlinelibrary.wiley.com/doi/10.1111/j.1479-8425.2007.00262.x
 - Melatonin dose and timing, dose-response meta-analysis — https://onlinelibrary.wiley.com/doi/10.1111/jpi.12985
-- L-theanine, cognition and stress, meta-analysis — https://academic.oup.com/nutritionreviews/article/83/10/1873/8123998
+- L-theanine (alone or with caffeine), cognition, sleep and mood, meta-analysis — https://academic.oup.com/nutritionreviews/article/83/10/1873/8123998
