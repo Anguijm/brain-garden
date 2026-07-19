@@ -17,7 +17,9 @@ than raw research. Newest is first.
   to develop and train a model to predict NBA and NCAA games against the spread: the data
   stack, the features that matter, walk-forward validation, calibration — and the honest
   numbers on why the spread market usually wins (49.86% dog cover rate over 10,325 games;
-  52.38% break-even; edges that flip between eras). Illustrated.
+  52.38% break-even; edges that flip between eras), plus a companion on how prediction
+  research itself works: the discovery loop, the tabular state of the art, and the
+  parlay math of modern sportsbooks. Illustrated.
 - **[Leadership and management: a working knowledge base](topics/leadership)** — plain-English,
   honestly-labeled notes on the most-cited ideas in management and leadership, built from
   nearly fifty HBR classics (Goleman, Herzberg, Mintzberg, Collins, Hill, Hackman, Buckingham,

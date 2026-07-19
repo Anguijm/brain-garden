@@ -281,6 +281,10 @@ that you will never read a "60 percent guaranteed winners" pitch the same way ag
 
 ## See also
 
+- **[How prediction research actually works](how-to-discover)** — the companion: the
+  discovery loop behind this build, the state of the art in tabular prediction
+  (trees vs deep learning vs foundation models), and the parlay/SGP math of modern
+  sportsbooks.
 - **[AI agent engineering](../../ai-engineering)** — the same discipline on different
   models: evaluation, leakage, and not fooling yourself, applied to LLMs.
 - **[How to read the evidence](../../leadership/how-to-read-the-evidence)** — the
