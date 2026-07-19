@@ -52,8 +52,19 @@ profits appeared on moneylines, from calibrated probabilities plus disciplined s
 and the authors read their own result as evidence that spreads "are more efficiently
 priced."
 
-![Diagram: the wall, by the numbers. 52.38 percent is the break-even cover rate at -110. 49.86 percent was the underdog cover rate over 10,325 NBA games from 2000 to 2008, almost exactly a coin flip. About 4,300 games are needed to statistically separate a true 53 percent bettor from a coin-flipper at 95 percent confidence. The 56.5 percent momentum edge of 2001-2013 directly contradicts the earlier fade-the-streak edge of 1995-2002, showing data-mined edges flip. The one full machine-learning spread model in the pool was flat-to-negative on spreads even in an idealized simulation. Choosing a model by calibration versus accuracy produced one-season ROI of plus 34.7 percent versus minus 35.2 percent.](img/the-wall.png)
+![Diagram: the wall, by the numbers. 52.38 percent is the break-even cover rate at -110. 49.86 percent was the underdog cover rate over 10,325 NBA games from 2000 to 2008, almost exactly a coin flip. About 4,300 games are needed to statistically separate a true 53 percent bettor from a coin-flipper at 95 percent confidence. The 56.5 percent momentum edge of 2001-2013 directly contradicts the earlier fade-the-streak edge of 1995-2002, showing data-mined edges flip. The one full machine-learning spread model in the pool was flat-to-negative on spreads even in an idealized simulation. Choosing a model by calibration versus accuracy produced one-season moneyline ROI of plus 34.7 percent versus minus 35.2 percent.](img/the-wall.png)
 *The wall, in six sourced numbers. Diagram.*
+
+FACT: the one paper claiming "above market returns" across these leagues (arXiv
+1910.08858, full text now verified) turns out to prove a subtler point: its strategy
+bets moneylines only, taking the best price across sixteen sportsbooks, and its own
+random-bet baselines show random *spread* bets losing about 4.4 percent everywhere
+(the NBA confidence interval excludes zero), with the authors concluding they "cannot
+reject the null hypothesis that sports betting markets are jointly efficient." Their
+reported NBA returns of 9 to 11 percent came with selection thresholds tuned on the
+same sample being scored, and much of the edge is price-shopping across books rather
+than out-predicting any one of them. Assessment: even the pool's boldest inefficiency
+claim, read in full, is a moneyline line-shopping result, not a spread-beating model.
 
 Assessment: none of this means "don't build the model." It means the model's job is
 different than beginners assume: you are not trying to predict basketball, you are
@@ -71,11 +82,15 @@ margin-prediction route has real support in the literature: an arXiv study predi
 NCAA margins from team rankings alone and found even simple regressions "fairly
 accurate," and the best pre-game NBA score model in the pool (Chen et al., *Entropy*
 2021) reached a mean error of about 8.2 percent on team scores (RMSE roughly 11.5
-points) using only statistics from previous games. Assessment: hold that 11.5-point
-RMSE next to the fact that the average NBA spread misses the actual margin by a
-similar order, and you see the game you are in: you and the market are both throwing
-darts with wide error bars at the same board, and you win only by being *slightly*
-less wrong, thousands of times.
+points) using only statistics from previous games. FACT: the same NCAA study's full text
+gives the head-to-head this article needs: on 1,506 identical validation games, the
+Vegas line predicted margins with an RMSE of 10.34 points while the best rankings-only
+model managed 10.92, and the authors compute an irreducible noise floor around 11.2,
+meaning the models were already near the ceiling and the line *still* beat them by
+half a point. Assessment: that is the game you are in, stated as one number: you and
+the market are both throwing darts with wide error bars at the same board, the
+market's aim is measurably better, and you win only by being *slightly* less wrong,
+thousands of times.
 
 ## The data stack (all of it accessible to one person)
 
@@ -116,9 +131,9 @@ What the evidence says earns its place:
 
 - **Efficiency differential above all.** FACT: in the one study that ran formal
   feature selection across 44 team statistics (Zhao et al., *Entropy* 2023), the
-  efficiency differential dominated both random-forest importance (0.38) and LASSO
-  weights (0.36), with defensive rating and floor impact next; nothing else came
-  close.
+  efficiency differential dominated both selectors, leading random-forest importance
+  at 0.38 (defensive rating and floor impact next by that measure) and LASSO at
+  0.36; nothing else came close.
 - **Rolling averages of prior games only.** FACT: Chen et al. tuned how many previous
   games to average and found four games optimal for score prediction, with defensive
   rebounds, two-point percentage, free-throw percentage, offensive rebounds, assists,
@@ -156,13 +171,26 @@ Deep options exist (an LSTM/Transformer NCAA study reached AUC 0.847), but nothi
 the pool suggests they matter more than features and validation.
 
 Then calibrate, because the betting decision consumes probabilities, not accuracy.
-FACT: the pool's most directly on-point experiment (arXiv 2303.06021, later published
-in *Machine Learning*) trained NBA models across several seasons, bet a held-out
-season at published odds, and reports that selecting the model by *calibration* versus
-by *accuracy* produced an average return of +34.69 percent versus -35.17 percent.
+FACT: the pool's most directly on-point experiment (Walsh and Joshi, arXiv 2303.06021,
+published in *Machine Learning with Applications*; full text verified) trained NBA
+models on the 2014-2018 seasons and bet the 2018-19 season at published closing
+odds. Selecting the model by *calibration* versus by *accuracy* produced an average
+return of +34.69 percent versus -35.17 percent, across roughly 1,100 bets. FACT: read
+the fine print, which we did in the full text: the experiment is **moneyline** betting,
+not spreads; both branches used the same algorithm (an SVM) differing in feature
+choice; and the accuracy branch's -35 percent average hides a split of +5.56 percent
+on flat stakes versus -75.9 percent under eighth-Kelly, so the real lesson is that
+*miscalibrated probabilities plus Kelly sizing equals ruin*. The authors themselves
+warn a single season proves little.
 FACT: the conformal-prediction NCAA study makes the same argument from the other
 direction: its win probabilities were "better calibrated than other methods" across
-seven seasons of college data, which is the property a bettor actually needs.
+seven seasons of college data, and its full text explicitly extends the method to
+spread betting by estimating the probability that the margin of victory lands at or
+under the spread, a distribution-free statistical basis for exactly the
+margin-to-cover-probability step in the skeleton below. FACT: the NCAA deep-learning
+study adds loss-function-level support: training on Brier loss roughly halved
+calibration error versus standard cross-entropy (ECE 2.3 versus 4.1 percent in its
+men's-tournament table).
 Assessment: isotonic regression or Platt scaling on a held-out validation season is
 the practical move; check the calibration curve, not just the score.
 
@@ -191,8 +219,8 @@ feed the model the *predicted game's own box score*: the PLOS paper is explicit 
 accuracy is 72 percent at halftime, 79.8 percent through three quarters, and 93.3
 percent with the full game, none of which exists before tip-off. FACT: honest pre-game
 NBA winner accuracy in the pool's survey runs roughly 60 to 76 percent, and the
-graph-network paper that assembled that survey itself used random splits and a graph
-that wired each game to the team's *next* game. Assessment: the recurring failure is
+graph-network paper that assembled that survey itself wired each game's graph to the
+team's *next* game, letting future structure leak into training. Assessment: the recurring failure is
 letting the future touch the training set, and the fix is mechanical: **temporal
 splits only**, walking forward season by season, exactly as the 2026 *Information*
 study does (train through 2022, validate 2023, test 2024) — the only study in the
@@ -202,9 +230,15 @@ Then there is sample size. FACT (arithmetic, checkable): distinguishing a true 5
 percent cover rate from 50 percent at 95 percent confidence requires on the order of
 4,300 bets; an NBA season offers about 1,230 games, most of which you will not bet.
 FACT: the strongest cautionary tale in the pool is the Kaggle NCAA study whose entry
-*won* the tournament-prediction contest outright and whose authors then estimated,
-by simulation, that their winning entry had "no more than about a 12 percent chance"
-of winning; the placement was mostly luck. Assessment: a season of good results
+*won* the tournament-prediction contest outright and whose authors then estimated, by
+10,000 simulated tournaments, that the winning entry had "no more than about a 12
+percent chance" of winning, under 50 percent odds of even a top-ten finish, and in
+their words: "even if you knew the true probabilities of a win for every single game
+with certainty, you'd still only win about 1 in 8 times." FACT: the same full text
+hands the article its best design exemplar: the winning model was simply an ensemble
+of a logistic regression on the Vegas point spread and a logistic regression on
+KenPom adjusted efficiencies — the line as a prior, blended with public efficiency
+numbers. Assessment: a season of good results
 proves almost nothing; plan to judge yourself over years, or on the sharper proxy in
 the next section.
 
@@ -241,8 +275,13 @@ that has already priced the stats you can compute. The NCAA offers 365 teams, wi
 variance, free adjusted-efficiency infrastructure (Torvik), and thinner betting
 attention on small-conference games. FACT: the NCAA-side evidence in the pool is
 about winners and brackets, not spreads: rankings alone predict margins tolerably,
-fusing ten public ranking systems beat the best single system 74.60 to 73.02 percent,
-and no captured source tests NCAA spread efficiency at all. Speculation: that
+and a rank-fusion study's ensemble of five machine-learning models beat the best of
+ten public ranking systems 74.60 to 73.02 percent (a correction from this article's
+first edition, which misread the abstract as fusing the ranking systems themselves;
+the full text says otherwise). Direct NCAA spread-efficiency tests remain absent from
+the pool, though the "Beating the House" full text's random-bet baseline had random
+NCAAB spread bets losing about 4.4 percent, and older literature it summarizes found
+at most limited, era-bound inefficiencies. Speculation: that
 absence cuts both ways, and if you want a research project rather than a donation to
 a sportsbook, small-conference NCAA spreads are the least-studied corner in this
 entire source pool.
@@ -266,11 +305,16 @@ entire source pool.
 
 Assessment: the build mechanics (data sources, features, walk-forward validation,
 calibration) rest on full-text peer-reviewed studies and tool documentation and are
-solid. The market-efficiency picture rests on one large but dated NBA study
-(2000-2008), one modern full-text modeling study (2026), and two abstract-only
-papers whose headline numbers (the +34.69 percent calibration ROI, the "above market
-returns" claim) could not be verified beyond their abstracts; treat those specific
-figures as reported, not confirmed. Nothing here tests NCAA spreads directly. And
+solid. Since first publication, the full texts of every arXiv source have been pulled
+and verified line by line, which upgraded this article twice over: the headline
+calibration ROI is confirmed but is a *moneyline* result with a Kelly blow-up inside
+its accuracy branch, the boldest inefficiency claim turned out to be moneyline
+line-shopping across sixteen books with in-sample-tuned thresholds, and one claim in
+the first edition was corrected outright (the bracket-fusion study fused five machine
+learning models, not the ten public ranking systems it was benchmarked against). The
+market-efficiency picture still leans on one large but dated NBA study (2000-2008)
+plus one modern full-text modeling study (2026), and direct NCAA spread-efficiency
+tests remain absent beyond random-bet baselines. And
 the deepest caveat is structural: every published edge in this pool either faded,
 reversed in the next era's data, or survived only in an idealized simulation, so the
 honest prior for your own model is that it will be well-calibrated, instructive, and
@@ -302,7 +346,8 @@ that you will never read a "60 percent guaranteed winners" pitch the same way ag
 - Uncertainty-Aware Machine Learning for NBA Forecasting in Digital Betting Markets,
   *Information* 17(1):56 (2026) — https://doi.org/10.3390/info17010056
 - Walsh & Joshi, "Machine learning for sports betting: should model selection be
-  based on accuracy or calibration?" (arXiv, abstract) — https://arxiv.org/abs/2303.06021
+  based on accuracy or calibration?", *Machine Learning with Applications* (full text
+  verified; moneyline experiment) — https://arxiv.org/abs/2303.06021
 - Zhao, Du & Tan, GCN with feature selection for NBA prediction, *Entropy* (2023) —
   https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10217531/
 - Chen, Jhou, Lee & Lu, hybrid two-stage score prediction, *Entropy* (2021) —
@@ -311,14 +356,14 @@ that you will never read a "60 percent guaranteed winners" pitch the same way ag
   https://pmc.ncbi.nlm.nih.gov/articles/PMC11265715/
 - He & Choi, stacked ensemble NBA prediction, *Scientific Reports* (2025) —
   https://www.nature.com/articles/s41598-025-13657-1
-- Zimmermann et al., NCAAB match prediction (arXiv, abstract) — https://arxiv.org/abs/1310.3607
-- Lopez & Matthews / Kaggle NCAA contest analysis (arXiv, abstract) — https://arxiv.org/abs/1412.0248
-- Margin of victory from rankings, NCAA (arXiv, abstract) — https://arxiv.org/abs/1701.07316
-- Conformal win probability for March Madness (arXiv, abstract) — https://arxiv.org/abs/2208.08598
-- LSTM/Transformer NCAA forecasting (arXiv, abstract) — https://arxiv.org/abs/2508.02725
-- Combinatorial fusion for brackets (arXiv, abstract) — https://arxiv.org/abs/2603.10916
-- "Beating the House" (arXiv, abstract; claims unverified beyond abstract) —
-  https://arxiv.org/abs/1910.08858
+- Zimmermann et al., NCAAB match prediction (arXiv, full text) — https://arxiv.org/abs/1310.3607
+- Lopez & Matthews, Kaggle NCAA contest luck analysis (arXiv, full text) — https://arxiv.org/abs/1412.0248
+- Margin of victory from rankings, NCAA (arXiv, full text; line-vs-model RMSE) — https://arxiv.org/abs/1701.07316
+- Conformal win probability for March Madness (arXiv, full text) — https://arxiv.org/abs/2208.08598
+- LSTM/Transformer NCAA forecasting (arXiv, full text) — https://arxiv.org/abs/2508.02725
+- Combinatorial fusion for brackets (arXiv, full text) — https://arxiv.org/abs/2603.10916
+- "Beating the House" (arXiv, full text; moneyline line-shopping, thresholds tuned
+  in-sample) — https://arxiv.org/abs/1910.08858
 - Gibbs, "Point Shaving in the NBA", Stanford honors thesis (2007, abstract) —
   https://purl.stanford.edu/nh108vv2047
 - Tools: nba_api — https://github.com/swar/nba_api · hoopR —

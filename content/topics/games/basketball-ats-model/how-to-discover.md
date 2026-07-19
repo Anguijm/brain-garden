@@ -47,9 +47,12 @@ baseline on the locked benchmark did not happen.
 FACT: a 2024 data-centric study (Tschalzev et al.) rebuilt expert-level,
 dataset-specific preprocessing for ten Kaggle competition datasets and found that
 after real feature engineering "model rankings change considerably, performance
-differences decrease, and the importance of model selection reduces," and that even
-the newest models "still significantly benefit from manual feature engineering."
-FACT: the TabPFN authors, whose model is the strongest argument ever made for
+differences decrease, and the importance of model selection reduces," and that recent
+models "still significantly benefit from manual feature engineering." FACT: its full
+text puts a number on the priority order: without feature engineering, the best
+achievable average leaderboard position was the 14.5th percentile; without model
+selection, the 3rd — feature work mattered roughly five times more than model choice
+on that measure. FACT: the TabPFN authors, whose model is the strongest argument ever made for
 automated tabular learning, say the same in their Nature paper's guidance: data
 scientists "should continue to apply their skills and insights in feature
 engineering, data cleaning and problem framing." Assessment: read those two together
@@ -80,21 +83,37 @@ argument was settled the way all good arguments are: on shared benchmarks.
 against tree methods on 45 datasets and concluded "tree-based models remain
 state-of-the-art on medium-sized data (~10K samples)," explaining the gap through
 inductive bias: trees are robust to uninformative features and happily learn the
-irregular, jumpy functions real tabular data contains.
+irregular, jumpy functions real tabular data contains. FACT: its most elegant
+experiment, visible only in the full text: randomly *rotating* the feature space
+reverses the ranking entirely, neural networks beating trees — evidence that trees
+win because tabular columns carry individual meaning, which is precisely why
+engineered features (an efficiency differential, a rest-day flag) beat learned
+mixtures on data like basketball's.
 
 **Act two — deep learning claws back, one tweak at a time.** FACT: TabR (2023)
 added a retrieval component (a nearest-neighbors-like lookup inside a feed-forward
-network) and beat gradient-boosted trees "even on the recently proposed
-'GBDT-friendly' benchmark"; TabM (2024) got the best tabular deep-learning results
+network) and beat gradient-boosted trees on average, with tuning, "even on the
+recently proposed 'GBDT-friendly' benchmark" (not on every dataset, per its full
+results); TabM (2024) got the best tabular deep-learning results
 by making one network imitate an ensemble of MLPs, with predictions that are "weak
 individually, but powerful collectively"; and a 2024 seventeen-method benchmark
 declared "a paradigm shift, where Deep Learning methods outperform classical
-approaches." FACT: the most balanced current summary (TALENT, 300+ datasets) lands
-in between: gradient-boosted trees "remain very strong baselines," newer pretrained
-models "match or surpass them on many tasks, narrowing — but not eliminating — the
-historical advantage," and *which* family wins is largely determined by the
-dataset's shape; one 111-dataset study even trained a meta-model that predicts when
-deep learning will win with 86.1 percent accuracy. Assessment: notice what the
+approaches" — and its full text shows what that shift actually rests on: the top of
+its leaderboard is in-context learners (TabICL, TabPFNv2) and TabM, with median
+ranks of roughly 2-5 versus CatBoost's 5.5 and XGBoost's 7, while fine-tuned
+foundation models ranked *worst* of the deep family, and the paper concedes the gap
+between the boosted trees and the top three is not statistically significant in its
+critical-difference analysis. FACT: the most balanced current summary (TALENT, 300+
+datasets) lands close by: gradient-boosted trees "remain very strong baselines,"
+newer pretrained models "match or surpass them on many tasks, narrowing — but not
+eliminating — the historical advantage," and which family wins is largely determined
+by *feature-space heterogeneity* (the interplay of categorical and numerical
+attributes, sparsity, and entropy variance), not raw dataset size. FACT: a
+111-dataset meta-study makes the size point directly: dataset size did **not**
+significantly predict whether deep learning wins (p = 0.97); heavy-tailed feature
+distributions and classification-versus-regression did, and its meta-model predicts
+the winner with 86.1 percent accuracy (trained on the 36 datasets with statistically
+significant gaps). Assessment: notice what the
 winning tweaks were — retrieval and ensembling, not exotic architectures — and that
 every benchmark in this pool agrees on one thing: **ensembling helps everyone,
 always**.
@@ -108,10 +127,14 @@ won on the very benchmark where trees had been declared unbeatable. FACT: the sa
 paper is admirably blunt about limits: inference is ~1,000x slower per prediction
 than CatBoost, memory scales with dataset size, and "for larger datasets and highly
 non-smooth regression... CatBoost, XGB or AutoGluon are likely to outperform
-TabPFN"; its successors claim to push the ceiling to 50,000 rows with a "100 percent
-win rate against default XGBoost" on small data, though those newer numbers are
-author-reported abstracts from a team with a disclosed commercial stake (PriorLabs),
-so hold them as claims, not settled fact. FACT: one contextual number explains why
+TabPFN"; its successors claim to push the ceiling to 50,000 rows and 2,000 features, with
+a "100 percent win rate against default XGBoost" on small-to-medium *classification*
+(default versus default; regression needs real tuning to match AutoGluon, per the
+full text). Those numbers are author-reported by a team with a disclosed commercial
+stake (PriorLabs), and one practical caveat matters for this article's readers: the
+newest model's license bars commercial use of its outputs without an enterprise
+agreement, which includes betting decisions, so check licensing before building on
+it. FACT: one contextual number explains why
 this matters so much: 76 percent of the datasets on OpenML have fewer than 10,000
 rows. Assessment: an NBA season is about 1,230 games and even five seasons of
 basketball is a *small* dataset by these standards — meaning your project sits
@@ -128,8 +151,9 @@ covering tabular analysis, random forests and gradient boosting; it asks for abo
 year of coding and high-school math, and its compute advice is to use free cloud
 notebooks). Get a strong baseline embarrassingly fast with **AutoGluon** — FACT: its
 canonical example is literally three lines (`TabularPredictor(label=...).fit(train)`,
-then predict), and its stacked ensembles are the standard the field's papers measure
-themselves against. Track every experiment in **MLflow** (experiment tracking, model
+then predict), and its stacked ensembles are a standard strong baseline the field's
+papers benchmark against (the TabPFN line reports matching AutoGluon's four-hour
+ensembles as its headline result). Track every experiment in **MLflow** (experiment tracking, model
 registry, lifecycle management) so that "which tweak helped" is a query, not a
 memory. Inspect models with **SHAP**. And treat **Kaggle** as the apprenticeship:
 FACT: the March Machine Learning Mania competition has run NCAA-prediction contests
@@ -194,11 +218,13 @@ goes in further reading, unverified.)
 
 ## How much to trust this
 
-Assessment: the trust profile here is honest but mixed. The load-bearing state-of-
-the-art claims rest on one full-text *Nature* paper (whose authors disclose a
-commercial affiliation, and whose numbers on small data are the best-verified in
-this pool) plus nine arXiv abstracts, from which fine-grained results cannot be
-checked; the sequencing advice and the error-analysis workflow are practitioner
+Assessment: the trust profile improved substantially after first publication: the
+full texts of all ten arXiv papers were pulled and every cited claim verified against
+them, which confirmed the quotes verbatim, sharpened several (the TALENT
+heterogeneity finding, the meta-study's size result, TabR's on-average caveat), and
+surfaced the TabPFN licensing restriction. The load-bearing numbers now rest on one
+full-text *Nature* paper (authors disclose a commercial affiliation) plus verified
+full texts; the sequencing advice and the error-analysis workflow remain practitioner
 judgment, labeled as Assessment throughout. The parlay economics come from betting-
 industry explainers of varying quality: the hold ladder converges across four
 independent sources and one near-regulatory figure (NJ 19.9 percent), but exact
@@ -223,23 +249,23 @@ every step up the parlay ladder pays the house more.
 
 ## Sources
 
-- Gorishniy et al., "Revisiting Deep Learning Models for Tabular Data" (arXiv,
-  abstract) — https://arxiv.org/abs/2106.11959
+- Gorishniy et al., "Revisiting Deep Learning Models for Tabular Data" (arXiv, full
+  text) — https://arxiv.org/abs/2106.11959
 - Grinsztajn, Oyallon & Varoquaux, "Why do tree-based models still outperform deep
-  learning on tabular data?" (arXiv, abstract) — https://arxiv.org/abs/2207.08815
+  learning on tabular data?" (arXiv, full text) — https://arxiv.org/abs/2207.08815
 - Hollmann et al., "Accurate predictions on small data with a tabular foundation
   model" (TabPFN), *Nature* 637:319-326 (2025, full text; PriorLabs affiliation
   disclosed) — https://www.nature.com/articles/s41586-024-08328-6
-- TabPFN v1 (arXiv, abstract) — https://arxiv.org/abs/2207.01848 · TabPFN-2.5
-  (arXiv, abstract; author-reported) — https://arxiv.org/abs/2511.08667
-- TabR (arXiv, abstract) — https://arxiv.org/abs/2307.14338 · TabM (arXiv,
-  abstract) — https://arxiv.org/abs/2410.24210
-- Zabërgja et al., "Tabular Data: Is Deep Learning All You Need?" (arXiv, abstract)
-  — https://arxiv.org/abs/2402.03970
-- TALENT benchmark (arXiv, abstract) — https://arxiv.org/abs/2407.00956 ·
-  111-dataset meta-study (arXiv, abstract) — https://arxiv.org/abs/2408.14817
+- TabPFN v1 (arXiv, full text) — https://arxiv.org/abs/2207.01848 · TabPFN-2.5
+  (arXiv, full text; author-reported, non-commercial license) — https://arxiv.org/abs/2511.08667
+- TabR (arXiv, full text) — https://arxiv.org/abs/2307.14338 · TabM (arXiv, full
+  text) — https://arxiv.org/abs/2410.24210
+- Zabërgja et al., "Tabular Data: Is Deep Learning All You Need?" (arXiv, full text;
+  revised 2025) — https://arxiv.org/abs/2402.03970
+- TALENT benchmark (arXiv, full text) — https://arxiv.org/abs/2407.00956 ·
+  111-dataset meta-study (arXiv, full text) — https://arxiv.org/abs/2408.14817
 - Tschalzev et al., "A Data-Centric Perspective on Evaluating Machine Learning
-  Models for Tabular Data" (arXiv, abstract) — https://arxiv.org/abs/2407.02112
+  Models for Tabular Data" (arXiv, full text) — https://arxiv.org/abs/2407.02112
 - Tools: fast.ai course — https://course.fast.ai/ · AutoGluon —
   https://github.com/autogluon/autogluon · MLflow — https://mlflow.org/docs/latest/
   · SHAP — https://shap.readthedocs.io/en/latest/
