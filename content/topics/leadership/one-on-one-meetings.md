@@ -22,8 +22,9 @@ and interviews with senior leaders. (Rogelberg, "Make the Most of Your One-on-On
 Assessment: the meeting should be dominated by the employee's world, their concerns, what is
 blocking them, what they are trying to learn and become. It is *not* a place to micromanage,
 not a sign you distrust the team, and not where you offload your own fires. FACT: in the
-survey, nearly half of employees rated their 1:1s as subpar, usually because the manager
-canceled them, dominated them, or turned them into a status report.
+author's survey of 250 direct reports, nearly half rated their 1:1 experiences as
+suboptimal. Assessment: the failure modes the article dwells on are the manager
+canceling them, dominating them, or turning them into a status report.
 
 ## How to run them
 

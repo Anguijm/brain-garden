@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-451 citations across 84 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+453 citations across 84 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -254,7 +254,8 @@ This page lists every external link cited anywhere in the garden, article by art
 9. [Psyllium and glycemic control, meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC11155034/)
 10. [Magnesium and blood pressure, meta-analysis of 38 RCTs](https://pmc.ncbi.nlm.nih.gov/articles/PMC12529988/)
 11. [Omega-3 for cardiovascular disease, Cochrane review](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full)
-12. [Omega-3 and atrial fibrillation risk, meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC8756005/)
+12. [Omega-3 and atrial fibrillation, dose-stratified meta-analysis (Gencer 2021, Circulation)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9109217/)
+13. [Omega-3 and atrial fibrillation risk, meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC8756005/)
 
 ### [Training, recovery, and sleep](topics/health/supplements-for-midlife/02-recovery-and-sleep)
 
@@ -422,6 +423,7 @@ This page lists every external link cited anywhere in the garden, article by art
 1. [Macnamara and Maitra](https://doi.org/10.1098/rsos.190327)
 2. [Debatin et al. 2021](https://doi.org/10.1007/s12144-021-02326-x)
 3. [Business Review (July–August 2007)](https://hbr.org/2007/07/the-making-of-an-expert)
+4. [Science (2014)](https://doi.org/10.1177/0956797614535810)
 
 ### [\"The manager's job,\" 50 years later](topics/leadership/managers-job-50-years)
 

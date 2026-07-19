@@ -81,5 +81,6 @@ drop the "anyone can master anything with enough hours" slogan.
 
 - K. Anders Ericsson, Michael J. Prietula & Edward T. Cokely, "The Making of an Expert", Harvard
   Business Review (July–August 2007) — https://hbr.org/2007/07/the-making-of-an-expert
-- Modern correction: Macnamara, Hambrick & Oswald, "Deliberate Practice and Performance"
-  meta-analysis, *Psychological Science* (2014).
+- Modern correction: Macnamara, Hambrick & Oswald, "Deliberate Practice and Performance
+  in Music, Games, Sports, Education, and Professions: A Meta-Analysis", *Psychological
+  Science* (2014) — https://doi.org/10.1177/0956797614535810

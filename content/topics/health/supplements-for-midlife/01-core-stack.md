@@ -124,10 +124,12 @@ heart benefit came from a high-dose prescription drug in high-risk patients, not
 softgel.
 
 Dose: about 1 to 2 grams a day of combined EPA plus DHA, and read the label, a "1,000 mg
-fish oil" pill often has only ~300 mg of the actual omega-3s. FACT: one real caution, higher
-doses (above 1 gram a day) are linked to a small, dose-dependent rise in a heart-rhythm
-problem called atrial fibrillation, so do not overdo it. (Meta-analyses.) Eating fatty fish
-twice a week is a fine substitute.
+fish oil" pill often has only ~300 mg of the actual omega-3s. FACT: one real caution, a
+2021 meta-analysis of cardiovascular-outcome trials (Gencer, *Circulation*) found that
+fish-oil supplements raised the risk of a heart-rhythm problem called atrial fibrillation,
+and the rise was larger in trials dosing above 1 gram a day (hazard ratio 1.49) than at or
+below it (1.12), a statistically significant dose relationship, so do not overdo it. Eating
+fatty fish twice a week is a fine substitute.
 
 ## What about HMB and leucine?
 
@@ -171,4 +173,5 @@ bed rest, at the real 3-gram dose. Neither one raises uric acid, if gout is a co
 - Psyllium and glycemic control, meta-analysis — https://pmc.ncbi.nlm.nih.gov/articles/PMC11155034/
 - Magnesium and blood pressure, meta-analysis of 38 RCTs — https://pmc.ncbi.nlm.nih.gov/articles/PMC12529988/
 - Omega-3 for cardiovascular disease, Cochrane review — https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full
+- Omega-3 and atrial fibrillation, dose-stratified meta-analysis (Gencer 2021, Circulation) — https://pmc.ncbi.nlm.nih.gov/articles/PMC9109217/
 - Omega-3 and atrial fibrillation risk, meta-analysis — https://pmc.ncbi.nlm.nih.gov/articles/PMC8756005/
