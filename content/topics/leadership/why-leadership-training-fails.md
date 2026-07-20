@@ -71,7 +71,7 @@ is well-supported. It ties together several other notes: it is the same lesson a
 [set-up-to-fail](set-up-to-fail) (a boss's system creates poor performers) and [the secrets of
 great teamwork](secrets-of-great-teamwork) (set conditions, don't fix personalities).
 
-The honest caveats are modest. FACT: the authors run a firm that does exactly this kind of
+The honest caveats are modest. Assessment: the authors run a firm that does exactly this kind of
 system-change consulting, so the prescription mirrors their business, and several of the
 success stories are self-estimated company anecdotes (a "tenfold" return, and so on). But the
 academic studies they lean on (behavior following role and system) are real and decades-deep.

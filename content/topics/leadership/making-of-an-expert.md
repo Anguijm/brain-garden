@@ -42,9 +42,11 @@ opposite.
 
 FACT: the article makes a strong claim, that talent barely matters (Benjamin Bloom found no
 early predictors among 120 elite performers; there's no IQ-to-expertise correlation in chess,
-music, or sports), and offered the rough guide that reaching the top takes about ten years of
-sustained effort (the "10,000 hours" version came later, from Malcolm Gladwell's
-popularization).
+music, or sports), and offered the rough guide that reaching the top takes about ten years,
+or roughly 10,000 hours, of sustained effort. The article's own words are "ten years (or
+10,000 hours) of intense training," so the 10,000-hour figure is Ericsson's, not Gladwell's;
+what Gladwell added later was popularizing it as a hard "rule" (which Ericsson objected to,
+see below).
 
 ## How much to trust this: the important part
 
