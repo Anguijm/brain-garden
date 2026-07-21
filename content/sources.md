@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-496 citations across 85 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+538 citations across 88 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -223,6 +223,57 @@ This page lists every external link cited anywhere in the garden, article by art
 41. [onlinelibrary.wiley.com/1468-0262.00152](https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-0262.00152)
 42. [trade-ideas.com/What_Holly_Does.html](https://www.trade-ideas.com/hollyguide/What_Holly_Does.html)
 43. [Tickeron, Real-Time Pattern Scanner — [vendor/blog]](https://tickeron.com/stock-pattern-scanner/)
+
+### [How to emulate it without fooling yourself (and spot the chaff)](topics/finance/ai-stock-picking/build-it-yourself)
+
+1. [López de Prado (2018), Advances in Financial Machine Learning (Wiley) — [book]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3104847)
+2. [Bailey, Borwein, López de Prado & Zhu (2014), "Pseudo-Mathematics and Financial](https://www.ams.org/notices/201405/rnoti-p458.pdf)
+3. [Bailey & López de Prado (2014), "The Deflated Sharpe Ratio," Journal of Portfolio](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2460551)
+4. [Bailey, Borwein, López de Prado & Zhu (2017), "The Probability of Backtest Overfitting,"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2326253)
+5. [Harvey, Liu & Zhu (2016), "...and the Cross-Section of Expected Returns," Review of](https://academic.oup.com/rfs/article/29/1/5/1843824)
+6. [Kenneth R. French Data Library (factor returns for attribution) — [data repository]](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html)
+7. [Palomar, "The Seven Sins of Quantitative Investing," Portfolio Optimization (open text) —](https://bookdown.org/palomar/portfoliooptimizationbook/8.2-seven-sins.html)
+8. [SEC, Investment Adviser Marketing Rule (Release IA-5653, 2020) — [regulatory]](https://www.sec.gov/files/rules/final/2020/ia-5653.pdf)
+9. [SEC Press Release 2023-173, marketing-rule sweep on hypothetical performance —](https://www.sec.gov/news/press-release/2023-173)
+10. [Lowe v. SEC, 472 U.S. 181 (1985), publisher's exclusion — [legal]](https://supreme.justia.com/cases/federal/us/472/181/)
+
+### [Does any of it actually beat the market?](topics/finance/ai-stock-picking/does-it-actually-work)
+
+1. [SPIVA U.S. Scorecard, Year-End 2024 — [industry, authoritative]](https://www.spglobal.com/spdji/en/documents/spiva/spiva-us-year-end-2024.pdf)
+2. [S&P U.S. Persistence Scorecard, Year-End 2024 — [industry, authoritative]](https://www.spglobal.com/spdji/en/documents/spiva/persistence-scorecard-year-end-2024.pdf)
+3. [Fama & French (2010), "Luck versus Skill in the Cross-Section of Mutual Fund Returns,"](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6261.2010.01598.x)
+4. [Carhart (1997), "On Persistence in Mutual Fund Performance," Journal of Finance —](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.1997.tb03808.x)
+5. [Barras, Scaillet & Wermers (2010), "False Discoveries in Mutual Fund Performance,"](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6261.2009.01527.x)
+6. [Gu, Kelly & Xiu (2020), "Empirical Asset Pricing via Machine Learning," Review of](https://academic.oup.com/rfs/article/33/5/2223/5758276)
+7. [Avramov, Cheng & Metzker (2023), "Machine Learning vs. Economic Restrictions," Management](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.4449)
+8. [McLean & Pontiff (2016), "Does Academic Research Destroy Stock Return Predictability?,"](https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12365)
+9. [Harvey, Liu & Zhu (2016), "...and the Cross-Section of Expected Returns," Review of](https://academic.oup.com/rfs/article-abstract/29/1/5/1843824)
+10. [Novy-Marx & Velikov (2016), "A Taxonomy of Anomalies and Their Trading Costs," Review of](https://academic.oup.com/rfs/article-abstract/29/1/104/1844518)
+11. [Bajgrowicz & Scaillet (2012), "Technical Trading Revisited," Journal of Financial](https://econpapers.repec.org/article/eeejfinec/v_3a106_3ay_3a2012_3ai_3a3_3ap_3a473-491.htm)
+12. [Chen & Zimmermann (2022), "Open Source Cross-Sectional Asset Pricing," Critical Finance](https://www.nowpublishers.com/article/Details/CFR-0112)
+13. [Jensen, Kelly & Pedersen (2023), "Is There a Replication Crisis in Finance?," Journal of](https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.13249)
+14. [Metrick (1999), "Performance Evaluation with Transactions Data," Journal of Finance —](https://onlinelibrary.wiley.com/doi/10.1111/0022-1082.00165)
+15. [Jaffe & Mahoney (1999), "The Performance of Investment Newsletters," Journal of Financial](https://www.sciencedirect.com/science/article/pii/S0304405X99000239)
+16. [Shleifer & Vishny (1997), "The Limits of Arbitrage," Journal of Finance — [peer-reviewed]](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.1997.tb03807.x)
+
+### [The AI stock-pick landscape: what these services actually sell](topics/finance/ai-stock-picking/the-landscape)
+
+1. [InvestingPro / ProPicks methodology and performance — [vendor] — and](https://www.investing-support.com/hc/en-us/articles/21860692550289-How-are-ProPicks-Strategies-created)
+2. [InvestingPro / ProPicks methodology and performance — [vendor] —](https://www.investing-support.com/hc/en-us/articles/21861480414993-ProPicks-performance)
+3. [Danelfin, "How it works" and audit page — [vendor] — and https://audit.danelfin.com/](https://danelfin.com/how-it-works)
+4. [Danelfin, "How it works" and audit page — [vendor] — https://danelfin.com/how-it-works and](https://audit.danelfin.com/)
+5. [Zacks Rank methodology and performance disclosure — [vendor] — and](https://www.zacks.com/stocks/zacks-rank)
+6. [Zacks Rank methodology and performance disclosure — [vendor] —](https://www.zacks.com/performance_disclosure/)
+7. [CXO Advisory, "Are Zacks Rankings Exploitable?" (independent real-money check) —](https://www.cxoadvisory.com/fundamental-valuation/are-zacks-rankings-exploitable/)
+8. [Seeking Alpha Quant Ratings FAQ — [vendor]](https://help.seekingalpha.com/premium/what-are-quant-ratings-and-how-do-i-use-them)
+9. [Seeking Alpha Alpha Picks review (live record) — [review]](https://stockanalysis.com/article/alpha-picks-review/)
+10. [Trade Ideas, Holly records and guide — [vendor] — and](https://www.trade-ideas.com/holly-records/)
+11. [Trade Ideas, Holly records and guide — [vendor] —](https://www.trade-ideas.com/hollyguide/Holly_AI_Strategies.html)
+12. [Tickeron AI Robots and disclaimers — [vendor]](https://tickeron.com/trading-investing-101/ai-robots-instructions/)
+13. [Kavout K Score — [vendor]](https://www.kavout.com/k-score/)
+14. [TipRanks Smart Score review — [review]](https://www.wallstreetzen.com/blog/tipranks-review/)
+15. [MarketBeat review — [review]](https://www.wallstreetzen.com/blog/marketbeat-review/)
+16. [Boosted.ai (institutional context) — [vendor]](https://boosted.ai/)
 
 ## Games
 

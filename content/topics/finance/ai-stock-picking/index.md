@@ -29,6 +29,17 @@ from the vendors' own documentation and the peer-reviewed finance literature (ci
 bottom, each marked peer-reviewed vs. vendor). The judgments about how well any of it works
 in real money are labeled Assessment or Speculation, because that is exactly what they are.
 
+**This note is the "how it works" part of a four-note wing.** The others answer the rest of the
+question:
+
+- **[The AI stock-pick landscape](the-landscape)** — what the named services (InvestingPro,
+  Danelfin, Zacks, Trade Ideas, Tickeron, and the rest) actually sell, and the marketing tells to
+  distrust.
+- **[Does any of it actually beat the market?](does-it-actually-work)** — the peer-reviewed base
+  rates (SPIVA, skill-versus-luck, the machine-learning evidence, and what erodes it).
+- **[How to emulate it without fooling yourself](build-it-yourself)** — the honest backtesting
+  method and the red-flag checklist for separating wheat from chaff.
+
 ## The five traps (read this first)
 
 These five failure modes show up in every method, so here they are once, in plain English.

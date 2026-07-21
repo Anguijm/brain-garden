@@ -8,14 +8,15 @@ than raw research. Newest is first.
 
 ## Latest
 
-- **[How AI and quant stock-picking actually works](topics/finance/ai-stock-picking)** — a
-  plain-English, honestly-labeled teardown of the AI and quantitative stock tools you see
-  advertised: multi-factor scores (the Zacks Rank), "fair value" numbers (InvestingPro,
-  Morningstar), machine-learning return models (the canonical Gu-Kelly-Xiu study), news and
-  social-media sentiment, and chart-pattern robots (Trade Ideas' Holly, Tickeron). For each:
-  what data goes in, what comes out, and the five specific ways it misleads (overfitting, data
-  snooping, look-ahead bias, regime change, crowding), grounded in the peer-reviewed finance
-  literature and marked peer-reviewed vs. vendor.
+- **[AI stock-picking services, investigated](topics/finance/ai-stock-picking)** — a four-note,
+  honestly-labeled teardown of the "AI stock pick" industry, heavy on peer-reviewed sources and
+  built to separate wheat from chaff. [How the methods work](topics/finance/ai-stock-picking)
+  (multi-factor scores, "fair value" numbers, machine-learning models, sentiment, chart robots)
+  and the five ways each misleads; [the landscape](topics/finance/ai-stock-picking/the-landscape)
+  of what InvestingPro, Danelfin, Zacks, Trade Ideas, Tickeron and the rest actually sell;
+  [whether any of it beats the market](topics/finance/ai-stock-picking/does-it-actually-work) (the
+  SPIVA base rates, skill-versus-luck, the Gu-Kelly-Xiu machine-learning evidence and what erodes
+  it); and [how to emulate it without fooling yourself](topics/finance/ai-stock-picking/build-it-yourself).
 - **[The Waterfront Brief](projects/waterfront-brief)** — a weekly four-page intelligence
   brief for naval shipyard management: waterfront ops, maintenance technologies, readiness,
   and business practices, compiled from NAVSEA, USNI News, Naval News, Drydock Magazine,
