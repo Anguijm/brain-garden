@@ -8,6 +8,14 @@ than raw research. Newest is first.
 
 ## Latest
 
+- **[How AI and quant stock-picking actually works](topics/finance/ai-stock-picking)** — a
+  plain-English, honestly-labeled teardown of the AI and quantitative stock tools you see
+  advertised: multi-factor scores (the Zacks Rank), "fair value" numbers (InvestingPro,
+  Morningstar), machine-learning return models (the canonical Gu-Kelly-Xiu study), news and
+  social-media sentiment, and chart-pattern robots (Trade Ideas' Holly, Tickeron). For each:
+  what data goes in, what comes out, and the five specific ways it misleads (overfitting, data
+  snooping, look-ahead bias, regime change, crowding), grounded in the peer-reviewed finance
+  literature and marked peer-reviewed vs. vendor.
 - **[The Waterfront Brief](projects/waterfront-brief)** — a weekly four-page intelligence
   brief for naval shipyard management: waterfront ops, maintenance technologies, readiness,
   and business practices, compiled from NAVSEA, USNI News, Naval News, Drydock Magazine,

@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-453 citations across 84 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+496 citations across 85 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -175,6 +175,54 @@ This page lists every external link cited anywhere in the garden, article by art
 6. [37 Rice Cooker Recipes](https://pickyeaterblog.com/rice-cooker-recipes/)
 7. [5 Things You Can Make In a Rice Cooker (Other Than Rice)](https://www.thekitchn.com/5-things-you-can-make-in-a-ric-111057)
 8. [How To Make Rice in a Rice Cooker](https://www.thekitchn.com/how-to-make-rice-in-a-rice-cooker-226756)
+
+## Finance
+
+### [How AI and quant stock-picking actually works](topics/finance/ai-stock-picking)
+
+1. [Economics (1993) — [peer-reviewed] — )90023-5](https://doi.org/10.1016/0304-405X(93)
+2. [[peer-reviewed] — (free PDF](https://doi.org/10.1016/j.jfineco.2014.10.010)
+3. [)](https://tevgeniou.github.io/EquityRiskFactors/bibliography/FiveFactor.pdf)
+4. [4-factor — [peer-reviewed]](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.1997.tb03808.x)
+5. [(1993) — [peer-reviewed]](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6261.1993.tb04702.x)
+6. [(free PDF: )](https://www.bauer.uh.edu/rsusmel/phd/jegadeesh-titman93.pdf)
+7. [[peer-reviewed] — (free full text](https://doi.org/10.1007/s11142-018-9470-2)
+8. [)](https://www.aqr.com/Insights/Research/Working-Paper/Quality-Minus-Junk)
+9. [[peer-reviewed] — (author PDF](https://doi.org/10.1016/j.jfineco.2013.10.005)
+10. [)](https://pages.stern.nyu.edu/~lpederse/papers/BettingAgainstBeta.pdf)
+11. [Finance (2006) — [peer-reviewed]](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.2006.00836.x)
+12. [Finance (2016), factor decay — [peer-reviewed]](https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12365)
+13. [Studies (2016), the factor zoo — [peer-reviewed]](https://academic.oup.com/rfs/article-abstract/29/1/5/1843824)
+14. [Zacks Rank methodology — [vendor/blog]](https://www.zacks.com/education/rank-guide/zacks-rank-guide)
+15. [investing.com/fair-value-investing-stocks](https://www.investing.com/academy/analysis/fair-value-investing-stocks/)
+16. [[vendor/blog]](https://www.morningstar.com/content/dam/marketing/shared/research/methodology/705988Morningstar_Equity_Research_Methodology.pdf)
+17. [morningstar.com/an-introduction-morningstar-uncertainty-rating](https://www.morningstar.com/stocks/an-introduction-morningstar-uncertainty-rating)
+18. [pages.stern.nyu.edu/DCFmythsTemasek.pdf](https://pages.stern.nyu.edu/~adamodar/pdfiles/country/DCFmythsTemasek.pdf)
+19. [aswathdamodaran.blogspot.com/dcf-myth-3-you-cannot-do-valuation-when.html](https://aswathdamodaran.blogspot.com/2016/05/dcf-myth-3-you-cannot-do-valuation-when.html)
+20. [of Financial Analysis — [peer-reviewed]](https://www.sciencedirect.com/science/article/abs/pii/S1059056024000960)
+21. [(2020), the canonical study — [peer-reviewed]](https://academic.oup.com/rfs/article/33/5/2223/5758276)
+22. [(NBER working paper: ; author PDF](https://www.nber.org/papers/w25398)
+23. [)](https://dachxiu.chicagobooth.edu/download/ML.pdf)
+24. [[peer-reviewed]](https://www.sciencedirect.com/science/article/abs/pii/S0304407620301998)
+25. [[peer-reviewed] — (open PDF](https://www.nowpublishers.com/article/Details/FIN-064)
+26. [)](https://bfi.uchicago.edu/wp-content/uploads/2023/07/BFI_WP_2023-100.pdf)
+27. [[book]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3104847)
+28. [ams.org/rnoti-p458.pdf](https://www.ams.org/notices/201405/rnoti-p458.pdf)
+29. [Computational Finance (2017) — [peer-reviewed]](https://escholarship.org/uc/item/4w1110bb)
+30. [papers.ssrn.com/papers.cfm](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1331573)
+31. [[data repository]](https://sraf.nd.edu/loughranmcdonald-master-dictionary/)
+32. [papers.ssrn.com/papers.cfm](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=685145)
+33. [[peer-reviewed]](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.2011.01705.x)
+34. [[preprint]](https://arxiv.org/abs/1908.10063)
+35. [ravenpack.com/news-analytics](https://www.ravenpack.com/products/edge/data/news-analytics)
+36. [LSEG/Refinitiv MarketPsych Analytics — [vendor/blog]](https://www.marketpsych.com/ma4/intro)
+37. [canonical paper — [peer-reviewed]](https://onlinelibrary.wiley.com/doi/abs/10.1111/0022-1082.00265)
+38. [(free PDF: )](https://www.cis.upenn.edu/~mkearns/teaching/cis700/lo.pdf)
+39. [[peer-reviewed]](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.1992.tb04681.x)
+40. [onlinelibrary.wiley.com/0022-1082.00163](https://onlinelibrary.wiley.com/doi/abs/10.1111/0022-1082.00163)
+41. [onlinelibrary.wiley.com/1468-0262.00152](https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-0262.00152)
+42. [trade-ideas.com/What_Holly_Does.html](https://www.trade-ideas.com/hollyguide/What_Holly_Does.html)
+43. [Tickeron, Real-Time Pattern Scanner — [vendor/blog]](https://tickeron.com/stock-pattern-scanner/)
 
 ## Games
 
