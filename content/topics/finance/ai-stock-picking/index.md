@@ -39,6 +39,9 @@ question:
   rates (SPIVA, skill-versus-luck, the machine-learning evidence, and what erodes it).
 - **[How to emulate it without fooling yourself](build-it-yourself)** — the honest backtesting
   method and the red-flag checklist for separating wheat from chaff.
+- **[Getting started: a 12-month factor screener](getting-started-screener)** — a concrete
+  where-to-begin roadmap for the low-turnover, buy-and-hold version that the evidence treats most
+  kindly.
 
 ## The five traps (read this first)
 

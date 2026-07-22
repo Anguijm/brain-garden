@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-538 citations across 88 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+543 citations across 89 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -255,6 +255,14 @@ This page lists every external link cited anywhere in the garden, article by art
 14. [Metrick (1999), "Performance Evaluation with Transactions Data," Journal of Finance —](https://onlinelibrary.wiley.com/doi/10.1111/0022-1082.00165)
 15. [Jaffe & Mahoney (1999), "The Performance of Investment Newsletters," Journal of Financial](https://www.sciencedirect.com/science/article/pii/S0304405X99000239)
 16. [Shleifer & Vishny (1997), "The Limits of Arbitrage," Journal of Finance — [peer-reviewed]](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.1997.tb03807.x)
+
+### [Getting started: a 12-month factor screener](topics/finance/ai-stock-picking/getting-started-screener)
+
+1. [Novy-Marx & Velikov (2016), "A Taxonomy of Anomalies and Their Trading Costs," Review of](https://academic.oup.com/rfs/article-abstract/29/1/104/1844518)
+2. [Chen & Zimmermann (2022), "Open Source Cross-Sectional Asset Pricing," Critical Finance](https://www.nowpublishers.com/article/Details/CFR-0112)
+3. [Jensen, Kelly & Pedersen (2023), "Is There a Replication Crisis in Finance?," Journal of](https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.13249)
+4. [Bailey & López de Prado (2014), "The Deflated Sharpe Ratio," Journal of Portfolio](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2460551)
+5. [Kenneth R. French Data Library (factor returns for attribution) — [data repository]](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html)
 
 ### [The AI stock-pick landscape: what these services actually sell](topics/finance/ai-stock-picking/the-landscape)
 
