@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-554 citations across 90 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+556 citations across 90 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -40,12 +40,14 @@ This page lists every external link cited anywhere in the garden, article by art
 3. [GAO-25-107152, Sep 3, 2025](https://www.gao.gov/products/gao-25-107152)
 4. [GAO-26-109068, Apr 22, 2026](https://www.gao.gov/products/gao-26-109068)
 5. [Ahsan et al., arXiv:2409.00877 (preprint, Sep 2024)](https://arxiv.org/abs/2409.00877)
-6. [USNI News, Jul 20, 2026](https://news.usni.org/2026/07/20/new-navy-pae-maritime-shipbuilding-office-reaches-ioc)
-7. [USNI News, Apr 10, 2026](https://news.usni.org/2026/04/10/navy-to-inactivate-attack-boat-uss-boise-after-1-6b-repair-effort)
-8. [USNI News, Jun 16, 2026](https://news.usni.org/2026/06/16/senate-house-defense-bills-propose-restrictions-on-u-s-warships-built-in-foreign-yards-legislation-limits-navy-secretarys-ability-to-rename-ships)
-9. [Naval News, Jul 10, 2026](https://www.navalnews.com/naval-news/2026/07/us-navy-rfi-south-korea-shipbuilding-destroyers/)
-10. [Naval News, Jun 4, 2026](https://www.navalnews.com/naval-news/2026/06/u-s-eyes-warships-from-japanese-and-south-korean-shipyards/)
-11. [USNI News, Jul 17, 2026](https://news.usni.org/2026/07/17/philly-shipyard-to-build-golden-defender-ship-as-part-of-new-missile-defense-program)
+6. [USNI News, Jul 14, 2026](https://news.usni.org/2026/07/14/carrier-uss-gerald-r-ford-starts-first-major-post-deployment-maintenance-period)
+7. [USNI News, Apr 15, 2026](https://news.usni.org/2026/04/15/uss-gerald-r-ford-breaks-post-cold-war-deployment-record)
+8. [Breaking Defense, May 13, 2026](https://breakingdefense.com/2026/05/navy-to-run-into-financial-constraints-this-summer-due-to-current-operations-cno-says/)
+9. [Defense News, Jun 22, 2026](https://www.defensenews.com/news/pentagon-congress/2026/06/22/us-couldnt-repair-battle-damaged-ships-in-war-with-china-study-finds/)
+10. [USNI News, Jun 16, 2026](https://news.usni.org/2026/06/16/senate-house-defense-bills-propose-restrictions-on-u-s-warships-built-in-foreign-yards-legislation-limits-navy-secretarys-ability-to-rename-ships)
+11. [Naval News, Jul 10, 2026](https://www.navalnews.com/naval-news/2026/07/us-navy-rfi-south-korea-shipbuilding-destroyers/)
+12. [Naval News, Jun 4, 2026](https://www.navalnews.com/naval-news/2026/06/u-s-eyes-warships-from-japanese-and-south-korean-shipyards/)
+13. [USNI News, Jul 17, 2026](https://news.usni.org/2026/07/17/philly-shipyard-to-build-golden-defender-ship-as-part-of-new-missile-defense-program)
 
 ## AI engineering
 
