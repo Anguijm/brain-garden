@@ -123,8 +123,8 @@ medications.
 
 ## See also
 
-- **In this series:** [← Training, recovery, and sleep](02-recovery-and-sleep) · [A simple daily plan →](04-daily-plan) · [Overview](../supplements-for-midlife)
-- **[Using AI well](../../../connections/using-ai-well)** — the same don't-get-fooled discipline, applied to supplement marketing.
+- **In this series:** [← Training, recovery, and sleep](02-recovery-and-sleep) · [A simple daily plan →](04-daily-plan) · [Overview](topics/health/supplements-for-midlife)
+- **[Using AI well](connections/using-ai-well)** — the same don't-get-fooled discipline, applied to supplement marketing.
 
 ## Sources
 

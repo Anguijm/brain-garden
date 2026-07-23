@@ -117,7 +117,7 @@ risk.
   easily.
 - **[Leading your teammates](leading-your-teammates)** — mutual accountability from the
   inside, told by a player who pushed his peers to a higher standard than the coach did.
-- **[The discipline of teams, applied to bidding](../business-development/defense-bd-playbook/05-teaming-partnerships)**
+- **[The discipline of teams, applied to bidding](topics/business-development/defense-bd-playbook/05-teaming-partnerships)**
   — teaming and partnerships in a real high-stakes setting.
 
 ## Sources

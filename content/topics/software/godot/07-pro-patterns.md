@@ -268,8 +268,8 @@ and it stays a pleasure to work on instead of a house of cards.
 
 ## See also
 
-- **In this series:** [← Going further](06-going-further) · [Overview](../godot)
-- **[Mobile: full engines](../mobile-game-engines/01-full-engines)** — how Godot stacks up against other full engines.
+- **In this series:** [← Going further](06-going-further) · [Overview](topics/software/godot)
+- **[Mobile: full engines](topics/software/mobile-game-engines/01-full-engines)** — how Godot stacks up against other full engines.
 
 ## Sources
 

@@ -84,4 +84,4 @@ Next: [Navigating the model](03-navigation.md).
 
 ## See also
 
-- **In this series:** [← Install and open a model](01-install-and-open) · [Navigating the model →](03-navigation) · [Overview](../navisworks-freedom-2026)
+- **In this series:** [← Install and open a model](01-install-and-open) · [Navigating the model →](03-navigation) · [Overview](topics/software/navisworks-freedom-2026)

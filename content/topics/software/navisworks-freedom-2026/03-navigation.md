@@ -96,4 +96,4 @@ Next: [Selecting objects and reading properties](04-selection-and-properties.md)
 
 ## See also
 
-- **In this series:** [← The interface](02-interface) · [Selecting objects and reading properties →](04-selection-and-properties) · [Overview](../navisworks-freedom-2026)
+- **In this series:** [← The interface](02-interface) · [Selecting objects and reading properties →](04-selection-and-properties) · [Overview](topics/software/navisworks-freedom-2026)

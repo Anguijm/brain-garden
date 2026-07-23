@@ -61,13 +61,13 @@ Assessment: a few habits cut both cost and wait time at the same time.
   providers let you "cache" them so you are not billed the full price each time.
 
 The theme here is the same one from the
-[finite-resources thread](../../connections/finite-resources): the context window is a
+[finite-resources thread](connections/finite-resources): the context window is a
 budget, so spend it on what actually matters.
 
 
 ## See also
 
-- **In this series:** [← "Thinking" and reasoning models](03-reasoning-models) · [Pictures and voice (multimodal) →](05-pictures-and-voice) · [Overview](../ai-engineering)
+- **In this series:** [← "Thinking" and reasoning models](03-reasoning-models) · [Pictures and voice (multimodal) →](05-pictures-and-voice) · [Overview](topics/ai-engineering)
 
 ## Sources
 

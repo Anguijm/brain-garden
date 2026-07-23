@@ -48,4 +48,4 @@ of it. Don't feel you must master the deep end to be good.
 
 ## See also
 
-- **In this series:** [← Uniqueness](11-uniqueness) · [Workflow →](13-workflow) · [Overview](../sudoku)
+- **In this series:** [← Uniqueness](11-uniqueness) · [Workflow →](13-workflow) · [Overview](topics/games/sudoku)

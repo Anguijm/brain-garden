@@ -90,5 +90,5 @@ add freedom only when you truly need it.
 
 ## See also
 
-- **[Using AI well](../../connections/using-ai-well)** — the discipline running under this whole wing: a fluent model is an assistant, not an oracle.
-- **[Using Gen AI in BD without fooling yourself](../business-development/defense-bd-playbook/10-gen-ai-in-bd)** — the same AI ideas put to work in a real job.
+- **[Using AI well](connections/using-ai-well)** — the discipline running under this whole wing: a fluent model is an assistant, not an oracle.
+- **[Using Gen AI in BD without fooling yourself](topics/business-development/defense-bd-playbook/10-gen-ai-in-bd)** — the same AI ideas put to work in a real job.

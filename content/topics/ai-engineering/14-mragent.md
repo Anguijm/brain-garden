@@ -219,9 +219,9 @@ argued, but unproven outside the authors' own runs."
 
 ## See also
 
-- **In this series:** [← Safety and best practices](13-safety-and-best-practices) · [Overview](../ai-engineering)
+- **In this series:** [← Safety and best practices](13-safety-and-best-practices) · [Overview](topics/ai-engineering)
 - **[Memory for agents](08-memory-for-agents)** — the plain-English memory chapter this is a deep example of.
-- **[Using AI well](../../connections/using-ai-well)** — 'promising but unproven' is the same honest-catch habit.
+- **[Using AI well](connections/using-ai-well)** — 'promising but unproven' is the same honest-catch habit.
 
 ## Sources
 

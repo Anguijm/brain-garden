@@ -99,4 +99,4 @@ Next: [Glossary](12-glossary.md).
 
 ## See also
 
-- **In this series:** [← Using Gen AI in BD without fooling yourself](10-gen-ai-in-bd) · [Glossary →](12-glossary) · [Overview](../defense-bd-playbook)
+- **In this series:** [← Using Gen AI in BD without fooling yourself](10-gen-ai-in-bd) · [Glossary →](12-glossary) · [Overview](topics/business-development/defense-bd-playbook)

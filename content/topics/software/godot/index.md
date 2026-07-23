@@ -80,8 +80,8 @@ alongside the official tutorial for the how.
 
 ## See also
 
-- **[Mobile game engines (CLI)](../mobile-game-engines)** — Godot is one of the CLI-friendly mobile engines compared there.
-- **[Homebrew on portable game devices](../../games/portable-homebrew)** — where games like these can end up running.
+- **[Mobile game engines (CLI)](topics/software/mobile-game-engines)** — Godot is one of the CLI-friendly mobile engines compared there.
+- **[Homebrew on portable game devices](topics/games/portable-homebrew)** — where games like these can end up running.
 
 ## Sources
 

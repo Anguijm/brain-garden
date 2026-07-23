@@ -44,4 +44,4 @@ bottom; the first thing that works resets you to the top.
 
 ## See also
 
-- **In this series:** [← Advanced chains and last resort](12-advanced-chains) · [Overview](../sudoku)
+- **In this series:** [← Advanced chains and last resort](12-advanced-chains) · [Overview](topics/games/sudoku)

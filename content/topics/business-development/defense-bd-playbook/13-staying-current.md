@@ -81,7 +81,7 @@ year (for example "2026") to freshen any of them.
 
 ## See also
 
-- **In this series:** [← Glossary](12-glossary) · [Further reading →](14-further-reading) · [Overview](../defense-bd-playbook)
+- **In this series:** [← Glossary](12-glossary) · [Further reading →](14-further-reading) · [Overview](topics/business-development/defense-bd-playbook)
 
 ## Sources worth monitoring
 

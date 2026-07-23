@@ -97,4 +97,4 @@ Next: [Staying current](13-staying-current.md).
 
 ## See also
 
-- **In this series:** [← Templates and checklists](11-templates-checklists) · [Staying current →](13-staying-current) · [Overview](../defense-bd-playbook)
+- **In this series:** [← Templates and checklists](11-templates-checklists) · [Staying current →](13-staying-current) · [Overview](topics/business-development/defense-bd-playbook)

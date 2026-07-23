@@ -108,7 +108,7 @@ want help:
 
 ## See also
 
-- **In this series:** [← The core stack that actually works](01-core-stack) · [The weight-loss aisle, and what can hurt →](03-weight-loss-and-harms) · [Overview](../supplements-for-midlife)
+- **In this series:** [← The core stack that actually works](01-core-stack) · [The weight-loss aisle, and what can hurt →](03-weight-loss-and-harms) · [Overview](topics/health/supplements-for-midlife)
 
 ## Sources
 

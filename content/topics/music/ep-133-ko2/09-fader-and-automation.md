@@ -59,4 +59,4 @@ Next: [Effects](10-effects.md).
 
 ## See also
 
-- **In this series:** [← Sequencing](08-sequencing) · [Effects →](10-effects) · [Overview](../ep-133-ko2)
+- **In this series:** [← Sequencing](08-sequencing) · [Effects →](10-effects) · [Overview](topics/music/ep-133-ko2)

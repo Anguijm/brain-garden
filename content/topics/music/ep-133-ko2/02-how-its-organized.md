@@ -82,4 +82,4 @@ Next: [Your first beat](03-your-first-beat.md).
 
 ## See also
 
-- **In this series:** [← Hardware tour](01-hardware-tour) · [Your first beat (a 10-minute quick win) →](03-your-first-beat) · [Overview](../ep-133-ko2)
+- **In this series:** [← Hardware tour](01-hardware-tour) · [Your first beat (a 10-minute quick win) →](03-your-first-beat) · [Overview](topics/music/ep-133-ko2)

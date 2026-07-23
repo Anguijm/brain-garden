@@ -80,12 +80,12 @@ helps, might help, or can hurt.
 5. **[If you are prone to gout (high uric acid)](05-gout-and-uric-acid)** — how gout changes
    the plan: what helps, what to watch (don't crash-diet), and the doctor's lane.
 
-This connects to the note on [muscle and aging](../muscle-protein-synthesis-aging), which
+This connects to the note on [muscle and aging](topics/health/muscle-protein-synthesis-aging), which
 covers the protein-and-muscle side in depth, and it runs on the same
-[don't-get-fooled habit](../../../connections/using-ai-well) as the rest of this garden: a
+[don't-get-fooled habit](connections/using-ai-well) as the rest of this garden: a
 confident pitch is not evidence.
 
 ## See also
 
-- **[Muscle, aging, and anabolic resistance](../muscle-protein-synthesis-aging)** — the muscle-and-aging science behind the plan.
-- **[Using AI well](../../../connections/using-ai-well)** — the same 'a confident pitch is not evidence' habit.
+- **[Muscle, aging, and anabolic resistance](topics/health/muscle-protein-synthesis-aging)** — the muscle-and-aging science behind the plan.
+- **[Using AI well](connections/using-ai-well)** — the same 'a confident pitch is not evidence' habit.

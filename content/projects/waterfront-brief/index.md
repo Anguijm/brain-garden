@@ -42,7 +42,7 @@ downloadable as the print PDF (source links only).
 
 ## See also
 
-- **[Defense BD Playbook](../../topics/business-development/defense-bd-playbook)** — the
+- **[Defense BD Playbook](topics/business-development/defense-bd-playbook)** — the
   business side of the same industrial base: capture, teaming, and pricing.
-- **[Using AI well](../../connections/using-ai-well)** — why the brief labels its claims
+- **[Using AI well](connections/using-ai-well)** — why the brief labels its claims
   and keeps its sources: a confident summary is not evidence.

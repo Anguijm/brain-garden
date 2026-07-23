@@ -119,7 +119,7 @@ model. It just means you hold the slogans loosely and keep the useful core.
   *leading* (the shared), that one is about *managing* (the unique).
 - **[Leading your teammates](leading-your-teammates)** — empathy and reading people, from a
   peer's seat rather than a boss's.
-- **[Using AI well](../../connections/using-ai-well)** — the same "a confident claim is not
+- **[Using AI well](connections/using-ai-well)** — the same "a confident claim is not
   proof" habit, applied to a famous management idea.
 
 ## Sources

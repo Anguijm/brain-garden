@@ -71,7 +71,7 @@ arXiv:2410.15393.)
 Assessment: the rule that ties this whole section together, do not blindly trust the AI,
 applies to the grader too. Check the grader against human scores on a sample before you
 rely on it, and keep spot-checking by hand. This is the same caution as the
-[using-AI-well thread](../../connections/using-ai-well).
+[using-AI-well thread](connections/using-ai-well).
 
 ## Score the path, not just the answer
 
@@ -96,8 +96,8 @@ its prompts, tool calls, time, and cost, so you can look back. Builders call tha
 
 ## See also
 
-- **In this series:** [← Retrieval and RAG](10-retrieval-and-rag) · [Multi-agent systems →](12-multi-agent-systems) · [Overview](../ai-engineering)
-- **[Using AI well](../../connections/using-ai-well)** — part of the garden's spine: how you actually know an answer is good.
+- **In this series:** [← Retrieval and RAG](10-retrieval-and-rag) · [Multi-agent systems →](12-multi-agent-systems) · [Overview](topics/ai-engineering)
+- **[Using AI well](connections/using-ai-well)** — part of the garden's spine: how you actually know an answer is good.
 
 ## Sources
 

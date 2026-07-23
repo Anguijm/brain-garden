@@ -22,7 +22,7 @@ Assessment: do these once, up front, because they decide what is even safe for y
 1. **Get a blood panel and a checkup.** Blood pressure, cholesterol, fasting glucose or
    HbA1c, vitamin D, and liver and kidney panels. This tells you what actually needs fixing
    (and whether you are low on vitamin D or high on triglycerides, which change the plan).
-   See the [overview](../supplements-for-midlife) for why.
+   See the [overview](topics/health/supplements-for-midlife) for why.
 2. **Show a pharmacist your medications.** If you take anything for blood pressure,
    cholesterol, or blood sugar, have them check it against what you plan to add.
 3. **Buy tested products only.** Look for a NSF Certified for Sport, Informed Sport, or USP
@@ -115,5 +115,5 @@ especially with any health conditions or medications.
 
 ## See also
 
-- **In this series:** [← The weight-loss aisle, and what can hurt](03-weight-loss-and-harms) · [If you are prone to gout (high uric acid) →](05-gout-and-uric-acid) · [Overview](../supplements-for-midlife)
+- **In this series:** [← The weight-loss aisle, and what can hurt](03-weight-loss-and-harms) · [If you are prone to gout (high uric acid) →](05-gout-and-uric-acid) · [Overview](topics/health/supplements-for-midlife)
 - **[If you are prone to gout (high uric acid)](05-gout-and-uric-acid)** — how to adjust the plan if you are gout-prone.

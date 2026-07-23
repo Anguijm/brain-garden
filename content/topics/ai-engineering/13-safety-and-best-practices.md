@@ -106,8 +106,8 @@ Assessment: the habits that hold up across every chapter:
 
 ## See also
 
-- **In this series:** [← Multi-agent systems](12-multi-agent-systems) · [MRAgent →](14-mragent) · [Overview](../ai-engineering)
-- **[Using AI well](../../connections/using-ai-well)** — overconfidence and hallucination as named failure modes.
+- **In this series:** [← Multi-agent systems](12-multi-agent-systems) · [MRAgent →](14-mragent) · [Overview](topics/ai-engineering)
+- **[Using AI well](connections/using-ai-well)** — overconfidence and hallucination as named failure modes.
 
 ## Sources
 

@@ -87,4 +87,4 @@ Next: [The fader and automation](09-fader-and-automation.md).
 
 ## See also
 
-- **In this series:** [← Shaping a sound (sound edit), and its limits](07-shaping-sounds) · [The fader and recording automation →](09-fader-and-automation) · [Overview](../ep-133-ko2)
+- **In this series:** [← Shaping a sound (sound edit), and its limits](07-shaping-sounds) · [The fader and recording automation →](09-fader-and-automation) · [Overview](topics/music/ep-133-ko2)

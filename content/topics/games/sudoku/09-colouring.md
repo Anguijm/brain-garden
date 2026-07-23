@@ -44,4 +44,4 @@ outright), then for cells caught between the two colours.
 
 ## See also
 
-- **In this series:** [← Wings](08-wings) · [Chains →](10-chains) · [Overview](../sudoku)
+- **In this series:** [← Wings](08-wings) · [Chains →](10-chains) · [Overview](topics/games/sudoku)

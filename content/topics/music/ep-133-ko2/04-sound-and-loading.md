@@ -69,4 +69,4 @@ Next: [Sampling](05-sampling.md).
 
 ## See also
 
-- **In this series:** [← Your first beat (a 10-minute quick win)](03-your-first-beat) · [Sampling →](05-sampling) · [Overview](../ep-133-ko2)
+- **In this series:** [← Your first beat (a 10-minute quick win)](03-your-first-beat) · [Sampling →](05-sampling) · [Overview](topics/music/ep-133-ko2)

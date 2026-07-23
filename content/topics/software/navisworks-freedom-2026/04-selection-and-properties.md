@@ -83,4 +83,4 @@ Next: [Saved viewpoints and review data](05-viewpoints-and-review.md).
 
 ## See also
 
-- **In this series:** [← Navigating the model](03-navigation) · [Saved viewpoints and review data →](05-viewpoints-and-review) · [Overview](../navisworks-freedom-2026)
+- **In this series:** [← Navigating the model](03-navigation) · [Saved viewpoints and review data →](05-viewpoints-and-review) · [Overview](topics/software/navisworks-freedom-2026)

@@ -85,7 +85,7 @@ chapter, the editor, scripting, signals, will slot neatly onto it. The
 
 ## See also
 
-- **In this series:** [The editor and your first project →](02-the-editor) · [Overview](../godot)
+- **In this series:** [The editor and your first project →](02-the-editor) · [Overview](topics/software/godot)
 
 ## Sources
 

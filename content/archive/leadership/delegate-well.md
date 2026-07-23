@@ -8,7 +8,7 @@ tags: [leadership, management, delegation, verification]
 created: 2026-07-12
 ---
 
-> Archived 2026-07-12: this note was folded into [whos-got-the-monkey](../../topics/leadership/whos-got-the-monkey) during the v10 consolidation. Kept here unchanged as the version record; the public URL now redirects.
+> Archived 2026-07-12: this note was folded into [whos-got-the-monkey](topics/leadership/whos-got-the-monkey) during the v10 consolidation. Kept here unchanged as the version record; the public URL now redirects.
 
 # Learn to delegate well
 
@@ -43,7 +43,7 @@ Four moves to delegate well:
 
 Assessment: the "essential vs. involved" reframe is a genuinely useful mental model, and the
 four moves are sensible. It's a cleaner, more modern framing of the same lesson as
-[who's got the monkey?](../../topics/leadership/whos-got-the-monkey).
+[who's got the monkey?](topics/leadership/whos-got-the-monkey).
 
 The honest caveat is that it's coaching opinion, not research: no data, a single composite
 example ("Anika"), and the results are asserted. It also under-addresses the real hard parts of
@@ -54,11 +54,11 @@ reframe and the four moves; don't expect the harder questions answered here.
 
 ## See also
 
-- **[Who's got the monkey?](../../topics/leadership/whos-got-the-monkey)** — the vivid classic on the same trap: the
+- **[Who's got the monkey?](topics/leadership/whos-got-the-monkey)** — the vivid classic on the same trap: the
   manager who absorbs everyone's next move.
-- **[Know your own job (the manager's job)](../../topics/leadership/the-managers-job)** — why protecting your own scarce
+- **[Know your own job (the manager's job)](topics/leadership/the-managers-job)** — why protecting your own scarce
   time and focus matters.
-- **[Becoming the boss](../../topics/leadership/becoming-the-boss)** — delegation as the core skill of the doing-to-
+- **[Becoming the boss](topics/leadership/becoming-the-boss)** — delegation as the core skill of the doing-to-
   leading shift.
 
 ## Sources

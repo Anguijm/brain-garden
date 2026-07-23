@@ -8,7 +8,7 @@ tags: [leadership, management, authentic-leadership, verification]
 created: 2026-07-12
 ---
 
-> Archived 2026-07-12: this note was folded into [why-should-anyone-be-led-by-you](../../topics/leadership/why-should-anyone-be-led-by-you) during the v10 consolidation. Kept here unchanged as the version record; the public URL now redirects.
+> Archived 2026-07-12: this note was folded into [why-should-anyone-be-led-by-you](topics/leadership/why-should-anyone-be-led-by-you) during the v10 consolidation. Kept here unchanged as the version record; the public URL now redirects.
 
 # Discovering your authentic leadership
 
@@ -63,10 +63,10 @@ causes results.
 
 ## See also
 
-- **[Why should anyone be led by you?](../../topics/leadership/why-should-anyone-be-led-by-you)** — the close cousin:
+- **[Why should anyone be led by you?](topics/leadership/why-should-anyone-be-led-by-you)** — the close cousin:
   authentic leadership as "be yourself, with more skill."
-- **[Begin with trust](../../topics/leadership/begin-with-trust)** — the authenticity that lets people trust you.
-- **[What makes a leader?](../../topics/leadership/what-makes-a-leader)** — self-awareness, the capability both notes
+- **[Begin with trust](topics/leadership/begin-with-trust)** — the authenticity that lets people trust you.
+- **[What makes a leader?](topics/leadership/what-makes-a-leader)** — self-awareness, the capability both notes
   put first.
 
 ## Sources

@@ -60,7 +60,7 @@ below pins down just how far the oxytocin story has fallen.
   trust and finding your own "wobble."
 - **[What makes a leader?](what-makes-a-leader)** — the emotional intelligence these behaviors
   draw on.
-- **[Using AI well](../../connections/using-ai-well)** — the honest-appraisal habit: a
+- **[Using AI well](connections/using-ai-well)** — the honest-appraisal habit: a
   neuroscience label doesn't make a management claim true.
 
 ## Sources

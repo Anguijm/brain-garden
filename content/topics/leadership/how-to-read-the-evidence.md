@@ -80,7 +80,7 @@ gospel, exactly the standard this vault holds every other confident source to.
 
 - **[Ten rules for leading and building teams](ten-rules)** — the living list these checks
   calibrate.
-- **[Using AI well](../../connections/using-ai-well)** — the same habit, one level up: a
+- **[Using AI well](connections/using-ai-well)** — the same habit, one level up: a
   confident, fluent claim (including ours) is a thing to test, not to swallow.
 
 ## Sources

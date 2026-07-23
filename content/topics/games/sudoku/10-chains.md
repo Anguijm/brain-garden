@@ -45,4 +45,4 @@ the same digit. These reward practice; start with short chains (3 to 5 cells).
 
 ## See also
 
-- **In this series:** [← Colouring](09-colouring) · [Uniqueness →](11-uniqueness) · [Overview](../sudoku)
+- **In this series:** [← Colouring](09-colouring) · [Uniqueness →](11-uniqueness) · [Overview](topics/games/sudoku)

@@ -80,5 +80,5 @@ Next: [Troubleshooting and reference](17-troubleshooting-reference.md).
 
 ## See also
 
-- **In this series:** [← Samples and your computer](15-samples-and-computer) · [Troubleshooting, reset, and reference →](17-troubleshooting-reference) · [Overview](../ep-133-ko2)
-- **[Finite resources](../../../connections/finite-resources)** — resampling as the featured example of building past a memory limit.
+- **In this series:** [← Samples and your computer](15-samples-and-computer) · [Troubleshooting, reset, and reference →](17-troubleshooting-reference) · [Overview](topics/music/ep-133-ko2)
+- **[Finite resources](connections/finite-resources)** — resampling as the featured example of building past a memory limit.

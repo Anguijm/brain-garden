@@ -49,4 +49,4 @@ is where Z dies.
 
 ## See also
 
-- **In this series:** [← Swordfish and Jellyfish](07-swordfish-jellyfish) · [Colouring →](09-colouring) · [Overview](../sudoku)
+- **In this series:** [← Swordfish and Jellyfish](07-swordfish-jellyfish) · [Colouring →](09-colouring) · [Overview](topics/games/sudoku)

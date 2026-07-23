@@ -93,7 +93,7 @@ fine-tuning for behavior, and memory for per-person details, all at the same tim
 
 ## See also
 
-- **In this series:** [← Context engineering](09-context-engineering) · [Evaluation and testing →](11-evaluation-and-testing) · [Overview](../ai-engineering)
+- **In this series:** [← Context engineering](09-context-engineering) · [Evaluation and testing →](11-evaluation-and-testing) · [Overview](topics/ai-engineering)
 
 ## Sources
 

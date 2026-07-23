@@ -47,4 +47,4 @@ swordfish. The payoff, as always, is the elimination in the crossing lines.
 
 ## See also
 
-- **In this series:** [← X-Wing](06-x-wing) · [Wings →](08-wings) · [Overview](../sudoku)
+- **In this series:** [← X-Wing](06-x-wing) · [Wings →](08-wings) · [Overview](topics/games/sudoku)

@@ -59,7 +59,7 @@ is exactly why the vault labels sources rather than swallowing them.
   six behaviors here.
 - **[Teamwork on the fly](teamwork-on-the-fly)** — curiosity and empathy,
   the same collaborative mindset.
-- **[Using AI well](../../connections/using-ai-well)** — the reason to label and doubt sources
+- **[Using AI well](connections/using-ai-well)** — the reason to label and doubt sources
   rather than trust a confident name.
 
 ## Sources

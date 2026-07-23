@@ -70,4 +70,4 @@ Next: [Samples and your computer](15-samples-and-computer.md).
 
 ## See also
 
-- **In this series:** [← Performing live](13-performing-live) · [Samples and your computer →](15-samples-and-computer) · [Overview](../ep-133-ko2)
+- **In this series:** [← Performing live](13-performing-live) · [Samples and your computer →](15-samples-and-computer) · [Overview](topics/music/ep-133-ko2)

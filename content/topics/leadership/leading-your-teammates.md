@@ -89,7 +89,7 @@ this library reads its gurus.
   academic clothes.
 - **[What makes a leader?](what-makes-a-leader)** — behaviors 4 and 7 are empathy and social
   skill by another name.
-- **[Using AI well](../../connections/using-ai-well)** — the honest-catch habit: even a
+- **[Using AI well](connections/using-ai-well)** — the honest-catch habit: even a
   seven-time champion's advice gets read as a claim to check, not gospel.
 
 ## Sources

@@ -78,4 +78,4 @@ Next: [Glossary and file types](09-glossary.md).
 
 ## See also
 
-- **In this series:** [← Playing back 4D simulations and animations](07-simulation-playback) · [Glossary and file types →](09-glossary) · [Overview](../navisworks-freedom-2026)
+- **In this series:** [← Playing back 4D simulations and animations](07-simulation-playback) · [Glossary and file types →](09-glossary) · [Overview](topics/software/navisworks-freedom-2026)

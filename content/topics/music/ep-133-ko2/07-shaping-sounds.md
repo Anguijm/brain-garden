@@ -73,4 +73,4 @@ Next: [Sequencing](08-sequencing.md).
 
 ## See also
 
-- **In this series:** [← Chopping a sample across the pads](06-chopping) · [Sequencing →](08-sequencing) · [Overview](../ep-133-ko2)
+- **In this series:** [← Chopping a sample across the pads](06-chopping) · [Sequencing →](08-sequencing) · [Overview](topics/music/ep-133-ko2)

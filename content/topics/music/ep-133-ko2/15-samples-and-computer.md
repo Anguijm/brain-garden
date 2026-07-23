@@ -56,4 +56,4 @@ Next: [Advanced techniques](16-advanced-techniques.md).
 
 ## See also
 
-- **In this series:** [← MIDI and sync](14-midi-and-sync) · [Advanced techniques and recipes →](16-advanced-techniques) · [Overview](../ep-133-ko2)
+- **In this series:** [← MIDI and sync](14-midi-and-sync) · [Advanced techniques and recipes →](16-advanced-techniques) · [Overview](topics/music/ep-133-ko2)

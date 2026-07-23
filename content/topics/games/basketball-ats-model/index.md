@@ -329,12 +329,12 @@ that you will never read a "60 percent guaranteed winners" pitch the same way ag
   discovery loop behind this build, the state of the art in tabular prediction
   (trees vs deep learning vs foundation models), and the parlay/SGP math of modern
   sportsbooks.
-- **[AI agent engineering](../../ai-engineering)** — the same discipline on different
+- **[AI agent engineering](topics/ai-engineering)** — the same discipline on different
   models: evaluation, leakage, and not fooling yourself, applied to LLMs.
-- **[How to read the evidence](../../leadership/how-to-read-the-evidence)** — the
+- **[How to read the evidence](topics/leadership/how-to-read-the-evidence)** — the
   vault's decoder for calibration, effect sizes, and why "statistically significant"
   is a low bar.
-- **[Using AI well](../../../connections/using-ai-well)** — a confident model output
+- **[Using AI well](connections/using-ai-well)** — a confident model output
   is a claim to test, not a prediction to bet.
 
 ## Sources

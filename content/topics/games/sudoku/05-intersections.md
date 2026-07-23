@@ -49,4 +49,4 @@ spots for this digit in one box?" (claiming). These two are the most reliable
 
 ## See also
 
-- **In this series:** [← Hidden subsets](04-hidden-subsets) · [X-Wing →](06-x-wing) · [Overview](../sudoku)
+- **In this series:** [← Hidden subsets](04-hidden-subsets) · [X-Wing →](06-x-wing) · [Overview](topics/games/sudoku)

@@ -211,4 +211,4 @@ synthesize and re-publish, with honest labels per the vault's rules.
 
 ## See also
 
-- **In this series:** [← Staying current](13-staying-current) · [Overview](../defense-bd-playbook)
+- **In this series:** [← Staying current](13-staying-current) · [Overview](topics/business-development/defense-bd-playbook)

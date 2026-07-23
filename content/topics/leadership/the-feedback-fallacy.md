@@ -93,7 +93,7 @@ way to "never correct anyone." The authors themselves don't go that far.
   applied to coaching conversations.
 - **[The set-up-to-fail syndrome](set-up-to-fail)** — what happens when a boss's judgment goes
   the other way: distrust and criticism that quietly create a poor performer.
-- **[Using AI well](../../connections/using-ai-well)** — the rater problem is this garden's
+- **[Using AI well](connections/using-ai-well)** — the rater problem is this garden's
   spine: a confident judgment is a claim to check, not the truth.
 
 ## Sources

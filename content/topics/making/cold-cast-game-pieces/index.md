@@ -9,7 +9,7 @@ created: 2026-06-28
 
 # Weighty board game pieces with cold-casting (Bambu X1C)
 
-This is the companion to the [electroplating article](../plated-game-components). If
+This is the companion to the [electroplating article](topics/making/plated-game-components). If
 what you actually want is **heavy, metal-feeling** components, and you're printing on
 a **Bambu Lab X1C** (an FDM filament printer), cold-casting is usually the better
 route than plating: no chemistry bath, real heft, and you can pour a batch from one
@@ -128,10 +128,10 @@ cold-cast metal-resin, then add **steel or tungsten** to the back-fill for real
 heft. If you want the quick version, print the piece hollow and fill it with
 **epoxy + steel shot**. Either way you get the metal feel and repeatable batches
 without an electroplating bench. For the brighter, plated-metal finish instead, see
-the [electroplating route](../plated-game-components).
+the [electroplating route](topics/making/plated-game-components).
 
 ## See also
 
-- **[Making with the X1C](../../../connections/making-with-the-x1c)** — the shared-toolchain thread.
-- **[Metal-look game pieces (electroplating)](../plated-game-components)** — the plating route to the same heavy-piece goal.
-- **[Plastic-and-tissue model aircraft](../3d-printed-tissue-aircraft)** — same printer, opposite goal (minimum weight).
+- **[Making with the X1C](connections/making-with-the-x1c)** — the shared-toolchain thread.
+- **[Metal-look game pieces (electroplating)](topics/making/plated-game-components)** — the plating route to the same heavy-piece goal.
+- **[Plastic-and-tissue model aircraft](topics/making/3d-printed-tissue-aircraft)** — same printer, opposite goal (minimum weight).

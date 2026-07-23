@@ -111,9 +111,9 @@ these points to them.
 
 ## See also
 
-- **In this series:** [← A simple daily plan](04-daily-plan) · [Overview](../supplements-for-midlife)
+- **In this series:** [← A simple daily plan](04-daily-plan) · [Overview](topics/health/supplements-for-midlife)
 - **[The core stack that actually works](01-core-stack)** — the core stack these tweaks modify.
-- **[Muscle, aging, and anabolic resistance](../muscle-protein-synthesis-aging)** — the muscle science behind the protein advice.
+- **[Muscle, aging, and anabolic resistance](topics/health/muscle-protein-synthesis-aging)** — the muscle science behind the protein advice.
 
 ## Sources
 

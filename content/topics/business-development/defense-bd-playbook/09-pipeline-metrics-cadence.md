@@ -85,5 +85,5 @@ Next: [Using Gen AI in BD without fooling yourself](10-gen-ai-in-bd.md).
 
 ## See also
 
-- **In this series:** [← Relationships, ethics, and OCI](08-relationships-ethics-oci) · [Using Gen AI in BD without fooling yourself →](10-gen-ai-in-bd) · [Overview](../defense-bd-playbook)
-- **[Finite resources](../../../connections/finite-resources)** — people-hours as a hard ceiling: a tight pipeline beats a sprawling one.
+- **In this series:** [← Relationships, ethics, and OCI](08-relationships-ethics-oci) · [Using Gen AI in BD without fooling yourself →](10-gen-ai-in-bd) · [Overview](topics/business-development/defense-bd-playbook)
+- **[Finite resources](connections/finite-resources)** — people-hours as a hard ceiling: a tight pipeline beats a sprawling one.

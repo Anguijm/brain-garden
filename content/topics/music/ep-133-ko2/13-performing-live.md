@@ -63,4 +63,4 @@ Next: [MIDI and sync](14-midi-and-sync.md).
 
 ## See also
 
-- **In this series:** [← Arranging](12-arranging) · [MIDI and sync →](14-midi-and-sync) · [Overview](../ep-133-ko2)
+- **In this series:** [← Arranging](12-arranging) · [MIDI and sync →](14-midi-and-sync) · [Overview](topics/music/ep-133-ko2)

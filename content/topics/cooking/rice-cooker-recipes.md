@@ -120,7 +120,7 @@ Assessment (across sources): treat it as a steamer, slow cooker, and porridge po
 
 ## See also
 
-- **[Making with the X1C](../../connections/making-with-the-x1c)** — a different 'one tool, many jobs' story (there one printer, here one appliance).
+- **[Making with the X1C](connections/making-with-the-x1c)** — a different 'one tool, many jobs' story (there one printer, here one appliance).
 
 ## Sources
 

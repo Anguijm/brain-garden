@@ -118,7 +118,7 @@ what the [next chapter](05-first-game) does.
 
 ## See also
 
-- **In this series:** [← GDScript](03-gdscript) · [Building a small game →](05-first-game) · [Overview](../godot)
+- **In this series:** [← GDScript](03-gdscript) · [Building a small game →](05-first-game) · [Overview](topics/software/godot)
 
 ## Sources
 

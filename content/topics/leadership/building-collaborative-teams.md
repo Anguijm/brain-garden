@@ -112,7 +112,7 @@ scoreboard.
   cost, and how a few helpful people end up carrying too much of it.
 - **[Managing multicultural teams](multicultural-teams)** — the culture-specific version of
   this note's diversity friction, with fixes.
-- **[Finite resources](../../connections/finite-resources)** — a cousin idea from elsewhere
+- **[Finite resources](connections/finite-resources)** — a cousin idea from elsewhere
   in the garden: a smaller, tighter effort often beats a big one spread thin.
 
 ## Sources

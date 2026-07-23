@@ -71,4 +71,4 @@ Start with [Install and open a model](01-install-and-open.md).
 
 ## See also
 
-- **[Godot, a plain-English course](../godot)** — another plain-English, step-by-step software course in the garden.
+- **[Godot, a plain-English course](topics/software/godot)** — another plain-English, step-by-step software course in the garden.

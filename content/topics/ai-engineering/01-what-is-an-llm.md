@@ -98,7 +98,7 @@ model writes and reasons; everything else helps it act, remember, and stay accur
 
 ## See also
 
-- **In this series:** [How to write a good prompt →](02-how-to-prompt) · [Overview](../ai-engineering)
+- **In this series:** [How to write a good prompt →](02-how-to-prompt) · [Overview](topics/ai-engineering)
 
 ## Sources
 

@@ -113,7 +113,7 @@ walled-off setup, along with safety limits. (Anthropic.) That is exactly what th
 
 ## See also
 
-- **In this series:** [← Pictures and voice (multimodal)](05-pictures-and-voice) · [Tools and MCP →](07-tools-and-mcp) · [Overview](../ai-engineering)
+- **In this series:** [← Pictures and voice (multimodal)](05-pictures-and-voice) · [Tools and MCP →](07-tools-and-mcp) · [Overview](topics/ai-engineering)
 - **[Multi-agent systems](12-multi-agent-systems)** — what happens when several agents work together.
 
 ## Sources

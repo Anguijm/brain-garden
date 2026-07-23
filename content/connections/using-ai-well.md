@@ -14,17 +14,17 @@ drafting assistant, never as an oracle, and verify before you rely.
 
 ## The thread
 
-- **[AI engineering: evaluation and testing](../topics/ai-engineering/11-evaluation-and-testing)**
+- **[AI engineering: evaluation and testing](topics/ai-engineering/11-evaluation-and-testing)**
   — how you actually know a model's output is good: golden datasets, LLM-as-judge (and
   its biases), and why you must validate the judge before trusting it.
-- **[AI engineering: safety and best practices](../topics/ai-engineering/13-safety-and-best-practices)**
+- **[AI engineering: safety and best practices](topics/ai-engineering/13-safety-and-best-practices)**
   — overconfidence and hallucination as named failure modes (treat model output as
   untrusted input), and the evaluator-optimizer loop that makes a model critique itself.
-- **[Defense BD: using Gen AI without fooling yourself](../topics/business-development/defense-bd-playbook/10-gen-ai-in-bd)**
+- **[Defense BD: using Gen AI without fooling yourself](topics/business-development/defense-bd-playbook/10-gen-ai-in-bd)**
   — the same argument from a practitioner's seat: a powerful drafting assistant and a
   dangerous oracle, with experimental evidence that AI can degrade exactly the
   high-stakes judgment calls business development runs on.
-- **[White's tree frogs: a bioactive build](../topics/pets/whites-tree-frog-bioactive-japan)**
+- **[White's tree frogs: a bioactive build](topics/pets/whites-tree-frog-bioactive-japan)**
   — the surprise. The terrarium note is a *worked example* of the discipline: it takes
   an AI's confident, detailed build plan and runs an adversarial pass over it, catching
   the contradictions and treating "very confident model numbers" as leads to verify, not

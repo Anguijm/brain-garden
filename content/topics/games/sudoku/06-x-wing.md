@@ -46,4 +46,4 @@ not in the four corner cells.
 
 ## See also
 
-- **In this series:** [← Intersections](05-intersections) · [Swordfish and Jellyfish →](07-swordfish-jellyfish) · [Overview](../sudoku)
+- **In this series:** [← Intersections](05-intersections) · [Swordfish and Jellyfish →](07-swordfish-jellyfish) · [Overview](topics/games/sudoku)

@@ -95,4 +95,4 @@ Next: [The acquisition landscape](03-acquisition-landscape.md).
 
 ## See also
 
-- **In this series:** [← The capture lifecycle](01-capture-lifecycle) · [The acquisition landscape →](03-acquisition-landscape) · [Overview](../defense-bd-playbook)
+- **In this series:** [← The capture lifecycle](01-capture-lifecycle) · [The acquisition landscape →](03-acquisition-landscape) · [Overview](topics/business-development/defense-bd-playbook)

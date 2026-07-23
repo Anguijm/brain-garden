@@ -98,7 +98,7 @@ motion: the game loop, reading the player's input, and signals.
 
 ## See also
 
-- **In this series:** [← The editor and your first project](02-the-editor) · [Making it interactive →](04-interactivity) · [Overview](../godot)
+- **In this series:** [← The editor and your first project](02-the-editor) · [Making it interactive →](04-interactivity) · [Overview](topics/software/godot)
 
 ## Sources
 

@@ -94,7 +94,7 @@ removes, hold a mode button then use `-`/`+` and the knobs.
 
 ## See also
 
-- **In this series:** [← Advanced techniques and recipes](16-advanced-techniques) · [Recipes →](18-recipes) · [Overview](../ep-133-ko2)
+- **In this series:** [← Advanced techniques and recipes](16-advanced-techniques) · [Recipes →](18-recipes) · [Overview](topics/music/ep-133-ko2)
 
 ## Sources
 

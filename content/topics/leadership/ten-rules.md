@@ -10,7 +10,7 @@ updated: 2026-07-12
 
 # Ten rules for leading and building teams
 
-This is the working code for the [leadership library](../leadership): ten short, blunt rules
+This is the working code for the [leadership library](topics/leadership): ten short, blunt rules
 distilled from everything in it, each one linked back to the source it came from. It is
 modeled on Kelly Johnson's famous "14 Rules & Practices" for running Lockheed's Skunk
 Works: few, plain, opinionated, and earned from real work.
@@ -295,6 +295,6 @@ and replications land; the log will record what changed.
 
 ## See also
 
-- **[The leadership library](../leadership)** — the source notes each rule is distilled from.
-- **[Using AI well](../../connections/using-ai-well)** — the same habit under rule zero:
+- **[The leadership library](topics/leadership)** — the source notes each rule is distilled from.
+- **[Using AI well](connections/using-ai-well)** — the same habit under rule zero:
   a confident, quotable rule is a claim to test, not gospel.

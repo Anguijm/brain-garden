@@ -13,18 +13,18 @@ below hits a different wall and answers it the same way.
 
 ## The thread
 
-- **[AI engineering: context engineering](../topics/ai-engineering/09-context-engineering)**
+- **[AI engineering: context engineering](topics/ai-engineering/09-context-engineering)**
   — the ceiling is the **context window**. Context is "a finite resource with diminishing
   marginal returns," and a clean context beats a large one. The fix (compaction) bakes a
   full window down to a summary so you can keep going.
-- **[EP-133 K.O. II: advanced techniques](../topics/music/ep-133-ko2/16-advanced-techniques)**
+- **[EP-133 K.O. II: advanced techniques](topics/music/ep-133-ko2/16-advanced-techniques)**
   — the ceiling is **sample memory and voice count**. Resampling renders a complex
   arrangement down to one cheaper artifact so you can build past the limit, which is
   structurally the same operation as compaction.
-- **[Plastic and tissue: model aircraft](../topics/making/3d-printed-tissue-aircraft)**
+- **[Plastic and tissue: model aircraft](topics/making/3d-printed-tissue-aircraft)**
   — the ceiling is **weight**. You do not beat balsa with a better plastic; you beat it
   with geometry, putting material only where load travels.
-- **[Defense BD: pipeline metrics and cadence](../topics/business-development/defense-bd-playbook/09-pipeline-metrics-cadence)**
+- **[Defense BD: pipeline metrics and cadence](topics/business-development/defense-bd-playbook/09-pipeline-metrics-cadence)**
   — the ceiling is **people-hours**. A smaller pipeline at high win-probability beats a
   sprawling one chased thin; the no-bid gate is the same pruning move.
 
