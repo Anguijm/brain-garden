@@ -33,7 +33,7 @@ Each issue is readable on the web (with links into the rest of this garden) and
 downloadable as the print PDF (source links only).
 
 - **[Vol. 1, No. 1 — Week 29, July 2026](2026-w29)**
-  ([download the PDF](pdf/2026-w29.pdf)) — the Navy's first-ever Vessel
+  ([download the PDF](pdf/2026-w29.08399cbb.pdf)) — the Navy's first-ever Vessel
   Construction Manager contract (\$2.2B to TOTE for the Landing Ship Medium); the May
   2026 shipbuilding plan decoded for the waterfront; the 250,000-worker hiring target;
   Korea's repair bench deepening to three yards; the Singapore lead-maintenance-activity
