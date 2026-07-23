@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-543 citations across 89 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+554 citations across 90 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -32,6 +32,20 @@ This page lists every external link cited anywhere in the garden, article by art
 17. [US Navy Shipbuilding Plan, May 2026 (PDF)](https://media.defense.gov/2026/May/11/2003928909/-1/-1/1/NAVY%20SHIPBUILDING%20PLAN%20MAY%202026.PDF)
 18. [GAO-26-109068](https://www.gao.gov/products/gao-26-109068)
 19. [Naval News, Apr 2026](https://www.navalnews.com/naval-news/2026/04/australian-defence-strategy-spends-big-on-submarines-frigates/)
+
+### [The Waterfront Brief, Vol. 1 No. 2 (week 30)](projects/waterfront-brief/2026-w30)
+
+1. [USNI News, Jul 16, 2026](https://news.usni.org/2026/07/16/saronic-announces-texas-site-for-new-3-2b-shipyard)
+2. [Naval News, Jul 2026](https://www.navalnews.com/naval-news/2026/07/saronic-port-alpha-shipyard-texas-autonomous-naval-vessels/)
+3. [GAO-25-107152, Sep 3, 2025](https://www.gao.gov/products/gao-25-107152)
+4. [GAO-26-109068, Apr 22, 2026](https://www.gao.gov/products/gao-26-109068)
+5. [Ahsan et al., arXiv:2409.00877 (preprint, Sep 2024)](https://arxiv.org/abs/2409.00877)
+6. [USNI News, Jul 20, 2026](https://news.usni.org/2026/07/20/new-navy-pae-maritime-shipbuilding-office-reaches-ioc)
+7. [USNI News, Apr 10, 2026](https://news.usni.org/2026/04/10/navy-to-inactivate-attack-boat-uss-boise-after-1-6b-repair-effort)
+8. [USNI News, Jun 16, 2026](https://news.usni.org/2026/06/16/senate-house-defense-bills-propose-restrictions-on-u-s-warships-built-in-foreign-yards-legislation-limits-navy-secretarys-ability-to-rename-ships)
+9. [Naval News, Jul 10, 2026](https://www.navalnews.com/naval-news/2026/07/us-navy-rfi-south-korea-shipbuilding-destroyers/)
+10. [Naval News, Jun 4, 2026](https://www.navalnews.com/naval-news/2026/06/u-s-eyes-warships-from-japanese-and-south-korean-shipyards/)
+11. [USNI News, Jul 17, 2026](https://news.usni.org/2026/07/17/philly-shipyard-to-build-golden-defender-ship-as-part-of-new-missile-defense-program)
 
 ## AI engineering
 
