@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-557 citations across 90 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+562 citations across 91 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -478,6 +478,14 @@ This page lists every external link cited anywhere in the garden, article by art
 
 1. [Kluger & DeNisi in Psychological Bulletin](https://doi.org/10.1037/0033-2909.119.2.254)
 2. [(April 2024)](https://hbr.org/2024/04/how-to-lead-your-first-one-on-one-meeting)
+
+### [Frontline workers know how to solve your problems](topics/leadership/frontline-problem-solving)
+
+1. [Burris 2012 on managers punishing challenging voice](https://journals.aom.org/doi/10.5465/amj.2010.0562)
+2. [hbr.org/frontline-workers-know-how-to-solve-your-organizations-biggest-problems](https://hbr.org/2026/07/frontline-workers-know-how-to-solve-your-organizations-biggest-problems)
+3. [gallup.com/administered-employee-engagement-survey.aspx](https://www.gallup.com/workplace/467504/administered-employee-engagement-survey.aspx)
+4. [journals.sagepub.com/0001839213510151](https://journals.sagepub.com/doi/abs/10.1177/0001839213510151)
+5. [link.springer.com/s10869-007-9055-8](https://link.springer.com/article/10.1007/s10869-007-9055-8)
 
 ### [Are you a good boss, or a great one?](topics/leadership/good-boss-great-one)
 

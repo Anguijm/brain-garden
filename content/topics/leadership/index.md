@@ -5,7 +5,7 @@ title: "Leadership and management: a working knowledge base"
 status: curated
 tags: [leadership, management, teams, verification]
 created: 2026-07-11
-updated: 2026-07-12
+updated: 2026-07-24
 ---
 
 # Leadership and management: a working knowledge base
@@ -139,6 +139,10 @@ evidence verdict, so you can see what to trust before you tap.
   report's meeting. *(evidence: mixed)*
 - **[How to lead your first one-on-one](first-one-on-one)** — Mayberry's tactical starter
   guide. *(evidence: mixed)*
+- **[Frontline workers know how to solve your problems](frontline-problem-solving)** — Hadley
+  and Lovich on a six-step loop that turns frontline ideas into action, run as a machine, not a
+  forum. *(evidence: mixed; one consultant case, but the failure modes it avoids are well
+  documented)*
 
 **Building teams (what makes a team work):**
 
