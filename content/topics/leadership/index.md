@@ -141,8 +141,11 @@ evidence verdict, so you can see what to trust before you tap.
   guide. *(evidence: mixed)*
 - **[Frontline workers know how to solve your problems](frontline-problem-solving)** — a
   six-step loop that turns frontline ideas into action, run as a machine, not a forum, with how
-  Toyota, Alcoa, and lean daily management actually instrument it. *(evidence: mixed for the
-  HBR case, well-supported for the practice, from steel-line and 44-plant studies)*
+  Toyota, Alcoa, and manufacturing daily management actually instrument it. *(evidence: mixed for
+  the HBR case, well-supported for the practice, from steel-line and 44-plant studies)*
+- **[Turning frontline input into action: a build-it guide](frontline-input-playbook)** — the
+  plain-language how-to companion: the handful of mechanics that make frontline input work,
+  stripped of methodology branding and jargon. *(evidence: distilled from the note above)*
 
 **Building teams (what makes a team work):**
 
