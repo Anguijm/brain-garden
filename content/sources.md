@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-562 citations across 91 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+570 citations across 91 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -481,11 +481,19 @@ This page lists every external link cited anywhere in the garden, article by art
 
 ### [Frontline workers know how to solve your problems](topics/leadership/frontline-problem-solving)
 
-1. [Burris 2012 on managers punishing challenging voice](https://journals.aom.org/doi/10.5465/amj.2010.0562)
-2. [hbr.org/frontline-workers-know-how-to-solve-your-organizations-biggest-problems](https://hbr.org/2026/07/frontline-workers-know-how-to-solve-your-organizations-biggest-problems)
-3. [gallup.com/administered-employee-engagement-survey.aspx](https://www.gallup.com/workplace/467504/administered-employee-engagement-survey.aspx)
-4. [journals.sagepub.com/0001839213510151](https://journals.sagepub.com/doi/abs/10.1177/0001839213510151)
-5. [link.springer.com/s10869-007-9055-8](https://link.springer.com/article/10.1007/s10869-007-9055-8)
+1. [quality-circles meta-analysis](https://link.springer.com/article/10.1007/s10869-007-9055-8)
+2. [Burris on punishing challenging voice](https://journals.aom.org/doi/10.5465/amj.2010.0562)
+3. [hbr.org/frontline-workers-know-how-to-solve-your-organizations-biggest-problems](https://hbr.org/2026/07/frontline-workers-know-how-to-solve-your-organizations-biggest-problems)
+4. [gallup.com/administered-employee-engagement-survey.aspx](https://www.gallup.com/workplace/467504/administered-employee-engagement-survey.aspx)
+5. [journals.sagepub.com/0001839213510151](https://journals.sagepub.com/doi/abs/10.1177/0001839213510151)
+6. [5333](https://www.nber.org/papers/w5333)
+7. [cornellpress.cornell.edu/manufacturing-advantage](https://www.cornellpress.cornell.edu/book/9780801486555/manufacturing-advantage/)
+8. [via the Internet Archive](https://archive.org/details/40years20million0000yasu)
+9. [cumulative milestones](https://mag.toyota.co.uk/toyota-and-the-power-of-suggestion/)
+10. [Kata is at the Lean Enterprise Institute](https://www.lean.org/lexicon-terms/kata/)
+11. [forbes.com/have-we-learned-the-alcoa-keystone-habit-lesson](https://www.forbes.com/sites/roddwagner/2019/01/22/have-we-learned-the-alcoa-keystone-habit-lesson/)
+12. [leanblog.org/lean-daily-management-what-how-start](https://www.leanblog.org/2026/04/lean-daily-management-what-how-start/)
+13. [navsea.navy.mil/improvement-processes-reduce-materials-backlog-for-deck-plate-workers-at-pearl](https://www.navsea.navy.mil/Media/News/Article/3007328/improvement-processes-reduce-materials-backlog-for-deck-plate-workers-at-pearl/)
 
 ### [Are you a good boss, or a great one?](topics/leadership/good-boss-great-one)
 

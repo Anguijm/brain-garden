@@ -139,10 +139,10 @@ evidence verdict, so you can see what to trust before you tap.
   report's meeting. *(evidence: mixed)*
 - **[How to lead your first one-on-one](first-one-on-one)** — Mayberry's tactical starter
   guide. *(evidence: mixed)*
-- **[Frontline workers know how to solve your problems](frontline-problem-solving)** — Hadley
-  and Lovich on a six-step loop that turns frontline ideas into action, run as a machine, not a
-  forum. *(evidence: mixed; one consultant case, but the failure modes it avoids are well
-  documented)*
+- **[Frontline workers know how to solve your problems](frontline-problem-solving)** — a
+  six-step loop that turns frontline ideas into action, run as a machine, not a forum, with how
+  Toyota, Alcoa, and lean daily management actually instrument it. *(evidence: mixed for the
+  HBR case, well-supported for the practice, from steel-line and 44-plant studies)*
 
 **Building teams (what makes a team work):**
 
