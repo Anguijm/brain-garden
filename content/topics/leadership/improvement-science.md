@@ -129,7 +129,7 @@ Deming rejected the more common "plan-do-check-act" label outright, writing to a
 "be sure to call it PDSA, not the corruption PDCA," and elsewhere "what you propose is not the
 Deming cycle... How the PDCA ever came into existence I know not" (Moen & Norman, *Quality
 Progress*, 2010). "Check" means verify that you complied. "Study" means find out what happened,
-including the part you did not expect. FACT: the same account records that the requirement to
+including the part you did not expect. FACT: Moen and Norman record that the requirement to
 write down a prediction before you run the test was added deliberately, to force the comparison
 between what you expected and what you got. Assessment: that single habit, writing the predicted
 number before the change, is most of the value. It is what separates an experiment from a rollout
@@ -225,7 +225,7 @@ hours, skills, and a capable first-line leader supplies the thing that predicted
 in any change: they pass on the facts, translate them into what this unit specifically must do,
 identify the actual tasks required, and justify the change to the people doing it; their position
 between the top and the floor is what lets information cross at all (Birken et al., *Implementation
-Science*, 2012). FACT: and when the link was measured, top-management exhortation had only a weak
+Science*, 2012). FACT: when the link was measured, top-management exhortation had only a weak
 direct effect on middle managers' commitment, while the firmer path ran through concrete allocated
 policies such as what showed up in performance reviews (Birken et al., 2015). Assessment: your
 support is worth what it changes about someone's calendar and evaluation, and nothing more.
