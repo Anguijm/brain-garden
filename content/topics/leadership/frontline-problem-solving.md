@@ -217,6 +217,9 @@ theater you already distrust.
 
 ## See also
 
+- **[Improvement science from a leadership perspective](improvement-science)** — the hub this note
+  sits under: the wider discipline, how to read variation before you react to it, and a blunt
+  account of which parts of the field hold up.
 - **[Psychological safety](psychological-safety)** — the precondition: people only surface the
   real obstacles when speaking up feels safe, which is the whole reason Step 1 is confidential.
 - **[The power of small wins](power-of-small-wins)** — why the "visible win in weeks" rule

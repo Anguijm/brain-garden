@@ -150,6 +150,9 @@ you have the discipline every high-consequence industry converged on.
 
 ## See also
 
+- **[Improvement science from a leadership perspective](improvement-science)** — the hub this note
+  sits under: the wider discipline both lanes belong to, how to read variation before you react to
+  it, and how much of the field actually holds up.
 - **[Turning frontline input into action: a build-it guide](frontline-input-playbook)** — the
   other lane: discretionary improvement work, where you try bounded bets rather than judge
   deviations from a fixed standard. Most real work needs both.

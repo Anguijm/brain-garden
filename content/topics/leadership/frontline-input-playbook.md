@@ -145,6 +145,9 @@ alone. The evidence, the numbers, and the sources are in
 
 ## See also
 
+- **[Improvement science from a leadership perspective](improvement-science)** — the hub this note
+  sits under: the wider discipline, how to read variation before you react to it, and a blunt
+  account of which parts of the field hold up.
 - **[Frontline workers know how to solve your problems](frontline-problem-solving)** — the why
   and the evidence behind this build, including the industrial cases and the studies.
 - **[Psychological safety](psychological-safety)** — people only raise the real problems when it

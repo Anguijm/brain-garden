@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-577 citations across 92 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+618 citations across 93 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -533,6 +533,50 @@ This page lists every external link cited anywhere in the garden, article by art
 4. [De Dreu & Weingart 2003](https://doi.org/10.1037/0021-9010.88.4.741)
 5. [Judge et al. 2002](https://doi.org/10.1037/0021-9010.87.4.765)
 6. [Bernerth et al. 2023](https://doi.org/10.1002/job.2708)
+
+### [Improvement science from a leadership perspective](topics/leadership/improvement-science)
+
+1. [run chart rules](https://www.crohnscolitisfoundation.org/sites/default/files/2025-07/Perla%20et%20al_2010_The%20run%20chart-%20a%20simple%20analytical%20tool%20for%20learning%20from%20variation%20in%20healthcare%20processes.pdf)
+2. [trend rule specifically refuted by simulation](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0113825)
+3. [randomized controlled trial](https://poverty-action.org/sites/default/files/publications/Does-Management-Matter-Evidence-from-India-Bloom-et-al-2013.pdf)
+4. [systematic review](https://www.crohnscolitisfoundation.org/sites/default/files/2025-07/Taylor%20et%20al_2013_PDSA_Systematic_Review_BMJ.pdf)
+5. [failed to replicate](https://pmc.ncbi.nlm.nih.gov/articles/PMC3585494/)
+6. [health.org.uk/ImprovementScience.pdf](https://www.health.org.uk/sites/default/files/ImprovementScience.pdf)
+7. [and https://www.ihi.org/about/history](https://www.ihi.org/library/topics/improvement-capability)
+8. [https://www.ihi.org/library/topics/improvement-capability and](https://www.ihi.org/about/history)
+9. [verbatim in a free document](https://files.eric.ed.gov/fulltext/ED401635.pdf)
+10. [deming.org/On-Probability-As-a-Basis-For-Action-1975.pdf](https://deming.org/wp-content/uploads/2020/06/On-Probability-As-a-Basis-For-Action-1975.pdf)
+11. [ihi.org/model-for-improvement](https://www.ihi.org/library/model-for-improvement)
+12. [NHS-hosted copy](https://qi.elft.nhs.uk/wp-content/uploads/2026/02/ron-cliff-circling-back.pdf)
+13. [elft.nhs.uk/Shewharts-Forgotten-Lessons.pdf](https://www.elft.nhs.uk/sites/default/files/import-news/Shewharts-Forgotten-Lessons.pdf)
+14. [pdfs.semanticscholar.org/14d01e662ccefa81b4ca520ee709f8e8c2b5.pdf](https://pdfs.semanticscholar.org/4ccd/14d01e662ccefa81b4ca520ee709f8e8c2b5.pdf)
+15. [bristol.ac.uk/statistical-issues-for-league-tables1.pdf](https://www.bristol.ac.uk/media-library/sites/cmm/migrated/documents/statistical-issues-for-league-tables1.pdf)
+16. [paywalled; the figures are in the free abstract](https://pubmed.ncbi.nlm.nih.gov/27034337/)
+17. [england.nhs.uk/making-data-count-strengthening-your-decisions.pdf](https://www.england.nhs.uk/wp-content/uploads/2019/12/making-data-count-strengthening-your-decisions.pdf)
+18. [pmc.ncbi.nlm.nih.gov/PMC6560463](https://pmc.ncbi.nlm.nih.gov/articles/PMC6560463/)
+19. [pmc.ncbi.nlm.nih.gov/PMC3704826](https://pmc.ncbi.nlm.nih.gov/articles/PMC3704826/)
+20. [pmc.ncbi.nlm.nih.gov/PMC3142336](https://pmc.ncbi.nlm.nih.gov/articles/PMC3142336/)
+21. [text paywalled; figures in the free abstract](https://pubmed.ncbi.nlm.nih.gov/24620866/)
+22. [academic.oup.com/1750317](https://academic.oup.com/intqhc/article/28/2/150/1750317)
+23. [(2008) — 72 studies, 9 with a control design](https://pmc.ncbi.nlm.nih.gov/articles/PMC2440907/)
+24. [free route found; abstract](https://pubmed.ncbi.nlm.nih.gov/29055899/)
+25. [cochrane.org/CD000259_audit-and-feedback-effects-professional-practice](https://www.cochrane.org/evidence/CD000259_audit-and-feedback-effects-professional-practice)
+26. [hosted PDF](https://sites.bu.edu/ciis/files/2016/10/Dixon-Woods.pdf)
+27. [static1.squarespace.com/decoding_dna+of+TPS.pdf](https://static1.squarespace.com/static/5356f7d5e4b0fe1121e2cb5b/t/565278a3e4b058e88fcd6f1b/1448245411007/decoding_dna+of+TPS.pdf)
+28. [associations](https://pmc.ncbi.nlm.nih.gov/articles/PMC3037175/)
+29. [pubmed.ncbi.nlm.nih.gov/22914176](https://pubmed.ncbi.nlm.nih.gov/22914176/)
+30. [pmc.ncbi.nlm.nih.gov/PMC3372435](https://pmc.ncbi.nlm.nih.gov/articles/PMC3372435/)
+31. [pmc.ncbi.nlm.nih.gov/PMC4141032](https://pmc.ncbi.nlm.nih.gov/articles/PMC4141032/)
+32. [utsouthwestern.edu/why-hospitals-dont-learn.pdf](https://www.utsouthwestern.edu/employees/leadership-programs/leadership-foundations/why-hospitals-dont-learn.pdf)
+33. [web.mit.edu/Repenning=Sterman_CMR_su01_.pdf](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
+34. [health.org.uk/ContextForSuccessfulQualityImprovement.pdf](https://www.health.org.uk/sites/default/files/ContextForSuccessfulQualityImprovement.pdf)
+35. [nber.org/w24249.pdf](https://www.nber.org/system/files/working_papers/w24249/w24249.pdf)
+36. [aeaweb.org/articles](https://www.aeaweb.org/articles?id=10.1257/aer.20170491)
+37. [gwern.net/1997-strathern.pdf](https://gwern.net/doc/statistics/decision/1997-strathern.pdf)
+38. [ambulance times](https://pmc.ncbi.nlm.nih.gov/articles/PMC1370980/)
+39. [vaoig.gov/VAOIG-14-02603-267.pdf](https://www.vaoig.gov/sites/default/files/reports/2014-08/VAOIG-14-02603-267.pdf)
+40. [files.eric.ed.gov/ED517575.pdf](https://files.eric.ed.gov/fulltext/ED517575.pdf)
+41. [carnegiefoundation.org/six-core-principles-improvement](https://www.carnegiefoundation.org/about/improvement-in-education/six-core-principles-improvement/)
 
 ### [Developing your leadership pipeline](topics/leadership/leadership-pipeline)
 

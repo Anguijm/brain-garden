@@ -5,7 +5,7 @@ title: "Leadership and management: a working knowledge base"
 status: curated
 tags: [leadership, management, teams, verification]
 created: 2026-07-11
-updated: 2026-07-24
+updated: 2026-07-25
 ---
 
 # Leadership and management: a working knowledge base
@@ -40,7 +40,7 @@ dig into the sources behind any rule that grabs you.
 
 ## Start here by situation
 
-Five common situations, each with a short reading path in order:
+Six common situations, each with a short reading path in order:
 
 - **You just became a manager:** [Becoming the boss](becoming-the-boss) →
   [Are you a good boss, or a great one?](good-boss-great-one) →
@@ -62,10 +62,15 @@ Five common situations, each with a short reading path in order:
   [The secrets of great teamwork](secrets-of-great-teamwork) →
   [Building collaborative teams](building-collaborative-teams) →
   [Teamwork on the fly](teamwork-on-the-fly)
+- **You want to make the work itself better:**
+  [Improvement science from a leadership perspective](improvement-science) →
+  [Frontline workers know how to solve your problems](frontline-problem-solving) →
+  [Turning frontline input into action](frontline-input-playbook) →
+  [Standards and deviations](standards-and-deviations)
 
 ## How this is organized
 
-The library sorts into seven groups that keep pointing at each other. Each entry carries its
+The library sorts into eight groups that keep pointing at each other. Each entry carries its
 evidence verdict, so you can see what to trust before you tap.
 
 **Leading people (who you are as a leader):**
@@ -139,17 +144,30 @@ evidence verdict, so you can see what to trust before you tap.
   report's meeting. *(evidence: mixed)*
 - **[How to lead your first one-on-one](first-one-on-one)** — Mayberry's tactical starter
   guide. *(evidence: mixed)*
-- **[Frontline workers know how to solve your problems](frontline-problem-solving)** — a
-  six-step loop that turns frontline ideas into action, run as a machine, not a forum, with how
-  Toyota, Alcoa, and manufacturing daily management actually instrument it. *(evidence: mixed for
-  the HBR case, well-supported for the practice, from steel-line and 44-plant studies)*
+**Improvement science (making the work itself better):**
+
+Four notes that belong together, and the hub frames them. This is the discipline of changing how
+work is done and knowing whether the change actually helped. It splits into two lanes: the
+discretionary lane, where nobody has written down the one right way and you try bounded bets, and
+the governed lane, where a policy already says how the job is done and the question is how it
+safely changes.
+
+- **[Improvement science from a leadership perspective](improvement-science)** — the hub: what the
+  field is, how to read variation before you react to it, and a blunt account of which parts hold
+  up. *(evidence: well-supported for variation and for management practice, weak-to-mixed for the
+  improvement methods themselves)*
+- **[Frontline workers know how to solve your problems](frontline-problem-solving)** — the
+  discretionary lane: a six-step loop that turns frontline ideas into action, run as a machine, not
+  a forum, with how Toyota, Alcoa, and manufacturing daily management actually instrument it.
+  *(evidence: mixed for the HBR case, well-supported for the practice, from steel-line and
+  44-plant studies)*
 - **[Turning frontline input into action: a build-it guide](frontline-input-playbook)** — the
   plain-language how-to companion: the handful of mechanics that make frontline input work,
   stripped of methodology branding and jargon. *(evidence: distilled from the note above)*
 - **[Standards and deviations: how settled work safely changes](standards-and-deviations)** — the
-  other lane: governed/standard work, and how a documented, measured deviation gets judged a new
-  standard or a one-off, the loop every high-consequence industry converged on. *(evidence:
-  well-supported for the loop, from process safety, pharma, aviation, and manufacturing)*
+  governed lane: how a documented, measured deviation gets judged a new standard or a one-off, the
+  loop every high-consequence industry converged on. *(evidence: well-supported for the loop, from
+  process safety, pharma, aviation, and manufacturing)*
 
 **Building teams (what makes a team work):**
 
