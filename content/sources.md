@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-570 citations across 91 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+577 citations across 92 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -639,6 +639,16 @@ This page lists every external link cited anywhere in the garden, article by art
 1. [McCauley et al.](https://doi.org/10.1016/j.leaqua.2006.10.006)
 2. [Strang and Kuhnert (2009)](https://doi.org/10.1016/j.leaqua.2009.03.009)
 3. [Review (April 2005)](https://hbr.org/2005/04/seven-transformations-of-leadership)
+
+### [Standards and deviations: how settled work safely changes](topics/leadership/standards-and-deviations)
+
+1. [process safety](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.119)
+2. [improvement science](https://deming.org/explore/pdsa/)
+3. [aerospace](https://sma.nasa.gov/docs/default-source/safety-messages/safetymessage-normalizationofdeviance-2014-11-03b.pdf)
+4. [NUMMI](http://faculty.marshall.usc.edu/Paul-Adler/research/HBR%20NUMMI.pdf)
+5. [Safety-II](https://www.england.nhs.uk/signuptosafety/wp-content/uploads/sites/16/2015/10/safety-1-safety-2-whte-papr.pdf)
+6. [just culture](https://www.humanfactors.lth.se/fileadmin/lusa/Sidney_Dekker/articles/2008/JustCultureCTW.pdf)
+7. [intuitionlabs.ai/deviations-capa-change-control](https://intuitionlabs.ai/articles/deviations-capa-change-control)
 
 ### [How to build a superteam that keeps getting better](topics/leadership/superteams)
 

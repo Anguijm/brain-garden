@@ -146,6 +146,10 @@ evidence verdict, so you can see what to trust before you tap.
 - **[Turning frontline input into action: a build-it guide](frontline-input-playbook)** — the
   plain-language how-to companion: the handful of mechanics that make frontline input work,
   stripped of methodology branding and jargon. *(evidence: distilled from the note above)*
+- **[Standards and deviations: how settled work safely changes](standards-and-deviations)** — the
+  other lane: governed/standard work, and how a documented, measured deviation gets judged a new
+  standard or a one-off, the loop every high-consequence industry converged on. *(evidence:
+  well-supported for the loop, from process safety, pharma, aviation, and manufacturing)*
 
 **Building teams (what makes a team work):**
 
