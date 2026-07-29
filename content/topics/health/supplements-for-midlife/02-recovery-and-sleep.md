@@ -36,10 +36,15 @@ lifter, a late pre-workout can quietly wreck the sleep that drives your recovery
 ## Curcumin, for sore joints
 
 FACT: curcumin, the active part of turmeric, is a mild anti-inflammatory that modestly
-reduces muscle soreness after hard workouts, and, more usefully, reduces knee osteoarthritis
-pain in several trials, sometimes comparable to common painkillers. (Meta-analyses of
-curcumin on soreness and on knee OA.) Assessment: the joint-pain use is the stronger one,
-worth a try if your knees complain as you ramp up exercise.
+reduces muscle soreness after hard workouts, and reduces knee osteoarthritis pain in several
+trials. (Meta-analyses of curcumin on soreness and on knee OA.) FACT: the knee-osteoarthritis
+meta-analysis is explicit that it does *not* match an ordinary painkiller: curcuminoids showed
+"significantly fewer effects on pain relief, knee stiffness and physical function" than
+ibuprofen, and are "less effective at relieving pain compared with ibuprofen." (Same
+meta-analysis.) Assessment: the joint-pain use is still the stronger of the two, and worth a
+try if your knees complain as you ramp up exercise, but go in expecting less relief than an
+over-the-counter anti-inflammatory, not the same. (An earlier version said curcumin was
+"sometimes comparable to common painkillers." The cited review says the opposite.)
 
 FACT: there is a catch, plain turmeric is barely absorbed, so you need a formula with
 **piperine** (black pepper extract) or a special "enhanced-absorption" form, which is what
@@ -92,14 +97,21 @@ want help:
 
 - **Magnesium (glycinate)** at night, cheap and low-risk; the sleep evidence is weak but many
   people also just needed more magnesium. Modest.
-- **Glycine**, about 3 grams before bed. FACT: small studies found it improved sleep quality
-  and next-day alertness. (Yamadera 2007.) Assessment: promising but modest, and cheap to
-  try.
-- **Melatonin**, at a **low** dose (0.5 to 3 mg), used short-term. FACT: for plain insomnia it
-  only speeds falling asleep by about 7 to 9 minutes, but it is genuinely useful for jet lag
-  or shift work, and low doses work as well as high ones. (AASM guideline; dose-response
-  analysis.) Assessment: use the smallest dose, do not rely on it every night, and higher
-  doses just cause morning grogginess.
+- **Glycine**, about 3 grams before bed. FACT: Yamadera and colleagues reported improved sleep
+  quality and next-day alertness in a small trial of 11 people. (Yamadera 2007.) Assessment:
+  eleven people is one small study, not a body of evidence. Promising, cheap to try, and
+  nothing more than that.
+- **Melatonin**, at a **low** dose (0.5 to 3 mg), used short-term. FACT: pooling 19 trials in
+  1,683 people, Ferracioli-Oda and colleagues found melatonin cut the time to fall asleep by
+  about 7 minutes on average (95 percent confidence interval 4.4 to 9.8 minutes) and added
+  about 8 minutes of total sleep. (PLOS ONE meta-analysis, 2013.) FACT: the same analysis
+  reported that trials using *higher* doses showed *greater* effects on sleep latency, not
+  equal ones. (Same source.) Assessment: so the popular "low doses work as well as high ones"
+  line is not what this evidence says, and this note previously repeated it. The reason to
+  still start low is practical rather than a claim about strength: a bigger dose buys a few
+  more minutes at the price of morning grogginess, and roughly 7 minutes is a small enough
+  win that feeling drugged the next day is a bad trade. Use the smallest dose that helps,
+  and do not lean on it nightly.
 - **L-theanine**, 100 to 200 mg. Assessment: the meta-analysis behind this found small,
   often uncertain gains in cognition and mood, alone or paired with caffeine; the "takes
   the edge off stress" reputation goes beyond what those trials measured. It is calming
@@ -121,5 +133,5 @@ want help:
 - Vitamin C-enriched gelatin and collagen synthesis (Shaw 2017) — https://pmc.ncbi.nlm.nih.gov/articles/PMC5183725/
 - ACSM Position Stand: exercise and fluid replacement — https://pubmed.ncbi.nlm.nih.gov/17277604/
 - Glycine before bed improves sleep (Yamadera 2007) — https://onlinelibrary.wiley.com/doi/10.1111/j.1479-8425.2007.00262.x
-- Melatonin dose and timing, dose-response meta-analysis — https://onlinelibrary.wiley.com/doi/10.1111/jpi.12985
+- Melatonin for primary sleep disorders, meta-analysis (Ferracioli-Oda 2013, PLOS ONE) — https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0063773
 - L-theanine (alone or with caffeine), cognition, sleep and mood, meta-analysis — https://academic.oup.com/nutritionreviews/article/83/10/1873/8123998

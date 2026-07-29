@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-618 citations across 93 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+624 citations across 93 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -380,6 +380,9 @@ This page lists every external link cited anywhere in the garden, article by art
 11. [Omega-3 for cardiovascular disease, Cochrane review](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full)
 12. [Omega-3 and atrial fibrillation, dose-stratified meta-analysis (Gencer 2021, Circulation)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9109217/)
 13. [Omega-3 and atrial fibrillation risk, meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC8756005/)
+14. [Leucine supplementation meta-analysis, 17 RCTs (2022), Front Nutr](https://pmc.ncbi.nlm.nih.gov/articles/PMC9284268/)
+15. [Deutz et al. (2013), HMB preserves muscle during bed rest, Clin Nutr](https://pubmed.ncbi.nlm.nih.gov/23514626/)
+16. [HMB in sarcopenia, meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC11272589/)
 
 ### [Training, recovery, and sleep](topics/health/supplements-for-midlife/02-recovery-and-sleep)
 
@@ -392,25 +395,28 @@ This page lists every external link cited anywhere in the garden, article by art
 7. [Vitamin C-enriched gelatin and collagen synthesis (Shaw 2017)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5183725/)
 8. [ACSM Position Stand: exercise and fluid replacement](https://pubmed.ncbi.nlm.nih.gov/17277604/)
 9. [Glycine before bed improves sleep (Yamadera 2007)](https://onlinelibrary.wiley.com/doi/10.1111/j.1479-8425.2007.00262.x)
-10. [Melatonin dose and timing, dose-response meta-analysis](https://onlinelibrary.wiley.com/doi/10.1111/jpi.12985)
+10. [Melatonin for primary sleep disorders, meta-analysis (Ferracioli-Oda 2013, PLOS ONE)](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0063773)
 11. [L-theanine (alone or with caffeine), cognition, sleep and mood, meta-analysis](https://academic.oup.com/nutritionreviews/article/83/10/1873/8123998)
 
 ### [The weight-loss aisle, and what can hurt](topics/health/supplements-for-midlife/03-weight-loss-and-harms)
 
 1. [Berberine metabolic effects, meta-analysis](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2022.1013055/full)
-2. [Berberine drug interactions (CYP inhibition)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7600264/)
+2. [Berberine, selective quasi-irreversible CYP2D6 inhibition (2020)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7600264/)
 3. [Green tea for weight loss, Cochrane review](https://www.cochrane.org/evidence/CD008650_green-tea-weight-loss-and-weight-maintenance-overweight-or-obese-adults)
 4. [Green tea extract liver injury, NIH LiverTox](https://www.ncbi.nlm.nih.gov/books/NBK547925/)
-5. [Yohimbine adverse events, poison-control review](https://pubmed.ncbi.nlm.nih.gov/20442348/)
-6. [FDA on DMAA — ; DMHA —](https://www.opss.org/article/dmaa-prohibited-stimulant)
-7. [FDA on DMAA — https://www.opss.org/article/dmaa-prohibited-stimulant ; DMHA](https://www.opss.org/article/dmha-octodrine-dietary-supplement-products)
-8. [FDA warning on SARMs and bodybuilding products](https://www.fda.gov/consumers/consumer-updates/fda-warns-use-selective-androgen-receptor-modulators-sarms-among-teens-young-adults)
-9. [Testosterone boosters, analysis of 50 products](https://journals.sagepub.com/doi/10.1089/andro.2022.0007)
-10. [Vitamin E and prostate cancer, SELECT trial](https://www.cancer.gov/types/prostate/research/select-trial-results-qa)
-11. [Adulterated supplements, JAMA Network Open](https://pmc.ncbi.nlm.nih.gov/articles/PMC6324457/)
-12. [FDA, avoiding products with hidden ingredients](https://www.fda.gov/drugs/medication-health-fraud/avoiding-products-contaminated-hidden-ingredients)
-13. [Third-party testing (NSF Certified for Sport / USADA)](https://www.usada.org/substances/supplement-connect/reduce-risk-testing-positive-experiencing-adverse-health-effects/)
-14. [USPSTF screening (lipids, glucose)](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/screening-for-abnormal-blood-glucose-and-type-2-diabetes-october-2015)
+5. [Glucomannan in overweight and obesity, systematic review (Onakpoya)](https://www.ncbi.nlm.nih.gov/books/NBK195354/)
+6. [Yohimbine adverse events, poison-control review](https://pubmed.ncbi.nlm.nih.gov/20442348/)
+7. [DMAA, DoD Operation Supplement Safety](https://www.opss.org/article/dmaa-prohibited-stimulant)
+8. [DMHA (octodrine), DoD Operation Supplement Safety](https://www.opss.org/article/dmha-octodrine-dietary-supplement-products)
+9. [FDA warning on SARMs](https://www.fda.gov/consumers/consumer-updates/fda-warns-use-selective-androgen-receptor-modulators-sarms-among-teens-young-adults)
+10. [SARMs safety in healthy adults, systematic review (2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10204391/)
+11. [Androgenic steroids and liver injury, NIH LiverTox](https://www.ncbi.nlm.nih.gov/books/NBK548931/)
+12. [Testosterone boosters, analysis of 50 products](https://journals.sagepub.com/doi/10.1089/andro.2022.0007)
+13. [Vitamin E and prostate cancer, SELECT trial](https://www.cancer.gov/types/prostate/research/select-trial-results-qa)
+14. [Adulterated supplements, JAMA Network Open](https://pmc.ncbi.nlm.nih.gov/articles/PMC6324457/)
+15. [FDA, avoiding products with hidden ingredients](https://www.fda.gov/drugs/medication-health-fraud/avoiding-products-contaminated-hidden-ingredients)
+16. [Third-party testing (NSF Certified for Sport / USADA)](https://www.usada.org/substances/supplement-connect/reduce-risk-testing-positive-experiencing-adverse-health-effects/)
+17. [USPSTF screening (lipids, glucose)](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/screening-for-abnormal-blood-glucose-and-type-2-diabetes-october-2015)
 
 ### [If you are prone to gout (high uric acid)](topics/health/supplements-for-midlife/05-gout-and-uric-acid)
 

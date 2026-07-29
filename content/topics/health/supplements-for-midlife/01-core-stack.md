@@ -139,13 +139,14 @@ You may notice this stack leaves out two things a "muscle" supplement pushes har
 
 Assessment: leucine is the amino acid that flips on muscle-building, but you already get
 plenty of it from protein, and whey is especially rich in it. FACT: leucine taken on its own,
-across 17 trials, produced no meaningful gain in muscle or strength. (Meta-analysis, from the
-muscle note.) So hitting your protein target does the job; a separate leucine pill adds little.
+across 17 trials, produced no meaningful gain in muscle or strength. (Leucine meta-analysis,
+*Frontiers in Nutrition* 2022.) So hitting your protein target does the job; a separate
+leucine pill adds little.
 
 Assessment: HMB is made from leucine and mostly slows muscle *breakdown*. FACT: its evidence
 is modest and mostly about sparing muscle during illness or bed rest, and much of the benefit
-disappears once you are training and eating enough protein. (Meta-analyses, from the muscle
-note.) There is a thin case for it while dieting, since it is anti-catabolic, but resistance
+disappears once you are training and eating enough protein. (Deutz 2013 on bed rest; HMB in
+sarcopenia meta-analysis.) There is a thin case for it while dieting, since it is anti-catabolic, but resistance
 training plus enough protein already protect your muscle in a deficit, and the studied dose is
 3 grams (the product had only 1). Assessment: for a healthy, training, well-fed 48-year-old,
 whey plus creatine plus enough protein covers what leucine and HMB are sold to do, more cheaply
@@ -175,3 +176,6 @@ bed rest, at the real 3-gram dose. Neither one raises uric acid, if gout is a co
 - Omega-3 for cardiovascular disease, Cochrane review — https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full
 - Omega-3 and atrial fibrillation, dose-stratified meta-analysis (Gencer 2021, Circulation) — https://pmc.ncbi.nlm.nih.gov/articles/PMC9109217/
 - Omega-3 and atrial fibrillation risk, meta-analysis — https://pmc.ncbi.nlm.nih.gov/articles/PMC8756005/
+- Leucine supplementation meta-analysis, 17 RCTs (2022), *Front Nutr* — https://pmc.ncbi.nlm.nih.gov/articles/PMC9284268/
+- Deutz et al. (2013), HMB preserves muscle during bed rest, *Clin Nutr* — https://pubmed.ncbi.nlm.nih.gov/23514626/
+- HMB in sarcopenia, meta-analysis — https://pmc.ncbi.nlm.nih.gov/articles/PMC11272589/
