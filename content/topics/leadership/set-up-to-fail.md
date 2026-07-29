@@ -27,8 +27,10 @@ unsee.
 *The set-up-to-fail spiral. Each turn makes the next one worse. Diagram.*
 
 1. Something small makes the boss doubt an employee (a missed deadline, a lukewarm handover,
-   or just poor chemistry). FACT: studies find bosses sort people into an "in" group and an
-   "out" group as early as five days in.
+   or just poor chemistry). Assessment: the article reports that bosses sort people into an
+   "in" group and an "out" group very early, within days, citing other researchers for the
+   figure. The uploaded copy of the article is a partial capture that does not contain that
+   citation, so the specific number is not verified here.
 2. The boss, meaning well, tightens the reins: more check-ins, more approvals, more
    second-guessing.
 3. The employee reads the extra scrutiny as "my boss doesn't trust me," starts to doubt
@@ -73,9 +75,9 @@ question. It pairs naturally with the [feedback](the-feedback-fallacy) and
 [individualizing](what-great-managers-do) ideas elsewhere in this library.
 
 The honest caveats. FACT: the authors' own studies are small (about 50 boss-employee pairs,
-plus an informal survey of executives), and some of the striking numbers (the 90 percent, the
-five days) are borrowed from other researchers, not measured here. The vivid quotes are
-illustrations, not data. Assessment: treat the *spiral* as a well-argued pattern to guard
+plus an informal survey of executives), and the striking 90 percent figure is borrowed from
+other researchers rather than measured here. Assessment: the vivid quotes are illustrations,
+not data. Assessment: treat the *spiral* as a well-argued pattern to guard
 against, and the specific figures as suggestive rather than precise. The core lesson, check
 your own role before blaming the person, is sound.
 

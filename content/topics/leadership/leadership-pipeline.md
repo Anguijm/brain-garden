@@ -47,10 +47,11 @@ Assessment: the core principle, marry development to succession and grow people 
 assignments, not just courses, is sound and widely echoed. The "linchpin positions" idea
 (focus your effort on the pivotal roles) is genuinely useful.
 
-The honest caveats. FACT: this rests on six self-selected best-practice companies with no
-comparison group, so it shows what admired firms do, not that it *causes* success; the
-company-reported numbers (attrition rates, internal-hire targets) aren't independently
-audited. Assessment: it also reads as an early-2000s "the web will fix this" piece. Take the
+The honest caveats. FACT: this rests on six best-practice companies with no comparison group,
+and its numbers (attrition rates, internal-hire targets) are the companies' own, with no
+independent audit mentioned. Assessment: picking admired firms and describing what they do
+cannot show that those practices *caused* the success, since there is nothing to compare
+against. Assessment: it also reads as an early-2000s "the web will fix this" piece. Take the
 five rules as solid practice, the specifics as dated.
 
 **Evidence check (2026 review, verdict: mixed).** A large peer-reviewed meta-analysis, [Lacerenza et al. 2017](https://doi.org/10.1037/apl0000241) (Journal of Applied Psychology, 335 samples), confirms that leadership development broadly works, but the best-documented effects come from formal training programs, not from the article's central prescription that experiential, on-the-job development beats classroom learning. That experience-first idea (often sold as the "70-20-10 rule": 70 percent of development from job experiences, 20 from relationships, 10 from courses) has little rigorous empirical support (it traces to self-reported executive surveys), and the article's study-the-winners method has the retrospective bias Phil Rosenzweig's ["halo effect" critique (2007, *California Management Review*)](https://doi.org/10.2307/41166403) flags as a core delusion of best-practice business research. Treat the fusion principle as a reasonable practice, not a demonstrated cause of a leader pipeline. Bottom line: grow people for your pivotal roles openly and on purpose, but pair stretch assignments with well-designed formal training instead of assuming experience alone does the job.

@@ -41,14 +41,22 @@ Assessment: several things you are already doing work in your favor.
   seafood, dairy actually *lowers* gout risk (about 44 percent lower in the highest-dairy
   group of a large study), and milk proteins including whey help the body clear uric acid.
   (Choi 2004; Dalbeth 2010.) So your protein shake is a good choice here, not a risk.
-- **Creatine does not raise uric acid.** FACT: creatine is turned into creatinine, not uric
-  acid, and studies at normal doses show no meaningful rise in urate. One catch to know, it
-  *does* raise creatinine, a kidney blood marker, without harming your kidneys. Assessment:
-  that can look like worsening kidney function on a lab, so tell whoever orders your bloodwork
-  that you take creatine; a "cystatin C" test avoids the confusion.
-- **Coffee, oily fish, and vitamin C lean helpful.** FACT: coffee drinkers have lower gout
-  risk, and vitamin C modestly lowers uric acid (though only a little, so do not rely on it to
-  control gout). Eating oily fish is linked to fewer flares. (Meta-analyses; ACR guideline.)
+- **Creatine is not a urate problem.** FACT: creatine's breakdown product is creatinine, not
+  uric acid, and the International Society of Sports Nutrition's safety review found no
+  effect on kidney function at normal doses, including 5 to 10 g a day for 21 months and
+  up to 10 g a day for as long as five years. (ISSN safety position stand.) Assessment: no
+  study I could find measured serum urate on creatine directly, so "does not raise uric
+  acid" rests on the metabolic pathway and on the absence of any signal in the safety
+  literature, not on a trial that looked. One catch to know: creatine *does* raise
+  creatinine, a kidney blood marker, without harming your kidneys, which can look like
+  worsening kidney function on a lab. Tell whoever orders your bloodwork that you take
+  creatine; a "cystatin C" test avoids the confusion.
+- **Coffee, oily fish, and vitamin C lean helpful.** FACT: in a 12-year prospective study of
+  men, gout risk fell as coffee intake rose: compared with no coffee, the risk was 40 percent
+  lower at 4 to 5 cups a day and lower still at 6 or more, and decaf showed the same
+  direction, which points at something other than caffeine. (Choi 2007.) FACT: vitamin C
+  modestly lowers uric acid, though only a little, so do not rely on it to control gout.
+  Eating oily fish is linked to fewer flares. (Juraschek 2011; ACR guideline.)
 - **Gradual weight loss and moderate lifting help.** FACT: losing more than 5 percent of your
   body weight was linked to about 40 percent fewer flares, and regular moderate exercise
   lowers uric acid over time. (ACR guideline.)
@@ -57,7 +65,7 @@ Assessment: several things you are already doing work in your favor.
 
 Assessment: a few habits can backfire, and the first is the big one.
 
-- **Do not crash-diet.** FACT: this is the counterintuitive trap. Rapid weight loss, long
+- **Do not crash-diet.** This is the counterintuitive one. FACT: rapid weight loss, long
   fasts, and strict low-carb or keto diets *raise* uric acid for a while and can set off a
   flare, because the "ketones" your body makes compete with uric acid to get out through the
   kidneys. (Meta-analysis; classic fasting studies.) Assessment: so lose weight *gradually*,
@@ -68,10 +76,11 @@ Assessment: a few habits can backfire, and the first is the big one.
   and syrups) raises uric acid and gout risk. (Meta-analysis.) Assessment: cherries are
   genuinely linked to fewer flares, but reach for *unsweetened* tart-cherry concentrate or
   whole cherries, not a sugary juice blend that undoes the benefit.
-- **Stay hydrated around hard workouts.** FACT: intense exercise and dehydration can push uric
-  acid up briefly and help trigger a flare. (Exercise-and-hyperuricemia review.) Assessment:
-  drink enough before and after training, do not train dehydrated, and do not stack a brutal
-  session on top of a fasting or crash-diet day.
+- **Stay hydrated around hard workouts.** FACT: high-intensity exercise can push uric acid up
+  briefly and can trigger a flare. (Exercise-and-hyperuricemia review.) Assessment: the
+  hydration half of this is mechanism and common sense rather than something that review
+  measured. Either way: drink enough before and after training, do not train dehydrated, and
+  do not stack a brutal session on top of a fasting or crash-diet day.
 - **The usual dietary drivers.** FACT: limit red and organ meat, and high-purine seafood like
   anchovies, sardines, and shellfish, and go easy on alcohol, beer most of all. (Choi 2004.)
   And note the [harms chapter](03-weight-loss-and-harms) already tells you to avoid high-dose
@@ -83,14 +92,17 @@ Assessment: some of the biggest levers here are medical, so bring them to your d
 than managing them yourself.
 
 - **Blood-pressure medication matters.** FACT: "water pills" called thiazide diuretics raise
-  uric acid and are a common cause of gout, while a blood-pressure drug called losartan
-  actually *lowers* it. (Pharmacology reviews.) Assessment: if you take a diuretic and have
-  gout, it is worth asking your doctor whether a urate-friendlier option fits.
+  uric acid, while a blood-pressure drug called losartan actually *lowers* it. (Pharmacology
+  reviews.) Assessment: that is a drug effect on the urate level; the review I cite does not
+  measure how often thiazides go on to cause gout, so treat "common cause" as reasoning, not
+  a counted result. If you take a diuretic and have gout, it is worth asking your doctor
+  whether a urate-friendlier option fits.
 - **Do not stop protective aspirin for gout.** FACT: low-dose aspirin nudges uric acid up a
-  little, but if you take it to protect your heart, guidelines do not recommend stopping it
-  over gout. (Clinical reviews.)
+  little. (Pharmacology reviews.) Assessment: it is still not worth stopping heart-protective
+  aspirin over, since the urate effect is small and the cardiac reason for taking it is not.
+  That is a judgement call to make with your doctor, and the sources here do not settle it.
 - **Frequent flares mean medication, not just diet.** FACT: if you get two or more flares a
-  year, or have visible urate lumps (tophi), guidelines recommend a daily urate-lowering
+  year, or have urate lumps under the skin (subcutaneous tophi), guidelines recommend a daily urate-lowering
   medicine (usually allopurinol) aimed at getting your uric acid under 6 mg/dL. (ACR
   guideline.) Assessment: diet and supplements are helpers around the edges; that medication
   is the real treatment, and it is a physician's call.
@@ -119,6 +131,9 @@ these points to them.
 
 - 2020 ACR Guideline for the Management of Gout — https://pmc.ncbi.nlm.nih.gov/articles/PMC10563586/
 - Choi et al., purine-rich foods, dairy, protein, and gout risk, NEJM 2004 — https://www.nejm.org/doi/full/10.1056/NEJMoa035700
+- Choi et al. 2004, same study, abstract with the dairy relative risk (0.56 highest vs lowest quintile) — https://pubmed.ncbi.nlm.nih.gov/15014182/
+- Choi & Curhan 2007, coffee consumption and incident gout in men — https://pubmed.ncbi.nlm.nih.gov/17530645/
+- ISSN position stand on creatine safety and efficacy — https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0173-z
 - Dalbeth et al., acute effect of milk on serum urate, Ann Rheum Dis 2010 — https://pubmed.ncbi.nlm.nih.gov/20472590/
 - Ketogenic/DASH diets and serum uric acid, meta-analysis (2023) — https://pmc.ncbi.nlm.nih.gov/articles/PMC10307853/
 - Sugary drinks/fructose and hyperuricemia and gout, meta-analysis (2025) — https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12580599/

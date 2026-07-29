@@ -29,10 +29,12 @@ most-cited researchers on it; the anchor piece here ran in Harvard Business Revi
 Assessment: psychological safety is a *shared* belief that a team is safe for interpersonal
 risk, speaking up, asking questions, admitting mistakes, disagreeing, without fear of being
 punished or humiliated. Edmondson's shorthand: "felt permission for candor." It is a property
-of the *group*, not a personality trait. FACT: Google's internal "Project Aristotle" study
-famously called it the top factor in team effectiveness, but that study was never
-peer-reviewed, so treat that specific claim as company marketing rather than settled science
-(the peer-reviewed picture is in the evidence check below).
+of the *group*, not a personality trait. Assessment: Google's internal "Project Aristotle"
+study is famous for calling it the top factor in team effectiveness, and that study was never
+published for peer review, so treat the ranking as company communication rather than settled
+science. Google's own write-up of it is no longer online, so this note cannot check the claim
+against a source, which is its own reason for caution. The peer-reviewed picture is in the
+evidence check below.
 
 ## What it is not
 

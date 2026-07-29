@@ -15,7 +15,9 @@ pep talks only get you short-term *movement*, like kicking a dog to make it walk
 lasting motivation comes from the work itself. If you want people to care, make the job
 worth caring about.
 
-FACT: this is one of Harvard Business Review's all-time best-selling reprints. Herzberg
+Assessment: this is widely described as one of Harvard Business Review's best-selling
+reprints, though that is the publisher's own claim and not something the staged copy of the
+article states. FACT: Herzberg
 first published it in 1968 and it was reprinted, essentially unchanged, in 2003. (Herzberg,
 "One More Time: How Do You Motivate Employees?")
 

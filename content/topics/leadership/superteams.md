@@ -52,9 +52,12 @@ checklist they're fine. The strongest parts are the ones backed by *outside* res
 internal study, which was never peer reviewed; the feedback meta-analysis showing feedback often
 backfires; a study that hands-on managers feel more effective than distant ones).
 
-The honest caveats are real. FACT: the core survey is the author's own proprietary research,
-defines a "superteam" purely by self-rating (a halo-bias trap), and backs a book and consulting
-firm he sells; the headline percentages come from that dataset with no methodology disclosed.
+The honest caveats are real. FACT: the core survey is the author's own research, it defines a
+"superteam" purely by self-rating (a 10 out of 10 on both measures), the article is adapted from
+a book he sells, and he founded a consulting company on the idea; the headline percentages come
+from that dataset with no methodology disclosed. Assessment: letting teams crown themselves on
+a self-rating invites halo bias, where people who feel good about their team score everything
+about it highly.
 The Oklahoma City Thunder success story is a hand-picked anecdote. Assessment: trust the
 practices where they echo the better-grounded notes here, and treat the specific numbers as the
 author's framing of his own data, not proof.

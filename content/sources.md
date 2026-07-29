@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-625 citations across 93 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+635 citations across 94 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -364,6 +364,15 @@ This page lists every external link cited anywhere in the garden, article by art
 9. [Creatine + resistance training in older adults, meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC5679696/)
 10. [Vitamin D and muscle, null meta-analysis (Prokopidis 2022), J Cachexia Sarcopenia Muscle](https://onlinelibrary.wiley.com/doi/full/10.1002/jcsm.12976)
 11. [Apex Muscle Defense product page](https://apexlaboratories.com/products/muscle-defense)
+12. [Apex Muscle Defense Supplement Facts panel (label image, the only place the amounts are](https://apexlaboratories.com/cdn/shop/files/MD_INGREDIENTS.jpg)
+
+### [Supplements for a midlife body: help, not hurt](topics/health/supplements-for-midlife)
+
+1. [Hypertension screening in adults, USPSTF](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/hypertension-in-adults-screening)
+2. [Prediabetes and type 2 diabetes screening, USPSTF](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/screening-for-prediabetes-and-type-2-diabetes)
+3. [Statin use for primary prevention of cardiovascular disease, USPSTF](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/statin-use-in-adults-preventive-medication)
+4. [FDA, avoiding products with hidden ingredients](https://www.fda.gov/drugs/medication-health-fraud/avoiding-products-contaminated-hidden-ingredients)
+5. [Adulterated supplements, JAMA Network Open](https://pmc.ncbi.nlm.nih.gov/articles/PMC6324457/)
 
 ### [The core stack that actually works](topics/health/supplements-for-midlife/01-core-stack)
 
@@ -423,13 +432,16 @@ This page lists every external link cited anywhere in the garden, article by art
 
 1. [2020 ACR Guideline for the Management of Gout](https://pmc.ncbi.nlm.nih.gov/articles/PMC10563586/)
 2. [Choi et al., purine-rich foods, dairy, protein, and gout risk, NEJM 2004](https://www.nejm.org/doi/full/10.1056/NEJMoa035700)
-3. [Dalbeth et al., acute effect of milk on serum urate, Ann Rheum Dis 2010](https://pubmed.ncbi.nlm.nih.gov/20472590/)
-4. [Ketogenic/DASH diets and serum uric acid, meta-analysis (2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10307853/)
-5. [Sugary drinks/fructose and hyperuricemia and gout, meta-analysis (2025)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12580599/)
-6. [Vitamin C and serum uric acid, meta-analysis (Juraschek 2011)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3169708/)
-7. [Omega-3 (fish vs supplements) and gout flares (Neogi 2019)](https://pubmed.ncbi.nlm.nih.gov/30908893/)
-8. [Exercise and hyperuricemia review (2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11348809/)
-9. [Medications that raise or lower urate (diuretics, aspirin, losartan)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9575594/)
+3. [Choi et al. 2004, same study, abstract with the dairy relative risk (0.56 highest vs](https://pubmed.ncbi.nlm.nih.gov/15014182/)
+4. [Choi & Curhan 2007, coffee consumption and incident gout in men](https://pubmed.ncbi.nlm.nih.gov/17530645/)
+5. [ISSN position stand on creatine safety and efficacy](https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0173-z)
+6. [Dalbeth et al., acute effect of milk on serum urate, Ann Rheum Dis 2010](https://pubmed.ncbi.nlm.nih.gov/20472590/)
+7. [Ketogenic/DASH diets and serum uric acid, meta-analysis (2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10307853/)
+8. [Sugary drinks/fructose and hyperuricemia and gout, meta-analysis (2025)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12580599/)
+9. [Vitamin C and serum uric acid, meta-analysis (Juraschek 2011)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3169708/)
+10. [Omega-3 (fish vs supplements) and gout flares (Neogi 2019)](https://pubmed.ncbi.nlm.nih.gov/30908893/)
+11. [Exercise and hyperuricemia review (2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11348809/)
+12. [Medications that raise or lower urate (diuretics, aspirin, losartan)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9575594/)
 
 ## Leadership
 
@@ -474,6 +486,7 @@ This page lists every external link cited anywhere in the garden, article by art
 1. [Salas et al. (2008)](https://doi.org/10.1518/001872008X375009)
 2. [Kluger and DeNisi's 1996 meta-analysis](https://doi.org/10.1037/0033-2909.119.2.254)
 3. [(November–December 2019)](https://hbr.org/2019/11/cracking-the-code-of-sustained-collaboration)
+4. [Harvard revokes Gino's tenure after the data-fraud investigation, NBC News](https://www.nbcnews.com/news/us-news/harvard-revokes-tenure-professor-famous-ethics-studies-first-time-80-y-rcna209108)
 
 ### [Feedback isn't enough to help your employees grow](topics/leadership/feedback-isnt-enough)
 

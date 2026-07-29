@@ -39,10 +39,15 @@ worth taking. The rest of this section is which parts are real.
 Assessment: for your profile specifically, four rules matter more than any single
 supplement.
 
-- **Get baseline bloodwork before you lean on anything.** FACT: for a man your age and
-  weight, standard screening includes blood pressure, a fasting lipid panel, and a fasting
-  glucose or HbA1c, and these are recommended for overweight adults 35 and up. (US
-  Preventive Services Task Force.) Ask your doctor to add vitamin D, and liver and kidney
+- **Get baseline bloodwork before you lean on anything.** FACT: the US Preventive Services
+  Task Force recommends blood-pressure screening for every adult 18 or older, and suggests
+  doing it annually for adults 40 and up and for people who are overweight or obese. FACT:
+  it also recommends screening for prediabetes and type 2 diabetes in adults aged 35 to 70
+  who have overweight or obesity, which is a fasting glucose or an HbA1c. FACT: cholesterol
+  enters through the statin recommendation rather than a screening one: for adults 40 to 75
+  the Task Force works from cardiovascular risk factors and an estimated 10-year risk, and
+  you cannot estimate that without a lipid panel. (USPSTF, three recommendations.) At 48 and
+  overweight, all three apply to you. Ask your doctor to add vitamin D, and liver and kidney
   panels, since those decide whether some supplements are safe for you. Get testosterone
   checked only if you actually have symptoms (low energy, low libido), not on a hunch.
 - **If you take any medication, have a pharmacist check interactions.** Assessment: this is
@@ -50,8 +55,10 @@ supplement.
   interfere with common blood-pressure, cholesterol, and diabetes drugs.
 - **Buy only third-party-tested products.** FACT: the FDA does not approve supplements for
   safety or quality before they are sold, and products regularly get spiked with hidden
-  drugs; one analysis found hundreds of adulterated supplements, with weight-loss products
-  the worst offenders. (FDA; JAMA Network Open.) Look for a **NSF Certified for Sport**,
+  drugs; one analysis of FDA reports counted 776 adulterated supplements, most of them
+  sexual-enhancement products (353, or 45.5 percent) and weight-loss products (317, or 40.9
+  percent), with muscle-building products third at 92 (11.9 percent). (FDA; JAMA Network
+  Open.) Look for a **NSF Certified for Sport**,
   **Informed Sport**, or **USP Verified** seal, which means the contents were actually
   tested.
 - **Be careful with stimulants.** Assessment: overweight and mid-40s often means blood
@@ -89,3 +96,11 @@ confident pitch is not evidence.
 
 - **[Muscle, aging, and anabolic resistance](topics/health/muscle-protein-synthesis-aging)** — the muscle-and-aging science behind the plan.
 - **[Using AI well](connections/using-ai-well)** — the same 'a confident pitch is not evidence' habit.
+
+## Sources
+
+- Hypertension screening in adults, USPSTF — https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/hypertension-in-adults-screening
+- Prediabetes and type 2 diabetes screening, USPSTF — https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/screening-for-prediabetes-and-type-2-diabetes
+- Statin use for primary prevention of cardiovascular disease, USPSTF — https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/statin-use-in-adults-preventive-medication
+- FDA, avoiding products with hidden ingredients — https://www.fda.gov/drugs/medication-health-fraud/avoiding-products-contaminated-hidden-ingredients
+- Adulterated supplements, JAMA Network Open — https://pmc.ncbi.nlm.nih.gov/articles/PMC6324457/

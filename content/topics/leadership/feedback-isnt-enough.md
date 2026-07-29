@@ -44,8 +44,9 @@ develop-people notes. The "ally, not critic" framing is genuinely useful.
 The honest caveats. FACT: it's a book-promotion piece, so its strongest evidence is *borrowed*
 (Boyatzis on how criticism reduces engagement; Buckingham and Goodall's [feedback
 fallacy](the-feedback-fallacy)); its own headline results (turnover cut to 3 percent, reviews
-from 50 to 95 percent) are self-reported about one consulting client, uncontrolled. Assessment:
-trust the principle, which is well-echoed; treat the specific numbers as marketing.
+from 50 to 95 percent) are self-reported about one consulting client. Assessment: self-reported
+client results with no control group are marketing, not evidence, so trust the principle, which
+is well-echoed elsewhere, and treat the specific numbers as advertising.
 
 **Evidence check (2026 review, verdict: mixed).** Peer-reviewed backing is mixed: the best meta-analysis, [Kluger & DeNisi 1996](https://doi.org/10.1037/0033-2909.119.2.254) (*Psychological Bulletin*), confirms feedback alone often fails (a third of interventions made performance worse) but found this was NOT reliably driven by whether feedback was positive or negative (what mattered was a task versus self focus), so the "criticism triggers shame" mechanism is shakier than implied, and experts actually seek out negative feedback (Finkelstein & Fishbach 2012, *Journal of Consumer Research*). Coaching does help, but meta-analytic effects are moderate ([delta ~ 0.36; Jones et al. 2016](https://doi.org/10.1111/joop.12119), a small-to-medium effect), and the neuroscience the piece leans on (Boyatzis's positive-emotional-attractor model) has been criticized as overstated (Int. J. Evidence Based Coaching & Mentoring, 2024). Bottom line: don't just deliver feedback and walk away; build the trusting relationship and the follow-up coaching that let it actually change behavior.
 

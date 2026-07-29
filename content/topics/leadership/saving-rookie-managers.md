@@ -48,8 +48,9 @@ seen from the *boss's* side, and the five traps are instantly recognizable. The 
 *all* levels make these mistakes, not just rookies.
 
 The caveat is simply the evidence type. FACT: it's a practitioner essay built on the author's
-consulting cases, with no data or studies; figures like "10 percent strategic, 90 percent
-tactical" are illustrative, not measured. Assessment: take it as sound, experience-based
+consulting cases, and figures like "10 percent strategic, 90 percent tactical" appear with no
+study or dataset cited behind them. Assessment: read those numbers as illustration of the
+pattern she is describing, not as measurement. Assessment: take it as sound, experience-based
 coaching advice, which is exactly what it is.
 
 **Evidence check (2026 review, verdict: mixed).** The article's core diagnosis is actually backed by hard data: Benson, Li & Shue's 2019 study [*Promotions and the Peter Principle*](https://doi.org/10.1093/qje/qjz022) (Quarterly Journal of Economics), which tracked nearly 40,000 salespeople across 131 firms, confirmed that top individual performers really are the ones most likely to be promoted and then flop as managers. But two of its five fixes are shakier than the confident tone implies: meta-analyses find delegation/empowerment has a real but only moderate effect on performance and can backfire when overdone, and [Kluger and DeNisi's classic 1996 meta-analysis](https://doi.org/10.1037/0033-2909.119.2.254) (Psychological Bulletin) found feedback actually made performance worse in over a third of cases. Assessment: the reconciliation is in what the feedback points at: task-focused feedback tends to help, person-focused feedback is what backfires (the same lesson as [the feedback fallacy](the-feedback-fallacy)). So "delegate more" and "give more feedback" are double-edged, not automatic wins. Bottom line: coach rookies to delegate in staged, low-risk steps and to aim feedback at the task rather than the person, instead of just telling them to do more of both.

@@ -65,9 +65,10 @@ Assessment: the core shift, ask more than you tell, is sound and widely echoed, 
 genuinely useful pocket structure for a hard conversation. Coaching is also the leadership
 style managers say they use *least* (they claim no time), so a nudge toward it is valuable.
 
-The honest caveats. FACT: co-author Anne Scoular runs a firm that trains leaders to coach,
-and several of the article's showcase examples (a law firm, a consultancy) are the authors'
-own clients or trainees, so the evidence is promotional, not independent. The flagship
+The honest caveats. FACT: co-author Anne Scoular cofounded Meyler Campbell, which trains senior
+leaders to coach, and the article's showcase examples (a law firm, a consultancy) are the
+authors' own clients or trainees. Assessment: when the cases are the authors' own customers,
+the evidence is promotional rather than independent. The flagship
 Microsoft turnaround story is favorable and drawn from a case the author co-wrote.
 Assessment: the one solid empirical bit is the "managers overrate their coaching" study;
 Goleman's claim that coaching is the least-used style comes from his firm's proprietary

@@ -41,10 +41,14 @@ Assessment: the reframe, "collaboration is a set of skills you train, not a slog
 is sound and matches the rest of this library, and the six behaviors are reasonable and overlap
 with ideas that are better grounded elsewhere here (listening, empathy, feedback, win-win).
 
-Now the honest caveat, and it's an unusual one worth stating plainly. FACT: after this article
-was published, data-fraud allegations surfaced in 2023 about some of the author's academic
-work, and Harvard's own investigation later concluded she committed research misconduct in
-several papers. That does not automatically make
+Now the honest caveat, and it's an unusual one worth stating plainly. FACT: the author,
+Francesca Gino, was placed on unpaid administrative leave by Harvard Business School in June
+2023, after an 18-month internal investigation found her responsible for research misconduct
+following data-fraud allegations raised by the researchers behind the Data Colada blog. FACT:
+Harvard then revoked her tenure, which no Harvard professor is known to have lost since the
+1940s. She denies academic fraud and sued Harvard and Data Colada for 25 million dollars; a
+federal judge dismissed the defamation part of that suit while allowing her contract claims to
+proceed. (NBC News.) That does not automatically make
 *this* article wrong, its advice is generic and echoed by many others, but it means you should
 lean on the independently-supported versions of these ideas (listening, feedback, empathy,
 win-win negotiation) rather than treating this piece as authoritative evidence. Assessment: keep
@@ -66,5 +70,6 @@ is exactly why the vault labels sources rather than swallowing them.
 
 - Francesca Gino, "Cracking the Code of Sustained Collaboration", Harvard Business Review
   (November–December 2019) — https://hbr.org/2019/11/cracking-the-code-of-sustained-collaboration
-- Note: the author's research record later came under public scrutiny (2023); weight
-  accordingly.
+- Harvard revokes Gino's tenure after the data-fraud investigation, NBC News — https://www.nbcnews.com/news/us-news/harvard-revokes-tenure-professor-famous-ethics-studies-first-time-80-y-rcna209108
+- Note: the author's research record came under investigation in 2023 and Harvard found research
+  misconduct; weight this source accordingly.

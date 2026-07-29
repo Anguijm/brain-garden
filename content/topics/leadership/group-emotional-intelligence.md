@@ -48,8 +48,9 @@ it foreshadows the psychological-safety and team-conditions ideas elsewhere in t
 The three-levels structure is a good checklist.
 
 The honest caveats. FACT: the evidence is mostly qualitative field observation and named-company
-anecdotes, with several openly fictional teaching vignettes, and the one hard number (the 20 to
-40 percent) is a single in-house claim. One author now sells related training. Assessment: the
+anecdotes, with several openly fictional teaching vignettes, and it carries exactly one hard
+number, the 20 to 40 percent. Assessment: that figure appears without a study behind it, so
+treat it as the authors' own claim. One author now sells related training. Assessment: the
 model is a plausible, influential framework; treat the causal claims as theory, and the
 examples as illustration.
 

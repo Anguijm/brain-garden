@@ -66,8 +66,10 @@ reversible.
 
 Of all the amino acids in protein, one does most of the "start building" signaling.
 
-FACT: **leucine** is the main trigger. It flips on a cellular switch called mTOR that kicks
-off muscle-building, so leucine acts like a signal, not just a raw material. Because older
+FACT: **leucine** is the amino acid the "leucine trigger hypothesis" is named for: it flips
+on a cellular switch called mTOR that kicks off muscle-building, so leucine acts like a
+signal, not just a raw material. Calling it *the* trigger is the hypothesis, not a settled
+finding, and the next paragraph is why. Because older
 muscle needs more of a push, a leucine-rich, fast-digesting protein like **whey**, or added
 leucine, can help an older person clear that higher bar in a meal. (Amino-acid-sensing
 review; Zaromskyte 2021.)
@@ -104,8 +106,8 @@ serious exercise.
 
 The compound you half-remembered is **HMB** (beta-hydroxy beta-methylbutyrate).
 
-FACT: HMB is actually made from leucine in your body (a small fraction of leucine is
-converted to it). Its main proposed job is *anti-catabolic*, meaning it slows muscle
+FACT: HMB is a leucine metabolite, which is to say your body makes it out of leucine.
+(Deutz 2013.) Its main proposed job is *anti-catabolic*, meaning it slows muscle
 breakdown more than it speeds building, which is why it is pitched for holding onto muscle
 during rough patches. (Reviews; MSKCC monograph.) FACT: its best result is in exactly those
 situations: 3 grams a day of HMB helped older adults preserve muscle during 10 days of strict
@@ -146,24 +148,31 @@ holding onto muscle as you age, strongest first.
 
 ## So, is Apex Muscle Defense worth it?
 
-Assessment: first, the fair part. This is not a scam. FACT: it is a real, incorporated
-product (a whey-protein powder, not a magic pill) from Apex Labs, fronted by Dr. Tracy Gapin,
-a genuine board-certified urologist, and it publishes an ingredient panel and offers a
-money-back guarantee. There is no fake celebrity, no "free trial" credit-card trap.
+Assessment: first, the fair part. This is not a scam. FACT: it is a real product from Apex
+Labs, and a whey-protein one: its published Supplement Facts panel lists 10 g of protein
+from whey protein hydrolysate per 16.2 g serving, alongside a full ingredient panel and a
+60-day money-back guarantee. (Product label; product page.) There is no fake celebrity, no
+"free trial" credit-card trap. (An earlier version also said the product was fronted by a
+named board-certified urologist. That name appears nowhere on the product page or the
+label, only in the ad-style article, so it is not stated here as fact.)
 
 But it is oversold, and the specifics matter:
 
-- FACT: **the HMB is underdosed.** Each serving has **1 gram of HMB**, but essentially every
-  study that showed a benefit used **3 grams**. You are getting about a third of the studied
-  amount. This is the biggest red flag.
+- FACT: **the HMB is underdosed.** The label lists **1000 mg (1 gram) of HMB per serving**,
+  and 1000 mg of L-leucine with it, but essentially every study that showed a benefit used
+  **3 grams** of HMB a day. You are getting about a third of the studied amount. (Product
+  label; Deutz 2013.) This is the biggest red flag.
 - Assessment: **the headline "doubles muscle building / 2x muscle protein synthesis" claim**
   leans on small, short-term, ingredient-maker-funded studies of Velositol, not on real muscle
   gains from this actual product. And, as covered above, a short-term synthesis bump is not
   the same as building muscle.
 - Assessment: **the flashy extra ingredients are thin.** Velositol is barely evidenced and
   ursolic acid has failed in human trials, so they read as label decoration.
-- FACT: some ingredient amounts (including the leucine) are not clearly disclosed, so you
-  cannot even confirm the leucine hits the useful ~2.5 to 3 gram threshold.
+- FACT: **the leucine is short too.** The panel discloses every amount, and it puts L-leucine
+  at 1000 mg per serving, well under the roughly 2.5 to 3 grams an older adult's meal needs
+  to clear the trigger threshold. (Product label.) (An earlier version said the amounts,
+  including the leucine, were not clearly disclosed. That was wrong: the label publishes
+  them, and what they show is a dose problem rather than a disclosure one.)
 
 Assessment: the honest bottom line is that you are paying a premium (around 5 dollars a
 serving) for **10 grams of whey plus a sub-clinical dose of HMB and two weak novelty
@@ -206,3 +215,4 @@ supplement or a new exercise program, especially with any health conditions.
 - Creatine + resistance training in older adults, meta-analysis — https://pmc.ncbi.nlm.nih.gov/articles/PMC5679696/
 - Vitamin D and muscle, null meta-analysis (Prokopidis 2022), *J Cachexia Sarcopenia Muscle* — https://onlinelibrary.wiley.com/doi/full/10.1002/jcsm.12976
 - Apex Muscle Defense product page — https://apexlaboratories.com/products/muscle-defense
+- Apex Muscle Defense Supplement Facts panel (label image, the only place the amounts are published) — https://apexlaboratories.com/cdn/shop/files/MD_INGREDIENTS.jpg

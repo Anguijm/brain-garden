@@ -61,9 +61,10 @@ Assessment: this names a real, underappreciated problem, and the three-resources
 genuinely useful tool ("do they need my *time*, or just my knowledge?"). It's a valuable
 counterweight to the rest of this library's enthusiasm for collaboration and teamwork.
 
-The honest caveats. FACT: many of the headline numbers (the 3-to-5 percent, the tipping points)
-come from the authors' own consulting datasets, stated without full method, so treat them as
-strong indications rather than precise constants. The gender findings rest on cited experiments
+The honest caveats. FACT: the headline 3-to-5 percent comes from the authors' own research
+across more than 300 organizations. Assessment: the article does not lay out the method behind
+it, and the "tipping point" thresholds are the authors' framing rather than a reported finding,
+so treat these as strong indications rather than precise constants. The gender findings rest on cited experiments
 and a self-report poll of varying strength. And the 2016 tool examples are dated; the problem
 has almost certainly grown worse in the Slack-and-Zoom era. Assessment: the core diagnosis and
 the resource distinction are the keepers.
