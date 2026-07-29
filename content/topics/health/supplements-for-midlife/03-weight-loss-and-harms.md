@@ -112,9 +112,10 @@ This is the list to simply avoid. FACT-backed harms, grouped by how much trouble
   cause cholestasis, peliosis hepatis, and hepatic tumors, and that such steroids "have been
   found in some nutritional supplements available over-the-counter or via the internet,"
   including documented cholestatic injury from the bodybuilding product Superdrol
-  (methasteron). (NIH LiverTox.) FACT: "testosterone boosters" mostly do not work; one
-  analysis of 50 products found only about a quarter contained anything shown to raise
-  testosterone at all. (Product analysis.) Assessment: the boosters are a waste of money, and
+  (methasteron). (NIH LiverTox.) FACT: "testosterone boosters" mostly do not work; when
+  Clemesha and colleagues evaluated 50 of them in *World Journal of Men's Health* (2020),
+  only 24.8 percent had published data showing any increase in testosterone, 10.1 percent
+  had data showing a decrease, and no data at all existed for 61.5 percent. (Clemesha 2020.) Assessment: the boosters are a waste of money, and
   the SARMs and prohormones are the opposite of "help not hurt." If you have real
   low-testosterone symptoms, that is a blood test and a doctor, not a store shelf. (An earlier
   version attributed the prohormone liver-injury link to the FDA. No cited source did that, so
@@ -186,7 +187,8 @@ medications.
 - FDA warning on SARMs — https://www.fda.gov/consumers/consumer-updates/fda-warns-use-selective-androgen-receptor-modulators-sarms-among-teens-young-adults
 - SARMs safety in healthy adults, systematic review (2023) — https://pmc.ncbi.nlm.nih.gov/articles/PMC10204391/
 - Androgenic steroids and liver injury, NIH LiverTox — https://www.ncbi.nlm.nih.gov/books/NBK548931/
-- Testosterone boosters, analysis of 50 products — https://journals.sagepub.com/doi/10.1089/andro.2022.0007
+- Testosterone boosters, 50 products analyzed (Clemesha 2020, *World J Mens Health*) — https://pubmed.ncbi.nlm.nih.gov/31385468/
+- Testosterone boosters, review of claimed effects (Aguilar-Morgan 2022) — https://journals.sagepub.com/doi/10.1089/andro.2022.0007
 - Vitamin E and prostate cancer, SELECT trial — https://www.cancer.gov/types/prostate/research/select-trial-results-qa
 - Adulterated supplements, JAMA Network Open — https://pmc.ncbi.nlm.nih.gov/articles/PMC6324457/
 - FDA, avoiding products with hidden ingredients — https://www.fda.gov/drugs/medication-health-fraud/avoiding-products-contaminated-hidden-ingredients

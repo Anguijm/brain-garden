@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-624 citations across 93 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+625 citations across 93 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -411,12 +411,13 @@ This page lists every external link cited anywhere in the garden, article by art
 9. [FDA warning on SARMs](https://www.fda.gov/consumers/consumer-updates/fda-warns-use-selective-androgen-receptor-modulators-sarms-among-teens-young-adults)
 10. [SARMs safety in healthy adults, systematic review (2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10204391/)
 11. [Androgenic steroids and liver injury, NIH LiverTox](https://www.ncbi.nlm.nih.gov/books/NBK548931/)
-12. [Testosterone boosters, analysis of 50 products](https://journals.sagepub.com/doi/10.1089/andro.2022.0007)
-13. [Vitamin E and prostate cancer, SELECT trial](https://www.cancer.gov/types/prostate/research/select-trial-results-qa)
-14. [Adulterated supplements, JAMA Network Open](https://pmc.ncbi.nlm.nih.gov/articles/PMC6324457/)
-15. [FDA, avoiding products with hidden ingredients](https://www.fda.gov/drugs/medication-health-fraud/avoiding-products-contaminated-hidden-ingredients)
-16. [Third-party testing (NSF Certified for Sport / USADA)](https://www.usada.org/substances/supplement-connect/reduce-risk-testing-positive-experiencing-adverse-health-effects/)
-17. [USPSTF screening (lipids, glucose)](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/screening-for-abnormal-blood-glucose-and-type-2-diabetes-october-2015)
+12. [Testosterone boosters, 50 products analyzed (Clemesha 2020, World J Mens Health)](https://pubmed.ncbi.nlm.nih.gov/31385468/)
+13. [Testosterone boosters, review of claimed effects (Aguilar-Morgan 2022)](https://journals.sagepub.com/doi/10.1089/andro.2022.0007)
+14. [Vitamin E and prostate cancer, SELECT trial](https://www.cancer.gov/types/prostate/research/select-trial-results-qa)
+15. [Adulterated supplements, JAMA Network Open](https://pmc.ncbi.nlm.nih.gov/articles/PMC6324457/)
+16. [FDA, avoiding products with hidden ingredients](https://www.fda.gov/drugs/medication-health-fraud/avoiding-products-contaminated-hidden-ingredients)
+17. [Third-party testing (NSF Certified for Sport / USADA)](https://www.usada.org/substances/supplement-connect/reduce-risk-testing-positive-experiencing-adverse-health-effects/)
+18. [USPSTF screening (lipids, glucose)](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/screening-for-abnormal-blood-glucose-and-type-2-diabetes-october-2015)
 
 ### [If you are prone to gout (high uric acid)](topics/health/supplements-for-midlife/05-gout-and-uric-acid)
 
