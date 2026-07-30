@@ -33,7 +33,7 @@ Each issue is readable on the web (with links into the rest of this garden) and
 downloadable as the print PDF (source links only).
 
 - **[Vol. 1, No. 3 — Week 31, July 2026](2026-w31)**
-  ([download the PDF](pdf/2026-w31.c1de3bd6.pdf)) — the \$76.6 billion submarine award and the
+  ([download the PDF](pdf/2026-w31.a28827b1.pdf)) — the \$76.6 billion submarine award and the
   \$5 billion of it aimed at the workforce; RIMPAC's first digitally crewed resupply, with
   parts printed at sea and delivered by an unmanned boat; NSWC Crane's cold-spray repair
   center, the Navy's first organic non-structural cold-spray facility; an obsolete boiler
