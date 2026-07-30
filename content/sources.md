@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-635 citations across 94 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+643 citations across 95 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -49,6 +49,17 @@ This page lists every external link cited anywhere in the garden, article by art
 12. [Naval News, Jul 10, 2026](https://www.navalnews.com/naval-news/2026/07/us-navy-rfi-south-korea-shipbuilding-destroyers/)
 13. [Naval News, Jun 4, 2026](https://www.navalnews.com/naval-news/2026/06/u-s-eyes-warships-from-japanese-and-south-korean-shipyards/)
 14. [USNI News, Jul 17, 2026](https://news.usni.org/2026/07/17/philly-shipyard-to-build-golden-defender-ship-as-part-of-new-missile-defense-program)
+
+### [The Waterfront Brief, Vol. 1 No. 3 (week 31)](projects/waterfront-brief/2026-w31)
+
+1. [The Maritime Executive, Jul 6, 2026](https://maritime-executive.com/article/hii-adds-another-workboat-shipyard-to-its-unmanned-vessel-program)
+2. [Navy.mil, Jul 21, 2026](https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4551621/camre-fleetwerx-conduct-first-of-its-kind-digitally-crewed-surface-vessel-resup/)
+3. [Navy.mil, Jul 7, 2026](https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4534537/largest-advanced-manufacturing-demonstration-in-department-of-war-history-set-f/)
+4. [NAVSEA, Jul 16, 2026](https://www.navsea.navy.mil/Media/News/Article-View/Article/4547982/nswc-crane-opens-advanced-repair-center-forging-new-era-of-fleet-readiness/)
+5. [NAVSEA, Jun 11, 2026](https://www.navsea.navy.mil/Media/News/Article-View/Article/4515044/nswcpd-engineers-use-additive-manufacturing-to-modernize-boiler-monitoring-syst/)
+6. [The Maritime Executive, Jan 7, 2026](https://maritime-executive.com/article/u-s-navy-expands-maintenance-and-repair-work-with-south-korea-s-shipyards)
+7. [Naval News, Jan 14, 2026](https://www.navalnews.com/naval-news/2026/01/philippines-to-take-delivery-of-first-opv-from-south-korea/)
+8. [USNI News, Jul 29, 2026](https://news.usni.org/2026/07/29/navy-awards-76-6b-for-9-virginia-5-columbia-subs-to-general-dynamics-hii)
 
 ## AI engineering
 

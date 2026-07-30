@@ -32,6 +32,21 @@ sheets, front and back), with the events calendar on its own page after them.
 Each issue is readable on the web (with links into the rest of this garden) and
 downloadable as the print PDF (source links only).
 
+- **[Vol. 1, No. 3 — Week 31, July 2026](2026-w31)**
+  ([download the PDF](pdf/2026-w31.be0c9817.pdf)) — the \$76.6 billion submarine award and the
+  \$5 billion of it aimed at the workforce; RIMPAC's first digitally crewed resupply, with
+  parts printed at sea and delivered by an unmanned boat; NSWC Crane's cold-spray repair
+  center, the Navy's first organic non-structural cold-spray facility; an obsolete boiler
+  part printed in Philadelphia; unmanned-vessel work moving to Louisiana crewboat yards;
+  and Korea's MRO bench as a standing thread.
+
+- **[Vol. 1, No. 2 — Week 30, July 2026](2026-w30)**
+  ([download the PDF](pdf/2026-w30.64845fd0.pdf)) — Congress splitting the difference on
+  foreign-built ships; Saronic's \$3.2B Brownsville groundbreaking; the maintenance bill
+  from a hard-run Middle East deployment; a wargame on whether the yards could repair a
+  battle-damaged fleet; the PAE Maritime reorganization of NAVSEA into portfolios; and a
+  Deckplate item on Federal Wage System pay caps as a retention problem.
+
 - **[Vol. 1, No. 1 — Week 29, July 2026](2026-w29)**
   ([download the PDF](pdf/2026-w29.08399cbb.pdf)) — the Navy's first-ever Vessel
   Construction Manager contract (\$2.2B to TOTE for the Landing Ship Medium); the May
