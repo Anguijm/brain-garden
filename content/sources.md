@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-643 citations across 95 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+644 citations across 95 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -60,6 +60,7 @@ This page lists every external link cited anywhere in the garden, article by art
 6. [The Maritime Executive, Jan 7, 2026](https://maritime-executive.com/article/u-s-navy-expands-maintenance-and-repair-work-with-south-korea-s-shipyards)
 7. [Naval News, Jan 14, 2026](https://www.navalnews.com/naval-news/2026/01/philippines-to-take-delivery-of-first-opv-from-south-korea/)
 8. [USNI News, Jul 29, 2026](https://news.usni.org/2026/07/29/navy-awards-76-6b-for-9-virginia-5-columbia-subs-to-general-dynamics-hii)
+9. [USNI News, Feb 18, 2026](https://news.usni.org/2026/02/18/bollinger-fincantieri-marinette-marine-to-build-landing-ship-medium-navy-says)
 
 ## AI engineering
 
