@@ -142,14 +142,78 @@ so conclusions cannot smuggle in new information. Speculation is labelled as suc
 **Every source link goes to the actual article.** A link to a publication's front page will stop
 the issue printing.
 
-**A second pass reads the sources back.** Before anything is published, each claim is checked
-against the saved text of the source it cites and graded: supported, overstated, unsupported, or
-not verifiable from what the source actually says. Anything unsupported blocks publication until
-it is fixed or removed. This is the check that has caught the most real errors.
-
 **The printed edition has to be right too.** Exactly four pages of articles plus the events
 page, the standing explanation of method has to be present, and the web and print versions are
 compared so that a correction made in one cannot be missing from the other.
+
+## How we check that a fact is a fact
+
+This is the part that matters most, so it is worth being precise about what the checking does
+and does not prove.
+
+**Start with what the label means.** FACT in this brief means a named source says it, and that
+the sentence has been checked against that source's own words. It does not mean this desk has
+independently confirmed the underlying thing is true. If the Navy announces a milestone and the
+brief prints it as a FACT, the guarantee is that the Navy said it and that the sentence does not
+overstate what the Navy said. Whether the Navy is right is a separate question, and where there
+is reason to doubt it, that goes in the analysis.
+
+**Nothing is checked against a memory or a link.** Before a source can support anything, its
+full text is saved to file. Checking happens against that saved copy. A source that cannot be
+saved, usually because a publisher blocks it or it sits behind a subscription, cannot anchor a
+claim, and the brief will either find another source for the same fact or not print it.
+
+**Every claim is read back against its source, twice.** Before publication, each labelled claim
+is matched to the source it cites and graded: supported, overstated, unsupported, or not
+determinable from what the source says. Anything flagged in that first pass goes to a second,
+deliberately skeptical reading that can overturn the flag or uphold it. Anything still graded
+unsupported stops publication until it is corrected or cut.
+
+**The strength rules are explicit**, because most errors are not invented facts, they are true
+things stated too strongly. A capability is not a delivery, so a source saying a facility "can"
+produce something is never printed as it having produced something. "Up to" a number is not that
+number. A plan or a target is not an outcome. A single case is not a pattern. And an
+organization's statement about itself supports only that the organization said it.
+
+**Numbers and attributions get read back word by word.** Real examples from this brief: a claim
+that a command "now prints" a part, when the source said its new capability "allows for" it. A
+parts count attributed to the wrong person, and another figure printed as 270 when the record
+said 350. In the most recent issue, a sentence said sailors check a boiler furnace when the
+source said boiler operators, and a release was credited to the engineering command when it came
+from that command's Philadelphia division. None of those change a conclusion. All of them were
+wrong, and a reader who caught one would rightly wonder what else was loose.
+
+**Dates are verified separately from the article.** Publication dates are the single most
+common thing to get wrong, because publications bury them in inconsistent places. Two examples
+from one week: an article a search engine described as being from this month turned out, on its
+own page, to be from September 2024, and a four-year-old announcement was caught by the freshness
+rule only after its real date was dug out by hand. The rule that came out of this is blunt: a
+search result's summary is never a source. The article's own page is.
+
+**What the checking cannot do**, stated plainly so nobody over-trusts it:
+
+- It reads a portion of a long source, not all of it, so it sometimes reports that it cannot
+  find support for a claim whose support is genuinely there further down. A "cannot determine"
+  result is a prompt to go look, not proof of an error.
+- It cannot see a source's publication date, which lives in the file's header rather than its
+  text, so date attributions routinely come back as unverifiable even when correct.
+- It cannot check a source nobody could save. Paywalled and blocked material stays unverified by
+  definition, and the brief tries to avoid resting anything on it.
+- It cannot tell you a source is wrong. It can only tell you whether the brief represented that
+  source faithfully.
+
+**Every mistake caught is written down.** There is a running ledger of errors, currently
+thirty-four entries across the whole vault, each recording what went wrong, what was corrected,
+and what rule or automatic check now prevents a repeat. That ledger is why the rules above exist
+in the form they do, and it is the reason the same error tends not to happen twice.
+
+**The checks themselves get checked.** A suite of a hundred automatic tests runs before every
+publication, and a good number of them exist solely to prove that a bug found once has not
+quietly returned. Separately, the assumption that everything had been verified was itself
+audited, and it was wrong: at one point only twenty-two of a hundred and sixty-seven published
+pages in this vault had ever been through the claim-by-claim check, because the check only ever
+ran on what had changed recently. That gap is being worked through wing by wing, and saying so
+here is part of the point.
 
 ## What the library looks like
 
