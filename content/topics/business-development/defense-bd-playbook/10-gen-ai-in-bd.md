@@ -32,8 +32,8 @@ optimistic, but the ChatGPT users made worse predictions, while the peer-discuss
 users made better ones than before. The AI users also became more overconfident,
 offering more falsely precise "pinpoint" estimates. Source: José Parra-Moyano,
 Patrick Reinmoeller, and Karl Schmedders, "Research: Executives Who Used Gen AI
-Made Worse Predictions," Harvard Business Review (HBR.org), July 1, 2025, Reprint
-H08SQS.
+Made Worse Predictions," Harvard Business Review, July 1, 2025 (Reprint H08SQS),
+[hbr.org/2025/07/research-executives-who-used-gen-ai-made-worse-predictions](https://hbr.org/2025/07/research-executives-who-used-gen-ai-made-worse-predictions).
 
 FACT: the authors offer five explanations for why AI pushed people toward
 optimism and overconfidence:

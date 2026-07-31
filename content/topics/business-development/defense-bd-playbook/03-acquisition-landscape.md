@@ -18,18 +18,22 @@ because they are adjusted for inflation periodically.
 
 ## The rulebooks: FAR and DFARS
 
-FACT: The Federal Acquisition Regulation (FAR) is the primary government-wide
-rulebook for federal procurement (acquisition.gov/far). FACT: The Defense Federal
-Acquisition Regulation Supplement (DFARS) is the Department of Defense layer that
-supplements and sometimes deviates from the FAR (acquisition.gov/dfars). When you
+FACT: the Federal Acquisition Regulation (FAR) System is established "for the
+codification and publication of uniform policies and procedures for acquisition by all
+executive agencies" ([FAR 1.101](https://www.acquisition.gov/far/1.101)), which is why it is the government-wide
+rulebook you work from. FACT: the Department of Defense publishes the Defense Federal
+Acquisition Regulation Supplement ([DFARS](https://www.acquisition.gov/dfars)).
+Assessment: treat it as the DoD layer on top of the FAR, supplementing it and in
+places deviating from it. When you
 work a DoD deal, both apply, and DFARS clauses (for example cybersecurity and
 business-system requirements) carry real compliance weight.
 
 ## Dollar thresholds that shape the path
 
 FACT: As of October 1, 2025, the micro-purchase threshold is \$15,000 and the
-simplified acquisition threshold (SAT) is \$350,000 (FAR 2.101, per the FAR
-inflation-adjustment final rule, Federal Register, Aug 27 2025). These matter
+simplified acquisition threshold (SAT) is \$350,000 ([FAR 2.101](https://www.acquisition.gov/far/2.101)). FACT: those
+figures took effect on October 1, 2025, raised from \$10,000 and \$250,000 by the FAR
+Council's inflation-adjustment final rule ([90 FR 41872, Aug 27 2025](https://www.federalregister.gov/documents/2025/08/27/2025-16412/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds)). These matter
 because:
 
 - Below the micro-purchase threshold, buying is very light-touch (often a purchase
@@ -42,10 +46,10 @@ because:
 ## How awards get evaluated (FAR Part 15)
 
 FACT: FAR Part 15 governs contracting by negotiation, the home of most large
-competitive captures (acquisition.gov/far/part-15). Two evaluation approaches
+competitive captures ([FAR Part 15](https://www.acquisition.gov/far/part-15)). Two evaluation approaches
 matter most:
 
-- **Best-value tradeoff (FAR 15.101-1):** the government may pay more for a
+- **Best-value tradeoff ([FAR 15.101-1](https://www.acquisition.gov/far/15.101-1)):** the government may pay more for a
   higher-rated proposal, and may award to other than the lowest price or highest
   technical score, as long as the solicitation states the factors and their
   relative importance. This rewards discriminators and is where capture pays off.
@@ -56,10 +60,10 @@ matter most:
   have restricted LPTA use in some contexts in recent years; check the current
   solicitation.)
 
-FACT: FAR 15.201 expressly allows exchanges with industry before receipt of
+FACT: [FAR 15.201](https://www.acquisition.gov/far/15.201) expressly allows exchanges with industry before receipt of
 proposals, which is the legal basis for the shaping activity in
 [chapter 4](04-customer-stakeholders-shaping.md). FACT: pre-award and post-award
-debriefs are provided for at FAR 15.505 and 15.506, your best post-decision
+debriefs are provided for at [FAR 15.505](https://www.acquisition.gov/far/15.505) and [15.506](https://www.acquisition.gov/far/15.506), your best post-decision
 intelligence.
 
 ## Contract types (who carries the risk)
@@ -106,9 +110,11 @@ Assessment: how the buy is competed changes who you fight.
 
 ## OTAs and SBIR/STTR (the non-FAR and innovation lanes)
 
-FACT: Other Transactions (OTs) are agreements outside the FAR, used by DoD to move
-faster on research and prototypes. Research OTs are authorized under 10 U.S.C.
-4021; prototype OTs under 10 U.S.C. 4022, and a prototype OT that was competitively
+FACT: Other Transactions (OTs) are authorized by statute rather than by the FAR.
+Assessment: in practice they are used to move faster on research and prototypes,
+because they sit outside the FAR's competition and cost-accounting machinery.
+FACT: research OTs are authorized under 10 U.S.C.
+4021; prototype OTs under [10 U.S.C. 4022](https://www.law.cornell.edu/uscode/text/10/4022), and a prototype OT that was competitively
 awarded and successfully completed can transition to a production OT without
 re-competition under 10 U.S.C. 4022(f) (law.cornell.edu; DAU Adaptive Acquisition
 Framework). Assessment: OTs, often run through consortia, are a fast on-ramp for
@@ -126,7 +132,7 @@ to a larger production or services contract (sbir.gov).
 
 FACT: The Government Accountability Office (GAO) runs an independent bid-protest
 forum and has adjudicated procurement disputes for over a century; protests can
-challenge solicitation terms or award decisions (gao.gov/legal/bid-protests).
+challenge solicitation terms or award decisions ([GAO bid protests](https://www.gao.gov/legal/bid-protests)).
 Assessment: protests are a real but double-edged tool. Use a debrief to decide
 whether grounds exist, weigh the cost to the customer relationship, and remember
 that an incumbent you displace may protest you too. Plan for protest risk in your

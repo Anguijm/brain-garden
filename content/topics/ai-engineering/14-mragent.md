@@ -46,9 +46,9 @@ which says the paper appeared at the "ICLR 2026 MemAgents workshop," a real work
 its own website. So it is a workshop paper, posted in March 2026. (OpenReview, forum
 YPoHy6lgKP.)
 
-FACT: the one conflicting clue is a note the authors typed onto the arXiv page that says
-"Accepted at ICML 2026." Nothing else backs that up: there is no official ICML record of
-it anywhere. Assessment: when an author's typed note clashes with the official listing,
+FACT: the Comments field on the paper's [arXiv listing page](https://arxiv.org/abs/2606.06036)
+reads "Accepted at ICML 2026," a line the authors type in themselves. Assessment: nothing else
+backs that up, and no official ICML record of it turns up. Assessment: when an author's typed note clashes with the official listing,
 the official listing wins. The ICML line is most likely an error or an out-of-date note.
 Treat the venue as the ICLR workshop, and the ICML claim as unconfirmed.
 

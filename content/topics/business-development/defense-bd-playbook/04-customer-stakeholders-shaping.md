@@ -106,7 +106,7 @@ learned and what you will do next after every contact. A template is in
 
 Shaping is influencing the customer's understanding of the problem and the
 solution space before the requirement is locked, so that the eventual RFP plays to
-your strengths. FACT: this is expressly contemplated by the rules. FAR 15.201
+your strengths. FACT: this is expressly contemplated by the rules. [FAR 15.201](https://www.acquisition.gov/far/15.201)
 provides for exchanges with industry before receipt of proposals, precisely to
 improve the government's understanding of the market (acquisition.gov/far/part-15).
 The legitimate shaping tools:

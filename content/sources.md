@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-646 citations across 95 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+664 citations across 100 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -147,7 +147,7 @@ This page lists every external link cited anywhere in the garden, article by art
 
 ### [MRAgent: reconstructive memory](topics/ai-engineering/14-mragent)
 
-1. [Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents (arXiv:2606.06036) —](https://arxiv.org/abs/2606.06036)
+1. [arXiv listing page](https://arxiv.org/abs/2606.06036)
 2. [Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents (arXiv:2606.06036) —](https://arxiv.org/html/2606.06036v1)
 3. [OpenReview record (venue: ICLR 2026 Workshop MemAgents; no public reviews)](https://openreview.net/forum?id=YPoHy6lgKP)
 4. [ICLR 2026 MemAgents workshop](https://sites.google.com/view/memagent-iclr26)
@@ -155,6 +155,39 @@ This page lists every external link cited anywhere in the garden, article by art
 6. [Does Memory Need Graphs? (a field counterpoint, arXiv:2601.01280)](https://arxiv.org/abs/2601.01280)
 
 ## Business development
+
+### [The acquisition landscape](topics/business-development/defense-bd-playbook/03-acquisition-landscape)
+
+1. [FAR 1.101](https://www.acquisition.gov/far/1.101)
+2. [DFARS](https://www.acquisition.gov/dfars)
+3. [FAR 2.101](https://www.acquisition.gov/far/2.101)
+4. [90 FR 41872, Aug 27 2025](https://www.federalregister.gov/documents/2025/08/27/2025-16412/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds)
+5. [FAR Part 15](https://www.acquisition.gov/far/part-15)
+6. [FAR 15.101-1](https://www.acquisition.gov/far/15.101-1)
+7. [FAR 15.201](https://www.acquisition.gov/far/15.201)
+8. [FAR 15.505](https://www.acquisition.gov/far/15.505)
+9. [15.506](https://www.acquisition.gov/far/15.506)
+10. [10 U.S.C. 4022](https://www.law.cornell.edu/uscode/text/10/4022)
+11. [GAO bid protests](https://www.gao.gov/legal/bid-protests)
+
+### [Customer, stakeholders, and shaping](topics/business-development/defense-bd-playbook/04-customer-stakeholders-shaping)
+
+1. [FAR 15.201](https://www.acquisition.gov/far/15.201)
+
+### [Proposal management](topics/business-development/defense-bd-playbook/07-proposal-management)
+
+1. [FAR 15.403-4](https://www.acquisition.gov/far/15.403-4)
+2. [FAR 15.208](https://www.acquisition.gov/far/15.208)
+3. [FAR 15.505](https://www.acquisition.gov/far/15.505)
+4. [15.506](https://www.acquisition.gov/far/15.506)
+
+### [Relationships, ethics, and OCI](topics/business-development/defense-bd-playbook/08-relationships-ethics-oci)
+
+1. [FAR Subpart 9.5](https://www.acquisition.gov/far/subpart-9.5)
+
+### [Using Gen AI in BD without fooling yourself](topics/business-development/defense-bd-playbook/10-gen-ai-in-bd)
+
+1. [hbr.org/2025/07/research-executives-who-used-gen-ai-made-worse-predictions](https://hbr.org/2025/07/research-executives-who-used-gen-ai-made-worse-predictions)
 
 ### [Further reading](topics/business-development/defense-bd-playbook/14-further-reading)
 

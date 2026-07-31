@@ -83,15 +83,16 @@ evaluator's scoring job effortless.
 The price proposal must be compliant, consistent with the technical volume (no
 "disconnects" where the staffing in cost does not match the approach in
 technical), and aligned to your price-to-win posture. FACT: for larger negotiated
-actions, certified cost or pricing data may be required (FAR 15.403-4). Assessment:
+actions, certified cost or pricing data may be required ([FAR 15.403-4](https://www.acquisition.gov/far/15.403-4)). Assessment:
 build the cost volume in lockstep with the technical solution and review them
 together, because evaluators specifically hunt for technical-cost mismatches.
 
 ## Submission
 
 Follow Section L's submission mechanics exactly: format, file types, portal,
-quantity, and above all the deadline. FACT: late proposals are generally rejected,
-the rules on late submission are strict. Assessment: submit early, confirm receipt,
+quantity, and above all the deadline. FACT: any proposal received after the exact time specified
+"is 'late' and will not be considered" except in narrow cases set out in
+[FAR 15.208](https://www.acquisition.gov/far/15.208). Assessment: submit early, confirm receipt,
 and never let an avoidable mechanical failure waste months of capture.
 
 ## After submission: ENs, discussions, orals, FPR, and the debrief
@@ -100,7 +101,7 @@ Be ready for evaluation notices (ENs), discussions, oral presentations, and a
 request for a final proposal revision (FPR); prepare for orals with the same rigor
 as the written volumes, because they are often decisive. FACT: you are entitled to
 request a debrief, and pre-award and post-award debrief procedures are set in FAR
-15.505 and 15.506. Always take the debrief, win or lose. Assessment: it is your
+[FAR 15.505](https://www.acquisition.gov/far/15.505) and [15.506](https://www.acquisition.gov/far/15.506). Always take the debrief, win or lose. Assessment: it is your
 clearest read on how the customer actually evaluated you, the seed of your next
 pursuit with them, and the basis for deciding whether a protest is warranted (see
 [chapter 3](03-acquisition-landscape.md)).

@@ -51,7 +51,7 @@ These are not soft guidance. Treat them as absolute.
 
 An OCI exists when your other work could give you an unfair competitive advantage
 or impair your objectivity. FACT: the FAR addresses OCI and requires agencies to
-identify and resolve them (FAR Subpart 9.5). The classic categories:
+identify and resolve them ([FAR Subpart 9.5](https://www.acquisition.gov/far/subpart-9.5)). The classic categories:
 
 - **Unequal access to information:** you held non-public information (from other
   work) that helps you compete. Resolved with firewalls and disclosure.
