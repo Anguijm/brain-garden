@@ -5,7 +5,7 @@ series: waterfront-brief
 status: curated
 tags: [waterfront-brief, method, sourcing, verification]
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-01
 ---
 
 # How The Waterfront Brief is made
@@ -55,21 +55,29 @@ item. Filling space is now explicitly not a reason to run a story.
 
 ## What it covers
 
-The brief watches eighteen subject areas through forty-one standing searches. In plain terms:
+The brief watches nineteen subject areas through forty-eight standing searches. In plain terms:
 
 **The Navy's own announcements.** Anything the Naval Sea Systems Command or the Navy publishes
 about shipyards, infrastructure, or repair work, including the fleet side of advanced
 manufacturing such as printing parts aboard ship or at exercises.
+
+**How the work gets planned.** What earns a slot in a major availability, how the shorter
+continuous-maintenance windows get used, how work packages are screened, and the systems the
+yards and regional maintenance centers plan in. This was the largest gap in the first three
+issues: a brief written for people who live inside availabilities had never once looked at the
+planning layer, because the word "availability" appeared in no search at all.
 
 **Public shipyard infrastructure.** The recapitalization of the four public yards: dry dock
 projects, utilities, and the awards that pay for them, watched by yard name so that Norfolk,
 Portsmouth, Puget Sound and Pearl Harbor each get caught, and watched at the engineering command
 that executes the work rather than only where the news is repeated.
 
-**Policy and legislation.** Defense authorization and appropriations as they move, the House and
-Senate committees that write them, and maritime law affecting shipbuilding, cargo, and the
-industrial base. This was added after a week in which Congress passed the largest rewrite of
-federal maritime law in decades and the brief did not notice.
+**Policy, legislation, and money.** Defense authorization and appropriations as they move, the
+House and Senate committees that write them, and maritime law affecting shipbuilding, cargo, and
+the industrial base. This was added after a week in which Congress passed the largest rewrite of
+federal maritime law in decades and the brief did not notice. It also watches the documents that
+lead the news by months rather than following it: unfunded priorities lists, budget justification
+books, and long-range acquisition forecasts.
 
 **The trade press.** Naval news outlets covering shipbuilding, ship repair, maintenance
 backlogs, and Pacific sustainment, plus commercial maritime coverage of repair yards.
@@ -103,9 +111,31 @@ search pointed at the wrong place.
 Each search returns a handful of candidates. Everything found is set beside everything else, and
 then the screening starts.
 
+## The second pass: what a story means
+
+Finding a story and understanding it are different jobs, and for the first three issues only the
+first one was a step. The wide net answers what happened. It has nothing to say about whether a
+number is large, whether the same thing has been tried before, or what argues the other way.
+
+So each story that makes the issue now gets a second, narrower pass before it is written, hunting
+four things on purpose:
+
+- **The primary source.** Trade coverage is a report of a thing, not the thing. The
+  announcement, filing or record behind it usually carries detail the coverage dropped, and it
+  is what the claim should rest on.
+- **The official record.** What the government's own machinery says: oversight reports,
+  testimony, budget documents.
+- **The precedent.** The earlier case or figure that tells a reader whether this one is big,
+  normal, or late. A dollar amount with nothing to compare it to teaches nobody anything.
+- **The counter-evidence.** What argues against the easy conclusion. This is the difference
+  between analysis and repeating a press release in a different order.
+
+When that last search comes back empty, the issue says so, rather than leaving the impression
+that nothing argues the other way.
+
 ## What it screens against
 
-**Who published it.** Every candidate is scored against a list of fifty-eight publications
+**Who published it.** Every candidate is scored against a list of sixty-four publications
 ranked by how much weight they carry. A command's own announcement outranks a trade report of
 the same event, which outranks a contractor's press release about itself. A program's own
 website is treated as what the program says, never as proof that a thing happened. Anything from
@@ -202,12 +232,20 @@ search result's summary is never a source. The article's own page is.
 - It cannot tell you a source is wrong. It can only tell you whether the brief represented that
   source faithfully.
 
+**Numbers get read for what kind of number they are.** A single reading is a point, not a trend,
+and two readings are not a trend either. The useful split comes from quality-improvement work:
+some variation is just the process breathing, and only changing the process moves it, while some
+is a specific thing that happened and can be gone and found. Reacting to the first as though it
+were the second has a name, tampering, and it reliably makes outcomes worse. So the brief will not
+say a figure "improved" off one data point, and where a source itself treats one reading as a
+trend, saying so is the analysis.
+
 **Every mistake caught is written down.** There is a running ledger of errors, currently
-thirty-four entries across the whole vault, each recording what went wrong, what was corrected,
+thirty-five entries across the whole vault, each recording what went wrong, what was corrected,
 and what rule or automatic check now prevents a repeat. That ledger is why the rules above exist
 in the form they do, and it is the reason the same error tends not to happen twice.
 
-**The checks themselves get checked.** A suite of a hundred automatic tests runs before every
+**The checks themselves get checked.** A suite of a hundred and seventeen automatic tests runs before every
 publication, and a good number of them exist solely to prove that a bug found once has not
 quietly returned. Separately, the assumption that everything had been verified was itself
 audited, and it was wrong: at one point only twenty-two of a hundred and sixty-seven published
@@ -225,7 +263,7 @@ Alongside those sit four working records. A register of nineteen events with dat
 the organizers print them, including the ones with no dates yet, which are tracked but never
 printed. A running record of what each week's search turned up, what was chosen, and how each
 choice turned out, which exists to answer whether the selection method is actually any good. A
-written ledger of every mistake caught, thirty-four entries so far across the whole vault, each
+written ledger of every mistake caught, thirty-five entries so far across the whole vault, each
 with what went wrong, what was changed, and what now prevents it. And the issues themselves,
 each one kept as both a web page and a printable file.
 
