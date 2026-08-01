@@ -96,7 +96,7 @@ its prompts, tool calls, time, and cost, so you can look back. Builders call tha
 
 ## See also
 
-- **In this series:** [← Retrieval and RAG](10-retrieval-and-rag) · [Multi-agent systems →](12-multi-agent-systems) · [Overview](topics/ai-engineering)
+- **In this series:** [← Retrieval and RAG](10-retrieval-and-rag) · [Multi-agent systems →](12-multi-agent-systems) · [Overview](topics/ai-engineering/)
 - **[Using AI well](connections/using-ai-well)** — part of the garden's spine: how you actually know an answer is good.
 
 ## Sources

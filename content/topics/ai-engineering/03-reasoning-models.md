@@ -60,7 +60,7 @@ through the whole section.
 
 ## See also
 
-- **In this series:** [← How to write a good prompt](02-how-to-prompt) · [Cost and speed →](04-cost-and-speed) · [Overview](topics/ai-engineering)
+- **In this series:** [← How to write a good prompt](02-how-to-prompt) · [Cost and speed →](04-cost-and-speed) · [Overview](topics/ai-engineering/)
 
 ## Sources
 

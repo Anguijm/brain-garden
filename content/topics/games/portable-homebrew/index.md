@@ -144,6 +144,6 @@ version of the scene worth celebrating, and it's the version this note is about.
 
 ## See also
 
-- **[Godot, a plain-English course](topics/software/godot)** — a friendly engine for building your own games.
-- **[Mobile game engines (CLI)](topics/software/mobile-game-engines)** — more engines that fit small hardware.
-- **[Sudoku](topics/games/sudoku)** — a classic puzzle to run on one.
+- **[Godot, a plain-English course](topics/software/godot/)** — a friendly engine for building your own games.
+- **[Mobile game engines (CLI)](topics/software/mobile-game-engines/)** — more engines that fit small hardware.
+- **[Sudoku](topics/games/sudoku/)** — a classic puzzle to run on one.

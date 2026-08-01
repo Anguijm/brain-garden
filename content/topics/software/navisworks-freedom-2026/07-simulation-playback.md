@@ -62,4 +62,4 @@ Next: [Output, performance, and shortcuts](08-output-tips-shortcuts.md).
 
 ## See also
 
-- **In this series:** [← Sectioning and measuring](06-sectioning-and-measuring) · [Output, performance, and shortcuts →](08-output-tips-shortcuts) · [Overview](topics/software/navisworks-freedom-2026)
+- **In this series:** [← Sectioning and measuring](06-sectioning-and-measuring) · [Output, performance, and shortcuts →](08-output-tips-shortcuts) · [Overview](topics/software/navisworks-freedom-2026/)

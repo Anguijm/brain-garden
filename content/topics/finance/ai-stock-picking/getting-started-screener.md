@@ -123,7 +123,7 @@ read as a red flag pointed at yourself.
 
 ## The stack
 
-Assessment: this is the same machinery as the [basketball spread model](topics/games/basketball-ats-model),
+Assessment: this is the same machinery as the [basketball spread model](topics/games/basketball-ats-model/),
 so if you built that you already have the skills. Python and pandas for the data and features; a
 simple custom cross-sectional backtester (cleaner than backtrader or zipline for a ranked,
 periodically-rebalanced basket, which those timing-oriented frameworks handle awkwardly);
@@ -137,7 +137,7 @@ every piece is debugged in isolation.
   every step here.
 - **[Does any of it actually beat the market?](does-it-actually-work)** — the base rate this
   screener is also up against.
-- **[Building your own basketball spread model](topics/games/basketball-ats-model)** — the same
+- **[Building your own basketball spread model](topics/games/basketball-ats-model/)** — the same
   pipeline applied to sports.
 
 ## Sources

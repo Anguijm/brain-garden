@@ -13,12 +13,12 @@ them fun to read side by side.
 
 ## The thread
 
-- **[Metal-look board game pieces (electroplating)](topics/making/plated-game-components)**
+- **[Metal-look board game pieces (electroplating)](topics/making/plated-game-components/)**
   — 3D print plus a plating bath to grow real metal on plastic, at batch scale.
-- **[Weighty board game pieces (cold-casting)](topics/making/cold-cast-game-pieces)**
+- **[Weighty board game pieces (cold-casting)](topics/making/cold-cast-game-pieces/)**
   — the heavier route: metal-powder resin cast from a printed master, with steel or
   tungsten fill for real heft.
-- **[Plastic and tissue: 3D-printed model aircraft](topics/making/3d-printed-tissue-aircraft)**
+- **[Plastic and tissue: 3D-printed model aircraft](topics/making/3d-printed-tissue-aircraft/)**
   — the inversion: here every gram is the enemy, so the same printer is pushed to make
   the *lightest* possible structure.
 - **[White's tree frogs: a bioactive build](topics/pets/whites-tree-frog-bioactive-japan)**

@@ -80,4 +80,4 @@ Next: [Pipeline, metrics, and cadence](09-pipeline-metrics-cadence.md).
 
 ## See also
 
-- **In this series:** [← Proposal management](07-proposal-management) · [Pipeline, metrics, and cadence →](09-pipeline-metrics-cadence) · [Overview](topics/business-development/defense-bd-playbook)
+- **In this series:** [← Proposal management](07-proposal-management) · [Pipeline, metrics, and cadence →](09-pipeline-metrics-cadence) · [Overview](topics/business-development/defense-bd-playbook/)

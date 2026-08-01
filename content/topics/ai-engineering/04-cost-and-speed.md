@@ -67,7 +67,7 @@ budget, so spend it on what actually matters.
 
 ## See also
 
-- **In this series:** [← "Thinking" and reasoning models](03-reasoning-models) · [Pictures and voice (multimodal) →](05-pictures-and-voice) · [Overview](topics/ai-engineering)
+- **In this series:** [← "Thinking" and reasoning models](03-reasoning-models) · [Pictures and voice (multimodal) →](05-pictures-and-voice) · [Overview](topics/ai-engineering/)
 
 ## Sources
 

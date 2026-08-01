@@ -113,7 +113,7 @@ as the durable part.
   fragmented, people-heavy job.
 - **[Who's got the monkey?](whos-got-the-monkey)** — how to protect the scarce time this note
   says is your most precious resource: stop taking back your people's work.
-- **[Defense BD Playbook](topics/business-development/defense-bd-playbook)** — the ten roles made
+- **[Defense BD Playbook](topics/business-development/defense-bd-playbook/)** — the ten roles made
   concrete in one real management job.
 
 ## Sources

@@ -64,4 +64,4 @@ Next: [Mixing and the master](11-mixing-and-master.md).
 
 ## See also
 
-- **In this series:** [← The fader and recording automation](09-fader-and-automation) · [Mixing, the master compressor, and sidechain →](11-mixing-and-master) · [Overview](topics/music/ep-133-ko2)
+- **In this series:** [← The fader and recording automation](09-fader-and-automation) · [Mixing, the master compressor, and sidechain →](11-mixing-and-master) · [Overview](topics/music/ep-133-ko2/)

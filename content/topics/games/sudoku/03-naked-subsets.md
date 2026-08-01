@@ -48,4 +48,4 @@ they shrink other cells until a single appears.
 
 ## See also
 
-- **In this series:** [← Singles](02-singles) · [Hidden subsets →](04-hidden-subsets) · [Overview](topics/games/sudoku)
+- **In this series:** [← Singles](02-singles) · [Hidden subsets →](04-hidden-subsets) · [Overview](topics/games/sudoku/)

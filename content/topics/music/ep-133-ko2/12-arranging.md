@@ -63,4 +63,4 @@ Next: [Performing live](13-performing-live.md).
 
 ## See also
 
-- **In this series:** [← Mixing, the master compressor, and sidechain](11-mixing-and-master) · [Performing live →](13-performing-live) · [Overview](topics/music/ep-133-ko2)
+- **In this series:** [← Mixing, the master compressor, and sidechain](11-mixing-and-master) · [Performing live →](13-performing-live) · [Overview](topics/music/ep-133-ko2/)

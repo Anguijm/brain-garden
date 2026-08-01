@@ -9,7 +9,7 @@ created: 2026-07-19
 
 # How prediction research actually works
 
-The companion note, [building a basketball spread model](topics/games/basketball-ats-model),
+The companion note, [building a basketball spread model](topics/games/basketball-ats-model/),
 walks through constructing one specific model. This note answers the question
 underneath it: if you want to get into predictive data analysis and *discover* things —
 find your own tweaks, test your own theories, know what state-of-the-art even means —
@@ -238,9 +238,9 @@ every step up the parlay ladder pays the house more.
 
 ## See also
 
-- **[Building a basketball spread model](topics/games/basketball-ats-model)** — the companion:
+- **[Building a basketball spread model](topics/games/basketball-ats-model/)** — the companion:
   this note's loop, applied end-to-end to one concrete model.
-- **[AI agent engineering](topics/ai-engineering)** — the same evaluation discipline
+- **[AI agent engineering](topics/ai-engineering/)** — the same evaluation discipline
   aimed at LLMs instead of gradient boosting.
 - **[How to read the evidence](topics/leadership/how-to-read-the-evidence)** — the
   vault's decoder for calibration, effect sizes, and benchmark claims.

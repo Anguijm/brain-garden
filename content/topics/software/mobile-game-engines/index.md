@@ -87,7 +87,7 @@ Assessment: a few plain rules cover most people.
 
 - **Want the most complete, most popular option, and both 2D and 3D?** Pick Godot. It has
   the biggest community and a real CLI export, and there is a whole
-  [Godot course](topics/software/godot) here already.
+  [Godot course](topics/software/godot/) here already.
 - **Want free with no royalties, a clean single-command build, and a gentle 2D focus?** Look
   at Defold.
 - **Want mobile-first with a modern toolchain and fast reloading?** Flutter with Flame is the
@@ -111,5 +111,5 @@ care about iPhone, favor a tool with official iOS export.
 
 ## See also
 
-- **[Godot, a plain-English course](topics/software/godot)** — the plain-English deep course on the top pick here.
-- **[Homebrew on portable game devices](topics/games/portable-homebrew)** — running homemade games on real handheld hardware.
+- **[Godot, a plain-English course](topics/software/godot/)** — the plain-English deep course on the top pick here.
+- **[Homebrew on portable game devices](topics/games/portable-homebrew/)** — running homemade games on real handheld hardware.

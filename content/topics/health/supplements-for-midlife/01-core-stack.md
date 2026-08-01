@@ -135,7 +135,7 @@ fatty fish twice a week is a fine substitute.
 
 You may notice this stack leaves out two things a "muscle" supplement pushes hard, standalone
 **leucine** and **HMB**, like the Apex product in the
-[muscle-and-aging note](topics/health/muscle-protein-synthesis-aging). That is on purpose.
+[muscle-and-aging note](topics/health/muscle-protein-synthesis-aging/). That is on purpose.
 
 Assessment: leucine is the amino acid that flips on muscle-building, but you already get
 plenty of it from protein, and whey is especially rich in it. FACT: leucine taken on its own,
@@ -157,8 +157,8 @@ bed rest, at the real 3-gram dose. Neither one raises uric acid, if gout is a co
 
 ## See also
 
-- **In this series:** [Training, recovery, and sleep →](02-recovery-and-sleep) · [Overview](topics/health/supplements-for-midlife)
-- **[Muscle, aging, and anabolic resistance](topics/health/muscle-protein-synthesis-aging)** — why protein and leucine matter more as you age.
+- **In this series:** [Training, recovery, and sleep →](02-recovery-and-sleep) · [Overview](topics/health/supplements-for-midlife/)
+- **[Muscle, aging, and anabolic resistance](topics/health/muscle-protein-synthesis-aging/)** — why protein and leucine matter more as you age.
 - **[If you are prone to gout (high uric acid)](05-gout-and-uric-acid)** — how these choices affect uric acid.
 
 ## Sources

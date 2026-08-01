@@ -78,5 +78,5 @@ are meant to be copied and filled in per opportunity.
 
 ## See also
 
-- **[The AI engineering course](topics/ai-engineering)** — the AI wing behind the 'Gen AI in BD' chapter.
-- **[Leadership and management knowledge base](topics/leadership)** — the general theory (leading, teams, the manager's job) behind this specific playbook.
+- **[The AI engineering course](topics/ai-engineering/)** — the AI wing behind the 'Gen AI in BD' chapter.
+- **[Leadership and management knowledge base](topics/leadership/)** — the general theory (leading, teams, the manager's job) behind this specific playbook.

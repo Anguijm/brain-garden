@@ -54,4 +54,4 @@ Next: [Shaping a sound](07-shaping-sounds.md).
 
 ## See also
 
-- **In this series:** [← Sampling](05-sampling) · [Shaping a sound (sound edit), and its limits →](07-shaping-sounds) · [Overview](topics/music/ep-133-ko2)
+- **In this series:** [← Sampling](05-sampling) · [Shaping a sound (sound edit), and its limits →](07-shaping-sounds) · [Overview](topics/music/ep-133-ko2/)

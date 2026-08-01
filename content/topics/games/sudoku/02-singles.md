@@ -54,4 +54,4 @@ ask where it can still go.
 
 ## See also
 
-- **In this series:** [← Foundations](01-foundations) · [Naked subsets →](03-naked-subsets) · [Overview](topics/games/sudoku)
+- **In this series:** [← Foundations](01-foundations) · [Naked subsets →](03-naked-subsets) · [Overview](topics/games/sudoku/)

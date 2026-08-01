@@ -116,7 +116,7 @@ tidy option.
 
 ## See also
 
-- **In this series:** [← Mobile: full engines](01-full-engines) · [Minimal libraries →](03-minimal-libraries) · [Overview](topics/software/mobile-game-engines)
+- **In this series:** [← Mobile: full engines](01-full-engines) · [Minimal libraries →](03-minimal-libraries) · [Overview](topics/software/mobile-game-engines/)
 
 ## Sources
 

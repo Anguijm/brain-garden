@@ -60,7 +60,7 @@ downloadable as the print PDF (source links only).
 - **[How The Waterfront Brief is made](projects/waterfront-brief/how-it-works)** — the method in
   plain language: the eighteen subject areas it watches, what gets screened out and why, and what
   is kept on file so any claim can be checked.
-- **[Defense BD Playbook](topics/business-development/defense-bd-playbook)** — the
+- **[Defense BD Playbook](topics/business-development/defense-bd-playbook/)** — the
   business side of the same industrial base: capture, teaming, and pricing.
 - **[Using AI well](connections/using-ai-well)** — why the brief labels its claims
   and keeps its sources: a confident summary is not evidence.

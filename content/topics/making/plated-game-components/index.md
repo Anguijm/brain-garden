@@ -106,7 +106,7 @@ The "metal look" is a spectrum; electroplating is the top rung, not the only one
 
 - **Metallic paint / wax gilding (Rub 'n Buff).** Easiest, no chemistry, surprisingly
   good for tokens; no real heft.
-- **[Cold-cast metal](topics/making/cold-cast-game-pieces).** Mix metal powder into resin when
+- **[Cold-cast metal](topics/making/cold-cast-game-pieces/).** Mix metal powder into resin when
   casting, then buff to expose real metal at the surface, heavier feel, no plating
   bath. This is the **weighty** route, and it has its own article.
 - **Outsource the plating.** Print and prep in batches, send them to a plating shop.
@@ -139,5 +139,5 @@ REAL!"](https://youtube.com/shorts/8qB9KIB8rwo) (electroplating 3D prints).
 ## See also
 
 - **[Making with the X1C](connections/making-with-the-x1c)** — the thread tying the X1C's four very different jobs together.
-- **[Weighty game pieces (cold-casting)](topics/making/cold-cast-game-pieces)** — the other route to heavy pieces (casting, not plating).
-- **[Plastic-and-tissue model aircraft](topics/making/3d-printed-tissue-aircraft)** — the inversion: chasing the lightest possible print.
+- **[Weighty game pieces (cold-casting)](topics/making/cold-cast-game-pieces/)** — the other route to heavy pieces (casting, not plating).
+- **[Plastic-and-tissue model aircraft](topics/making/3d-printed-tissue-aircraft/)** — the inversion: chasing the lightest possible print.

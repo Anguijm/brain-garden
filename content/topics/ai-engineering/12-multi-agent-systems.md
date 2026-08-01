@@ -89,7 +89,7 @@ genuinely wide and the payoff is worth roughly fifteen times the cost.
 
 ## See also
 
-- **In this series:** [← Evaluation and testing](11-evaluation-and-testing) · [Safety and best practices →](13-safety-and-best-practices) · [Overview](topics/ai-engineering)
+- **In this series:** [← Evaluation and testing](11-evaluation-and-testing) · [Safety and best practices →](13-safety-and-best-practices) · [Overview](topics/ai-engineering/)
 - **[Workflows vs agents](06-workflows-vs-agents)** — the simpler single-agent picture this builds on.
 - **[MRAgent](14-mragent)** — memory shared across agents.
 

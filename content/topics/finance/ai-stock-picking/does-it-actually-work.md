@@ -11,7 +11,7 @@ created: 2026-07-22
 This note answers the hardest and most important question about AI stock picking: setting aside
 what the services claim, what does the rigorous, peer-reviewed evidence say about whether anyone
 can reliably beat the market by picking stocks? It is the reality check behind the
-[landscape](the-landscape) and the [methods](topics/finance/ai-stock-picking).
+[landscape](the-landscape) and the [methods](topics/finance/ai-stock-picking/).
 
 The short version, stated up front as Assessment: over a decade or more, roughly 85 to 90
 percent of professional active US stock funds fail to beat their benchmark after fees, almost
@@ -172,7 +172,7 @@ a backtest and not one good year.
 ## See also
 
 - **[The AI stock-pick landscape](the-landscape)** — the services whose claims this note weighs.
-- **[How AI and quant stock-picking actually works](topics/finance/ai-stock-picking)** — the mechanics behind
+- **[How AI and quant stock-picking actually works](topics/finance/ai-stock-picking/)** — the mechanics behind
   the edge and its decay.
 - **[How to emulate it without fooling yourself](build-it-yourself)** — if you want to test a
   strategy anyway, how to do it honestly.

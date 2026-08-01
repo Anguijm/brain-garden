@@ -110,4 +110,4 @@ Next: [Relationships, ethics, and OCI](08-relationships-ethics-oci.md).
 
 ## See also
 
-- **In this series:** [← Win strategy and competitive analysis](06-win-strategy-competitive) · [Relationships, ethics, and OCI →](08-relationships-ethics-oci) · [Overview](topics/business-development/defense-bd-playbook)
+- **In this series:** [← Win strategy and competitive analysis](06-win-strategy-competitive) · [Relationships, ethics, and OCI →](08-relationships-ethics-oci) · [Overview](topics/business-development/defense-bd-playbook/)

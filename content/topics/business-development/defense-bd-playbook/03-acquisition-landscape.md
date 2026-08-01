@@ -142,4 +142,4 @@ Next: [Customer, stakeholders, and shaping](04-customer-stakeholders-shaping.md)
 
 ## See also
 
-- **In this series:** [← Qualification, PWin, and gate reviews](02-qualification-pwin-gates) · [Customer, stakeholders, and shaping →](04-customer-stakeholders-shaping) · [Overview](topics/business-development/defense-bd-playbook)
+- **In this series:** [← Qualification, PWin, and gate reviews](02-qualification-pwin-gates) · [Customer, stakeholders, and shaping →](04-customer-stakeholders-shaping) · [Overview](topics/business-development/defense-bd-playbook/)

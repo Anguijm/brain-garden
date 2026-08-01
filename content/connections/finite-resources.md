@@ -21,7 +21,7 @@ below hits a different wall and answers it the same way.
   — the ceiling is **sample memory and voice count**. Resampling renders a complex
   arrangement down to one cheaper artifact so you can build past the limit, which is
   structurally the same operation as compaction.
-- **[Plastic and tissue: model aircraft](topics/making/3d-printed-tissue-aircraft)**
+- **[Plastic and tissue: model aircraft](topics/making/3d-printed-tissue-aircraft/)**
   — the ceiling is **weight**. You do not beat balsa with a better plastic; you beat it
   with geometry, putting material only where load travels.
 - **[Defense BD: pipeline metrics and cadence](topics/business-development/defense-bd-playbook/09-pipeline-metrics-cadence)**

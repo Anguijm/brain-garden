@@ -218,4 +218,4 @@ Those skills transfer everywhere.
 
 ## See also
 
-- **In this series:** [← Troubleshooting, reset, and reference](17-troubleshooting-reference) · [Overview](topics/music/ep-133-ko2)
+- **In this series:** [← Troubleshooting, reset, and reference](17-troubleshooting-reference) · [Overview](topics/music/ep-133-ko2/)

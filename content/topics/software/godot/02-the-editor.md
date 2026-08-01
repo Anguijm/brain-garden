@@ -68,7 +68,7 @@ to one of these nodes and makes it actually do something.
 
 ## See also
 
-- **In this series:** [← Nodes and scenes](01-nodes-and-scenes) · [GDScript →](03-gdscript) · [Overview](topics/software/godot)
+- **In this series:** [← Nodes and scenes](01-nodes-and-scenes) · [GDScript →](03-gdscript) · [Overview](topics/software/godot/)
 
 ## Sources
 

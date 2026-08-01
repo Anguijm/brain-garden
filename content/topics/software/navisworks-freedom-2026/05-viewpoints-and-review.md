@@ -63,4 +63,4 @@ Next: [Sectioning and measuring](06-sectioning-and-measuring.md).
 
 ## See also
 
-- **In this series:** [← Selecting objects and reading properties](04-selection-and-properties) · [Sectioning and measuring →](06-sectioning-and-measuring) · [Overview](topics/software/navisworks-freedom-2026)
+- **In this series:** [← Selecting objects and reading properties](04-selection-and-properties) · [Sectioning and measuring →](06-sectioning-and-measuring) · [Overview](topics/software/navisworks-freedom-2026/)

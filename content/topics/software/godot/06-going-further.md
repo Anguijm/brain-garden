@@ -90,7 +90,7 @@ one of those pieces, built on the same foundation you already have.
 
 ## See also
 
-- **In this series:** [← Building a small game](05-first-game) · [Pro-level patterns →](07-pro-patterns) · [Overview](topics/software/godot)
+- **In this series:** [← Building a small game](05-first-game) · [Pro-level patterns →](07-pro-patterns) · [Overview](topics/software/godot/)
 
 ## Sources
 

@@ -222,7 +222,7 @@ check has the specifics.
 
 - **[How to read the evidence](how-to-read-the-evidence)** — the decoder ring for every
   verdict and statistic above.
-- **[Defense BD Playbook](topics/business-development/defense-bd-playbook)** — a working
+- **[Defense BD Playbook](topics/business-development/defense-bd-playbook/)** — a working
   playbook for a specific management job, where several of these ideas (decision-making,
   teaming, leading under uncertainty) show up in practice.
 - **[Using AI well](connections/using-ai-well)** — the same habit these notes lean

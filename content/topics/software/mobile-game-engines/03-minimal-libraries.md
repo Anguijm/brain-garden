@@ -106,7 +106,7 @@ point. For a first Rust game, start with macroquad; grow into Bevy if you outgro
 
 ## See also
 
-- **In this series:** [← Frameworks](02-frameworks) · [Overview](topics/software/mobile-game-engines)
+- **In this series:** [← Frameworks](02-frameworks) · [Overview](topics/software/mobile-game-engines/)
 
 ## Sources
 

@@ -62,7 +62,7 @@ helpful and fast, but worth a second look whenever the stakes are real.
 
 ## See also
 
-- **In this series:** [← Cost and speed](04-cost-and-speed) · [Workflows vs agents →](06-workflows-vs-agents) · [Overview](topics/ai-engineering)
+- **In this series:** [← Cost and speed](04-cost-and-speed) · [Workflows vs agents →](06-workflows-vs-agents) · [Overview](topics/ai-engineering/)
 
 ## Sources
 

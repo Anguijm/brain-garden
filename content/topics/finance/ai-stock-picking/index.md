@@ -485,10 +485,10 @@ example) deserves more trust than one that hands you a single confident number.
 
 ## See also
 
-- **[Building your own basketball spread model](topics/games/basketball-ats-model)** — the same
+- **[Building your own basketball spread model](topics/games/basketball-ats-model/)** — the same
   machinery (features, walk-forward validation, calibration, and the honest math on why the
   market usually wins) applied to sports betting instead of stocks.
-- **[AI agent engineering](topics/ai-engineering)** — how the machine-learning and language-model
+- **[AI agent engineering](topics/ai-engineering/)** — how the machine-learning and language-model
   building blocks referenced here actually work.
 
 ## Sources

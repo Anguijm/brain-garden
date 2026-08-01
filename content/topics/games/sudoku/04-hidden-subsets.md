@@ -45,4 +45,4 @@ they often expose a naked single right after.
 
 ## See also
 
-- **In this series:** [← Naked subsets](03-naked-subsets) · [Intersections →](05-intersections) · [Overview](topics/games/sudoku)
+- **In this series:** [← Naked subsets](03-naked-subsets) · [Intersections →](05-intersections) · [Overview](topics/games/sudoku/)

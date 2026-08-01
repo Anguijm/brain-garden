@@ -51,4 +51,4 @@ puzzle is always solvable without uniqueness logic, this just gets there faster.
 
 ## See also
 
-- **In this series:** [← Chains](10-chains) · [Advanced chains and last resort →](12-advanced-chains) · [Overview](topics/games/sudoku)
+- **In this series:** [← Chains](10-chains) · [Advanced chains and last resort →](12-advanced-chains) · [Overview](topics/games/sudoku/)

@@ -103,7 +103,7 @@ rebuilds as it reasons, rather than one it just looks things up in.
 
 ## See also
 
-- **In this series:** [← Tools and MCP](07-tools-and-mcp) · [Context engineering →](09-context-engineering) · [Overview](topics/ai-engineering)
+- **In this series:** [← Tools and MCP](07-tools-and-mcp) · [Context engineering →](09-context-engineering) · [Overview](topics/ai-engineering/)
 - **[MRAgent](14-mragent)** — a specific, research-grade memory design.
 
 ## Sources

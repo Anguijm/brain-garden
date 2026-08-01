@@ -61,4 +61,4 @@ created: 2026-06-24
 
 ## See also
 
-- **In this series:** [← Output, performance, and shortcuts](08-output-tips-shortcuts) · [Overview](topics/software/navisworks-freedom-2026)
+- **In this series:** [← Output, performance, and shortcuts](08-output-tips-shortcuts) · [Overview](topics/software/navisworks-freedom-2026/)

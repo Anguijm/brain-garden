@@ -78,4 +78,4 @@ Next: [The interface](02-interface.md).
 
 ## See also
 
-- **In this series:** [The interface →](02-interface) · [Overview](topics/software/navisworks-freedom-2026)
+- **In this series:** [The interface →](02-interface) · [Overview](topics/software/navisworks-freedom-2026/)

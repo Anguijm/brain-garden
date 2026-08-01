@@ -83,7 +83,7 @@ noticeably more out of any model, without learning a single technical trick.
 
 ## See also
 
-- **In this series:** [← what is an AI model](01-what-is-an-llm) · ["Thinking" and reasoning models →](03-reasoning-models) · [Overview](topics/ai-engineering)
+- **In this series:** [← what is an AI model](01-what-is-an-llm) · ["Thinking" and reasoning models →](03-reasoning-models) · [Overview](topics/ai-engineering/)
 
 ## Sources
 

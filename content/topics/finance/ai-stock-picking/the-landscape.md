@@ -11,7 +11,7 @@ created: 2026-07-22
 This note surveys the consumer services that advertise "AI stock picks" (InvestingPro,
 Danelfin, Zacks, Seeking Alpha, Trade Ideas, Tickeron, Kavout, TipRanks, and others) and
 separates what each product mechanically does from the marketing wrapped around it. Read it
-alongside [how the methods work](topics/finance/ai-stock-picking) and [whether any of it actually beats
+alongside [how the methods work](topics/finance/ai-stock-picking/) and [whether any of it actually beats
 the market](does-it-actually-work).
 
 One honest rule governs everything here: product mechanics and pricing are drawn from vendor
@@ -158,7 +158,7 @@ rather than FACT is that, for almost every service, those answers do not exist.
 
 ## See also
 
-- **[How AI and quant stock-picking actually works](topics/finance/ai-stock-picking)** — the mechanics behind
+- **[How AI and quant stock-picking actually works](topics/finance/ai-stock-picking/)** — the mechanics behind
   the scores, fair values, and robots listed here.
 - **[Does any of it actually beat the market?](does-it-actually-work)** — the peer-reviewed base
   rates these performance claims have to clear.

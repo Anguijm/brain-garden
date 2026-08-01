@@ -197,7 +197,7 @@ supplement or a new exercise program, especially with any health conditions.
 
 ## See also
 
-- **[Supplements for a midlife body](topics/health/supplements-for-midlife)** — the practical supplement plan built on this science.
+- **[Supplements for a midlife body](topics/health/supplements-for-midlife/)** — the practical supplement plan built on this science.
 - **[The core stack that actually works](topics/health/supplements-for-midlife/01-core-stack)** — where leucine and HMB are handled in the stack.
 - **[If you are prone to gout (high uric acid)](topics/health/supplements-for-midlife/05-gout-and-uric-acid)** — whether any of this raises uric acid.
 - **[Using AI well](connections/using-ai-well)** — the same honest-appraisal habit: separate real science from marketing.

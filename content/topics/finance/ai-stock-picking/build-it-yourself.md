@@ -12,13 +12,13 @@ Two things are true at once: rigorous quantitative stock selection is a real dis
 "AI stock pick" marketing is built on the exact mistakes that discipline was invented to prevent.
 The core problem is the same on both sides. A backtest is trivially easy to make look good and
 very hard to make trustworthy. This note is the practical companion to
-[how the methods work](topics/finance/ai-stock-picking) and [whether they beat the market](does-it-actually-work):
+[how the methods work](topics/finance/ai-stock-picking/) and [whether they beat the market](does-it-actually-work):
 Part 1 is the checklist a careful quant uses to avoid fooling themselves, and Part 2 is the same
 checklist turned outward to catch someone trying to fool you.
 
 Everything below is Assessment (a synthesis of standard quant practice and the cited literature),
 except specific figures or rules attributed to a named source, which are reported at that source's
-strength. If you have read the [basketball spread model](topics/games/basketball-ats-model) notes,
+strength. If you have read the [basketball spread model](topics/games/basketball-ats-model/) notes,
 this is the same machinery: the discipline that stops a sports-betting backtest from lying to you
 is the discipline that stops a stock backtest from lying to you.
 
@@ -161,7 +161,7 @@ talks about testimonials and "AI" instead of those numbers.
 
 - **[Does any of it actually beat the market?](does-it-actually-work)** — the base rates a homemade
   strategy is also up against.
-- **[Building your own basketball spread model](topics/games/basketball-ats-model)** — the same
+- **[Building your own basketball spread model](topics/games/basketball-ats-model/)** — the same
   walk-forward, cost-aware, honest-backtest discipline applied to sports betting.
 - **[Using AI well, without fooling yourself](connections/using-ai-well)** — the vault's
   running thread on the same discipline in other domains.

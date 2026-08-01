@@ -75,4 +75,4 @@ Next: [Sound mode and loading sounds](04-sound-and-loading.md).
 
 ## See also
 
-- **In this series:** [← How it's organized](02-how-its-organized) · [Sound mode and the four ways to load sounds →](04-sound-and-loading) · [Overview](topics/music/ep-133-ko2)
+- **In this series:** [← How it's organized](02-how-its-organized) · [Sound mode and the four ways to load sounds →](04-sound-and-loading) · [Overview](topics/music/ep-133-ko2/)

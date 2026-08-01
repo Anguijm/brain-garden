@@ -73,7 +73,7 @@ physics, sound, and how to share your game with other people.
 
 ## See also
 
-- **In this series:** [← Making it interactive](04-interactivity) · [Going further →](06-going-further) · [Overview](topics/software/godot)
+- **In this series:** [← Making it interactive](04-interactivity) · [Going further →](06-going-further) · [Overview](topics/software/godot/)
 
 ## Sources
 

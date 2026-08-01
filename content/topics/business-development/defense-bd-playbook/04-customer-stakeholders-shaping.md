@@ -152,4 +152,4 @@ Next: [Teaming and partnerships](05-teaming-partnerships.md).
 
 ## See also
 
-- **In this series:** [← The acquisition landscape](03-acquisition-landscape) · [Teaming and partnerships →](05-teaming-partnerships) · [Overview](topics/business-development/defense-bd-playbook)
+- **In this series:** [← The acquisition landscape](03-acquisition-landscape) · [Teaming and partnerships →](05-teaming-partnerships) · [Overview](topics/business-development/defense-bd-playbook/)

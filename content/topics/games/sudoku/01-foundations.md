@@ -41,4 +41,4 @@ Keep these in your back pocket; the rest of the series is variations on them.
 
 ## See also
 
-- **In this series:** [Singles →](02-singles) · [Overview](topics/games/sudoku)
+- **In this series:** [Singles →](02-singles) · [Overview](topics/games/sudoku/)

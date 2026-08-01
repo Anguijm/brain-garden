@@ -34,7 +34,7 @@ the iOS preset, but it produces an Xcode project that you finish on a Mac. (Godo
 
 Assessment: Godot is the default recommendation for most people. It is the most popular of
 the free engines, does both 2D and 3D, has by far the largest community and tutorial supply,
-and its mobile export is mature. There is a full [Godot course](topics/software/godot) in this garden,
+and its mobile export is mature. There is a full [Godot course](topics/software/godot/) in this garden,
 including a chapter on exporting. The only catch, shared by everything here, is that the CLI
 build assumes you have already set up the Android SDK and a signing key.
 
@@ -93,8 +93,8 @@ that the ecosystem is older and smaller than it once was.
 
 ## See also
 
-- **In this series:** [Frameworks →](02-frameworks) · [Overview](topics/software/mobile-game-engines)
-- **[Godot, a plain-English course](topics/software/godot)** — Godot, covered as a full course.
+- **In this series:** [Frameworks →](02-frameworks) · [Overview](topics/software/mobile-game-engines/)
+- **[Godot, a plain-English course](topics/software/godot/)** — Godot, covered as a full course.
 
 ## Sources
 

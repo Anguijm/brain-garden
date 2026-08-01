@@ -242,7 +242,7 @@ This page lists every external link cited anywhere in the garden, article by art
 
 ## Finance
 
-### [How AI and quant stock-picking actually works](topics/finance/ai-stock-picking)
+### [How AI and quant stock-picking actually works](topics/finance/ai-stock-picking/)
 
 1. [Economics (1993) — peer-reviewed](https://doi.org/10.1016/0304-405X(93)90023-5)
 2. [peer-reviewed — (free PDF](https://doi.org/10.1016/j.jfineco.2014.10.010)
@@ -349,7 +349,7 @@ This page lists every external link cited anywhere in the garden, article by art
 
 ## Games
 
-### [Building your own model to beat the basketball spread (and why the spread usually wins)](topics/games/basketball-ats-model)
+### [Building your own model to beat the basketball spread (and why the spread usually wins)](topics/games/basketball-ats-model/)
 
 1. [(2012)](https://thesportjournal.org/article/nba-gambling-inefficiencies-a-second-look/)
 2. [Sport Journal (2016)](https://thesportjournal.org/article/the-effect-of-momentum-on-the-nba-point-spread-market/)
@@ -398,7 +398,7 @@ This page lists every external link cited anywhere in the garden, article by art
 
 ## Health
 
-### [Muscle, aging, and anabolic resistance: the real science (and the Apex Muscle Defense claims)](topics/health/muscle-protein-synthesis-aging)
+### [Muscle, aging, and anabolic resistance: the real science (and the Apex Muscle Defense claims)](topics/health/muscle-protein-synthesis-aging/)
 
 1. [Moore DR et al. (2015), older adults need more protein per meal for muscle synthesis, J](https://academic.oup.com/biomedgerontology/article-abstract/70/1/57/2947642)
 2. [Zaromskyte G et al. (2021), leucine trigger hypothesis systematic review, Front Nutr](https://pmc.ncbi.nlm.nih.gov/articles/PMC8295465/)
@@ -413,7 +413,7 @@ This page lists every external link cited anywhere in the garden, article by art
 11. [Apex Muscle Defense product page](https://apexlaboratories.com/products/muscle-defense)
 12. [Apex Muscle Defense Supplement Facts panel (label image, the only place the amounts are](https://apexlaboratories.com/cdn/shop/files/MD_INGREDIENTS.jpg)
 
-### [Supplements for a midlife body: help, not hurt](topics/health/supplements-for-midlife)
+### [Supplements for a midlife body: help, not hurt](topics/health/supplements-for-midlife/)
 
 1. [Hypertension screening in adults, USPSTF](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/hypertension-in-adults-screening)
 2. [Prediabetes and type 2 diabetes screening, USPSTF](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/screening-for-prediabetes-and-type-2-diabetes)
@@ -846,7 +846,7 @@ This page lists every external link cited anywhere in the garden, article by art
 
 ## Making
 
-### [Plastic and tissue: 3D-printed flying model aircraft (X1C)](topics/making/3d-printed-tissue-aircraft)
+### [Plastic and tissue: 3D-printed flying model aircraft (X1C)](topics/making/3d-printed-tissue-aircraft/)
 
 1. [Model Aviation (AMA), Balsa Density, Grain, and Grade](https://www.modelaviation.com/balsa)
 2. [eSUN ePLA-LW technical data sheet (density 0.54 g/cm3)](https://www.esun3d.com/uploads/eSUN_ePLA-LW-Filament_TDS_V4.02.pdf)
@@ -904,7 +904,7 @@ This page lists every external link cited anywhere in the garden, article by art
 
 ## Software
 
-### [Godot, a plain-English course](topics/software/godot)
+### [Godot, a plain-English course](topics/software/godot/)
 
 1. [Godot Engine documentation](https://docs.godotengine.org/en/stable/)
 2. [Introduction to Godot](https://docs.godotengine.org/en/stable/getting_started/introduction/introduction_to_godot.html)

@@ -273,7 +273,7 @@ wrong, it should be possible to prove that it is wrong.
 
 ## See also
 
-- [The Waterfront Brief overview](projects/waterfront-brief) — the issues themselves and the
+- [The Waterfront Brief overview](projects/waterfront-brief/) — the issues themselves and the
   print archive.
 - [Using AI well](connections/using-ai-well) — why everything here is labelled and sourced: a
   confident summary is not evidence.

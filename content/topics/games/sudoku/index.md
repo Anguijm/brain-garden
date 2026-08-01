@@ -46,4 +46,4 @@ puzzles.
 ## See also
 
 - **[Finite resources](connections/finite-resources)** — sudoku is the garden's cleanest constraint-solving example: narrow the search cheaply first.
-- **[Homebrew on portable game devices](topics/games/portable-homebrew)** — another games note: a classic puzzle to run on a handheld.
+- **[Homebrew on portable game devices](topics/games/portable-homebrew/)** — another games note: a classic puzzle to run on a handheld.

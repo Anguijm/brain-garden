@@ -72,4 +72,4 @@ Next: [Playing back 4D simulations and animations](07-simulation-playback.md).
 
 ## See also
 
-- **In this series:** [← Saved viewpoints and review data](05-viewpoints-and-review) · [Playing back 4D simulations and animations →](07-simulation-playback) · [Overview](topics/software/navisworks-freedom-2026)
+- **In this series:** [← Saved viewpoints and review data](05-viewpoints-and-review) · [Playing back 4D simulations and animations →](07-simulation-playback) · [Overview](topics/software/navisworks-freedom-2026/)

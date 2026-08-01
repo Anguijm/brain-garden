@@ -92,4 +92,4 @@ Next: [Proposal management](07-proposal-management.md).
 
 ## See also
 
-- **In this series:** [← Teaming and partnerships](05-teaming-partnerships) · [Proposal management →](07-proposal-management) · [Overview](topics/business-development/defense-bd-playbook)
+- **In this series:** [← Teaming and partnerships](05-teaming-partnerships) · [Proposal management →](07-proposal-management) · [Overview](topics/business-development/defense-bd-playbook/)

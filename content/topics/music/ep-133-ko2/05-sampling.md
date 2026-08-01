@@ -83,4 +83,4 @@ Next: [Chopping](06-chopping.md).
 
 ## See also
 
-- **In this series:** [← Sound mode and the four ways to load sounds](04-sound-and-loading) · [Chopping a sample across the pads →](06-chopping) · [Overview](topics/music/ep-133-ko2)
+- **In this series:** [← Sound mode and the four ways to load sounds](04-sound-and-loading) · [Chopping a sample across the pads →](06-chopping) · [Overview](topics/music/ep-133-ko2/)

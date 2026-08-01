@@ -61,4 +61,4 @@ Next: [Arranging](12-arranging.md).
 
 ## See also
 
-- **In this series:** [← Effects](10-effects) · [Arranging →](12-arranging) · [Overview](topics/music/ep-133-ko2)
+- **In this series:** [← Effects](10-effects) · [Arranging →](12-arranging) · [Overview](topics/music/ep-133-ko2/)
