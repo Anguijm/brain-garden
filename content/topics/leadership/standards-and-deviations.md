@@ -143,7 +143,7 @@ Deming cycle), and the failure mode it guards against is documented in
 (Vaughan's normalization of deviance). The frontline-authored-standard claim rests on a strong
 single case ([NUMMI](http://faculty.marshall.usc.edu/Paul-Adler/research/HBR%20NUMMI.pdf), Adler
 1993), and the culture guidance ([Safety-II](https://www.england.nhs.uk/signuptosafety/wp-content/uploads/sites/16/2015/10/safety-1-safety-2-whte-papr.pdf);
-[just culture](https://www.humanfactors.lth.se/fileadmin/lusa/Sidney_Dekker/articles/2008/JustCultureCTW.pdf))
+[just culture](https://doi.org/10.1007/s10111-008-0110-7))
 is a well-argued perspective, not a proven law. Bottom line: document and measure every
 deviation, judge it as new-standard or one-off on a clock, protect the person who reports it, and
 you have the discipline every high-consequence industry converged on.
@@ -184,7 +184,7 @@ you have the discipline every high-consequence industry converged on.
   https://sma.nasa.gov/docs/default-source/safety-messages/safetymessage-normalizationofdeviance-2014-11-03b.pdf
 - James Reason, "Managing the Risks of Organizational Accidents" (1997), which introduced just
   culture (book, purchase); and Sidney Dekker, "Just Culture: Who Gets to Draw the Line?" (free) —
-  https://www.humanfactors.lth.se/fileadmin/lusa/Sidney_Dekker/articles/2008/JustCultureCTW.pdf
+  https://doi.org/10.1007/s10111-008-0110-7
 - Paul S. Adler, "Time-and-Motion Regained," Harvard Business Review (January–February 1993) —
   the NUMMI case for worker-authored standards. HBR original is paywalled
   (https://hbr.org/1993/01/time-and-motion-regained); free author copy —

@@ -765,7 +765,7 @@ This page lists every external link cited anywhere in the garden, article by art
 3. [aerospace](https://sma.nasa.gov/docs/default-source/safety-messages/safetymessage-normalizationofdeviance-2014-11-03b.pdf)
 4. [NUMMI](http://faculty.marshall.usc.edu/Paul-Adler/research/HBR%20NUMMI.pdf)
 5. [Safety-II](https://www.england.nhs.uk/signuptosafety/wp-content/uploads/sites/16/2015/10/safety-1-safety-2-whte-papr.pdf)
-6. [just culture](https://www.humanfactors.lth.se/fileadmin/lusa/Sidney_Dekker/articles/2008/JustCultureCTW.pdf)
+6. [just culture](https://doi.org/10.1007/s10111-008-0110-7)
 7. [intuitionlabs.ai/deviations-capa-change-control](https://intuitionlabs.ai/articles/deviations-capa-change-control)
 
 ### [How to build a superteam that keeps getting better](topics/leadership/superteams)
@@ -991,7 +991,7 @@ This page lists every external link cited anywhere in the garden, article by art
 6. [libGDX — ; project generation wiki/start/project-generation ; running](https://libgdx.com/)
 7. [libGDX — https://libgdx.com/ ; project generation ; running](https://libgdx.com/wiki/start/project-generation)
 8. [libGDX — https://libgdx.com/ ; project generation](https://libgdx.com/wiki/start/import-and-running)
-9. [MonoGame — ; platforms https://docs.monogame.net/articles/gettingstarted/platforms.html](https://github.com/MonoGame/MonoGame)
+9. [MonoGame — ; platforms https://docs.monogame.net/articles/getting_started/platforms.html](https://github.com/MonoGame/MonoGame)
 10. [MonoGame — https://github.com/MonoGame/MonoGame ; platforms ; license](https://docs.monogame.net/articles/getting_started/platforms.html)
 11. [MonoGame — https://github.com/MonoGame/MonoGame ; platforms](https://github.com/MonoGame/MonoGame/blob/develop/LICENSE.txt)
 12. [HaxeFlixel — ; https://haxeflixel.com/documentation/android/](https://haxeflixel.com/documentation/install-haxeflixel/)

@@ -77,10 +77,14 @@ facility "is the first organic industrial base facility for **non-structural** c
 within the Navy," enabling repairs in-house "that were previously outsourced" (Capt. Rex
 Boonyobhas, same source).
 
-Assessment: **non-structural** is the whole sentence. It means the Navy has committed
-organic capability to restoring things that do not carry primary load: corroded housings,
-worn seal surfaces, dimensional restoration. The prize, and the thing a repair yard would
-actually want, is structural repair, and that has not been authorised.
+Assessment: **non-structural** is the whole sentence, and it is a limit on the *method*,
+not on the work. To be unambiguous, because an earlier draft of this note was not: a repair
+yard does structural work every day, by welding, plate renewal, inserts and doublers, and
+nothing here changes that. What the qualifier limits is where **cold spray** is an approved
+way to do it. Crane's organic capability covers components that do not carry primary load:
+corroded housings, worn seal surfaces, restoring a dimension on a shaft or bore. Cold spray
+as an approved repair method for load-bearing structure is the thing that has not been
+authorised.
 
 FACT: the gap is a live research question rather than a settled one. A review titled
 *Critical Assessment 11: Structural repairs by cold spray* exists precisely to assess "the
@@ -90,10 +94,14 @@ repairing defects and damage in metal structures
 **Unverified** (2026-08-03): what those barriers are. The article is paywalled past its
 abstract and this desk has not read the body, so nothing here characterises its findings.
 
-Assessment: that is the thread to watch. Non-structural organic capability now exists and
-has a named home; structural is the boundary; the barriers are documented somewhere behind
-a paywall. When the boundary moves, the addressable repair scope changes materially, and
-the first sign will be a qualification announcement rather than a facility opening.
+Assessment: that is the thread to watch, and the reason it matters is substitution rather
+than new scope. Structural repairs that today mean cutting out and renewing metal, with the
+heat input, distortion and inspection burden that carries, are the candidates cold spray
+would eventually compete for. Non-structural organic capability now exists and has a named
+home; approval for load-bearing use is the boundary. When it moves, the question for a yard
+is whether a job it currently welds becomes a job it sprays, which is a different tooling,
+training and qualification bill. The first sign will be a qualification announcement rather
+than a facility opening.
 
 FACT: there is a named programme office. Jeff Campbell appears as **NAVSEA 05T1, Cold
 Spray Project Manager**, alongside MADMAN director Troy Pierson and rapid prototype branch
@@ -194,8 +202,9 @@ Assessment: three practical items, in order of how soon they matter.
 1. **The Discovery Team is a live channel and nobody here was tracking it.** A method that
    removes labour hours has a named destination, a review process, and a Puget Sound
    planner and estimator among its public faces.
-2. **Watch NAVSEA 05T1 for the structural cold spray boundary.** Non-structural organic
-   capability now exists. Structural is where the scope actually changes.
+2. **Watch NAVSEA 05T1 for the load-bearing cold spray boundary.** Not because structural
+   repair is new to a yard, it is the daily work, but because cold spray becoming an approved
+   method for it would substitute for jobs currently done by cutting and welding.
 3. **Qualify the shop, not the part.** Process, material and operator clear once and carry
    forward; only the use case repeats. That ordering is the cheapest lesson in this memo.
 
