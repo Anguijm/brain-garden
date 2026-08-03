@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-664 citations across 100 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+665 citations across 100 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -159,7 +159,7 @@ This page lists every external link cited anywhere in the garden, article by art
 ### [The acquisition landscape](topics/business-development/defense-bd-playbook/03-acquisition-landscape)
 
 1. [FAR 1.101](https://www.acquisition.gov/far/1.101)
-2. [DFARS](https://www.acquisition.gov/dfars)
+2. [DFARS part 201](https://www.acquisition.gov/dfars)
 3. [FAR 2.101](https://www.acquisition.gov/far/2.101)
 4. [90 FR 41872, Aug 27 2025](https://www.federalregister.gov/documents/2025/08/27/2025-16412/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds)
 5. [FAR Part 15](https://www.acquisition.gov/far/part-15)
@@ -169,6 +169,7 @@ This page lists every external link cited anywhere in the garden, article by art
 9. [15.506](https://www.acquisition.gov/far/15.506)
 10. [10 U.S.C. 4022](https://www.law.cornell.edu/uscode/text/10/4022)
 11. [GAO bid protests](https://www.gao.gov/legal/bid-protests)
+12. [4 CFR part 21](https://www.ecfr.gov/current/title-4/chapter-I/part-21)
 
 ### [Customer, stakeholders, and shaping](topics/business-development/defense-bd-playbook/04-customer-stakeholders-shaping)
 

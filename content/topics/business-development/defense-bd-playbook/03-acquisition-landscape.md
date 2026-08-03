@@ -21,8 +21,11 @@ because they are adjusted for inflation periodically.
 FACT: the Federal Acquisition Regulation (FAR) System is established "for the
 codification and publication of uniform policies and procedures for acquisition by all
 executive agencies" ([FAR 1.101](https://www.acquisition.gov/far/1.101)), which is why it is the government-wide
-rulebook you work from. FACT: the Department of Defense publishes the Defense Federal
-Acquisition Regulation Supplement ([DFARS](https://www.acquisition.gov/dfars)).
+rulebook you work from. FACT: the Defense Federal Acquisition Regulation Supplement (DFARS) is the
+Department of Defense's addition to it, codified as 48 CFR chapter 2 and issued under the
+authority of 41 U.S.C. 1303; DFARS 201.104 sets out where the FAR and DFARS both apply to
+DoD contracting activities ([DFARS part 201](https://www.acquisition.gov/dfars), eCFR issue
+of 2026-07-08).
 Assessment: treat it as the DoD layer on top of the FAR, supplementing it and in
 places deviating from it. When you
 work a DoD deal, both apply, and DFARS clauses (for example cybersecurity and
@@ -133,6 +136,13 @@ to a larger production or services contract (sbir.gov).
 FACT: The Government Accountability Office (GAO) runs an independent bid-protest
 forum and has adjudicated procurement disputes for over a century; protests can
 challenge solicitation terms or award decisions ([GAO bid protests](https://www.gao.gov/legal/bid-protests)).
+FACT: the deadlines are set in regulation, not policy. Under 4 CFR part 21, a protest
+about something wrong in the solicitation itself, where the problem is visible before
+proposals are due, must be filed **before** the deadline for receipt of proposals; any
+other protest must be filed **within 10 days** of when the basis of protest was known or
+should have been known; and GAO issues its decision **within 100 days** of filing
+([4 CFR part 21](https://www.ecfr.gov/current/title-4/chapter-I/part-21), current through
+the eCFR issue of 2026-07-08).
 Assessment: protests are a real but double-edged tool. Use a debrief to decide
 whether grounds exist, weigh the cost to the customer relationship, and remember
 that an incumbent you displace may protest you too. Plan for protest risk in your

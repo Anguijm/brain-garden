@@ -47,12 +47,25 @@ systematic review; Moore 2015.)
 ![Diagram: two dose-response curves of muscle response versus protein or leucine in a meal; the younger curve rises faster and plateaus at about 0.24 g per kg of body weight, while the older curve is blunted and needs about 0.40 g per kg to reach a similar response](img/anabolic-resistance.png)
 *Older muscle needs a bigger dose to get the same response. Diagram.*
 
-FACT: the numbers are fairly specific. To fully switch on muscle-building, older adults need
-roughly **0.40 grams of protein per kilogram of body weight per meal**, versus about **0.24**
-for younger adults. For an 80 kg (about 175 lb) older adult, that is roughly **30 to 40
-grams of high-quality protein per meal**, and about **1.0 to 1.2 grams per kilogram per day**
-in total, more than the old standard recommendation. (Moore 2015; PROT-AGE guidelines,
-Bauer 2013.)
+FACT: the numbers are fairly specific, and the paper is careful about which of them is solid.
+Moore and colleagues found the protein intake needed to max out muscle-building was
+**0.40 g per kg of body weight per meal in older men versus 0.24 in younger men**, but they
+report that gap as a *trend* rather than a firm finding (p = .055, just outside the usual
+cutoff). The same comparison measured against **lean** body mass rather than total weight was
+clearly significant: **0.61 versus 0.25 g per kg of lean mass** (p < .01). FACT: the study was
+a retrospective analysis of six earlier trials in healthy **men** (43 older, average 71; 65
+younger, average 22), at rest, using fast-digesting animal protein. FACT: the authors note the
+breakpoint is an average, so they treat it as a minimum target and say the requirement may run
+as high as ~0.60 g/kg for some older men. FACT: three meals at 0.40 g/kg works out to about
+**1.2 g per kg per day**, against a current US-Canadian recommendation of 0.8. (Moore 2015,
+read in full; PROT-AGE guidelines, Bauer 2013.)
+
+Assessment: the practical number does not really change, but the confidence behind it does.
+If you weigh 80 kg, 30 to 40 g of good protein per meal is still the target. What the paper
+will not support is the claim that older adults *definitively* need more per kilogram of body
+weight than younger ones; measured that way it is a trend. Measured against lean mass, where
+the difference is real, the gap is much larger, which fits the idea that what matters is how
+much muscle you are feeding rather than how much you weigh.
 
 FACT: this blunted response is one of the main drivers of **sarcopenia**, the slow loss of
 muscle mass and strength that comes with age. Small daily shortfalls add up over years.

@@ -40,6 +40,33 @@ The four **strategies**, from lightest touch to last resort:
   Use rarely; overuse makes the team dependent on you.
 - **Exit:** remove a member. A true last resort.
 
+## When each one actually works
+
+FACT: the article does not leave the choice to instinct. Its "Identifying the Right Strategy"
+exhibit pairs every strategy with the conditions that have to hold for it to work, and with
+what tends to go wrong. (Read from the licensed reprint on 2026-08-03; this table is the part
+that was missing from this note before.)
+
+- **Adaptation** needs two things to be true: people can put the friction down to culture
+  rather than personality, and senior managers are either unavailable or the team would be
+  embarrassed to involve them. What goes wrong: it asks people to be unusually
+  self-aware, and hammering out a shared understanding takes time.
+- **Structural intervention** needs a team that can be split so cultures or expertise mix,
+  and tasks that can genuinely be divided. What goes wrong: split carelessly and the
+  subgroups harden the very differences you were separating, and somebody still has to
+  make the pieces fit back together afterwards.
+- **Managerial intervention** needs a problem that has already produced real heat, a team
+  that has stalemated, and a senior manager both able and willing to step in. What goes
+  wrong: the team starts coming to you every time, and members get sidelined or dig in.
+- **Exit** needs a permanent team (not a project that will simply end), emotions past the
+  point where intervening helps, and too much face already lost. What goes wrong: you
+  lose the talent and everything you spent training it.
+
+Assessment: the middle column is the useful one. A manager reaching for adaptation when
+people are already reading the friction as personal, or reaching for structural intervention
+when the work cannot actually be divided, has picked a strategy whose preconditions do not
+hold, which is a more precise way to be wrong than "I should have handled that better."
+
 Assessment: the standout lesson is to respect the *other* side's hierarchy when you escalate,
 go up your own chain to reach theirs at the same level, rather than leapfrogging their people
 (one team nearly wrecked a deal by complaining straight to the top).

@@ -73,18 +73,56 @@ protein.
 ## Vitamin D3, if you are low
 
 Assessment: vitamin D only helps if you are actually deficient, and it does little for
-someone already topped up. FACT: deficiency is common, and more common in people carrying
-extra weight, because vitamin D gets diluted into fat tissue. (NIH Office of Dietary
-Supplements.) So you have a better-than-average chance of being low.
+someone already topped up.
 
-FACT: be realistic about what it does. Correcting a true deficiency is worthwhile and can
-help muscle and immunity. But a large trial of 2,000 IU a day found **no** reduction in
-heart disease or cancer, so do not take it expecting those. (VITAL trial.) The move is to
-test your blood level (the test is called 25-OH-D) and dose to the number.
+**Correction, 2026-08-03.** This section used to say "deficiency is common," and the source
+it cited says close to the opposite. Reading the actual page changed the advice, so the old
+claim is left visible here rather than quietly swapped out. FACT: in the National Health and
+Nutrition Examination Survey for 2011 to 2014, **most** people in the United States aged 1
+and over had sufficient vitamin D. **5%** were at risk of deficiency (a blood level under 30
+nmol/L, or 12 ng/mL) and a further **18%** at risk of inadequacy (30 to 49 nmol/L); 4% were
+above 125 nmol/L, the level the Food and Nutrition Board says to stay under ([NIH Office of
+Dietary Supplements, *Vitamin D: Fact Sheet for Health Professionals*, updated 27 June
+2025](https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/)). FACT: risk of
+deficiency peaks at **7.6%** in adults aged 20 to 39 and falls to **2.9%** by age 60 and
+over (same source). Assessment: for a man in his late forties, outright deficiency is a
+low-single-digit chance, not a good bet.
 
-Dose: usually 1,000 to 2,000 IU a day to maintain, more for a short while if you are
-genuinely low. FACT: the safe daily upper limit is 4,000 IU; real toxicity takes chronic
-mega-doses. (NIH ODS.) Skip the giant monthly "boluses."
+FACT: the obesity link is real, though it is about concentration rather than shortage.
+People with a body mass index of 30 or more have lower blood levels of vitamin D than people
+without obesity; the skin still makes it normally, but a larger volume of body fat holds on
+to more of it, so more is needed to reach the same blood level (NIH ODS, same fact sheet).
+Assessment: that is the one part of the original claim that survives, and it is the part
+that applies to you.
+
+FACT: be realistic about what it does. In the VITAL trial, 25,871 adults took 2,000 IU a day
+or a placebo for a median of 5.3 years. It produced **no** reduction in breast, prostate or
+colorectal cancer, **no** reduction in heart attacks, strokes or cardiovascular death, and,
+in a follow-on study of the same trial, **no** reduction in total, hip or non-vertebral
+fractures (NIH ODS, same fact sheet). Assessment: do not take it expecting any of those.
+
+FACT: the muscle case is weaker than this note used to imply. Trials of supplementation on
+muscle strength have been inconsistent; in one, 100 adults aged 60 and over with low blood
+levels raised them to a healthy average and still saw no change in leg power, strength or
+lean mass (NIH ODS, same fact sheet). Vitamin D is genuinely needed for normal muscle, and
+a real deficiency causes weakness and pain, but topping up an adequate level is not a
+strength intervention.
+
+**Testing, honestly.** This note used to say to test and dose to the number. That is still
+reasonable if you have a reason to suspect you are low, but it is worth knowing the major
+bodies disagree with routine testing. FACT: the U.S. Preventive Services Task Force found
+insufficient evidence to judge the benefits and harms of screening asymptomatic adults, and
+noted that no national professional organisation recommends population screening; the
+Endocrine Society does not recommend routine testing in healthy people and does not
+recommend supplementation for healthy adults aged 19 to 74 (NIH ODS, same fact sheet). The
+test is called 25-OH-D if you do get one.
+
+Dose: FACT: the recommended daily allowance is 600 IU up to age 70 and 800 IU after that,
+and the safe daily upper limit is 4,000 IU for adults; signs of toxicity are unlikely below
+10,000 IU a day, so real trouble takes sustained mega-dosing (NIH ODS, same fact sheet).
+Assessment: 1,000 to 2,000 IU a day is a sane maintenance dose that clears the RDA with room
+to spare and sits well under the limit, and it is the sensible choice given the extra weight.
+Skip the giant monthly "boluses."
 
 ## Psyllium fiber, quietly one of the best buys
 

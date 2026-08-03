@@ -55,6 +55,33 @@ executive-education setting, and a model without live data), so treat it as a
 strong signal rather than the last word. Assessment: even discounted, the direction
 of the finding maps directly onto BD's failure modes.
 
+FACT: two details from the licensed reprint, read on 2026-08-03, that sharpen how much
+weight this carries. The sessions ran between June 2024 and March 2025, so the tools
+tested were the models of that window, not today's. And before any consultation the two
+groups had statistically indistinguishable forecasts, which is what makes the comparison
+clean: the gap opened up after the consultation, not before it. One caution on citing the
+number of participants: the article's own summary says "nearly 300" while its body says
+"more than 300," so say roughly 300 and do not pick a side.
+
+## What the authors tell you to do about it
+
+FACT: the paper does not stop at the diagnosis. Its recommendations are specific, and two
+of them are directly usable here.
+
+1. **Make the model argue against itself.** When you ask for a prediction, name the data
+   you want used, ask for a confidence interval, and, in the authors' words, "ask the
+   system to explain why or how the prediction could be wrong."
+2. **Put the human step first, not second.** Their fourth recommendation is to require a
+   round of peer discussion, or a review of worst-case scenarios, *before* anyone consults
+   the AI, so the tool cannot anchor the room.
+3. Treat AI output as "a starting point for inquiry, not the final word," and combine it
+   with human dialogue rather than substituting one for the other.
+
+Assessment: the ordering in the second point is the whole trick, and it is cheap. The
+experiment's damage came from consulting the model and then revising, so a capture team
+that sets its own number first, in the room, has already spent the protection the study
+says matters. It costs one meeting held in a particular order.
+
 ## Why this hits BD specifically
 
 Assessment: the playbook's most important numbers are all forecasts under
