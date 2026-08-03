@@ -88,6 +88,15 @@ setup you do not need. One agent beats five that mostly talk to each other. Givi
 model more freedom costs more money, more waiting, and makes problems harder to find. So
 add freedom only when you truly need it.
 
+## Who does this in the real world
+
+Assessment: the chapters above are about building the thing. The last one is about the job
+of making it work inside a real company, which is where most enterprise AI actually fails.
+
+- **[Forward deployed engineers](15-forward-deployed-engineers)** — what an FDE is, where
+  Palantir invented it, what the postings actually require, what separates a good one from a
+  bad one, and why the widely quoted million-dollar salary is the ceiling rather than the job.
+
 ## See also
 
 - **[Using AI well](connections/using-ai-well)** — the discipline running under this whole wing: a fluent model is an assistant, not an oracle.

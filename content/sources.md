@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-665 citations across 100 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+667 citations across 101 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -153,6 +153,11 @@ This page lists every external link cited anywhere in the garden, article by art
 4. [ICLR 2026 MemAgents workshop](https://sites.google.com/view/memagent-iclr26)
 5. [MRAgent code repository](https://github.com/Ji-shuo/MRAgent)
 6. [Does Memory Need Graphs? (a field counterpoint, arXiv:2601.01280)](https://arxiv.org/abs/2601.01280)
+
+### [Forward deployed engineers: the job the AI boom invented](topics/ai-engineering/15-forward-deployed-engineers)
+
+1. [Palantir Technologies, Forward Deployed AI Engineer](https://jobs.lever.co/palantir/636fc05c-d348-4a06-be51-597cb9e07488)
+2. [FDSE](https://jobs.lever.co/palantir/dab396d4-2f14-4796-aac0-0d82883dccf0)
 
 ## Business development
 
