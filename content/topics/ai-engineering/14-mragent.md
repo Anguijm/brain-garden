@@ -41,23 +41,35 @@ Singapore, and the paper went up on 4 June 2026. The code is at github.com/Ji-sh
 I tracked down where this was published, because the sources disagree and it changes how
 much to trust the results.
 
-FACT: the most reliable record is the official listing on a review site called OpenReview,
-which says the paper appeared at the "ICLR 2026 MemAgents workshop," a real workshop with
-its own website. So it is a workshop paper, posted in March 2026. (OpenReview, forum
-YPoHy6lgKP.)
+**Corrected 2026-08-03, and the correction matters.** This section used to conclude that
+MRAgent was a workshop paper that had never been peer reviewed, and the rest of the chapter
+leaned on that. It was wrong.
+
+FACT: the paper was accepted to the **main ICLR 2026 conference**. The operator supplied the
+PDF on 2026-08-03 and its header carries the ICLR camera-ready line, "Published as a
+conference paper at ICLR 2026," and OpenReview hosts that same camera-ready under
+[forum YPoHy6lgKP](https://openreview.net/forum?id=YPoHy6lgKP). Assessment: ICLR is a leading
+machine-learning conference and its main track is genuine peer review, meaning other
+researchers read the work and could have rejected it. That is a real credential, and this
+chapter previously denied the paper one it had earned.
+
+Assessment: worth saying plainly how the error happened, because it is a repeat. openreview.net
+sits behind a bot wall that answers the vault's fetcher with "Verifying your browser," so the
+engine never actually read the record it was reasoning about; it worked from fragments and
+concluded "workshop." A blocked source produced a confident published claim. The fix for the
+class was made the same day: blocked fetches are now quarantined and excluded from grading
+rather than being treated as evidence.
 
 FACT: the Comments field on the paper's [arXiv listing page](https://arxiv.org/abs/2606.06036)
-reads "Accepted at ICML 2026," a line the authors type in themselves. Assessment: nothing else
-backs that up, and no official ICML record of it turns up. Assessment: when an author's typed note clashes with the official listing,
-the official listing wins. The ICML line is most likely an error or an out-of-date note.
-Treat the venue as the ICLR workshop, and the ICML claim as unconfirmed.
+reads "Accepted at ICML 2026," a line authors type themselves. Assessment: that remains
+unexplained, and it is now the odd one out rather than the discrepancy to resolve. The ICLR
+camera-ready is the strongest available record; treat the ICML line as a stale or mistaken
+note.
 
-FACT: this matters because the workshop listing shows no reviews at all, no expert comments
-for or against. Assessment: a workshop is a lower bar than a main conference, and "peer
-review," other experts checking the work before it is published, does not appear to have
-happened here in public. The honest upshot runs through the rest of this chapter: every
-number below comes from the authors themselves, and no outside group has checked it or
-repeated it.
+Assessment: the practical upshot changes with it. The numbers below are still the authors'
+own, and no independent group has yet reproduced them, which is the normal state of a paper
+in its first year. But they have been through peer review at a strong venue, so read them as
+checked-by-experts rather than unchecked.
 
 ## The core idea: rebuild, do not just look up
 
@@ -157,8 +169,8 @@ repeated a lot.
 | "About 27x fewer tokens than LangMem" | **True, with a catch.** 118k vs 3.26M per question, but that counts only answering, not building the memory. |
 | "MRAgent is the fastest memory system" | **False.** It uses the fewest tokens; Mem0 is faster on the clock (533s vs 586s). |
 | "Up to 23% more accurate" | **True.** On one test it scored 84 vs the best rival's 68. On another the gap was even bigger. |
-| "Accepted at ICML 2026" | **Unconfirmed.** Only an author note says so; the official listing says the ICLR 2026 workshop. |
-| "A peer-reviewed result" | **Misleading.** It is a workshop paper with no public reviews; the numbers are author-reported. |
+| "Accepted at ICML 2026" | **Unconfirmed and probably stale.** Only an author-typed arXiv note says ICML; the camera-ready says ICLR 2026. |
+| "A peer-reviewed result" | **True** (corrected 2026-08-03). Accepted to the main ICLR 2026 conference. The numbers are still author-reported. |
 | "Independently reproduced" | **False / none found.** No outside group has repeated it yet. |
 
 ## Pros and cons
@@ -175,8 +187,8 @@ time can cost *fewer* tokens, because it avoids dragging a big pile of notes int
 window. The released code looks complete, even if no one outside has confirmed it matches
 the paper.
 
-**Cons.** Every number comes from the authors, from a workshop paper with no public review
-and no outside repeat, so the *size* of the headline (27 times) deserves more doubt than
+**Cons.** Every number still comes from the authors and no outside group has repeated them,
+so the *size* of the headline (27 times) deserves more doubt than
 its *direction* (more efficient). A team testing its own system tends to tune its own
 system, not its rivals, and LangMem's 3.26-million-token figure is extreme enough to hint
 its settings may not have been fair. The slowness grows with the number of steps, so the

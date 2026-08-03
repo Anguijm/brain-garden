@@ -64,9 +64,25 @@ stronger model grades it. (OpenAI.)
 FACT: but the grader has its own blind spots, well documented in research. It tends to
 favor whichever answer it sees first or last, regardless of quality. It leans toward its
 own writing style, toward longer answers, and toward agreeing too easily. (*Judging the
-Judges*, arXiv:2406.07791.) You can reduce these by swapping the order and averaging,
-using several graders, and keeping the checklist short and clear. (CalibraEval,
-arXiv:2410.15393.)
+Judges*, arXiv:2406.07791.) You can reduce these by swapping the order and averaging and by
+keeping the checklist short and clear.
+
+**Corrected 2026-08-03.** This paragraph used to cite CalibraEval for "using several
+graders," which gets that paper backwards. FACT: CalibraEval names the problem
+*selection bias* and splits it into position bias (favouring an answer by where it sits)
+and token bias (favouring the option letter itself), and its own proposal is a label-free
+calibration step applied at inference, not a panel of judges. FACT: on multiple graders
+specifically, the paper's assessment is that multi-agent methods "typically require
+multiple rounds of interaction, making them costly and time-consuming, and their
+effectiveness in mitigating selection bias remains uncertain," and that simply discarding
+inconsistent judgments "may lead to a loss of evaluative information."
+([CalibraEval, arXiv:2410.15393](https://arxiv.org/abs/2410.15393), Li et al., Tsinghua
+University, 20 October 2024, read from the operator's copy on 2026-08-03.)
+
+Assessment: several graders is still a reasonable thing to do, and this course is not
+retracting the advice. What changed is the footing: it is a practitioner's rule of thumb
+here, not a finding from that paper, and the paper it was attributed to argues the cost may
+not be worth it.
 
 Assessment: the rule that ties this whole section together, do not blindly trust the AI,
 applies to the grader too. Check the grader against human scores on a sample before you

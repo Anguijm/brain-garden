@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-667 citations across 101 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+668 citations across 101 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -125,12 +125,13 @@ This page lists every external link cited anywhere in the garden, article by art
 
 ### [Evaluation and testing](topics/ai-engineering/11-evaluation-and-testing)
 
-1. [Anthropic, How we built our multi-agent research system](https://www.anthropic.com/engineering/multi-agent-research-system)
-2. [OpenAI, Evaluation best practices](https://developers.openai.com/api/docs/guides/evaluation-best-practices)
-3. [Google Cloud, Evaluate AI agents with Vertex Gen AI evaluation service](https://cloud.google.com/vertex-ai/generative-ai/docs/models/evaluation-agents)
-4. [Judging the Judges: A Systematic Study of Position Bias in LLM-as-a-Judge](https://arxiv.org/abs/2406.07791)
-5. [CalibraEval (arXiv:2410.15393)](https://arxiv.org/pdf/2410.15393)
-6. [Confident AI, LLM Agent Evaluation Metrics](https://www.confident-ai.com/blog/llm-agent-evaluation-complete-guide)
+1. [CalibraEval, arXiv:2410.15393](https://arxiv.org/abs/2410.15393)
+2. [Anthropic, How we built our multi-agent research system](https://www.anthropic.com/engineering/multi-agent-research-system)
+3. [OpenAI, Evaluation best practices](https://developers.openai.com/api/docs/guides/evaluation-best-practices)
+4. [Google Cloud, Evaluate AI agents with Vertex Gen AI evaluation service](https://cloud.google.com/vertex-ai/generative-ai/docs/models/evaluation-agents)
+5. [Judging the Judges: A Systematic Study of Position Bias in LLM-as-a-Judge](https://arxiv.org/abs/2406.07791)
+6. [CalibraEval (arXiv:2410.15393)](https://arxiv.org/pdf/2410.15393)
+7. [Confident AI, LLM Agent Evaluation Metrics](https://www.confident-ai.com/blog/llm-agent-evaluation-complete-guide)
 
 ### [Multi-agent systems](topics/ai-engineering/12-multi-agent-systems)
 
@@ -147,9 +148,9 @@ This page lists every external link cited anywhere in the garden, article by art
 
 ### [MRAgent: reconstructive memory](topics/ai-engineering/14-mragent)
 
-1. [arXiv listing page](https://arxiv.org/abs/2606.06036)
-2. [Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents (arXiv:2606.06036) —](https://arxiv.org/html/2606.06036v1)
-3. [OpenReview record (venue: ICLR 2026 Workshop MemAgents; no public reviews)](https://openreview.net/forum?id=YPoHy6lgKP)
+1. [forum YPoHy6lgKP](https://openreview.net/forum?id=YPoHy6lgKP)
+2. [arXiv listing page](https://arxiv.org/abs/2606.06036)
+3. [Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents (arXiv:2606.06036) —](https://arxiv.org/html/2606.06036v1)
 4. [ICLR 2026 MemAgents workshop](https://sites.google.com/view/memagent-iclr26)
 5. [MRAgent code repository](https://github.com/Ji-shuo/MRAgent)
 6. [Does Memory Need Graphs? (a field counterpoint, arXiv:2601.01280)](https://arxiv.org/abs/2601.01280)
