@@ -21,18 +21,29 @@ FACT: caffeine before exercise genuinely improves strength, endurance, and power
 best-proven supplements for performance. The effective dose is about 3 to 6 mg per kilogram
 of body weight, taken 30 to 60 minutes before training. (ISSN position stand 2021.)
 
-Assessment: two cautions matter a lot for you. First, blood pressure. FACT: in people with
-high blood pressure, across five trials a 200 to 300 mg dose of caffeine raised systolic
-pressure by a mean of **8.1 mmHg** (95% confidence interval 5.7 to 10.6) and diastolic by
-**5.7 mmHg** (95% CI 4.1 to 7.4). The rise showed up within the first 60 minutes and
-persisted to about 180 minutes ([*The effect of coffee on blood pressure and cardiovascular
+Assessment: two cautions matter a lot for you. First, blood pressure. **Unverified** (2026-08-03): in people with high blood pressure, a
+200 to 300 mg dose of caffeine is widely reported to raise systolic pressure by roughly 8
+mmHg for a few hours, from [*The effect of coffee on blood pressure and cardiovascular
 disease in hypertensive individuals: a systematic review and
-meta-analysis*](https://www.sciencedirect.com/science/article/pii/S0002916523024814),
-American Journal of Clinical Nutrition; figures verified 2026-08-03).
-FACT: the same review found that drinking coffee for two weeks did **not** appear to raise
-blood pressure, so the acute spike does not clearly carry over into habitual drinking (same
-source). Assessment: that distinction is the practical one. The warning below is about a
-large single dose taken before hard exercise, not about your daily coffee. So if your pressure runs high, do not slam a big
+meta-analysis*](https://ajcn.nutrition.org/article/S0002-9165(23)02481-4/fulltext)
+(American Journal of Clinical Nutrition). This desk has not read that pooled figure in the
+paper. The journal and its ScienceDirect mirror both sit behind a bot wall that a headed
+browser could not clear in three minutes; 48,717 characters of the article's tables came
+through but not the pooled result. The number reached this note from a search summary,
+which is not a source. Treat it as a plausible order of magnitude, not a checked fact.
+
+FACT: what could actually be read from the paper's own trial table is that the underlying
+studies disagree. One row, Rakic et al. 1999, gave 300 mg for two weeks and recorded a
+systolic change of 5.2 mmHg with a 95% confidence interval of **-5.3 to 15.7**, an interval
+spanning zero, and the table carries both "coffee consumption increased BP" and "coffee
+consumption did not increase BP" verdicts across different trials (AJCN article tables, read
+2026-08-03).
+
+Assessment: the practical advice does not depend on the exact number, which is why it stands
+unchanged. A large single caffeine dose before hard exercise is worth being careful with if
+your pressure runs high; a daily coffee habit is a different question and the trial evidence
+above does not settle it either way. Know your resting number rather than trusting a figure
+from a paper nobody here has been able to open. So if your pressure runs high, do not slam a big
 pre-workout dose before hard exercise; know your resting number, start at the low end, and
 never stack caffeine with other stimulants. Dose off your goal weight, not your current
 weight, so you do not overshoot.
