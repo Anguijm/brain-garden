@@ -8,6 +8,14 @@ than raw research. Newest is first.
 
 ## Latest
 
+- **[Shipyards and the maritime industrial base](topics/shipyards/)** — standing background
+  for the weekly brief, kept separately because it outlives any one issue. Opens with
+  [four threads from August 2026](topics/shipyards/2026-08-threads): the NAVSEA board whose
+  job is cutting shipyard labour hours and which openly takes submissions, why the word
+  "non-structural" is the whole story in the Navy's first organic cold spray centre, the
+  additive qualification path where three of four gates are about the shop rather than the
+  part, and why the \$76.6bn submarine award is an automation story rather than a hiring one.
+
 - **[AI stock-picking services, investigated](topics/finance/ai-stock-picking/)** — a four-note,
   honestly-labeled teardown of the "AI stock pick" industry, heavy on peer-reviewed sources and
   built to separate wheat from chaff. [How the methods work](topics/finance/ai-stock-picking/)
