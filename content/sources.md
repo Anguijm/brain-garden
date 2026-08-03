@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-668 citations across 101 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+669 citations across 102 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -908,6 +908,12 @@ This page lists every external link cited anywhere in the garden, article by art
 5. [Bioactive terrarium](https://en.wikipedia.org/wiki/Bioactive_terrarium)
 6. [Green Tree Frog Husbandry Manual](https://nswfmpa.org/Husbandry%20Manuals/Published%20Manuals/Amphibia/Green%20Tree%20Frog.pdf)
 7. [the build spec, not as verified care advice)](https://g.co/gemini/share/cd6edbbc2d82)
+
+## Shipyards
+
+### [Four threads worth pulling, August 2026](topics/shipyards/2026-08-threads)
+
+1. [Taylor & Francis](https://www.tandfonline.com/doi/full/10.1179/1743284714Y.0000000723)
 
 ## Software
 
