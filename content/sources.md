@@ -678,10 +678,10 @@ This page lists every external link cited anywhere in the garden, article by art
 
 ### [The making of an expert](topics/leadership/making-of-an-expert)
 
-1. [Macnamara and Maitra](https://doi.org/10.1098/rsos.190327)
-2. [Debatin et al. 2021](https://doi.org/10.1007/s12144-021-02326-x)
-3. [Business Review (July–August 2007)](https://hbr.org/2007/07/the-making-of-an-expert)
-4. [Science (2014)](https://doi.org/10.1177/0956797614535810)
+1. [Psychological Science 25:1608-1618](https://doi.org/10.1177/0956797614535810)
+2. [Macnamara and Maitra](https://doi.org/10.1098/rsos.190327)
+3. [Debatin et al. 2021](https://doi.org/10.1007/s12144-021-02326-x)
+4. [Business Review (July–August 2007)](https://hbr.org/2007/07/the-making-of-an-expert)
 
 ### [\"The manager's job,\" 50 years later](topics/leadership/managers-job-50-years)
 

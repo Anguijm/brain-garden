@@ -22,8 +22,17 @@ best-proven supplements for performance. The effective dose is about 3 to 6 mg p
 of body weight, taken 30 to 60 minutes before training. (ISSN position stand 2021.)
 
 Assessment: two cautions matter a lot for you. First, blood pressure. FACT: in people with
-high blood pressure, a 200 to 300 mg dose of caffeine raised systolic pressure about 8 mmHg
-for a few hours. (Meta-analysis, AJCN.) So if your pressure runs high, do not slam a big
+high blood pressure, across five trials a 200 to 300 mg dose of caffeine raised systolic
+pressure by a mean of **8.1 mmHg** (95% confidence interval 5.7 to 10.6) and diastolic by
+**5.7 mmHg** (95% CI 4.1 to 7.4). The rise showed up within the first 60 minutes and
+persisted to about 180 minutes ([*The effect of coffee on blood pressure and cardiovascular
+disease in hypertensive individuals: a systematic review and
+meta-analysis*](https://www.sciencedirect.com/science/article/pii/S0002916523024814),
+American Journal of Clinical Nutrition; figures verified 2026-08-03).
+FACT: the same review found that drinking coffee for two weeks did **not** appear to raise
+blood pressure, so the acute spike does not clearly carry over into habitual drinking (same
+source). Assessment: that distinction is the practical one. The warning below is about a
+large single dose taken before hard exercise, not about your daily coffee. So if your pressure runs high, do not slam a big
 pre-workout dose before hard exercise; know your resting number, start at the low end, and
 never stack caffeine with other stimulants. Dose off your goal weight, not your current
 weight, so you do not overshoot.

@@ -58,9 +58,16 @@ ability, with a good coach, beats mindless repetition or waiting to discover a t
 holds up and is worth applying to yourself and to developing others.
 
 But the strong version, "talent doesn't matter" and the magic "10,000 hours", has been walked
-back. FACT: a 2014 meta-analysis of 88 studies (Macnamara and colleagues) found deliberate
-practice explains only about 12 percent of the differences in performance overall, and far less
-in some fields (about 1 percent in professions). The rest comes from starting age, working
+back. FACT: a 2014 meta-analysis by Macnamara, Hambrick and Oswald in *Psychological
+Science* found deliberate practice explains far less than the popular version claims, and how
+much depends heavily on the field. Verified against the publisher's abstract on 2026-08-03,
+the breakdown is **26 percent** of the variance in performance for games, **21 percent** for
+music, **18 percent** for sports, **4 percent** for education and **less than 1 percent** for
+professions ([Psychological Science 25:1608-1618](https://doi.org/10.1177/0956797614535810)).
+The authors' own summary: deliberate practice "is important, but not as important as has been
+argued." The roughly 12 percent overall figure this note used to lead with is widely quoted
+from the paper's body rather than its abstract; the per-field numbers above are the ones
+checked directly, and they make the point better anyway. The rest comes from starting age, working
 memory, personality, opportunity, coaching quality, and yes, some innate factors. FACT: Ericsson
 himself objected that the popular "10,000-hour rule" (spread by Malcolm Gladwell) distorted his
 work; 10,000 was a rough average for one group of elite violinists, not a threshold, and the
