@@ -10,12 +10,29 @@ created: 2026-08-03
 
 Second-stage research on four stories the weekly gather surfaced. None of them
 necessarily belongs in an issue; the point was to find out whether anything sits a layer
-below the headline. In three of the four, something does, and in each case it is more
-useful than the story that led to it.
+below the headline. In three of the four, something does.
+
+**Correction, 2026-08-04, and it matters for how to read this note.** Three of these four
+had already run as articles in the Waterfront Brief, and this desk did not check the back
+issues before doing the research. The Discovery Team was
+[week 29](projects/waterfront-brief/2026-w29), which used the same NAVSEA release and the
+same 90,000 man-day figure. MADMAN was [week 31](projects/waterfront-brief/2026-w31), with
+the same quotes including the non-structural one. Additive going to sea was week 29. Only
+the submarine money was genuinely untouched. What follows is still useful, because each
+section does add something the issue did not carry, but it is a **follow-on and not a
+discovery**, and the sections below now say which part is which.
 
 ## 1. There is a named route into NAVSEA for shipyard process improvements
 
-This is the one worth acting on, and it is not being tracked anywhere in this vault.
+**Already covered**, in [week 29](projects/waterfront-brief/2026-w29) as "Discovery Team:
+90,000 man-days sitting on the table", which got further than this section originally did.
+That article identified the three lanes the team works (challenging overly stringent
+technical requirements, inserting new methods, securing funding), made the sharper point
+that requirements relief is the cheapest capacity a yard can get, and already carried the
+caveat that 90,000 man-days is the programme's own estimate of *potential* savings rather
+than audited realised savings.
+
+What this section adds: the named people and where they sit.
 
 FACT: the NAVSEA **Discovery Team** exists to find technologies and process improvements
 for the Navy's four public shipyards. It sits inside **Engineering Initiatives for Naval
@@ -62,6 +79,11 @@ and potential strength we see is increased collaboration with other improvement 
 innovation organizations." They are asking.
 
 ## 2. The Navy's first organic cold spray centre, and the word doing the work
+
+**Already covered** in [week 31](projects/waterfront-brief/2026-w31) as "Cold spray goes
+organic", which carried the opening, the process explanation and the non-structural quote.
+What this section adds is the named programme office (NAVSEA 05T1), the existence of a
+review assessing structural repair barriers, and the substitution framing below.
 
 FACT: NSWC Crane opened the **MADMAN Repair Center** (Metal Additive Manufacturing) on
 23 June 2026, using low-pressure and high-pressure cold spray to extend the life of naval
@@ -199,9 +221,9 @@ more about the next decade of shipyard work than the headline number does.
 
 Assessment: three practical items, in order of how soon they matter.
 
-1. **The Discovery Team is a live channel and nobody here was tracking it.** A method that
-   removes labour hours has a named destination, a review process, and a Puget Sound
-   planner and estimator among its public faces.
+1. **The Discovery Team channel is worth using, and week 29 already said so.** What this
+   round adds is that its public faces include the chief planner and estimator at Puget
+   Sound, and that the reorganisation covered in week 30 is happening around it.
 2. **Watch NAVSEA 05T1 for the load-bearing cold spray boundary.** Not because structural
    repair is new to a yard, it is the daily work, but because cold spray becoming an approved
    method for it would substitute for jobs currently done by cutting and welding.
