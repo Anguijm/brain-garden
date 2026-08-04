@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-669 citations across 102 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+670 citations across 103 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -914,6 +914,10 @@ This page lists every external link cited anywhere in the garden, article by art
 ### [Four threads worth pulling, August 2026](topics/shipyards/2026-08-threads)
 
 1. [Taylor & Francis](https://www.tandfonline.com/doi/full/10.1179/1743284714Y.0000000723)
+
+### [Can a foreign yard repair a US warship? The homeport rule](topics/shipyards/foreign-yard-repair-law)
+
+1. [10 U.S.C. § 8680](https://www.law.cornell.edu/uscode/text/10/8680)
 
 ## Software
 

@@ -20,6 +20,11 @@ qualification path is worth adopting.
 
 ## Notes
 
+- **[Can a foreign yard repair a US warship? The homeport rule](foreign-yard-repair-law.md)**
+  — 10 U.S.C. § 8680, and why a Korean yard being certified for destroyers is not the same
+  thing as being allowed to work on them. Written because this desk conflated the two and
+  the operator caught it.
+
 - **[Four threads worth pulling, August 2026](2026-08-threads.md)** — deep research on the
   NAVSEA Discovery Team, the Navy's first organic cold spray repair centre, the additive
   qualification path, and where the submarine money is actually going. Written because the
