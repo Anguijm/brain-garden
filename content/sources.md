@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-670 citations across 103 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+680 citations across 104 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -63,6 +63,19 @@ This page lists every external link cited anywhere in the garden, article by art
 9. [Navy.mil, Jul 7, 2026](https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4534537/largest-advanced-manufacturing-demonstration-in-department-of-war-history-set-f/)
 10. [K&L Gates, Jul 24, 2026](https://www.klgates.com/thought-leadership/House-Passes-Historic-NDAA-Maritime-Amendments-7-24-2026)
 11. [USNI News, Jul 20, 2026](https://news.usni.org/2026/07/20/new-navy-pae-maritime-shipbuilding-office-reaches-ioc)
+
+### [The Waterfront Brief, Vol. 1 No. 4 (week 32)](projects/waterfront-brief/2026-w32)
+
+1. [SRF-JRMC delivers two more ships to the fleet on time](https://www.dvidshub.net/news/568873/srf-jrmc-delivers-two-more-ships-fleet-time)
+2. [Leaders of U.S. Navy's ship maintenance facility in Japan removed from command](https://news.usni.org/2026/06/04/leaders-of-u-s-navys-ship-maintenance-facility-in-japan-removed-from-command)
+3. [Second leadership purge in 2 years hits Navy's largest overseas ship repair facility](https://www.stripes.com/branches/navy/2026-06-03/japan-regional-maintenance-center-command-relief-21865670.html)
+4. [Hegseth orders termination of union contracts](https://www.govexec.com/workforce/2026/04/hegseth-orders-termination-union-contracts/412899/)
+5. [Trump admin ends collective bargaining agreements with 2 Portsmouth Naval Shipyard unions](https://www.mainepublic.org/business-and-economy/2026-04-20/trump-admin-ends-collective-bargaining-agreements-with-2-portsmouth-naval-shipyard-unions)
+6. [Unions ask for injunction restoring collective bargaining](https://www.govexec.com/workforce/2026/07/unions-ask-injunction-restoring-collective-bargaining-defense/414943/)
+7. [NSWC Philadelphia / Johnson Controls IDV N6449825D4018](https://api.usaspending.gov/api/v2/awards/CONT_IDV_N6449825D4018_9700/)
+8. [NSWC Philadelphia / Johnson Controls IDV N6449825D4036](https://api.usaspending.gov/api/v2/awards/CONT_IDV_N6449825D4036_9700/)
+9. [Navy Shipbuilding Plan, May 2026](https://media.defense.gov/2026/May/11/2003928909/-1/-1/1/NAVY%20SHIPBUILDING%20PLAN%20MAY%202026.PDF)
+10. [H.R. 8800, section 1018, as reported in the House](https://www.govinfo.gov/content/pkg/BILLS-119hr8800rh/html/BILLS-119hr8800rh.htm)
 
 ## AI engineering
 
