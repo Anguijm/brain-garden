@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-676 citations across 104 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+670 citations across 103 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -63,15 +63,6 @@ This page lists every external link cited anywhere in the garden, article by art
 9. [Navy.mil, Jul 7, 2026](https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4534537/largest-advanced-manufacturing-demonstration-in-department-of-war-history-set-f/)
 10. [K&L Gates, Jul 24, 2026](https://www.klgates.com/thought-leadership/House-Passes-Historic-NDAA-Maritime-Amendments-7-24-2026)
 11. [USNI News, Jul 20, 2026](https://news.usni.org/2026/07/20/new-navy-pae-maritime-shipbuilding-office-reaches-ioc)
-
-### [The Waterfront Brief, Vol. 1 No. 4 (week 32)](projects/waterfront-brief/2026-w32)
-
-1. [Navy Shipbuilding Plan, May 2026](https://media.defense.gov/2026/May/11/2003928909/-1/-1/1/NAVY%20SHIPBUILDING%20PLAN%20MAY%202026.PDF)
-2. [NSWC Philadelphia IDV N6449825D4018](https://api.usaspending.gov/api/v2/awards/CONT_IDV_N6449825D4018_9700/)
-3. [NSWC Philadelphia IDV N6449825D4036](https://api.usaspending.gov/api/v2/awards/CONT_IDV_N6449825D4036_9700/)
-4. [DDG 51 Flt II HESC order N6449826FX105](https://api.usaspending.gov/api/v2/awards/CONT_AWD_N6449826FX105_9700_N6449825D4036_9700/)
-5. [H.R. 8800, section 1018, as reported in the House](https://www.govinfo.gov/content/pkg/BILLS-119hr8800rh/html/BILLS-119hr8800rh.htm)
-6. [GAO-20-588, Navy Shipyards: Actions Needed to Address the Main Factors Causing](https://www.gao.gov/products/GAO-20-588)
 
 ## AI engineering
 
