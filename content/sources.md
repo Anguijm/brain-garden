@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-684 citations across 104 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+676 citations across 104 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -66,20 +66,12 @@ This page lists every external link cited anywhere in the garden, article by art
 
 ### [The Waterfront Brief, Vol. 1 No. 4 (week 32)](projects/waterfront-brief/2026-w32)
 
-1. [SRF-JRMC continues to deliver warships to fleet on time](https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4485233/srf-jrmc-continues-to-deliver-warships-to-fleet-on-time/)
-2. [SRF-JRMC bolsters fleet readiness, delivers three warships](https://www.dvidshub.net/news/561423/srf-jrmc-bolsters-fleet-readiness-delivers-three-warships-ahead-schedule)
-3. [Navy relieves SRF-JRMC commanding officer, executive officer and command master chief](https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/4507524/navy-relieves-us-naval-ship-repair-facility-and-japan-regional-maintenance-cent/)
-4. [SRF-JRMC delivers two more ships to fleet on time](https://www.dvidshub.net/news/568873/srf-jrmc-delivers-two-more-ships-fleet-time)
-5. [Leaders of U.S. Navy's ship maintenance facility in Japan removed from command](https://news.usni.org/2026/06/04/leaders-of-u-s-navys-ship-maintenance-facility-in-japan-removed-from-command)
-6. [Second leadership purge in 2 years](https://www.stripes.com/branches/navy/2026-06-03/japan-regional-maintenance-center-command-relief-21865670.html)
-7. [Navy Shipbuilding Plan, May 2026](https://media.defense.gov/2026/May/11/2003928909/-1/-1/1/NAVY%20SHIPBUILDING%20PLAN%20MAY%202026.PDF)
-8. [NSWC Philadelphia IDV N6449825D4018](https://api.usaspending.gov/api/v2/awards/CONT_IDV_N6449825D4018_9700/)
-9. [NSWC Philadelphia IDV N6449825D4036](https://api.usaspending.gov/api/v2/awards/CONT_IDV_N6449825D4036_9700/)
-10. [DDG 51 Flt II HESC order N6449826FX105](https://api.usaspending.gov/api/v2/awards/CONT_AWD_N6449826FX105_9700_N6449825D4036_9700/)
-11. [H.R. 8800, section 1018, as reported in the House](https://www.govinfo.gov/content/pkg/BILLS-119hr8800rh/html/BILLS-119hr8800rh.htm)
-12. [GAO-20-588, Navy Shipyards: Actions Needed to Address the Main Factors Causing](https://www.gao.gov/products/GAO-20-588)
-13. [Hegseth orders termination of union contracts](https://www.govexec.com/workforce/2026/04/hegseth-orders-termination-union-contracts/412899/)
-14. [Trump admin ends collective bargaining agreements with 2 Portsmouth Naval Shipyard unions](https://www.mainepublic.org/business-and-economy/2026-04-20/trump-admin-ends-collective-bargaining-agreements-with-2-portsmouth-naval-shipyard-unions)
+1. [Navy Shipbuilding Plan, May 2026](https://media.defense.gov/2026/May/11/2003928909/-1/-1/1/NAVY%20SHIPBUILDING%20PLAN%20MAY%202026.PDF)
+2. [NSWC Philadelphia IDV N6449825D4018](https://api.usaspending.gov/api/v2/awards/CONT_IDV_N6449825D4018_9700/)
+3. [NSWC Philadelphia IDV N6449825D4036](https://api.usaspending.gov/api/v2/awards/CONT_IDV_N6449825D4036_9700/)
+4. [DDG 51 Flt II HESC order N6449826FX105](https://api.usaspending.gov/api/v2/awards/CONT_AWD_N6449826FX105_9700_N6449825D4036_9700/)
+5. [H.R. 8800, section 1018, as reported in the House](https://www.govinfo.gov/content/pkg/BILLS-119hr8800rh/html/BILLS-119hr8800rh.htm)
+6. [GAO-20-588, Navy Shipyards: Actions Needed to Address the Main Factors Causing](https://www.gao.gov/products/GAO-20-588)
 
 ## AI engineering
 
