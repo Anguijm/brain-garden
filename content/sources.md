@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-670 citations across 103 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+689 citations across 104 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -63,6 +63,28 @@ This page lists every external link cited anywhere in the garden, article by art
 9. [Navy.mil, Jul 7, 2026](https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4534537/largest-advanced-manufacturing-demonstration-in-department-of-war-history-set-f/)
 10. [K&L Gates, Jul 24, 2026](https://www.klgates.com/thought-leadership/House-Passes-Historic-NDAA-Maritime-Amendments-7-24-2026)
 11. [USNI News, Jul 20, 2026](https://news.usni.org/2026/07/20/new-navy-pae-maritime-shipbuilding-office-reaches-ioc)
+
+### [The Waterfront Brief, Vol. 1 No. 4 (week 32)](projects/waterfront-brief/2026-w32)
+
+1. [Secretary of Defense memorandum, "Termination of Certain Collective Bargaining](https://media.defense.gov/2026/Apr/22/2003916726/-1/-1/1/TERMINATION-OF-CERTAIN-COLLECTIVE-BARGAINING-AGREEMENTS-IN-ACCORDANCE-WITH-EXECUTIVE-ORDER-14251-EXCLUSIONS-FROM-FEDERAL-LABOR-MANAGEMENT-RELATIONS-PROGRAMS.PDF)
+2. [Maine Public, Apr 20, 2026](https://www.mainepublic.org/business-and-economy/2026-04-20/trump-admin-ends-collective-bargaining-agreements-with-2-portsmouth-naval-shipyard-unions)
+3. [Government Executive, Jul 22, 2026](https://www.govexec.com/workforce/2026/07/unions-ask-injunction-restoring-collective-bargaining-defense/414943/)
+4. [Navy release, "Rethinking Sailors and CVN RCOH," Jun 15, 2026](https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4516872/rethinking-sailors-and-cvn-rcoh-navy-leverages-industry-contracts-to-reclaim-up/)
+5. [USNI News, Jun 12, 2026](https://news.usni.org/2026/06/12/navy-wants-sailors-to-do-less-supplemental-work-on-uss-harry-s-truman-overhaul)
+6. [Federal News Network, Jul 2, 2026](https://federalnewsnetwork.com/navy/2026/07/navy-says-carrier-overhaul-shift-will-help-sailors/)
+7. [USNI News, Jan 26, 2024](https://news.usni.org/2024/01/26/hii-awarded-uss-harry-s-truman-913m-mid-life-overhaul-contract)
+8. [Award N0002424C2101, Mills Marine & Ship Repair](https://api.usaspending.gov/api/v2/awards/CONT_AWD_N0002424C2101_9700_-NONE-_-NONE-/)
+9. [Award N0002424C2106, Huntington Ingalls](https://api.usaspending.gov/api/v2/awards/CONT_AWD_N0002424C2106_9700_-NONE-_-NONE-/)
+10. [Navy release, Dec 9, 2025](https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/4355823/navy-invests-448-million-in-ai-and-autonomy-to-accelerate-shipbuilding/)
+11. [USNI News, Dec 9, 2025](https://news.usni.org/2025/12/09/navy-palantir-announce-448m-ship-os-ai-tool-for-shipbuilding-and-repair)
+12. [Breaking Defense, Dec 10, 2025](https://breakingdefense.com/2025/12/navy-palantir-unveil-shipos-in-a-bid-to-boost-nuclear-sub-production/)
+13. [DefenseScoop, Dec 23, 2025](https://defensescoop.com/2025/12/23/palantir-navy-shipos-partnership-informed-by-project-maven/)
+14. [NAVSEA, Aug 11, 2025](https://www.navsea.navy.mil/Media/News/Article-View/Article/4271434/sermc-delivers-cost-and-schedule-savings-with-3d-printing/)
+15. [3DPrint.com, Aug 13, 2025](https://3dprint.com/319932/a-3d-printed-chilled-water-pump-cooling-rotor-the-u-s-navy-keeps-using-am-to-cut-costs/)
+16. [Military Times, Jun 20, 2025](https://www.militarytimes.com/news/your-military/2025/06/20/navy-uses-3-d-printing-to-manufacture-destroyer-parts/)
+17. [USNI News, Jun 23, 2026](https://news.usni.org/2026/06/23/the-navys-big-3-d-printing-bet)
+18. [Breaking Defense, Jun 25, 2026](https://breakingdefense.com/2026/06/white-house-budget-director-calls-for-fifth-public-shipyard-amid-push-to-expand-fleet/)
+19. [Breaking Defense, May 9, 2022](https://breakingdefense.com/2022/05/a-tall-order-why-a-fifth-public-shipyard-might-not-solve-the-navys-problems/)
 
 ## AI engineering
 
