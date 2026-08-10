@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-689 citations across 104 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+690 citations across 104 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -85,6 +85,7 @@ This page lists every external link cited anywhere in the garden, article by art
 17. [USNI News, Jun 23, 2026](https://news.usni.org/2026/06/23/the-navys-big-3-d-printing-bet)
 18. [Breaking Defense, Jun 25, 2026](https://breakingdefense.com/2026/06/white-house-budget-director-calls-for-fifth-public-shipyard-amid-push-to-expand-fleet/)
 19. [Breaking Defense, May 9, 2022](https://breakingdefense.com/2022/05/a-tall-order-why-a-fifth-public-shipyard-might-not-solve-the-navys-problems/)
+20. [GAO-20-588, Navy Shipyards](https://www.gao.gov/products/GAO-20-588)
 
 ## AI engineering
 
