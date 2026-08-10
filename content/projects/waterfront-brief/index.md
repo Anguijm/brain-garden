@@ -33,7 +33,7 @@ Each issue is readable on the web (with links into the rest of this garden) and
 downloadable as the print PDF (source links only).
 
 - **[Vol. 1, No. 4 — Week 32, August 2026](2026-w32)**
-  ([download the PDF](pdf/2026-w32.efaf9088.pdf)) — the Department's termination of its collective
+  ([download the PDF](pdf/2026-w32.020346bc.pdf)) — the Department's termination of its collective
   bargaining agreements on twenty-four hours' notice, two Portsmouth unions affected and the
   case now before a judge; the Navy moving 690,000 hours of painting, preservation and
   transportation off a carrier's crew and onto contract, with a small repair firm already
