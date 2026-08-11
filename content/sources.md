@@ -732,9 +732,9 @@ This page lists every external link cited anywhere in the garden, article by art
 
 ### [Make the most of your one-on-one meetings](topics/leadership/one-on-one-meetings)
 
-1. [Flinchum et al., 2023](https://doi.org/10.1177/20413866221097570)
-2. [Kluger & DeNisi, 1996](https://doi.org/10.1037/0033-2909.119.2.254)
-3. [(November–December 2022)](https://hbr.org/2022/11/make-the-most-of-your-one-on-one-meetings)
+1. [Rogelberg, "Make the Most of Your One-on-One Meetings"](https://hbr.org/2022/11/make-the-most-of-your-one-on-one-meetings)
+2. [Flinchum et al., 2023](https://doi.org/10.1177/20413866221097570)
+3. [Kluger & DeNisi, 1996](https://doi.org/10.1037/0033-2909.119.2.254)
 
 ### [The power of small wins](topics/leadership/power-of-small-wins)
 

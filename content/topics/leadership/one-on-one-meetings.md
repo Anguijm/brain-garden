@@ -14,8 +14,14 @@ manager's most powerful tools, and most managers run it badly. Steven Rogelberg'
 is that the 1:1 belongs to the *direct report*, it is time for their needs, obstacles, and
 growth, not a status update the boss runs for their own convenience.
 
-FACT: this ran in Harvard Business Review in 2022, based on surveys of over a thousand workers
-and interviews with senior leaders. (Rogelberg, "Make the Most of Your One-on-One Meetings.")
+FACT: this ran in Harvard Business Review in November–December 2022
+([Rogelberg, "Make the Most of Your One-on-One Meetings"](https://hbr.org/2022/11/make-the-most-of-your-one-on-one-meetings)).
+**Unverified (2026-08-12):** the wider claim that it rests on surveys of over a thousand workers
+and on interviews with senior leaders is not something this desk has checked. The article is
+paywalled, and what the vault holds is a 2,356-character record written while reading it once in
+July 2026; that record states only "Of 250 direct reports I surveyed recently" and mentions no
+interviews. The figure may well be right for the author's wider research and simply absent from a
+summary — but nobody here has read the methodology, so it is not a FACT.
 
 ## What a 1:1 is for
 
