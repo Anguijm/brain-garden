@@ -32,6 +32,17 @@ sheets, front and back), with the events calendar on its own page after them.
 Each issue is readable on the web (with links into the rest of this garden) and
 downloadable as the print PDF (source links only).
 
+- **[Vol. 1, No. 5 — Week 33, August 2026](2026-w33)**
+  ([download the PDF](pdf/2026-w33.464f1261.pdf)) — where a hull can actually go: USS Harry S. Truman
+  still at the naval station two months after its overhaul was budgeted to start, with the
+  carrier ahead of it slipped twenty-five months across two budget cycles and planning alone
+  obligated half again the announced figure; Puget Sound handing a carrier back on schedule
+  through the only West Coast dock that can take one, which the Navy says fails its own
+  seismic standard; the Navy betting on prediction to fix maintenance schedules while quietly
+  replacing a once-every-three-years inspection with continuous monitoring; and the surface
+  force answering "smaller, more frequent availabilities" by buying port engineers and taking
+  intermediate work back from contractors.
+
 - **[Vol. 1, No. 4 — Week 32, August 2026](2026-w32)**
   ([download the PDF](pdf/2026-w32.6fcc50ba.pdf)) — the Department's termination of its collective
   bargaining agreements on twenty-four hours' notice, two Portsmouth unions affected and the

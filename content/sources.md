@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-690 citations across 104 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+707 citations across 105 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -86,6 +86,26 @@ This page lists every external link cited anywhere in the garden, article by art
 18. [Breaking Defense, Jun 25, 2026](https://breakingdefense.com/2026/06/white-house-budget-director-calls-for-fifth-public-shipyard-amid-push-to-expand-fleet/)
 19. [Breaking Defense, May 9, 2022](https://breakingdefense.com/2022/05/a-tall-order-why-a-fifth-public-shipyard-might-not-solve-the-navys-problems/)
 20. [GAO-20-588, Navy Shipyards](https://www.gao.gov/products/GAO-20-588)
+
+### [The Waterfront Brief, Vol. 1 No. 5 (week 33)](projects/waterfront-brief/2026-w33)
+
+1. [Stars and Stripes, Aug 10, 2026](https://www.stripes.com/branches/navy/2026-08-10/uss-ronald-reagan-completing-repairs-22511300.html)
+2. [Janes, Jul 18, 2025](https://www.janes.com/osint-insights/defence-news/sea/pentagon-budget-2026-us-navy-requests-funding-to-cover-aircraft-carrier-overhaul-cost-increases)
+3. [HII, Jan 26, 2024](https://www.hii.com/news/hii-advanced-planning-contract-uss-harry-s-truman-cvn-75-rcoh-2024)
+4. [USAspending federal award record, N00024-24-C-2106](https://www.usaspending.gov/award/CONT_AWD_N0002424C2106_9700_-NONE-_-NONE-)
+5. [USNI News, Jun 18, 2024](https://news.usni.org/2024/06/18/carrier-uss-john-c-stennis-overhaul-delayed-work-will-take-more-than-5-years-to-complete)
+6. [HII, Apr 8, 2024](https://www.hii.com/news/hii-aircraft-carrier-uss-john-c-stennis-cvn-74-refueling-and-complex-overhaul-drydock)
+7. [USNI News, Feb 24, 2025](https://news.usni.org/2025/02/24/uss-harry-s-truman-back-underway-after-repairs-following-collision)
+8. [The War Zone, Oct 10, 2025](https://www.twz.com/sea/carrier-uss-trumans-collision-damage-wont-be-repaired-until-it-goes-through-complex-overhaul)
+9. [Stars and Stripes, Apr 2, 2025](https://www.stripes.com/branches/navy/2025-04-02/reagan-aircraft-carrier-kitsap-dry-dock-17345149.html)
+10. [Military Times, Jul 22, 2026](https://www.militarytimes.com/news/your-military/2026/07/22/us-navy-moving-forward-on-west-coast-dock-for-aircraft-carriers/)
+11. [Navy Shipbuilding Plan, May 2026](https://media.defense.gov/2026/May/11/2003928909/-1/-1/1/NAVY%20SHIPBUILDING%20PLAN%20MAY%202026.PDF)
+12. [The evolution of Surface Fleet maintenance management, Apr 15, 2026](https://www.dvidshub.net/news/562801/evolution-surface-fleet-maintenance-management)
+13. [CBO, "Maintenance Delays for Conventional Navy Ships," Dec 10, 2025, via USNI News, Dec](https://news.usni.org/2025/12/11/cbo-report-on-navy-ship-maintenance)
+14. [GAO-20-588, Navy Shipyards, Aug 20, 2020](https://www.gao.gov/products/gao-20-588)
+15. [Janes, Surface Navy 2026, Jan 2026](https://www.janes.com/osint-insights/defence-news/sea/surface-navy-2026-us-navy-surges-maintenance-forces-to-cut-surface-force-delays)
+16. [Navy/DVIDS, "Shore Intermediate Maintenance Activities Norfolk and San Diego](https://www.dvidshub.net/news/567018/shore-intermediate-maintenance-activities-norfolk-and-san-diego-re-established)
+17. [Navy, "SRF-JRMC Continues to Deliver Warships to Fleet On Time," May 13, 2026](https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4485233/srf-jrmc-continues-to-deliver-warships-to-fleet-on-time/)
 
 ## AI engineering
 
