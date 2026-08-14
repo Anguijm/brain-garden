@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-707 citations across 105 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+713 citations across 106 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -202,6 +202,15 @@ This page lists every external link cited anywhere in the garden, article by art
 
 1. [Palantir Technologies, Forward Deployed AI Engineer](https://jobs.lever.co/palantir/636fc05c-d348-4a06-be51-597cb9e07488)
 2. [FDSE](https://jobs.lever.co/palantir/dab396d4-2f14-4796-aac0-0d82883dccf0)
+
+### [Web automation and bot defences](topics/ai-engineering/16-web-automation-and-bot-defenses)
+
+1. [Cloudflare, Cloudflare Just Changed How AI Crawlers Scrape the Internet-at-Large (2025)](https://www.cloudflare.com/press/press-releases/2025/cloudflare-just-changed-how-ai-crawlers-scrape-the-internet-at-large/)
+2. [Cloudflare, Your site, your rules: new AI traffic options for all customers](https://blog.cloudflare.com/content-independence-day-ai-options/)
+3. [IETF, RFC 9309: Robots Exclusion Protocol (2022)](https://www.rfc-editor.org/rfc/rfc9309.html)
+4. [United States Court of Appeals for the Ninth Circuit, hiQ Labs, Inc. v. LinkedIn Corp.](https://cdn.ca9.uscourts.gov/datastore/opinions/2022/04/18/17-16783.pdf)
+5. [hiQ Labs v. LinkedIn — case history and final disposition](https://en.wikipedia.org/wiki/HiQ_Labs_v._LinkedIn)
+6. [BoardGameGeek, Using the XML API (policy page, read via the Internet Archive because the](https://web.archive.org/web/20260715032744/https://boardgamegeek.com/using_the_xml_api)
 
 ## Business development
 

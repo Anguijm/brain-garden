@@ -97,6 +97,17 @@ of making it work inside a real company, which is where most enterprise AI actua
   Palantir invented it, what the postings actually require, what separates a good one from a
   bad one, and why the widely quoted million-dollar salary is the ceiling rather than the job.
 
+## Working with the outside world
+
+Assessment: an agent is only as useful as what it can reach, and increasingly the web
+answers automated requests with a wall. This chapter is about doing that job without
+becoming the reason the walls went up.
+
+- **[Web automation and bot defences](16-web-automation-and-bot-defenses)** — why sites
+  block automated traffic, what the checks actually read (it is not your browsing history),
+  the ladder of approaches from official API down to careful fetching, the etiquette that
+  keeps you welcome, and where the law sits after *hiQ v. LinkedIn*.
+
 ## See also
 
 - **[Using AI well](connections/using-ai-well)** — the discipline running under this whole wing: a fluent model is an assistant, not an oracle.
