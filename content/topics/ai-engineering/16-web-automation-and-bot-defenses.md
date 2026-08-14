@@ -4,7 +4,6 @@ series: ai-engineering
 chapter: 16
 title: Web automation and bot defences
 status: curated
-aliases: ["topics/ai-engineering/16-web-automation-and-bot-defenses"]
 tags: [ai, ai-agents, automation, web-scraping, browsers, ethics, verification, using-ai-well]
 created: 2026-08-15
 ---
@@ -117,9 +116,8 @@ Assessment first, because the shape matters more than the detail: "not a crime" 
 FACT: the Ninth Circuit's 2022 opinion in *hiQ Labs, Inc. v. LinkedIn Corp.* records that,
 on remand from the Supreme Court, the panel affirmed an order "preliminarily enjoining
 LinkedIn Corp. from denying hiQ Labs, Inc., a data analytics company, access to publicly
-available member profiles." FACT: the same opinion states that "The CFAA prohibits
-accessing a" protected computer "without authorization," and reads that provision in light
-of *Van Buren v. United States*.
+available member profiles." FACT: the same opinion records that the panel read the Computer Fraud and Abuse Act in
+light of the Supreme Court decision in *Van Buren v. United States*.
 
 FACT: per the case history, that same dispute later saw a ruling that hiQ had breached
 LinkedIn's "User Agreement and a settlement agreement was reached between the two parties."
