@@ -113,11 +113,12 @@ The habits that keep you welcome:
 Assessment first, because the shape matters more than the detail: "not a crime" and
 "allowed" are different things, and people routinely collapse them.
 
-FACT: the Ninth Circuit's 2022 opinion in *hiQ Labs, Inc. v. LinkedIn Corp.* records that,
-on remand from the Supreme Court, the panel affirmed an order "preliminarily enjoining
-LinkedIn Corp. from denying hiQ Labs, Inc., a data analytics company, access to publicly
-available member profiles." FACT: the same opinion records that the panel read the Computer Fraud and Abuse Act in
-light of the Supreme Court decision in *Van Buren v. United States*.
+FACT: in 2022 the Ninth Circuit, on remand from the Supreme Court, affirmed an order
+preliminarily enjoining LinkedIn from denying the analytics company hiQ Labs "access to
+publicly available member profiles."
+
+FACT: the same opinion read the Computer Fraud and Abuse Act in light of the Supreme
+Court's Van Buren decision.
 
 FACT: per the case history, that same dispute later saw a ruling that hiQ had breached
 LinkedIn's "User Agreement and a settlement agreement was reached between the two parties."
