@@ -162,7 +162,7 @@ took ten minutes and pointed at three legitimate doors, two of which were open i
 
 ## See also
 
-- **In this series:** [← Forward deployed engineers](15-forward-deployed-engineers) · [Overview](topics/ai-engineering/)
+- **In this series:** [← Forward deployed engineers](15-forward-deployed-engineers) · [Generating 3D →](17-generating-3d-versus-scripting-it) · [Overview](topics/ai-engineering/)
 - **[Safety and good habits](13-safety-and-best-practices)** — the same instinct applied to
   agents that can act: least power, clear limits, verify before trusting.
 - **[Tools and MCP](07-tools-and-mcp)** — how an agent reaches the outside world in the

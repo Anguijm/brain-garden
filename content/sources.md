@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-713 citations across 106 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+721 citations across 107 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -211,6 +211,17 @@ This page lists every external link cited anywhere in the garden, article by art
 4. [United States Court of Appeals for the Ninth Circuit, hiQ Labs, Inc. v. LinkedIn Corp.](https://cdn.ca9.uscourts.gov/datastore/opinions/2022/04/18/17-16783.pdf)
 5. [hiQ Labs v. LinkedIn — case history and final disposition](https://en.wikipedia.org/wiki/HiQ_Labs_v._LinkedIn)
 6. [BoardGameGeek, Using the XML API (policy page, read via the Internet Archive because the](https://web.archive.org/web/20260715032744/https://boardgamegeek.com/using_the_xml_api)
+
+### [Generating 3D, and why you cannot just script it](topics/ai-engineering/17-generating-3d-versus-scripting-it)
+
+1. [Tripo](https://www.tripo3d.ai/blog/explore/ai-3d-model-generator-and-manifold-repair-automation)
+2. [Meshy](https://www.meshy.ai/blog/fix-non-manifold-edges-stl-repair)
+3. [AmeraLabs](https://ameralabs.com/blog/layer-height-for-miniatures/)
+4. [3D Printerly](https://3dprinterly.com/best-wall-thickness-for-resin-3d-prints-miniatures-more/)
+5. [AmeraLabs](https://ameralabs.com/blog/miniature-scale-3d-printing/)
+6. [Longwen Zhang et al., CLAY: A Controllable Large-scale Generative Model for Creating](https://arxiv.org/abs/2406.13897)
+7. [P3D-Bench: Benchmarking MLLMs for Parametric 3D Generation and Structural Reasoning](https://arxiv.org/html/2606.11152v1)
+8. [Jin Gao and Saichandu Juluri, From Idea to Co-Creation: A Planner-Actor-Critic Framework](https://arxiv.org/html/2601.05016)
 
 ## Business development
 

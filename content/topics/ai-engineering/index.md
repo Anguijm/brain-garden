@@ -108,6 +108,17 @@ becoming the reason the walls went up.
   the ladder of approaches from official API down to careful fetching, the etiquette that
   keeps you welcome, and where the law sits after *hiQ v. LinkedIn*.
 
+## Making things, not just text
+
+Assessment: the same generate-versus-describe split that runs through images shows up
+again in three dimensions, and it decides which tool can actually make the object you want.
+
+- **[Generating 3D, and why you cannot just script it](17-generating-3d-versus-scripting-it)**
+  — how Meshy and Rodin actually build a mesh (a learned space of shapes, not code), why a
+  model writing OpenSCAD is working blind in a vocabulary built for brackets, the measured
+  gap between getting the idea right and getting the dimensions right, and what any of it
+  means for printing a miniature.
+
 ## See also
 
 - **[Using AI well](connections/using-ai-well)** — the discipline running under this whole wing: a fluent model is an assistant, not an oracle.
