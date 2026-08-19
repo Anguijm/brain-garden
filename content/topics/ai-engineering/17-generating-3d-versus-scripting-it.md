@@ -224,7 +224,7 @@ rather than designed, so assume it needs making watertight before it meets a sli
 
 ## See also
 
-- **In this series:** [← Web automation and bot defences](topics/ai-engineering/16-web-automation-and-bot-defenses) · [Overview](topics/ai-engineering/)
+- **In this series:** [← Web automation and bot defences](topics/ai-engineering/16-web-automation-and-bot-defenses) · [The plan that runs →](topics/ai-engineering/18-the-plan-that-runs) · [Overview](topics/ai-engineering/)
 - **[Pictures and voice](topics/ai-engineering/05-pictures-and-voice)** — the same
   generate-versus-describe split, one dimension down.
 - **[Making with the Bambu X1C](connections/making-with-the-x1c)** — the printer these

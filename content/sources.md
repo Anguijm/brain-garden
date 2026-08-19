@@ -7,9 +7,16 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-721 citations across 107 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+731 citations across 109 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
+
+### [Mini forge](projects/mini-forge/)
+
+1. [pwilkin, trellis.cpp](https://github.com/pwilkin/trellis.cpp)
+2. [ilintar, trellis2-gguf weights](https://huggingface.co/ilintar/trellis2-gguf)
+3. [AMD, Strix Halo system optimization](https://rocm.docs.amd.com/en/docs-7.2.0/how-to/system-optimization/strixhalo.html)
+4. [capetron, MS-S1 Max BIOS update from Linux](https://github.com/capetron/minisforum-ms-s1-max-bios)
 
 ### [The Waterfront Brief, Vol. 1 No. 1 (week 29)](projects/waterfront-brief/2026-w29)
 
@@ -222,6 +229,15 @@ This page lists every external link cited anywhere in the garden, article by art
 6. [Longwen Zhang et al., CLAY: A Controllable Large-scale Generative Model for Creating](https://arxiv.org/abs/2406.13897)
 7. [P3D-Bench: Benchmarking MLLMs for Parametric 3D Generation and Structural Reasoning](https://arxiv.org/html/2606.11152v1)
 8. [Jin Gao and Saichandu Juluri, From Idea to Co-Creation: A Planner-Actor-Critic Framework](https://arxiv.org/html/2601.05016)
+
+### [The plan that reads right and the plan that runs](topics/ai-engineering/18-the-plan-that-runs)
+
+1. [microsoft/TRELLIS](https://github.com/microsoft/TRELLIS)
+2. [licence text](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1/blob/main/LICENSE)
+3. [Stability AI](https://stability.ai/license)
+4. [VAST-AI-Research](https://github.com/VAST-AI-Research/TripoSR)
+5. [#83](https://github.com/VAST-AI-Research/TripoSR/issues/83)
+6. [pwilkin/trellis.cpp](https://github.com/pwilkin/trellis.cpp)
 
 ## Business development
 

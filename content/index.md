@@ -25,6 +25,11 @@ than raw research. Newest is first.
   [whether any of it beats the market](topics/finance/ai-stock-picking/does-it-actually-work) (the
   SPIVA base rates, skill-versus-luck, the Gu-Kelly-Xiu machine-learning evidence and what erodes
   it); and [how to emulate it without fooling yourself](topics/finance/ai-stock-picking/build-it-yourself).
+- **[Mini forge](projects/mini-forge/)** — a local pipeline that turns a text prompt into a
+  printable tabletop miniature with no cloud service in the loop: an AMD Strix Halo box with
+  64 GB of unified memory, TRELLIS.2 running on Vulkan, and headless Blender for the print
+  preparation. The machines, the choices, the traps already paid for, and an honest list of
+  what has not been proven yet.
 - **[The Waterfront Brief](projects/waterfront-brief/)** — a weekly four-page intelligence
   brief for naval shipyard management: waterfront ops, maintenance technologies, readiness,
   and business practices, compiled from NAVSEA, USNI News, Naval News, Drydock Magazine,

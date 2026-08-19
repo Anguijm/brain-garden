@@ -119,6 +119,16 @@ again in three dimensions, and it decides which tool can actually make the objec
   gap between getting the idea right and getting the dimensions right, and what any of it
   means for printing a miniature.
 
+## When the plan meets the machine
+
+Assessment: a fluent plan and a correct plan look identical on the page. What separates
+them can only be found by running the thing.
+
+- **[The plan that reads right and the plan that runs](18-the-plan-that-runs)** — a
+  well-written technical plan that was wrong in four checkable places, the tool it omitted
+  entirely, and the six failures that only appeared on contact with real hardware. Five of
+  the six were the same mistake: trusting a report instead of checking the resulting state.
+
 ## See also
 
 - **[Using AI well](connections/using-ai-well)** — the discipline running under this whole wing: a fluent model is an assistant, not an oracle.
