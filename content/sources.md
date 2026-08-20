@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-731 citations across 109 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+734 citations across 109 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -238,6 +238,9 @@ This page lists every external link cited anywhere in the garden, article by art
 4. [VAST-AI-Research](https://github.com/VAST-AI-Research/TripoSR)
 5. [#83](https://github.com/VAST-AI-Research/TripoSR/issues/83)
 6. [pwilkin/trellis.cpp](https://github.com/pwilkin/trellis.cpp)
+7. [CachyOS forum](https://discuss.cachyos.org/t/regression-black-screen-with-kernel-6-19-0-on-amd-ryzen-ai-max-395-strix-halo/23042)
+8. [Framework Strix Halo guide](https://github.com/Gygeek/Framework-strix-halo-llm-setup)
+9. [strix-halo-guide](https://github.com/hogeheer499-commits/strix-halo-guide)
 
 ## Business development
 

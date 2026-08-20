@@ -27,7 +27,7 @@ The lessons from building it are in
 | CPU | i7-10750H, 6 cores | Ryzen AI Max+ 395, 16 Zen 5 cores |
 | GPU | RTX 3070 Laptop, **8 GB VRAM** | Radeon 8060S iGPU, RDNA 3.5, gfx1151 |
 | Memory | 15.8 GB, 15.4 GB zram swap | 64 GB LPDDR5X, **unified** |
-| OS | Pop!_OS | Ubuntu 26.04 LTS |
+| OS | Pop!_OS | Ubuntu 24.04.4 LTS |
 
 A third machine, a MINISFORUM UM790 Pro, was considered and left out. Its Radeon 780M is a
 12-compute-unit part against the 8060S's 40, so it adds a machine to maintain and nothing
@@ -80,8 +80,13 @@ All in `_scripts/` in the brain vault.
 
 ## Decisions worth not relitigating
 
-**Ubuntu 26.04 LTS, Windows wiped.** It carries ROCm in the archive and its tested
-architecture list names gfx1151. Fedora and Arch get newer ROCm sooner; neither is an LTS.
+**Ubuntu 24.04.4 LTS, Windows wiped.** Originally 26.04, reversed on 2026-08-20 because
+**26.04 does not boot on this machine**: it reaches its boot menu and then black-screens
+when the kernel takes the display, on both HDMI and USB-C, surviving safe graphics,
+`nomodeset` and `modprobe.blacklist=amdgpu`. The machine stays alive throughout; only the
+display dies. There is a documented regression where Strix Halo black-screens on kernel
+6.19.0 and works on 6.18.9, and 26.04 ships 7.0, which is 6.20 renumbered. 24.04 is what
+both published Strix Halo guides actually run.
 
 **No autoinstall.** Ubuntu Desktop 23.04 and later support cloud-init autoinstall via a
 `CIDATA` volume, so pre-seeding the user and WiFi is possible. For one machine it costs more
@@ -89,14 +94,19 @@ to debug than the clicking it saves, and fails worse. A payload partition and a 
 script deliver the same outcome.
 
 **WiFi, no ethernet.** The WiFi is a MediaTek MT7925, supported out of the box. The 10 GbE
-ports are Realtek RTL8127, whose driver only reached upstream in kernel 6.16+. An earlier
-draft of the plan had this backwards.
+ports are Realtek RTL8127, whose driver only reached upstream in kernel 6.16+, which
+24.04's kernel predates, so those ports may not work until a newer kernel is installed. An
+earlier draft of the plan had this backwards and recommended ethernet as the safer path.
 
-**Carry the weights on the stick.** 16.5 GB over WiFi is a much worse afternoon than
-copying it here.
+**Do NOT carry the weights on the installer stick** (reversed 2026-08-20). Putting a
+payload partition on a boot device was over-engineering, and it cost a GPT that believed
+the disk ended where the ISO did, a deleted ISO padding partition, a retry path that
+punished retries, and two evenings. Write the plain ISO. Move the data afterwards over the
+network.
 
-**Kernel 6.18.4 is a hard floor** for the AMD KFD fixes Strix Halo needs. Ubuntu 26.04
-clears it comfortably.
+**The kernel has a floor and a ceiling.** 6.16.9 or newer for full memory access and for
+the 10 GbE driver; but 6.19 and 7.0 black-screen this machine. That window is narrow and
+it is the single most important fact on this page.
 
 **Keep the BIOS graphics allocation small.** AMD's own guidance is to reserve little in
 firmware (they suggest 0.5 GB) and raise the shared TTM/GTT limit on the Linux side, because
@@ -113,22 +123,26 @@ that has been reported to break unified-memory detection.
 - **Read the installed BIOS version before building a flash stick.** The machine arrived on
   1.06, which is the version the stick would have written.
 
-## Status, 2026-08-19
+## Status, 2026-08-20
 
-Assessment: media preparation is done and verified. The machine has not been installed yet.
+Assessment: the machine is mid-install. Two evenings went to a distro choice that could not
+boot, and the recovery is in progress.
 
-- Done: ISO downloaded and checksum-verified, BIOS package extracted, 16.5 GB of weights
-  complete, Claude Code environment exported, all scripts written and their destructive
-  paths guarded.
-- Done: BIOS flash determined **unnecessary**; the machine shipped on 1.06.
-- Next: write the Ubuntu installer to the stick, add the payload partition, install, run
-  first boot.
+- Done: media prepared and verified, BIOS checked (already 1.06, so the flash stick was
+  unnecessary), UMA frame buffer set to 1 GB (the smallest this BIOS offers), IOMMU
+  disabled.
+- Failed: Ubuntu 26.04 will not boot on this hardware. Three workarounds tried, all black
+  screens.
+- In progress: Ubuntu 24.04.4 written to the stick. It gets further, showing kernel output
+  on screen during early boot, which 26.04 never did.
+- Abandoned: the payload partition on the installer stick. The scripts remain but the
+  approach is retired.
+- Next: finish the install, wipe Windows, move the 16.5 GB of weights across, then the
+  first mesh.
 
-**Unverified, and the honest list.** None of the trellis.cpp path has run on Strix Halo
-hardware from here. The build, the Vulkan backend on gfx1151, the published timing of about
-345 seconds for a 1024-resolution mesh, and whether the payload partition can be added
-cleanly after a hybrid ISO layout are all still claims rather than observations. The first
-run on the machine tests all of them at once.
+**Unverified.** Nothing in the trellis.cpp path has run yet: not the build, not Vulkan on
+gfx1151, not the published 345-second figure for a 1024-resolution mesh. The 10 GbE ports
+may not work on 24.04's kernel. All of it is still claims.
 
 ## See also
 

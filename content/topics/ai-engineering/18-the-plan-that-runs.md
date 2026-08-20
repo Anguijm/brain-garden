@@ -146,6 +146,61 @@ check that might make the expensive work unnecessary, first.** It is not a corre
 every step worked. It is a plan that was in the wrong order, and reading it would never have
 revealed that, because a plan in the wrong order reads exactly like a plan in the right one.
 
+## The one that cost two evenings
+
+Everything above was an hour here and an hour there. The expensive failure came later, and
+it was a different shape again.
+
+The plan called for installing Ubuntu 26.04 LTS on the new machine. That choice was made
+from documentation about the distribution: FACT, Ubuntu 26.04 carries ROCm, AMD's GPU
+compute stack, in its own package archive, and FACT, its tested-architecture list names
+gfx1151, which is the graphics processor in this machine. Both true. An LTS release with
+first-party support for exactly this chip is a defensible pick and it reads like diligence.
+
+It does not boot. It reaches its own boot menu and then blanks the screen the moment the
+kernel takes over the display, on two different display outputs, surviving three separate
+workarounds. The machine stays alive underneath the whole time, which is how you can tell
+it is the display and not a crash.
+
+FACT: there is a documented regression in which this processor family black-screens on
+Linux kernel 6.19.0 and works on 6.18.9
+([CachyOS forum](https://discuss.cachyos.org/t/regression-black-screen-with-kernel-6-19-0-on-amd-ryzen-ai-max-395-strix-halo/23042)).
+FACT: Ubuntu 26.04 ships kernel 7.0, which is 6.20 renumbered, the release after the one
+that broke it.
+
+Here is the part worth sitting with. Two public setup guides exist for this exact
+processor. FACT: one specifies "Ubuntu 24.04 LTS or later (this guide tested on Ubuntu
+25.10)" ([Framework Strix Halo guide](https://github.com/Gygeek/Framework-strix-halo-llm-setup)),
+and FACT: the other specifies Ubuntu 24.04 LTS
+([strix-halo-guide](https://github.com/hogeheer499-commits/strix-halo-guide)). Neither uses
+26.04. Finding them took one search of about two minutes, run only after two evenings had
+already gone.
+
+Assessment: the error was not picking wrong. It was answering the wrong question. I asked
+"which distribution supports this hardware," which the vendor's own documentation answers
+confidently, and never asked "what do people running this hardware actually install," which
+is a different question with a different and more reliable answer. A compatibility matrix
+tells you what is meant to work. A stranger's setup guide tells you what did.
+
+**The rule: for anything new enough to be interesting, find someone who has it working
+before designing from specifications.** Support matrices are written by the party who
+benefits from breadth. Setup guides are written by people who were annoyed enough to
+document a fight they won.
+
+## When the retry path is the main path
+
+One more, from the same work. A provisioning script kept failing at a different stage each
+time: an exit code that lied, a whitespace difference between two versions of the same
+tool, a partition table copied from a disk image that believed the disk was smaller than it
+was, a cleanup that deleted something it did not own, and finally a re-run that produced a
+useless four-sector partition because the previous run had already consumed the free space
+it wanted.
+
+That last one is the general lesson. **A provisioning script is run again by definition**,
+because the reason you are running it is that something went wrong last time. Its retry
+path is not an edge case, it is the path most executions take. It had been written as the
+exception.
+
 ## What this means for working with a model
 
 Assessment, and it is the practical point. A fluent plan and a correct plan look identical
@@ -174,6 +229,11 @@ So the useful discipline is not "distrust the output." It is narrower and more a
   than checking the resulting state.
 - The fix is a rule, not vigilance: after an operation, ask the system what is now true.
 - The sixth was sequencing. Do the thirty-second check before the twenty-minute one.
+- The most expensive error was none of those. It was choosing a component from a vendor's
+  compatibility matrix instead of from what people running the hardware actually use. Two
+  guides, one search, two minutes, found only after two evenings.
+- And a provisioning script's retry path is the path most runs take, because you only run
+  it again when something broke.
 
 ## See also
 
@@ -192,3 +252,6 @@ So the useful discipline is not "distrust the output." It is narrower and more a
 - pwilkin, *trellis.cpp* — https://github.com/pwilkin/trellis.cpp
 - Tencent, *Hunyuan3D 2.1 Community License* — https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1/blob/main/LICENSE
 - Stability AI, *Community License* — https://stability.ai/license
+- CachyOS forum, *Black Screen with Kernel 6.19.0 on AMD Ryzen AI Max 395* — https://discuss.cachyos.org/t/regression-black-screen-with-kernel-6-19-0-on-amd-ryzen-ai-max-395-strix-halo/23042
+- Gygeek, *Framework Strix Halo LLM setup* — https://github.com/Gygeek/Framework-strix-halo-llm-setup
+- hogeheer499-commits, *strix-halo-guide* — https://github.com/hogeheer499-commits/strix-halo-guide
