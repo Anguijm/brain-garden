@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-734 citations across 109 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+747 citations across 110 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -113,6 +113,22 @@ This page lists every external link cited anywhere in the garden, article by art
 15. [Janes, Surface Navy 2026, Jan 2026](https://www.janes.com/osint-insights/defence-news/sea/surface-navy-2026-us-navy-surges-maintenance-forces-to-cut-surface-force-delays)
 16. [Navy/DVIDS, "Shore Intermediate Maintenance Activities Norfolk and San Diego](https://www.dvidshub.net/news/567018/shore-intermediate-maintenance-activities-norfolk-and-san-diego-re-established)
 17. [Navy, "SRF-JRMC Continues to Deliver Warships to Fleet On Time," May 13, 2026](https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4485233/srf-jrmc-continues-to-deliver-warships-to-fleet-on-time/)
+
+### [The Waterfront Brief, Vol. 1 No. 6 (week 34)](projects/waterfront-brief/2026-w34)
+
+1. [The White House, Aug 13, 2026](https://www.whitehouse.gov/presidential-actions/2026/08/rebuilding-the-united-states-navy-and-americas-shipbuilding-industrial-base/)
+2. [USNI News, Aug 12, 2026](https://news.usni.org/2026/08/12/carrier-john-f-kennedy-leaves-newport-news-for-acceptance-trials-7-weapons-elevators-delivered)
+3. [USNI News, May 28, 2019](https://news.usni.org/2019/05/28/experts-navy-would-spend-billions-to-answer-trumps-call-to-return-carriers-to-steam-catapults)
+4. [Navy Lookout, Aug 14, 2026](https://www.navylookout.com/full-steam-in-reverse-trump-orders-us-navy-back-to-old-style-aircraft-catapults/)
+5. [Sandboxx, undated](https://www.sandboxx.us/news/trump-orders-ford-class-aircraft-carriers-back-to-steam-catapults-but-nobody-has-built-one-in-20-years)
+6. [Pacific Island Times, Sep 17, 2023](https://www.pacificislandtimes.com/post/navy-seeking-nuclear-experts-to-work-at-guam-shipyard-detachment)
+7. [Breaking Defense, Aug 17, 2026](https://breakingdefense.com/2026/08/trumps-call-for-fifth-shipyard-likely-to-run-into-cost-workforce-hurdles-analysts/)
+8. [GAO-20-588](https://www.gao.gov/products/gao-20-588)
+9. [USNI News, Jun 23, 2026](https://news.usni.org/2026/06/23/the-navys-big-3-d-printing-bet)
+10. [NAVSUP Publication NAVSUP-WSS-N23-AM, Jan 17, 2024](https://www.navsup.navy.mil/Portals/65/NAVSUP%20ENTERPRISE/NAVSUP%20Weapon%20Systems%20Support/Documents/AM%20SAR%20Brochure_JAN2024.pdf)
+11. [U.S. Navy, Mar 16, 2026](https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/4435370/navy-reshapes-warfighting-acquisition-system/)
+12. [USNI News, Mar 16, 2026](https://news.usni.org/2026/03/16/secnav-phelan-stands-up-5-new-offices-for-navy-marine-acquisition)
+13. [GAO-25-106749, Dec 17, 2024](https://www.gao.gov/products/gao-25-106749)
 
 ## AI engineering
 

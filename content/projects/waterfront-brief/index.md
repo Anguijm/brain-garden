@@ -32,6 +32,17 @@ sheets, front and back), with the events calendar on its own page after them.
 Each issue is readable on the web (with links into the rest of this garden) and
 downloadable as the print PDF (source links only).
 
+- **[Vol. 1, No. 6 — Week 34, August 2026](2026-w34)**
+  ([download the PDF](pdf/2026-w34.1f9477d0.pdf)) — one presidential memorandum, read past its headline:
+  a plan due in 60 days to put steam and hydraulic systems back into the carrier after next,
+  when no steam catapult set has been built since 2009 and the same order was given in 2019
+  and died; a fifth public shipyard whose named Pacific candidates already have a Pearl Harbor
+  detachment standing up in Guam, against 50 to 60 percent first-year attrition at the four
+  yards that exist; and a structural review of NAVSEA ordered five months after roughly 70
+  percent of its functions and workforce moved to new portfolio executives. Plus the part that
+  is not about the memo: how a printed part becomes one the Navy will accept, and why that was
+  eight months against twenty-one days for a destroyer's hangar door.
+
 - **[Vol. 1, No. 5 — Week 33, August 2026](2026-w33)**
   ([download the PDF](pdf/2026-w33.464f1261.pdf)) — where a hull can actually go: USS Harry S. Truman
   still at the naval station two months after its overhaul was budgeted to start, with the
