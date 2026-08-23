@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-750 citations across 111 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+758 citations across 112 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -600,6 +600,17 @@ This page lists every external link cited anywhere in the garden, article by art
 10. [Omega-3 (fish vs supplements) and gout flares (Neogi 2019)](https://pubmed.ncbi.nlm.nih.gov/30908893/)
 11. [Exercise and hyperuricemia review (2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11348809/)
 12. [Medications that raise or lower urate (diuretics, aspirin, losartan)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9575594/)
+
+### [Eating through a UC medication pause, when you are also a breast cancer survivor](topics/health/ulcerative-colitis-diet/)
+
+1. [Mediterranean Diet Pattern Improves Intestinal Inflammation Concomitant with Reshaping of](https://academic.oup.com/ecco-jcc/article/17/10/1569/7140490)
+2. [Inflammatory bowel diseases and the low-FODMAP diet: benefits and challenges in therapy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12542732/)
+3. [Efficacy of FODMAP Elimination and Subsequent Blinded Placebo-Controlled Provocations in](https://pubmed.ncbi.nlm.nih.gov/35334953/)
+4. [The Emulsifier Carboxymethylcellulose Induces More Aggressive Colitis in Humanized Mice](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8540676/)
+5. [American Cancer Society Guideline for Diet and Physical Activity for Cancer Survivors](https://www.cancer.org/cancer/supportive-care/nutrition-activity-with-cancer/acs-nutrition-and-physical-activity-guideline-for-survivors.html)
+6. [Dietary Strategies for Breast Cancer Survivorship: From Evidence to Practice](https://link.springer.com/article/10.1007/s12609-025-00608-y)
+7. [RINVOQ (upadacitinib) FDA label](https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/211675s015lbl.pdf)
+8. [Anti-inflammatory dietary interventions in inflammatory bowel disease: current insights](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1817465/full)
 
 ## Leadership
 
