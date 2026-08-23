@@ -129,6 +129,26 @@ them can only be found by running the thing.
   entirely, and the six failures that only appeared on contact with real hardware. Five of
   the six were the same mistake: trusting a report instead of checking the resulting state.
 
+## Making it run on hardware nobody supported
+
+Assessment: the gap between "this model exists" and "this model runs on my machine" is
+almost never the model. It is packaging, and it is fixable.
+
+- **[Building HIP extensions against AMD's self-contained ROCm wheels](19-building-hip-extensions-on-strix-halo)**
+  — five things that break when compiling CUDA extensions for a consumer AMD GPU, none of
+  them silicon: pip's build isolation installing a rival PyTorch, three header-only
+  libraries absent from every AMD wheel, CMake-generated headers a source clone never has,
+  and 43 missing `.so` symlinks. Includes the measurement that matters for anyone
+  benchmarking this: the first sparse-conv call is 2,971 ms of autotuning and the warm
+  median is 0.12 ms.
+
+- **[Three image-to-3D models, judged by the slicer instead of a ruler](20-three-image-to-3d-models-against-a-real-slicer)**
+  — TRELLIS.2, Hunyuan3D-2mv and Pixal3D run on the same inputs on one machine, then put
+  through a real Bambu X1C profile. The thickness metric that had been driving decisions
+  turned out to be a poor gate, the slicer disagreed with it, and the one place the metric
+  earned its keep was spotting a genuine defect. Also records the render error that made a
+  model look far worse than it was, and the rule that came out of it.
+
 ## See also
 
 - **[Using AI well](connections/using-ai-well)** — the discipline running under this whole wing: a fluent model is an assistant, not an oracle.

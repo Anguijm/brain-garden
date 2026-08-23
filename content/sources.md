@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-747 citations across 110 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+750 citations across 111 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -257,6 +257,12 @@ This page lists every external link cited anywhere in the garden, article by art
 7. [CachyOS forum](https://discuss.cachyos.org/t/regression-black-screen-with-kernel-6-19-0-on-amd-ryzen-ai-max-395-strix-halo/23042)
 8. [Framework Strix Halo guide](https://github.com/Gygeek/Framework-strix-halo-llm-setup)
 9. [strix-halo-guide](https://github.com/hogeheer499-commits/strix-halo-guide)
+
+### [Building HIP extensions against AMD's self-contained ROCm wheels](topics/ai-engineering/19-building-hip-extensions-on-strix-halo)
+
+1. [FlexGEMM](https://github.com/JeffreyXiang/FlexGEMM)
+2. [pip install --index-url \](https://rocm.nightlies.amd.com/whl-multi-arch/)
+3. [Pixal3D](https://huggingface.co/TencentARC/Pixal3D)
 
 ## Business development
 

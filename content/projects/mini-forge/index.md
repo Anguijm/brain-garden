@@ -26,7 +26,7 @@ The lessons from building it are in
 | Role | vault machine, first tests | the mini forge |
 | CPU | i7-10750H, 6 cores | Ryzen AI Max+ 395, 16 Zen 5 cores |
 | GPU | RTX 3070 Laptop, **8 GB VRAM** | Radeon 8060S iGPU, RDNA 3.5, gfx1151 |
-| Memory | 15.8 GB, 15.4 GB zram swap | 64 GB LPDDR5X, **unified** |
+| Memory | 15.8 GB, 15.4 GB zram swap | **128 GB** LPDDR5X, unified |
 | OS | Pop!_OS | Ubuntu 24.04.4 LTS |
 
 A third machine, a MINISFORUM UM790 Pro, was considered and left out. Its Radeon 780M is a
@@ -40,11 +40,29 @@ RAM, so the working set that was impossible on the laptop is unremarkable on the
 ## The pipeline
 
 ```
-text prompt
-   -> image model (ComfyUI on ROCm)            a character on a plain background
-   -> trellis.cpp on Vulkan                    textured GLB mesh
-   -> Blender, headless (prepare_mini.py)      printable STL
+words -> picture -> mesh -> printable STL -> printer
 ```
+
+Each stage, and what it is rather than what it is called:
+
+| Piece | What goes in | What comes out | What it is for |
+|---|---|---|---|
+| **Image generator** (not chosen yet) | a sentence | one PNG picture | gives the mesh maker something to look at |
+| **trellis.cpp** | one PNG | a GLB mesh | guesses the whole 3D shape, including the back you cannot see |
+| **the weights** (10 `.gguf` files, 16.5 GB) | nothing, they just sit there | nothing | the learned experience trellis.cpp reasons with; without them it is an engine with no fuel |
+| **Vulkan** | nothing | nothing | how the program talks to the graphics chip so the maths runs on the GPU instead of the CPU |
+| **Blender + `prepare_mini.py`** | a GLB mesh | an STL | scales it to 32 mm, adds a 25 mm base, fills holes so a slicer can tell inside from outside |
+| **slicer** (Bambu Studio, on the printer's machine) | an STL | printer instructions | the last step, and the only one not on this box |
+
+Two words that get used loosely and mean specific things here. A **mesh** is not a program, it is
+the object: a skin of triangles describing a surface, like chicken wire bent into a goblin. A **GLB**
+is a mesh file with its colours attached; an **STL** is a mesh file with no colours, which is all a
+printer needs.
+
+**OpenSCAD is not part of this chain.** It is the other half of the machine's job: you write code
+describing exact shapes and it builds them. Good at brackets and boxes, bad at goblins. The two
+approaches fail at opposite things, which is the subject of
+[chapter 17](topics/ai-engineering/17-generating-3d-versus-scripting-it).
 
 **The mesh step is `trellis.cpp`**, a C++/GGML reimplementation of Microsoft's TRELLIS.2-4B
 with Vulkan, CUDA, ROCm and CPU backends and no Python at runtime. Chosen over TripoSR
@@ -123,31 +141,71 @@ that has been reported to break unified-memory detection.
 - **Read the installed BIOS version before building a flash stick.** The machine arrived on
   1.06, which is the version the stick would have written.
 
-## Status, 2026-08-20
+## Status, 2026-08-23
 
-Assessment: the machine is mid-install. Two evenings went to a distro choice that could not
-boot, and the recovery is in progress.
+**The pipeline is complete and has produced print-ready files.** Picture in, sliced 3MF out,
+entirely on the MS-S1.
 
-- Done: media prepared and verified, BIOS checked (already 1.06, so the flash stick was
-  unnecessary), UMA frame buffer set to 1 GB (the smallest this BIOS offers), IOMMU
-  disabled.
-- Failed: Ubuntu 26.04 will not boot on this hardware. Three workarounds tried, all black
-  screens.
-- In progress: Ubuntu 24.04.4 written to the stick. It gets further, showing kernel output
-  on screen during early boot, which 26.04 never did.
-- Abandoned: the payload partition on the installer stick. The scripts remain but the
-  approach is retired.
-- Next: finish the install, wipe Windows, move the 16.5 GB of weights across, then the
-  first mesh.
+**FACT — three generators run on the Radeon 8060S (gfx1151):**
 
-**Unverified.** Nothing in the trellis.cpp path has run yet: not the build, not Vulkan on
-gfx1151, not the published 345-second figure for a 1024-resolution mesh. The 10 GbE ports
-may not work on 24.04's kernel. All of it is still claims.
+| model | route | speed | notes |
+|---|---|---|---|
+| TRELLIS.2 (`trellis.cpp`) | **Vulkan**, no ROCm needed | 116s @ res 512 | simplest to keep working |
+| Hunyuan3D-2mv | ROCm + ComfyUI | 55s | textured; **takes four view inputs** |
+| Pixal3D | ROCm, native extensions | ~3 min | best surface detail; untextured here |
+
+**FACT — multi-view conditioning works and measurably helps.** `Hunyuan3Dv2ConditioningMultiView`
+accepts front, left, back and right. Same model and seed, one view versus four: the goblin's axe
+goes from a torn flap to a clean blade, and a dwarf figure's hammers and hat brim gain real mass.
+The improvement is largest on parts the single front view can only see edge-on.
+
+**FACT — the slicer accepts the output.** Bambu Studio's CLI, driven with a real
+`Bambu Lab X1 Carbon 0.4 nozzle` + `0.08mm Extra Fine` + `Bambu PLA Basic` profile, slices every
+mesh with **no** warning about manifoldness, self-intersection, degenerate triangles or thin walls.
+Nine figures at 48 mm print in 17 to 28 minutes each.
+
+**Assessment — print bigger, it is the cheapest lever there is.** Same mesh, same 0.10 mm prep
+voxel, three sizes: material under 0.30 mm falls from 1.92% at 32 mm, to 0.53% at 48 mm, to 0.05%
+at 75 mm. Nothing about the shape changed; every feature simply got thicker. A finer prep voxel is
+a *different* lever and does not help printability — it captures more of the generated detail, and
+captures thin things accurately thin.
+
+**The print-prep bug is fixed.** `prepare_mini.py` now ends in hard self-checks (height within one
+voxel, sits on z=0, footprint, welded into one solid, watertight) and **exits 2** if any fail. The
+missing base that prompted this is gone. Two habits came out of it and are worth keeping: measure
+the output rather than reading the log, and render a preview and look at it, because a number and a
+picture catch different faults.
+
+**Known defects, characterised rather than guessed:**
+
+- **Pixal3D emits a double-layered open shell** — 503,463 open edges across 43,089 components on the
+  raw GLB, and two surfaces about 0.002 mm apart over the whole figure. A coarse voxel at print prep
+  (0.20 to 0.30 mm, subject-dependent) fuses them and it slices normally. Fine voxels preserve the
+  defect and Bambu rejects the object at load with `1 models, 0 objects`.
+- **Pixal3D output faces 180 degrees from the others**, because its `to_glb` applies its own axis
+  conversion. Rotating the vertices with trimesh works; setting `rotation_euler` in Blender and
+  exporting silently does not.
+- **nvdiffrast cannot be built here.** Its CUDA rasteriser is NVIDIA PTX inline assembly. It is used
+  only for texture baking, so Pixal3D runs untextured — which costs nothing for a figure that will
+  be painted.
+- **CuMesh needed a source patch.** `hipMemcpy2D` rejects a pointer PyTorch's caching allocator hands
+  out mid-pipeline, even though it is valid device memory. Since destination pitch equals row width,
+  the 2D copy is a linear copy, and `hipMemcpy` accepts what `hipMemcpy2D` refused.
+
+**Assessment — the input matters more than the model.** The best result so far came from a
+purpose-made six-panel orbit sheet: consistent lighting, consistent scale, clean background, all
+four sides. Everything improvised from photographs has been worse. For a real subject, a slow walk
+all the way around with the camera level beats any choice of generator.
+
+**Still unverified.** Nothing has actually been printed. Every claim here is about meshes and
+slicer output, not about plastic.
 
 ## See also
 
 - **[Generating 3D, and why you cannot just script it](topics/ai-engineering/17-generating-3d-versus-scripting-it)** — why a generated mesh and a scripted one fail at opposite things.
 - **[The plan that reads right and the plan that runs](topics/ai-engineering/18-the-plan-that-runs)** — the six failures that building this turned up.
+- **[Building HIP extensions against AMD's self-contained ROCm wheels](topics/ai-engineering/19-building-hip-extensions-on-strix-halo)** — how the ROCm half of this was made to compile, and the five packaging gaps that stop it.
+- **[Three image-to-3D models, judged by the slicer instead of a ruler](topics/ai-engineering/20-three-image-to-3d-models-against-a-real-slicer)** — the comparison that decides which generator to reach for, and why the thickness metric was the wrong gate.
 
 ## Sources
 
