@@ -113,6 +113,12 @@ threads through several domains:
 - **[Finite resources, ruthless economy](connections/finite-resources)** — tokens,
   megabytes, grams, and people-hours, one shared move.
 
+## How this place works
+
+- **[How the vault actually runs](areas/how-the-vault-runs)** — the sequence map. What happens when a
+  newsletter gets made, what happens when a topic gets researched, which parts are on a timer, and
+  exactly where the five model calls sit. Short version: almost none of it is an autonomous agent.
+
 ## Finding your way around
 
 Use the **explorer** on the left (the menu button on a phone) to browse everything
