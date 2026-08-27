@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-758 citations across 112 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+763 citations across 113 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -263,6 +263,14 @@ This page lists every external link cited anywhere in the garden, article by art
 1. [FlexGEMM](https://github.com/JeffreyXiang/FlexGEMM)
 2. [pip install --index-url \](https://rocm.nightlies.amd.com/whl-multi-arch/)
 3. [Pixal3D](https://huggingface.co/TencentARC/Pixal3D)
+
+### [Five words to a gearbox, and where the knowledge came from](topics/ai-engineering/21-five-words-to-a-gearbox)
+
+1. [DDG-51 Arleigh Burke class, Federation of American Scientists](https://man.fas.org/dod-101/sys/ship/ddg-51.htm)
+2. [Timken to continue providing main reduction gears for DDG-51, Feb 21, 2023](https://news.timken.com/2023-02-21-Timken-to-Continue-to-Provide-Main-Reduction-Gears-for-U-S-Navy-Arleigh-Burke-DDG-51-Class-Ships)
+3. [How Reduction Gears Work, Chapter 7, Gene Slover's US Navy Pages](https://www.eugeneleeslover.com/ENGINEERING/CHAPTER-7.php)
+4. [Reduction Gears, Massachusetts Maritime TSPS Engineering Manual](https://weh.maritime.edu/campus/TSPS/manual/DriveTrain.html)
+5. [P3D-Bench: Benchmarking MLLMs for Parametric 3D Generation and Structural Reasoning](https://arxiv.org/html/2606.11152v1)
 
 ## Business development
 

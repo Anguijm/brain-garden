@@ -149,6 +149,15 @@ almost never the model. It is packaging, and it is fixable.
   earned its keep was spotting a genuine defect. Also records the render error that made a
   model look far worse than it was, and the rule that came out of it.
 
+- **[Five words to a gearbox, and where the knowledge came from](21-five-words-to-a-gearbox)**
+  — the complement to chapter 17. "Make me an MRG for a DDG" returns the right architecture,
+  and the reason is that a proper noun is an index key rather than a description. Traces the
+  chain from five words to forced topology, tests what the public record actually gives up
+  about that gearbox and what it withholds, and separates structure (which models get right)
+  from magnitude (which they do not). Then the OpenSCAD math: why constraints do most of the
+  design work, and why an over-constrained problem lands close without anyone recalling the
+  real machine.
+
 ## See also
 
 - **[Using AI well](connections/using-ai-well)** — the discipline running under this whole wing: a fluent model is an assistant, not an oracle.
