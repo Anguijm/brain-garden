@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-777 citations across 114 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+781 citations across 115 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -1153,3 +1153,12 @@ This page lists every external link cited anywhere in the garden, article by art
 8. [macroquad — https://github.com/not-fl3/macroquad ; Android via miniquad](https://macroquad.rs/articles/)
 9. [Bevy — ; mobile examples /blob/main/examples/README.md](https://github.com/bevyengine/bevy)
 10. [Bevy — https://github.com/bevyengine/bevy ; mobile examples](https://github.com/bevyengine/bevy/blob/main/examples/README.md)
+
+## Technology
+
+### [How the PlayStation 3 got cracked permanently, and why Sony couldn't fix it](topics/technology/playstation-hacks)
+
+1. [rdist.root.org — How the PS3 hypervisor was hacked (2010)](https://rdist.root.org/2010/01/27/how-the-ps3-hypervisor-was-hacked/)
+2. [Berkeley Technology Law Journal — Sony v. Hotz (2011)](https://btlj.org/2011/03/sony-v-hotz-controversies-regarding-dmca-jurisdiction-search-warrant-and-subpoenas/)
+3. [Wikipedia — PlayStation 3 homebrew](https://en.wikipedia.org/wiki/PlayStation_3_homebrew)
+4. [Wikipedia — PlayStation 3 Jailbreak](https://en.wikipedia.org/wiki/PlayStation_3_Jailbreak)

@@ -8,6 +8,11 @@ than raw research. Newest is first.
 
 ## Latest
 
+- **[How the PlayStation 3 got cracked permanently](topics/technology/playstation-hacks)** —
+  Sony's cryptographic self-defeat: one constant in the wrong place, the root of trust burned
+  into read-only hardware, and why there was never a patch. The geohot/fail0verflow story, the
+  ECDSA flaw, the legal battle, and what it means about trust models generally.
+
 - **[Shipyards and the maritime industrial base](topics/shipyards/)** — standing background
   for the weekly brief, kept separately because it outlives any one issue. Opens with
   [four threads from August 2026](topics/shipyards/2026-08-threads): the NAVSEA board whose
