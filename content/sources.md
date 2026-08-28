@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-763 citations across 113 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+777 citations across 114 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -129,6 +129,23 @@ This page lists every external link cited anywhere in the garden, article by art
 11. [U.S. Navy, Mar 16, 2026](https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/4435370/navy-reshapes-warfighting-acquisition-system/)
 12. [USNI News, Mar 16, 2026](https://news.usni.org/2026/03/16/secnav-phelan-stands-up-5-new-offices-for-navy-marine-acquisition)
 13. [GAO-25-106749, Dec 17, 2024](https://www.gao.gov/products/gao-25-106749)
+
+### [The Waterfront Brief, Vol. 1 No. 7 (week 35)](projects/waterfront-brief/2026-w35)
+
+1. [GAO-26-109256, Aug 27, 2026](https://www.gao.gov/products/gao-26-109256)
+2. [Breaking Defense, Aug 27, 2026](https://breakingdefense.com/2026/08/submarine-maintenance-delays-idle-time-cost-3-4-billion-gao-says/)
+3. [USNI News, Aug 26, 2026](https://news.usni.org/2026/08/26/navy-planning-for-extended-carrier-deployments-as-iran-conflict-continues-cno-mcpon-say)
+4. [IAM Union, Aug 23, 2026](https://www.goiam.org/news/iam-local-s6-members-at-bath-iron-works-ratify-historic-five-year-labor-agreement/)
+5. [IAM Local S6 tentative agreement, Aug 14, 2026](https://iams6.org/wp-content/uploads/2026/08/BIW_LS6-2026-Tentative-Agreement-8.14.26-Final-PDF.pdf)
+6. [Maine Public, Aug 25, 2026](https://www.mainepublic.org/business-and-economy/2026-08-25/bath-iron-works-union-workers-ratify-historic-contract-with-17-pay-raise)
+7. [Seapower, Aug 24, 2026](https://seapowermagazine.org/navy-removes-bureaucratic-barriers-to-accelerate-3d-printing-and-accelerate-submarine-lethality/)
+8. [All3DP, Aug 24, 2026](https://all3dp.com/4/us-navy-just-made-it-easier-to-replace-conventional-metal-parts-with-3d-printed-alternatives/)
+9. [Doerry and Moniri, "Specifications and Standards for the Electric Warship", NAVSEA, 2013](http://doerry.org/norbert/papers/PID2672993.pdf)
+10. [WorkBoat, Apr 2, 2026](https://www.workboat.com/portsmouth-naval-shipyard-tests-and-installs-3d-printed-submarine-component)
+11. [The Maritime Executive, Aug 23, 2026](https://maritime-executive.com/article/fertility-rate-curbs-japanese-shipbuilding-boom)
+12. [Stars and Stripes, May 5, 2025](https://www.stripes.com/branches/navy/2025-05-05/navy-ship-overhaul-japanese-shipyard-17685893.html)
+13. [The Maritime Executive, May 2, 2025](https://maritime-executive.com/article/japan-s-mitsubishi-shipyard-completes-largest-overhaul-contract-for-us-navy)
+14. [Navy.mil, May 13, 2026](https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4485233/srf-jrmc-continues-to-deliver-warships-to-fleet-on-time/)
 
 ## AI engineering
 

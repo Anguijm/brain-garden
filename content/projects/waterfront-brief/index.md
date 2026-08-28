@@ -32,6 +32,15 @@ sheets, front and back), with the events calendar on its own page after them.
 Each issue is readable on the web (with links into the rest of this garden) and
 downloadable as the print PDF (source links only).
 
+- **[Vol. 1, No. 7 — Week 35, August 2026](2026-w35)**
+  ([download the PDF](pdf/2026-w35.fe66d411.pdf)) — eleven percent of attack submarine depot maintenance
+  finished on time over ten years, and GAO's two recommendations are both about disposal, not
+  overhauls; the O&M account that pays for maintenance was spent on the Iran conflict and the
+  supplemental has not passed; Bath Iron Works ratified a five-year contract and the automation
+  clause is written on headcount reductions, not technology; printed submarine metal is now a
+  repeatable substitution for four material families as of August 11, with nothing in the trade
+  press for ten days; and Japan's largest builders say they cannot take the overflow.
+
 - **[Vol. 1, No. 6 — Week 34, August 2026](2026-w34)**
   ([download the PDF](pdf/2026-w34.1f9477d0.pdf)) — one presidential memorandum, read past its headline:
   a plan due in 60 days to put steam and hydraulic systems back into the carrier after next,
