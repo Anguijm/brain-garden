@@ -8,6 +8,11 @@ than raw research. Newest is first.
 
 ## Latest
 
+- **[PS4 custom firmware: how the exploit chain works](topics/technology/ps4-cfw)** —
+  the three-layer chain (WebKit → sandbox escape → kernel), generation-by-generation kernel
+  exploits from firmware 1.76 through 7.02, why the PS4 fight is structurally different from
+  the PS3 break, and where the 9.00/GoldHEN gap sits in the public record.
+
 - **[How the PlayStation 3 got cracked permanently](topics/technology/playstation-hacks)** —
   Sony's cryptographic self-defeat: one constant in the wrong place, the root of trust burned
   into read-only hardware, and why there was never a patch. The geohot/fail0verflow story, the

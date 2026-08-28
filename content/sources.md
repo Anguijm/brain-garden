@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-781 citations across 115 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+787 citations across 116 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -1162,3 +1162,12 @@ This page lists every external link cited anywhere in the garden, article by art
 2. [Berkeley Technology Law Journal — Sony v. Hotz (2011)](https://btlj.org/2011/03/sony-v-hotz-controversies-regarding-dmca-jurisdiction-search-warrant-and-subpoenas/)
 3. [Wikipedia — PlayStation 3 homebrew](https://en.wikipedia.org/wiki/PlayStation_3_homebrew)
 4. [Wikipedia — PlayStation 3 Jailbreak](https://en.wikipedia.org/wiki/PlayStation_3_Jailbreak)
+
+### [PS4 custom firmware: how the exploit chain works](topics/technology/ps4-cfw)
+
+1. [CTurt — Hacking the PS4 part 1](https://cturt.github.io/ps4.html)
+2. [CTurt — Hacking the PS4 part 3 (kernel)](https://cturt.github.io/ps4-3.html)
+3. [fail0verflow — The First PS4 Kernel Exploit: Adieu](https://fail0verflow.com/blog/2017/ps4-namedobj-exploit/)
+4. [Cryptogenic — PS4 4.05 Kernel Exploit](https://github.com/Cryptogenic/PS4-4.05-Kernel-Exploit)
+5. [Cryptogenic — PS4 5.05 BPF Double Free writeup](https://github.com/Cryptogenic/Exploit-Writeups/blob/master/FreeBSD/PS4%205.05%20BPF%20Double%20Free%20Kernel%20Exploit%20Writeup.md)
+6. [Synacktiv — This is for the Pwners](https://www.synacktiv.com/en/publications/this-is-for-the-pwners-exploiting-a-webkit-0-day-in-playstation-4)
