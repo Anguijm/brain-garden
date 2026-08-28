@@ -8,6 +8,12 @@ than raw research. Newest is first.
 
 ## Latest
 
+- **[Console jailbreaks: which are worth your time](topics/technology/console-jailbreak-landscape)** —
+  ranked survey of every modern platform: 3DS (do it today), unpatched Switch (best current-gen
+  option), PS Vita, PS4 below 9.00, PS3, Wii/WiiU, Xbox (no public jailbreak), PS5 (too early).
+  With a comparison table and the pattern that explains why Nintendo hardware is always most
+  exploitable.
+
 - **[PS4 custom firmware: how the exploit chain works](topics/technology/ps4-cfw)** —
   the three-layer chain (WebKit → sandbox escape → kernel), generation-by-generation kernel
   exploits from firmware 1.76 through 7.02, why the PS4 fight is structurally different from

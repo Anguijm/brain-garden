@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-787 citations across 116 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+792 citations across 117 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -1155,6 +1155,14 @@ This page lists every external link cited anywhere in the garden, article by art
 10. [Bevy — https://github.com/bevyengine/bevy ; mobile examples](https://github.com/bevyengine/bevy/blob/main/examples/README.md)
 
 ## Technology
+
+### [Console jailbreaks: which are worth your time](topics/technology/console-jailbreak-landscape)
+
+1. [3ds.hacks.guide](https://3ds.hacks.guide)
+2. [cfw.guide](https://cfw.guide)
+3. [Switch hacks.guide](https://switch.hacks.guide)
+4. [CFWaifu Vita guide](https://www.cfwaifu.com/henkaku/)
+5. [VitaDeploy](https://github.com/SKGleba/VitaDeploy)
 
 ### [How the PlayStation 3 got cracked permanently, and why Sony couldn't fix it](topics/technology/playstation-hacks)
 
