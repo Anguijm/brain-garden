@@ -11,7 +11,7 @@ draft: false
 
 # Top 10 games on every system Batocera can run
 
-Seventeen systems, 170 games. Each list is ranked by a combination of critical consensus and lasting playability — not nostalgia. Scores are Assessment based on aggregated critical reception; nothing here was play-tested against this specific hardware. For PS3 and Xbox 360, compatibility with the emulator matters as much as game quality; notes on that are included.
+Twenty-four systems, 240 games. Each list is ranked by a combination of critical consensus and lasting playability — not nostalgia. Scores are Assessment based on aggregated critical reception; nothing here was play-tested against this specific hardware. For PS3 and Xbox 360, compatibility with the emulator matters as much as game quality; notes on that are included.
 
 ---
 
@@ -20,13 +20,18 @@ Seventeen systems, 170 games. Each list is ranked by a combination of critical c
 | System | Era |
 |---|---|
 | [Sega Master System](#sega-master-system) | 1985–1996 |
+| [Sega Game Gear](#sega-game-gear) | 1990–1997 |
 | [NES](#nes) | 1983–1995 |
 | [SNES](#snes) | 1990–2003 |
 | [Sega Genesis](#sega-genesis-mega-drive) | 1988–1997 |
+| [TurboGrafx-16 / PC Engine](#turbografx-16--pc-engine) | 1987–1999 |
+| [Neo Geo](#neo-geo) | 1990–2004 |
 | [Sega Saturn](#sega-saturn) | 1994–2000 |
 | [PlayStation (PS1)](#playstation-ps1) | 1994–2006 |
 | [Nintendo 64](#nintendo-64) | 1996–2002 |
 | [Dreamcast](#dreamcast) | 1998–2001 |
+| [Game Boy](#game-boy) | 1989–2003 |
+| [Game Boy Color](#game-boy-color) | 1998–2003 |
 | [Game Boy Advance](#game-boy-advance) | 2001–2008 |
 | [PlayStation 2](#playstation-2) | 2000–2013 |
 | [GameCube](#gamecube) | 2001–2007 |
@@ -37,6 +42,7 @@ Seventeen systems, 170 games. Each list is ranked by a combination of critical c
 | [Xbox 360](#xbox-360) | 2005–2016 |
 | [3DS](#3ds) | 2011–2020 |
 | [Wii U](#wii-u) | 2012–2017 |
+| [Arcade (MAME / FinalBurn Neo)](#arcade-mame--finalburn-neo) | All eras |
 
 ---
 
@@ -73,6 +79,42 @@ Sega's answer to the NES lost the North American market war but dominated Europe
 
 10. **Psycho Fox** (1989) — Platformer — Assessment: 7.5/10
     A loose spiritual predecessor to the Wonder Boy series. Character selection changes your jump arc and a bird companion can be thrown at enemies. Underrated and rarely discussed outside of Master System enthusiasts.
+
+---
+
+## Sega Game Gear
+
+Sega's handheld ran on the same hardware as the Master System, which means its library overlaps heavily and the ports are mostly faithful; Batocera runs it via the same Genesis Plus GX core, so everything here is solid. The battery life was infamous in 1990 but irrelevant in emulation.
+
+1. **Sonic the Hedgehog** (1991) — Platformer — Assessment: 8.5/10
+   A purpose-built Game Gear entry rather than a port, with its own level design and a smaller screen framing that actually suits the game. The best Sonic on the platform and one of the better handheld Sonic titles overall.
+
+2. **Shining Force: The Sword of Hajya** (1993) — Tactical RPG — Assessment: 8.5/10
+   A standalone entry in the Shining Force series scaled to handheld play. The strategy is as deep as the console originals and the story holds together independently. Rarely mentioned when people list the best Game Gear titles, and it should be.
+
+3. **Defenders of Oasis** (1992) — RPG — Assessment: 8/10
+   An Arabian Nights JRPG with a full party system, overworld exploration, and a story that takes itself seriously. The production values punch above the hardware. One of the best RPGs on any Sega handheld.
+
+4. **Dragon Crystal** (1991) — Roguelike — Assessment: 7.5/10
+   A dungeon crawler with permadeath and randomised floors. Short enough for handheld sessions and hard enough to keep you honest. A companion egg hatches into a creature that grows alongside your character.
+
+5. **GG Shinobi** (1991) — Action — Assessment: 8/10
+   Five ninjas, each with a distinct playstyle, and stages built around switching between them. Tight controls and a strong visual identity. Better than the Master System Shinobi games.
+
+6. **Columns** (1990) — Puzzle — Assessment: 7.5/10
+   Sega's answer to Tetris, launch title for the Game Gear. Match three gems of the same colour in any direction. Simpler than Tetris and faster to pick up; still playable thirty-five years later.
+
+7. **Baku Baku Animal** (1996) — Puzzle — Assessment: 8/10
+   Feed animals to matching food in a falling-block format. The two-player mode (link cable in original hardware, netplay via emulation) elevates it. One of the most distinctive puzzle games on the platform.
+
+8. **Sonic Chaos** (1993) — Platformer — Assessment: 7.5/10
+   The first Sonic with a dedicated run button and Tails as a playable character. Level design is looser than the original but the speed remains intact. Good for a second Sonic option after the first game.
+
+9. **Crystal Warriors** (1991) — Tactical RPG — Assessment: 7.5/10
+   A grid-based strategy RPG with elemental affinities and a small but functional party system. Predates Fire Emblem's western arrival and fills a similar niche for handheld play.
+
+10. **Ristar** (1995) — Platformer — Assessment: 8/10
+    A port of the underrated Genesis game. Star-shaped protagonist grabs enemies and pulls himself to surfaces. Satisfying physics-based mechanics and strong art direction. Arrived late in the platform's life and was overlooked accordingly.
 
 ---
 
@@ -181,6 +223,78 @@ The Genesis competed with the SNES on attitude and speed. Its library rewards pl
 
 10. **ToeJam and Earl** (1991) — Roguelite — Assessment: 8/10
     Procedurally generated levels, two-player co-op, and a funk soundtrack. An odd game that found a cult following. The randomness means no two runs are identical.
+
+---
+
+## TurboGrafx-16 / PC Engine
+
+NEC's console sold modestly in the West but dominated in Japan under the PC Engine name, and its CD-ROM library — available in Batocera via Mednafen's PCE core — contains some of the finest RPGs and shoot-em-ups of the era. The core handles both the base cartridge library and the CD add-on with no configuration needed.
+
+1. **Castlevania: Rondo of Blood** (1993) — Action-platformer — Assessment: 9.5/10
+   Long considered the pinnacle of classic Castlevania, exclusive to the PC Engine CD until its Wii Virtual Console release. Multiple branching paths, a hidden playable character, and the tightest control in the series before Symphony of the Night. The version that Dracula X on SNES was a watered-down port of.
+
+2. **Ys Book I and II** (1989) — Action-RPG — Assessment: 9/10
+   The CD format gave Ys a fully voiced cast and a redbook audio soundtrack that was revelatory in 1989. Bump combat, a continuous two-game story, and production values that embarrassed contemporary console RPGs. The gateway drug for the entire Ys franchise.
+
+3. **Blazing Lazers** (1989) — Shoot-em-up — Assessment: 9/10
+   A vertical shmup that pushed the hardware on launch and still looks strong. Weapon upgrades stack into combinations and the bosses scale well across the game's difficulty curve. One of the best shooters of the era, period.
+
+4. **Bonk's Adventure** (1990) — Platformer — Assessment: 8.5/10
+   The TurboGrafx mascot game. Head-butt enemies, spin off ledges, and eat meat to power up. Charming and physically inventive in ways that feel distinct from Nintendo platformers of the same period.
+
+5. **Military Madness** (1989) — Tactical strategy — Assessment: 8.5/10
+   A hex-grid turn-based strategy game with unit variety and terrain effects. The AI is competent enough to teach you the mechanics. One of the first strategy games on a home console that felt designed for adults.
+
+6. **Gate of Thunder** (1992) — Shoot-em-up — Assessment: 8.5/10
+   A CD-exclusive horizontal shmup with a hard rock soundtrack and cinematic presentation. The weapon system and stage design hold it above most contemporaries. Often bundled with Bonk's Adventure on the CD add-on.
+
+7. **Lords of Thunder** (1993) — Shoot-em-up — Assessment: 8.5/10
+   Spiritual successor to Gate of Thunder with selectable stage order and elemental armour upgrades. The soundtrack is arguably better. Both games belong on any shmup shortlist.
+
+8. **Dungeon Explorer** (1989) — Action-RPG — Assessment: 8/10
+   A top-down action RPG with five-player multiplayer. Hack through dungeons, collect items, level up. The multiplayer is the main draw; solo play is functional but less engaging. A landmark for cooperative console gaming.
+
+9. **Neutopia** (1990) — Action-adventure — Assessment: 8/10
+   The TurboGrafx Zelda. Not a clone — clearly inspired but with its own dungeon logic and overworld structure. If you exhausted A Link to the Past and want more of the same design philosophy, this fills the gap.
+
+10. **Magical Chase** (1991) — Shoot-em-up — Assessment: 8/10
+    A horizontally scrolling shmup with a witch protagonist and a deceleration mechanic that makes positioning deliberate. Expensive on the original hardware market; emulation is the practical way to play it. Visually distinctive and mechanically sound.
+
+---
+
+## Neo Geo
+
+SNK's home console was priced for arcades — the cartridges cost as much as a console from another manufacturer — which means its library is small and focused almost entirely on fighting games and shoot-em-ups. Batocera runs it via FinalBurn Neo with near-perfect accuracy. Everything here ran in SNK's own arcades before it came home.
+
+1. **Metal Slug** (1996) — Run-and-gun — Assessment: 9.5/10
+   The definitive run-and-gun. Hand-drawn animation that has not aged, tight controls, and a difficulty that rewards repetition without feeling unfair. Every sequel is worth playing; this is where to start.
+
+2. **Metal Slug 3** (2000) — Run-and-gun — Assessment: 9.5/10
+   The high point of the series. Branching paths, the longest and strangest final stage in the franchise, and a level of animation detail that still impresses. The slug variety peaks here.
+
+3. **Garou: Mark of the Wolves** (1999) — Fighting — Assessment: 9.5/10
+   SNK's best fighting game. The T.O.P. system, Just Defend mechanic, and a roster built from scratch give it a competitive depth that holds up in 2026. The Street Fighter IV of SNK games.
+
+4. **The King of Fighters '98** (1998) — Fighting — Assessment: 9/10
+   The consensus peak of the KOF series. No story, just a tournament — which means SNK spent the entire budget on balance and roster. Still played competitively. The best team-based fighter on the hardware.
+
+5. **Samurai Shodown II** (1994) — Fighting — Assessment: 9/10
+   Weapon-based fighting with a pace slower than Street Fighter and a damage model where a single hit changes the match. Rage mode, disarms, and a roster with genuine personality. The competitive standard for the series.
+
+6. **Pulstar** (1995) — Shoot-em-up — Assessment: 8.5/10
+   A horizontal shmup clearly inspired by R-Type but with its own option system and a Neo Geo hardware showcase in every stage. Harder than it looks and visually unlike anything on other platforms.
+
+7. **Blazing Star** (1998) — Shoot-em-up — Assessment: 8.5/10
+   A spiritual successor to Pulstar with a combo-scoring system and seven ships with distinct behaviours. The bonus scoring mechanics add a layer beyond survival. One of the finest shmups of the late 90s.
+
+8. **Last Blade 2** (1998) — Fighting — Assessment: 8.5/10
+   Weapon-based fighting with a Speed/Power mode split that changes your playstyle from the start screen. The animation is some of the best sprite work SNK produced. A fighting game that rewards patience.
+
+9. **Neo Turf Masters** (1996) — Sports — Assessment: 8/10
+   The best arcade golf game ever made. Six courses, simple controls, and an addictive shot-shaping mechanic. Not a simulation — a score-chasing game with perfect feedback loops. Often overlooked in discussions of the Neo Geo library.
+
+10. **Shock Troopers** (1997) — Run-and-gun — Assessment: 8/10
+    A top-down run-and-gun with three-soldier team selection and multiple routes through each level. Fast, loud, and well-designed. Closer to Ikari Warriors than Metal Slug but holds its own.
 
 ---
 
@@ -325,6 +439,78 @@ The Dreamcast had an 18-month window of being the most powerful consumer hardwar
 
 10. **Ikaruga** (2001) — Shoot-em-up — Assessment: 9.5/10
     Polarity-switching mechanic turns bullet avoidance into puzzle solving. Brief, brutal, and designed around a scoring system that rewards pattern mastery. One of the finest shoot-em-ups ever made.
+
+---
+
+## Game Boy
+
+Nintendo's original handheld ran for over a decade on four AA batteries and a green-tinted screen, which is why its library is enormous and its best games were designed around constraints that made them timeless. Batocera runs it via mGBA, the most accurate GB/GBC/GBA emulator available, at full speed with optional colour correction and integer scaling.
+
+1. **Tetris** (1989) — Puzzle — Assessment: 10/10
+   The definitive version of the definitive puzzle game. The Game Boy port's simplicity — no frills, no modes, just Tetris — is the point. The bundled game on launch hardware in most regions; it sold the system and the concept simultaneously.
+
+2. **Pokemon Red / Blue** (1996) — RPG — Assessment: 9/10
+   The games that defined portable RPGs. 151 creatures, a trading mechanic that required a second player, and a world with enough secrets to support a decade of schoolyard rumour. Mechanically simple by later standards; historically irreplaceable.
+
+3. **The Legend of Zelda: Link's Awakening** (1993) — Action-adventure — Assessment: 9.5/10
+   A full Zelda on a handheld, with a stranger story than any console entry before it and a dreamlike coastal island that holds together as a world. The DX colour version on GBC adds a bonus dungeon and is the preferred version.
+
+4. **Kirby's Dream Land** (1992) — Platformer — Assessment: 8.5/10
+   Kirby's debut. Short, breezy, and mechanically clean. The copy ability is not yet present — Kirby only inhales and spits — which makes this a purer expression of the character's movement feel. Beatable in an afternoon; worth it.
+
+5. **Metroid II: Return of Samus** (1991) — Action-adventure — Assessment: 8.5/10
+   The bridge between the NES original and Super Metroid. Dark, claustrophobic, and mechanically inventive within the hardware's limits. The mission structure — hunt a fixed number of Metroids — gives it a shape the other games lack. The 3DS remake exists; the original still holds up independently.
+
+6. **Donkey Kong** (1994) — Platformer/Puzzle — Assessment: 9/10
+   Not just a port of the arcade game. The first four stages are the arcade levels; then it opens into a full puzzle-platformer with 100-plus stages across nine worlds. DK gains a full moveset. One of the best games on the hardware by a significant margin.
+
+7. **Mega Man V** (1994) — Action-platformer — Assessment: 9/10
+   The only Game Boy Mega Man with an original robot master roster (the Stardroids) rather than recycled NES bosses. New weapons, new mechanics, and production values that push the hardware. The peak of the Game Boy Mega Man series.
+
+8. **Final Fantasy Adventure** (1991) — Action-RPG — Assessment: 8.5/10
+   The game that became the Mana series. Top-down action combat, a world map, and a story with more weight than most 8-bit RPGs attempt. The GBA remake (Sword of Mana) exists if you want the visual upgrade; the original plays faster.
+
+9. **Pokemon Gold / Silver** (1999) — RPG — Assessment: 9.5/10
+   Technically Game Boy Color but backward-compatible with the original hardware. Two full regions, a day-night cycle, and 251 Pokemon. The most content ever packed into a Game Boy cartridge. Crystal is the definitive version.
+
+10. **Gargoyle's Quest** (1990) — Action-platformer — Assessment: 8/10
+    A Ghosts 'n Goblins spinoff where you play the gargoyle villain. Side-scrolling action alternates with an overworld and RPG progression. Harder than it looks and more mechanically varied than most GB action games.
+
+---
+
+## Game Boy Color
+
+The GBC sits in an odd position — backward-compatible with the original Game Boy, forward-overshadowed by the GBA — but its exclusive library contains some of the most polished handheld games before the GBA era. Batocera's mGBA core handles it with full accuracy and proper colour rendering.
+
+1. **The Legend of Zelda: Oracle of Ages / Oracle of Seasons** (2001) — Action-adventure — Assessment: 9/10
+   Two linked games developed simultaneously by Capcom under Nintendo's direction. Each is a full Zelda; completing both and linking the saves unlocks a combined true ending. Ages focuses on puzzles, Seasons on combat. Play them in any order.
+
+2. **Metal Gear Solid** (2000) — Stealth-action — Assessment: 8.5/10
+   A purpose-built GBC entry that is a genuine Metal Gear game, not a port. Overhead perspective, stealth mechanics, codec conversations, and a story that connects to the PlayStation original. Remarkable for the hardware.
+
+3. **Dragon Warrior Monsters** (1998) — RPG — Assessment: 8.5/10
+   The game Pokemon players wanted more of: monster collection with a breeding system that generates new creatures from combinations. Deeper than Pokemon at the time in terms of team construction options.
+
+4. **Shantae** (2002) — Platformer — Assessment: 9/10
+   Released at the very end of the GBC's life, which is why it sold poorly and now costs hundreds of dollars on original cartridge. A metroidvania with belly-dance transformation mechanics, expressive sprite animation, and a world that rewards exploration. The definitive late-era GBC game.
+
+5. **Pokemon Crystal** (2000) — RPG — Assessment: 9/10
+   The enhanced version of Gold/Silver with animated Pokemon sprites, a more developed story, and the Battle Tower endgame. The best Pokemon game on the original hardware family.
+
+6. **Wario Land 3** (2000) — Platformer — Assessment: 8.5/10
+   Wario's platformers inverted the genre conventions — you cannot die, but you need to find four treasures per level across multiple visits as new abilities unlock new routes. Clever, unhurried, and mechanically satisfying.
+
+7. **Bionic Commando: Elite Forces** (2000) — Action — Assessment: 8/10
+   A GBC original that captures the grappling-hook mechanics of the NES classic in a new mission structure. Plays better than most GBC action titles and was developed by Nintendo Software Technology.
+
+8. **Harry Potter and the Chamber of Secrets** (2002) — Action-RPG — Assessment: 7.5/10
+   The GBC version is a top-down RPG entirely distinct from the console releases. Well-designed for the hardware, with spell-based combat and a Hogwarts that feels navigable. Better than its licensed-game reputation suggests.
+
+9. **Resident Evil Gaiden** (2001) — Action-RPG — Assessment: 7/10
+   An odd entry in the series — a top-down RPG with a first-person shooting minigame for combat. Not canon; not the best Resident Evil. Worth playing as a curiosity and better than the reviews from 2001 suggest.
+
+10. **Alone in the Dark: The New Nightmare** (2001) — Action-adventure — Assessment: 7.5/10
+    A top-down version of the PS1 survival horror game. The GBC version tells the same story from a different angle with original gameplay. One of the most technically accomplished GBC titles and largely forgotten.
 
 ---
 
@@ -685,6 +871,42 @@ The Wii U was a commercial failure with a genuinely excellent first-party librar
 
 10. **Star Fox Zero** (2016) — Rail shooter — Assessment: 7.5/10
     Divided reception due to dual-screen required controls. Under Cemu with a single screen and remapped controls, the control complaint largely disappears. Mechanically closer to the original Star Fox 64 than anything since.
+
+---
+
+## Arcade (MAME / FinalBurn Neo)
+
+The arcade library in Batocera via MAME and FinalBurn Neo covers tens of thousands of titles across six decades — narrowing it to ten is an act of violence. These are ten all-time standouts that represent the range of what the medium produced, all running accurately in Batocera. MAME prioritises accuracy; FinalBurn Neo prioritises compatibility for fighters and shmups. For the titles below, either core works.
+
+1. **Street Fighter II: The World Warrior** (1991) — Fighting — Assessment: 10/10
+   The game that created competitive gaming as a genre. Six buttons, eight characters, and a combo system discovered by players rather than designed by Capcom. The subsequent revisions improved it; this is the original statement.
+
+2. **Pac-Man** (1980) — Maze — Assessment: 10/10
+   The most recognised video game ever made. The pattern-based ghost AI, the power pellets, and the maze design hold up as a pure test of spatial awareness and timing. The arcade original is better than any home port.
+
+3. **Galaga** (1981) — Shoot-em-up — Assessment: 9.5/10
+   The refinement of Space Invaders. The tractor beam capture mechanic and dual-fighter mode add strategy to a genre that was previously pure reflex. Still holds up as a score-chasing game.
+
+4. **Donkey Kong** (1981) — Platformer — Assessment: 9.5/10
+   The game that introduced Mario (as Jumpman) and proved that arcade games could tell a story. Four stages, a rolling barrel, and a vertical structure that nobody had tried before. The original of the genre.
+
+5. **Contra** (1987) — Run-and-gun — Assessment: 9.5/10
+   The arcade original is harder and longer than the NES port. Two-player simultaneous, five weapon types, and a spread gun that made every player feel like they were in an action movie. The template.
+
+6. **1942** (1984) — Shoot-em-up — Assessment: 8.5/10
+   Capcom's vertical shmup set in the Pacific War. The loop-the-loop dodge mechanic and the waves of formation enemies established patterns the genre built on for a decade. Foundational.
+
+7. **Bubble Bobble** (1986) — Platformer — Assessment: 9/10
+   Trap enemies in bubbles, pop them for fruit, collect everything before the timer runs out. Two-player cooperative play, 100 stages, and a true ending that requires both players to reach it together. One of the most replayable arcade games ever designed.
+
+8. **OutRun** (1986) — Racing — Assessment: 9/10
+   Yu Suzuki's masterpiece. A branching road system, a Ferrari Testarossa, and a soundtrack you choose at the start. The sense of speed in 1986 was unmatched. Still one of the best pure driving experiences in gaming.
+
+9. **Mortal Kombat II** (1993) — Fighting — Assessment: 9/10
+   The refinement of the original's formula. Better balance, more moves per character, and the fatalities that made the series infamous. The peak of the series' classic era and the version that defines it in competitive memory.
+
+10. **R-Type** (1987) — Shoot-em-up — Assessment: 9.5/10
+    Irem's horizontal shooter introduced the Force pod — an indestructible option that attaches to your ship — and a design philosophy where memorisation is the skill being tested, not reaction time. One of the most influential shooters ever made and still one of the most demanding.
 
 ---
 
