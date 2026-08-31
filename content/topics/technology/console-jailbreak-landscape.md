@@ -4,7 +4,7 @@ type: topic-note
 category: technology
 tags: [security, hardware, gaming, hacking, homebrew, switch, vita, 3ds, ps4, xbox, comparison]
 created: 2026-08-28
-updated: 2026-08-28
+updated: 2026-08-31
 sources_staged: true
 draft: false
 ---
@@ -97,12 +97,15 @@ a great use of a Vita you already own; a harder sell as a dedicated purchase.
 Covered in detail in the [PS4 CFW note](ps4-cfw). The short version: **GoldHEN** is a mature
 payload running on top of a kernel exploit for firmware 9.00 and below. It provides a homebrew
 launcher, FTP access, and game patching. The exploit operates by patching kernel memory at
-runtime; reboot the console and the patches are gone, requiring you to visit a web page and
-re-run the exploit before homebrew is accessible again.
+runtime; reboot the console and the patches are gone.
 
+The standard workaround is to configure the PS4's browser to auto-launch on startup pointing at
+a locally-hosted exploit page (a PC or Raspberry Pi on your network), so the re-exploit fires
+automatically on boot. The console appears to come up in a modded state, but mechanically it is
+still re-exploiting every session — cut power to your local server and you get stock firmware.
 That is a meaningful friction point compared to the set-and-forget experience of 3DS or Vita CFW.
-It also means the PS4 itself is not a permanently open device — it is a temporarily open one, each
-session.
+The PS4 is not permanently open; it is a temporarily open device that can be made to re-open
+itself on each boot.
 
 Check your firmware before updating anything. If you are on 9.00 or below and have not updated,
 stop and stay there.

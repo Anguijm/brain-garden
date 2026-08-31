@@ -4,7 +4,7 @@ type: topic-note
 category: technology
 tags: [security, hardware, gaming, hacking, exploit, ps4, webkit, kernel]
 created: 2026-08-28
-updated: 2026-08-28
+updated: 2026-08-31
 sources_staged: true
 draft: false
 ---
@@ -103,6 +103,13 @@ provides a homebrew launcher, FTP server, and game patching support on top of a 
 it is hosted and updated on GitHub. Because it operates by patching kernel memory at runtime,
 rebooting the console returns it to stock — there is no permanent flash modification as there
 was with PS3 CFW, which means re-exploiting is required after every power cycle.
+
+That friction has a common workaround: configure the PS4's browser to auto-launch on startup
+pointing at a locally-hosted exploit page (served from a PC or a Raspberry Pi on the same
+network). The re-exploit then fires automatically on boot and the console appears to come up in
+a modded state. Mechanically it is still re-exploiting every session — if the local server is
+down, you get stock firmware. It is not a permanent flash modification; it is a boot-time
+automation of the exploit step.
 
 The gap between what the researcher writeups cover (through ~7.02) and what end users actually use
 (9.00 + GoldHEN) represents roughly two firmware generations of exploit development that has not
