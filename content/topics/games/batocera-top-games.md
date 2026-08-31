@@ -2,7 +2,7 @@
 title: "Top 10 games on every system Batocera can run"
 type: topic-note
 category: games
-tags: [emulation, batocera, games, retro, ps2, ps3, snes, n64, gamecube, wii, psp, 3ds, dreamcast]
+tags: [emulation, batocera, games, retro, ps2, ps3, snes, n64, gamecube, wii, psp, 3ds, dreamcast, master-system, sega]
 created: 2026-08-31
 updated: 2026-08-31
 sources_staged: false
@@ -19,6 +19,7 @@ Seventeen systems, 170 games. Each list is ranked by a combination of critical c
 
 | System | Era |
 |---|---|
+| [Sega Master System](#sega-master-system) | 1985–1996 |
 | [NES](#nes) | 1983–1995 |
 | [SNES](#snes) | 1990–2003 |
 | [Sega Genesis](#sega-genesis-mega-drive) | 1988–1997 |
@@ -36,6 +37,42 @@ Seventeen systems, 170 games. Each list is ranked by a combination of critical c
 | [Xbox 360](#xbox-360) | 2005–2016 |
 | [3DS](#3ds) | 2011–2020 |
 | [Wii U](#wii-u) | 2012–2017 |
+
+---
+
+## Sega Master System
+
+Sega's answer to the NES lost the North American market war but dominated Europe and Brazil, and its library reflects that: tighter ports of Sega's arcade output and a handful of RPGs that have no NES equivalent. Batocera runs it via Genesis Plus GX, the same core that handles the Genesis. Performance is perfect.
+
+1. **Phantasy Star** (1987) — RPG — Assessment: 9/10
+   One of the best RPGs of the 8-bit era, with 3D dungeons and a story that holds up. It is harder and stranger than early Final Fantasy, and it went places Nintendo-adjacent RPGs would not reach for years.
+
+2. **Wonder Boy III: The Dragon's Trap** (1989) — Action-RPG — Assessment: 9/10
+   A shape-shifting action RPG with a continuous world and transformation mechanics that feel modern. The 2017 remake exists if you want the facelift, but the original still plays cleanly.
+
+3. **Alex Kidd in Miracle World** (1986) — Platformer — Assessment: 8/10
+   Sega's mascot before Sonic. Built into many consoles from the factory. The boss fights are rock-paper-scissors, which is either charming or maddening depending on your tolerance. The later levels are harder than they look.
+
+4. **R-Type** (1988) — Shoot-em-up — Assessment: 8.5/10
+   The best port of the Irem arcade classic on a home console at the time. Slow, deliberate, and brutal — the charge shot and the Force pod system reward patience in a genre that usually rewards reflexes.
+
+5. **Golden Axe Warrior** (1991) — Action-RPG — Assessment: 8/10
+   A Zelda-style top-down RPG wearing Golden Axe clothes. Better than it has any right to be. If you played every Zelda and want something adjacent from the same era, this fills the gap.
+
+6. **Shinobi** (1988) — Action — Assessment: 8/10
+   A strong home conversion of the Sega arcade hit. Hostage rescue stages, throwing stars, and a bonus round that breaks the rhythm. Harder than the arcade version on later stages.
+
+7. **Master of Darkness** (1992) — Action-platformer — Assessment: 8/10
+   A Castlevania clone that is genuinely good. Victorian horror setting, whip-adjacent weapon mechanics, and a progression structure borrowed directly from Konami. Available in North America as Dracula (Game Gear version) but the Master System release is the complete one.
+
+8. **Ys: The Vanished Omens** (1988) — Action-RPG — Assessment: 8/10
+   The first entry in the Ys series, known for bump combat where you run into enemies at the right angle to deal damage. Odd but fast, and the soundtrack is one of the best on the hardware.
+
+9. **Sonic the Hedgehog** (1991) — Platformer — Assessment: 7.5/10
+   A scaled-back conversion of the Genesis launch title. Missing levels, reduced parallax, and the spin dash is absent in some versions. Still playable and historically significant, but play the Genesis version first.
+
+10. **Psycho Fox** (1989) — Platformer — Assessment: 7.5/10
+    A loose spiritual predecessor to the Wonder Boy series. Character selection changes your jump arc and a bird companion can be thrown at enemies. Underrated and rarely discussed outside of Master System enthusiasts.
 
 ---
 
