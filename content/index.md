@@ -8,6 +8,10 @@ than raw research. Newest is first.
 
 ## Latest
 
+- **[Top 10 games on every system Batocera can run](topics/games/batocera-top-games)** —
+  170 games across 17 systems (NES through Wii U), each ranked by critical consensus with honest
+  caveats on PS3/RPCS3 and Xbox 360/Xenia compatibility. Companion to the UM790Pro build guide.
+
 - **[Batocera emulation appliance on the UM790Pro](topics/games/emulation-station-batocera)** —
   turning the MINISFORUM UM790Pro into a controller-driven emulation appliance with Batocera:
   install steps, the WiFi risk to know about before you start, per-system performance (PS3/RPCS3,

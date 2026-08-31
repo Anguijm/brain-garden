@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-796 citations across 118 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+798 citations across 119 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -531,6 +531,11 @@ This page lists every external link cited anywhere in the garden, article by art
 19. [pricing (unsourced tables)](https://shutterb.org/same-game-parlay-pricing-correlation-limits/)
 20. [unverified)](https://tech-insider.org/sports-betting/parlay-betting-explained/)
 21. [Journal of Prediction Markets](https://www.ubplj.org/index.php/jpm/article/view/1562)
+
+### [Top 10 games on every system Batocera can run](topics/games/batocera-top-games)
+
+1. [rpcs3.net/compatibility](https://rpcs3.net/compatibility)
+2. [xenia.jp](https://xenia.jp)
 
 ### [Batocera emulation appliance on the MINISFORUM UM790Pro](topics/games/emulation-station-batocera)
 
