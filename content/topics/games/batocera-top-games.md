@@ -2,7 +2,7 @@
 title: "Top 10 games on every system Batocera can run"
 type: topic-note
 category: games
-tags: [emulation, batocera, games, retro, ps2, ps3, snes, n64, gamecube, wii, psp, 3ds, dreamcast, master-system, sega]
+tags: [emulation, batocera, games, retro, ps2, ps3, snes, n64, gamecube, wii, psp, 3ds, dreamcast, master-system, sega, sega-cd, 3do]
 created: 2026-08-31
 updated: 2026-08-31
 sources_staged: false
@@ -11,7 +11,7 @@ draft: false
 
 # Top 10 games on every system Batocera can run
 
-Twenty-four systems, 240 games. Each list is ranked by a combination of critical consensus and lasting playability — not nostalgia. Scores are Assessment based on aggregated critical reception; nothing here was play-tested against this specific hardware. For PS3 and Xbox 360, compatibility with the emulator matters as much as game quality; notes on that are included.
+Twenty-six systems, 260 games. Each list is ranked by a combination of critical consensus and lasting playability — not nostalgia. Scores are Assessment based on aggregated critical reception; nothing here was play-tested against this specific hardware. For PS3 and Xbox 360, compatibility with the emulator matters as much as game quality; notes on that are included.
 
 ---
 
@@ -24,9 +24,11 @@ Twenty-four systems, 240 games. Each list is ranked by a combination of critical
 | [NES](#nes) | 1983–1995 |
 | [SNES](#snes) | 1990–2003 |
 | [Sega Genesis](#sega-genesis-mega-drive) | 1988–1997 |
+| [Sega CD / Mega CD](#sega-cd--mega-cd) | 1991–1996 |
 | [TurboGrafx-16 / PC Engine](#turbografx-16--pc-engine) | 1987–1999 |
 | [Neo Geo](#neo-geo) | 1990–2004 |
 | [Sega Saturn](#sega-saturn) | 1994–2000 |
+| [3DO](#3do) | 1993–1996 |
 | [PlayStation (PS1)](#playstation-ps1) | 1994–2006 |
 | [Nintendo 64](#nintendo-64) | 1996–2002 |
 | [Dreamcast](#dreamcast) | 1998–2001 |
@@ -226,6 +228,42 @@ The Genesis competed with the SNES on attitude and speed. Its library rewards pl
 
 ---
 
+## Sega CD / Mega CD
+
+The Sega CD added CD-ROM storage to the Genesis, which the industry mostly used for FMV games that have not aged well — skip those entirely. What remains is a smaller set of titles that used the extra storage for actual game content: longer RPGs, better audio, and a handful of originals that never made it to cartridge. Batocera runs it via Genesis Plus GX alongside the Genesis library; if you have one set up you have the other automatically.
+
+1. **Sonic CD** (1993) — Platformer — Assessment: 9/10
+   The best Sonic game of the 16-bit era by most measures. Time travel mechanics, two possible futures per zone, and Amy Rose's first appearance. The Japanese/European soundtrack is the one to seek out; both versions are available in emulation without licensing barriers.
+
+2. **Lunar: The Silver Star** (1992) — RPG — Assessment: 9/10
+   A JRPG that took full advantage of CD audio with voiced cutscenes and an orchestrated score. Story, characters, and pacing are all stronger than contemporaries on cartridge. The Working Designs localisation is the version most people know.
+
+3. **Lunar: Eternal Blue** (1994) — RPG — Assessment: 9/10
+   The sequel is larger and more ambitious. Better dungeon design, more party members, and a story that pays off its predecessor's setup. The two Lunar games together represent the Sega CD's best extended argument for the format.
+
+4. **Snatcher** (1994) — Adventure — Assessment: 9/10
+   Hideo Kojima's cyberpunk visual novel, set in a future where synthetic humanoids are replacing and murdering humans. Dark, written with care, and the Western release is the only version with full English voice acting. A curiosity that rewards patience with the genre.
+
+5. **Popful Mail** (1994) — Action-RPG — Assessment: 8.5/10
+   An action-RPG with anime-style presentation, three playable characters with distinct mechanics, and a Working Designs localisation full of irreverent humour. Fast and playable in a way that most CD-era RPGs are not.
+
+6. **Shining Force CD** (1994) — Tactical RPG — Assessment: 8.5/10
+   A compilation of the two Game Gear Shining Force games with enhanced visuals and a new arena mode. The tactical RPG mechanics hold up and the CD format allowed for full chapter saves that the handheld originals lacked.
+
+7. **Final Fight CD** (1993) — Beat-em-up — Assessment: 8/10
+   The definitive home version of the Capcom arcade game. Three playable characters, two-player co-op, and none of the cuts that hobbled the SNES port. The soundtrack benefits noticeably from CD audio.
+
+8. **Silpheed** (1993) — Shoot-em-up — Assessment: 8/10
+   A vertical shooter that used CD-rendered pre-rendered 3D backgrounds scrolling behind sprite-based gameplay. The visual approach was striking for 1993 and the shooting is solid underneath it. More show than depth but the show holds up.
+
+9. **Batman Returns** (1993) — Action — Assessment: 7.5/10
+   Konami's beat-em-up adaptation, with a style and tone closer to the film than most licensed games manage. Better than the SNES version; one of the better Batman games of the era.
+
+10. **Night Trap** (1992) — FMV — Assessment: 6/10
+    Historically significant as the FMV game that triggered the 1993 Senate hearings that led to the ESRB rating system. The gameplay is simple to the point of being mechanical. Worth playing once to understand why it caused the reaction it did; not worth playing twice.
+
+---
+
 ## TurboGrafx-16 / PC Engine
 
 NEC's console sold modestly in the West but dominated in Japan under the PC Engine name, and its CD-ROM library — available in Batocera via Mednafen's PCE core — contains some of the finest RPGs and shoot-em-ups of the era. The core handles both the base cartridge library and the CD add-on with no configuration needed.
@@ -331,6 +369,42 @@ The Saturn's library is one of gaming's best-kept secrets — strong 2D fighters
 
 10. **Shining Force III** (1998) — Tactical RPG — Assessment: 9/10
     Three interconnected scenarios released in Japan; only Scenario 1 was released in the West. The Saturn's best tactical RPG and a strong one by any standard. Fan translations cover the other scenarios.
+
+---
+
+## 3DO
+
+The 3DO launched in 1993 at \$699 — three times the price of a Genesis — and never recovered from it. Its library is thin and uneven, but the hardware was genuinely capable and a handful of titles made use of it. Batocera runs 3DO via the Opera core; compatibility is reasonable for the titles that matter. The console's main claim to relevance today is as the origin platform for a few franchises and ports that were exceptional for their time.
+
+1. **Road Rash** (1994) — Racing — Assessment: 8.5/10
+   The definitive version of EA's motorcycle combat racing series. The 3DO release added CD audio (licensed rock tracks), full motion video cutscenes between races, and a much larger world than earlier versions. The brawling and racing hold up better than most 3DO titles.
+
+2. **Star Control II: The Ur-Quan Masters** (1994) — Adventure/Strategy — Assessment: 9/10
+   A vast open-ended space adventure with diplomacy, resource gathering, and real-time ship combat. The 3DO port added full voice acting to what was already one of the deepest science fiction games ever made. The open-source remake (The Ur-Quan Masters) is free, but the 3DO version is worth experiencing for the presentation.
+
+3. **Super Street Fighter II Turbo** (1994) — Fighting — Assessment: 8.5/10
+   The most complete and accurate home port of Capcom's fighter at the time of release. All characters, all modes, and the closest to arcade timing of any home version in 1994. The 3DO's processing power showed here in a way it rarely did elsewhere.
+
+4. **Gex** (1995) — Platformer — Assessment: 7.5/10
+   A mascot platformer that was technically impressive for 1994 and went on to spawn a franchise. The gecko protagonist clings to walls, the level themes are TV-channel parodies, and the pop-culture one-liners were the main selling point. Holds up as a competent platformer once the jokes expire.
+
+5. **Alone in the Dark** (1994) — Survival horror — Assessment: 8/10
+   The game that established the survival horror genre before Resident Evil named it. Pre-rendered backgrounds, tank controls, and limited resources. The 3DO port is the best pre-PS1 version of a historically important game.
+
+6. **D** (1995) — FMV/Adventure — Assessment: 7.5/10
+   A horror adventure from Kenji Eno with almost no gameplay — you walk through environments and watch the story unfold. Disturbing subject matter, a two-hour real-time limit, and a tone unlike anything else from the era. An artefact more than a game, but a genuinely unsettling one.
+
+7. **Killing Time** (1995) — First-person shooter — Assessment: 7.5/10
+   A first-person shooter set in a 1930s mansion with FMV-based enemies. The enemy variety and atmosphere separate it from contemporaries. Controls poorly by modern standards but the setting is more interesting than most shooters of the period.
+
+8. **PO'ed** (1995) — First-person shooter — Assessment: 7/10
+   A fast, chaotic shooter with a jetpack mechanic that allowed full three-dimensional movement — unusual for 1995. More technically interesting than narratively coherent, but the freedom of movement was ahead of its time.
+
+9. **Slayer** (1994) — RPG — Assessment: 7/10
+   A dungeon RPG with first-person exploration and a party system. Unremarkable by the standards of the genre but one of the few 3DO titles that committed to depth over spectacle. Works better in emulation where load times are reduced.
+
+10. **Total Eclipse** (1994) — Rail shooter — Assessment: 7/10
+    A 3D rail shooter with pre-rendered environments and a solar eclipse as its central visual motif. The spectacle was the point in 1994 and the shooting underneath it is functional. Representative of what the 3DO was trying to be at launch.
 
 ---
 
