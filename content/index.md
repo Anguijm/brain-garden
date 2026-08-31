@@ -8,6 +8,11 @@ than raw research. Newest is first.
 
 ## Latest
 
+- **[Batocera emulation appliance on the UM790Pro](topics/games/emulation-station-batocera)** —
+  turning the MINISFORUM UM790Pro into a controller-driven emulation appliance with Batocera:
+  install steps, the WiFi risk to know about before you start, per-system performance (PS3/RPCS3,
+  Wii U/Cemu, PS2/PCSX2, Switch caveat), storage layout, and ROM setup over the network.
+
 - **[Console jailbreaks: which are worth your time](topics/technology/console-jailbreak-landscape)** —
   ranked survey of every modern platform: 3DS (do it today), unpatched Switch (best current-gen
   option), PS Vita, PS4 below 9.00, PS3, Wii/WiiU, Xbox (no public jailbreak), PS5 (too early).
