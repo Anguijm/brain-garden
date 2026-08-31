@@ -537,7 +537,7 @@ This page lists every external link cited anywhere in the garden, article by art
 1. [Batocera changelog](https://batocera.org/changelog)
 2. [Batocera supported controllers wiki](https://wiki.batocera.org/supported_controllers)
 3. [Batocera second drive wiki](https://wiki.batocera.org/store_games_on_a_second_usb_sata_drive)
-4. [minipclab.com Batocera guide](https://minipclab.com/blog/best-mini-pc-for-batocera)
+4. [Batocera batocera.conf wiki](https://wiki.batocera.org/batocera.conf)
 
 ## Health
 

@@ -11,90 +11,127 @@ draft: false
 
 # Batocera emulation appliance on the MINISFORUM UM790Pro
 
-The UM790Pro (Ryzen 9 7940HS, Radeon 780M, 64 GB DDR5) is a strong emulation host. This note covers turning it into a dedicated appliance using Batocera — a Linux-based OS designed from the ground up for emulation, with EmulationStation as the frontend and no Windows in the loop.
+The UM790Pro (Ryzen 9 7940HS, Radeon 780M, 64 GB DDR5) makes a capable emulation appliance. This note covers the full build: what hardware actually shipped in the box, what the install process looks like in practice, and how to configure WiFi remotely once the machine is running.
 
-Assessment: The hardware is well-matched to Batocera. One real risk at install time — see the WiFi section before you start.
+Assessment: The hardware is well-matched to Batocera 43.1 and the WiFi works out of the box — the chip is a MediaTek MT7922, not the Intel part some specs pages list, and the `mt7921e` driver is bundled in Batocera's kernel with no extra firmware steps needed.
 
 ---
 
 ## What you need before you start
 
-- A USB drive, 16 GB or larger, USB 3.0 or faster (this becomes your installer, not the final home for Batocera)
-- A **USB-C to Ethernet adapter** — have one on hand. The UM790Pro's Intel Killer AX1675 Wi-Fi chip has a troubled history in Linux, and whether Batocera's kernel ships the right firmware blob is unverified. Wired Ethernet is your fallback for the initial setup and ROM downloads. Cheap adapters work fine; the USB-C port on the UM790Pro supports standard USB-A dongles via a hub too.
-- An Xbox controller (Series X/S or One) — pairs over Bluetooth or USB, works out of the box
-- A ROM library on an external drive, or ready to copy from another machine
+- A USB drive, 16 GB or larger, to boot the live environment (this becomes the installer, not the permanent OS home)
+- A direct ethernet connection to another machine for the install — the USB drive is only needed to get the machine to a shell; the actual OS image streams over the wire
+- An Xbox controller (Series X/S or One) — pairs over Bluetooth or USB, recognised immediately
+- A router or laptop that can share internet over ethernet if the target machine needs downloads during setup
+
+---
+
+## The WiFi chip: MediaTek MT7922, not Intel
+
+Product pages for the UM790Pro list an Intel Killer AX1675, but the actual hardware is a **MediaTek MT7922** (Wi-Fi 6E, confirmed via `lspci` on a live Batocera 43.1 system):
+
+```
+02:00.0 Network controller: MEDIATEK Corp. MT7922 802.11ax PCI Express Wireless Network Adapter
+```
+
+FACT (direct observation, 2026-08-31): Batocera 43.1 (kernel 6.18.16) ships the `mt7921e` driver, which handles the MT7922 without any additional firmware files. The interface (`wlan0`) appeared and scanned on first boot.
+
+This matters because a lot of forum advice about WiFi issues on the UM790Pro assumes the Intel part and will send you chasing `iwlwifi` firmware files that do nothing. Skip that entirely.
 
 ---
 
 ## How Batocera works as an appliance
 
-Batocera boots into EmulationStation — a controller-driven frontend — with no desktop OS visible. You navigate your library with the Xbox controller, launch games, and return to the frontend when done. There is no keyboard or mouse required after setup. The system can be configured entirely from the controller or via a SSH session from another machine on the same network.
+Batocera boots straight into EmulationStation — a controller-driven frontend — with no desktop OS. You navigate your library with the Xbox controller, launch games, and return to the frontend when done. No keyboard or mouse required after initial setup. Everything can be managed from the controller or via SSH from another machine on the network.
 
-Assessment (from Batocera 43.1 documentation): Batocera stores your ROMs, saves, and configuration on a `share` partition, separate from the OS. If you ever reinstall or upgrade Batocera, your game library stays intact.
-
----
-
-## Storage layout for the appliance
-
-The UM790Pro has two M.2 2280 PCIe Gen4 slots. The clean appliance setup uses both:
-
-- **Slot 1 (primary):** Batocera OS installed here. Replaces Windows. ~60 GB used by the OS; the rest becomes the share partition for ROMs and saves.
-- **Slot 2 (optional second drive):** A second NVMe for overflow ROMs, or a fast drive dedicated entirely to the ROM library. Batocera can be configured to use it automatically via `batocera-boot.conf` (`sharedevice` pointing to the second drive's UUID).
-
-If you want to keep Windows available, an alternative is installing Batocera to an external USB4 SSD (very fast via the UM790Pro's USB4 port) and choosing the boot device on startup. This is slower to set up and adds a cable, but preserves the Windows installation.
-
-Assessment: For a true appliance with no compromise, install to the internal NVMe and let Windows go.
+FACT (from Batocera 43.1 documentation): Batocera keeps your ROMs, saves, and configuration on a `share` partition, separate from the OS. A reinstall or upgrade does not touch the game library.
 
 ---
 
-## Install steps
+## Storage layout after install
 
-**1. Download Batocera**
+FACT (direct observation, 2026-08-31): After writing the Batocera 43.1 x86_64 image to a 1 TB NVMe and booting, the partition table looked like this:
 
-Go to batocera.org, download the x86_64 image (Batocera 43.1 as of this writing, ~1 GB).
+- `/dev/nvme0n1p1` — 10 GB, FAT32 — boot partition (EFI, kernel, `batocera-boot.conf`)
+- `/dev/nvme0n1p2` — 928 GB, ext4 — share partition, auto-expanded from the image's stub on first boot
 
-**2. Flash the USB drive**
+The `autoresize=true` setting in `batocera-boot.conf` handles the expansion automatically. The share partition mounts at `/userdata` and holds ROMs, saves, BIOS files, themes, and system configuration.
 
-Use Balena Etcher or Rufus on Windows to flash the image to your USB drive. Rufus: select the image, select the USB drive, leave everything else default.
-
-**3. Boot from USB**
-
-Plug the USB into the UM790Pro. Power on and tap Delete or F2 to enter the BIOS, then set boot priority to the USB drive. Batocera will boot into EmulationStation from USB — this is a live environment, nothing is installed yet.
-
-**4. Test hardware**
-
-At this point test:
-- Display output (should work immediately via HDMI)
-- Xbox controller: plug in via USB or go to **Start → Controller & Bluetooth settings → Pair a Bluetooth device**, hold the Bluetooth button on the controller
-- WiFi: go to **Start → Network Settings** and see if your network appears. If it does not, plug in the USB-C Ethernet adapter — network access is what matters for now, not WiFi specifically
-
-**5. Install to internal NVMe**
-
-From within Batocera (running from USB), go to **Start → System Settings → Install Batocera on a new disk**, select the internal NVMe. This will erase it. The installer partitions the drive, copies the OS, and creates the share partition. Takes a few minutes.
-
-**6. Reboot and remove the USB**
-
-Batocera will boot from the internal drive. Change boot priority back to the NVMe in the BIOS if needed.
+The UM790Pro has two M.2 2280 PCIe Gen4 slots. The second slot can be pointed at by setting `sharedevice=<UUID>` in `batocera-boot.conf` if you want a dedicated ROM drive.
 
 ---
 
-## WiFi
+## Install: streaming from another machine over direct ethernet
 
-Assessment: The UM790Pro uses the Intel Killer AX1675 (Wi-Fi 6E). This chip uses the `iwlwifi` Linux driver but requires specific firmware files. Community reports on other Linux distros are mixed — some work out of the box, some require copying firmware manually. Whether Batocera 43.1 ships the right firmware blob is unconfirmed.
+The standard install path (GUI installer inside the live environment) works, but if your USB drive is unreliable or you want to avoid writing the image to USB at all, a faster route is to stream the image directly from a laptop over a direct ethernet cable.
 
-If WiFi does not appear in Network Settings after install:
+**On the laptop:**
 
-1. Connect via USB-C Ethernet adapter — you can do everything over wired
-2. Check the Batocera forums for a current `iwlwifi` firmware fix; it typically involves copying a `.ucode` file to `/lib/firmware/` via SSH or a USB stick
-3. Alternatively, a cheap USB Wi-Fi dongle (TP-Link Archer T2U or similar, well-supported in Linux) is a reliable fallback with no configuration needed
+1. Download the Batocera x86_64 image: `batocera-x86_64-43.1-20260529.img.gz` from batocera.org (~4.1 GB compressed, ~11 GB uncompressed)
+2. Set a static IP on the ethernet interface:
+   ```bash
+   nmcli connection add type ethernet ifname enp3s0 con-name batocera-link \
+     ipv4.method manual ipv4.addresses 10.0.0.1/24
+   nmcli connection up batocera-link
+   ```
+   Or, to get DHCP sharing and internet pass-through in one step:
+   ```bash
+   nmcli connection modify batocera-link ipv4.method shared
+   nmcli connection up batocera-link
+   ```
+   The `shared` method starts NetworkManager's built-in DHCP server and NAT on that interface, so the UM790Pro gets an IP automatically and can reach the internet through the laptop's WiFi.
+
+3. Serve the image over HTTP:
+   ```bash
+   python3 -m http.server 8080 --bind 10.42.0.1 --directory /tmp
+   ```
+   (Bind to the ethernet interface address to keep it off your WiFi.)
+
+**On the UM790Pro** (boot a live Batocera USB and open a terminal):
+
+```bash
+curl -L http://10.42.0.1:8080/batocera-x86_64-43.1-20260529.img.gz \
+  | gunzip | dd of=/dev/nvme0n1 bs=4M status=progress
+```
+
+FACT (direct observation, 2026-08-31): This wrote 11 GB to NVMe at ~314 MB/s over direct gigabit ethernet. Elapsed time under 40 seconds. The GPT backup table mismatch warning from `fdisk` after the write is expected and harmless — Batocera corrects it on first boot.
+
+Pull the USB, reboot, and the machine comes up from the internal drive.
+
+---
+
+## Configuring WiFi after install
+
+WiFi configuration goes in `/userdata/system/batocera.conf`. Batocera supports up to three networks natively. Edit the file over SSH or from the EmulationStation menu:
+
+```
+wifi.country=JP
+wifi.enabled=1
+wifi.ssid=YourPreferredSSID
+wifi.key=YourPassword
+wifi2.ssid=YourFallbackSSID
+wifi2.key=YourPassword
+```
+
+After editing, apply with:
+
+```bash
+batocera-wifi start
+```
+
+This restarts connman and picks up the new config. The machine will auto-connect to the first network it finds from the list.
+
+FACT (direct observation, 2026-08-31): The MT7922 connected to a 2.4 GHz network (Buffalo-G-9630) and received a DHCP lease within seconds of `batocera-wifi start`. The 6 GHz band (Buffalo-A-9630) is also configured and will be used as the preferred network going forward.
+
+If you are configuring remotely (over ethernet) and want to verify WiFi without disconnecting ethernet, check `/var/lib/connman/<service>/settings` — a `IPv4.DHCP.LastAddress` line there confirms the network connected at least once and the password is correct.
 
 ---
 
 ## Xbox controller
 
-Assessment (from Batocera wiki): Xbox Series X/S and Xbox One controllers pair over standard Bluetooth LE — hold the Bluetooth button on the controller until it flashes rapidly, then pair from Batocera's controller settings. The standard kernel `xpad` driver handles it; no additional software needed.
+Assessment (from Batocera wiki): Xbox Series X/S and Xbox One controllers pair over standard Bluetooth LE. Hold the Bluetooth button until it flashes rapidly, then from EmulationStation go to **Start → Controller & Bluetooth Settings → Pair a Bluetooth device**. The `xpad` kernel driver handles everything; no additional software needed.
 
-Update the controller firmware first on Windows or via an Xbox console before moving to the appliance. An outdated controller firmware can cause pairing failures.
+Update controller firmware via Windows or an Xbox console before bringing it to the appliance. Outdated firmware is the most common cause of pairing failures.
 
 ---
 
@@ -102,45 +139,50 @@ Update the controller firmware first on Windows or via an Xbox console before mo
 
 Assessment, based on UM790Pro hardware class and Batocera 43.1 emulator versions:
 
-**Everything through sixth generation** (NES, SNES, N64, PS1, Saturn, Dreamcast, GBA, DS): runs at full speed with zero configuration. Upscaling to 4K is available and generally works well.
+**Everything through sixth generation** (NES, SNES, N64, PS1, Saturn, Dreamcast, GBA, DS): full speed, zero configuration. 4K upscaling available and generally solid.
 
-**PS2** (PCSX2, included): Excellent. The 7940HS handles virtually the entire PS2 library at full speed, most games upscalable. Enable the Vulkan renderer for best performance.
+**PS2** (PCSX2): Excellent. The 7940HS handles the full library at full speed, most games upscalable. Use the Vulkan renderer.
 
-**GameCube / Wii** (Dolphin, included): Excellent. Full speed at 4K on almost everything.
+**GameCube / Wii** (Dolphin): Excellent. Full speed at 4K on essentially everything.
 
-**PSP** (PPSSPP, included): Flawless. Full speed, high resolution.
+**PSP** (PPSSPP): Flawless.
 
-**3DS** (Lime3DS / Citra fork, included): Good. Most games run well; a few demanding titles need settings adjustment.
+**3DS** (Lime3DS / Citra fork): Good. Most titles run well; a handful of demanding ones need settings work.
 
-**Wii U** (Cemu April 2026 build, included): Very good. Most of the library at 4K/60. Breath of the Wild, Mario Kart 8 — excellent.
+**Wii U** (Cemu): Very good. Breath of the Wild, Mario Kart 8 — excellent at 4K/60.
 
-**PS3** (RPCS3 0.0.40, included): Good, with per-game tuning needed on demanding titles. Enable Vulkan renderer. God of War 3, Demon's Souls, most first-party titles run well. Gran Turismo 5, some open-world games may need settings work. RPCS3 requires PS3 firmware (`PS3UPDAT.PUP`) — download it from Sony's official servers and install it through RPCS3's settings.
+**PS3** (RPCS3): Good, with per-game tuning on demanding titles. Use Vulkan. First-party games and most third-party run well. Requires the PS3 firmware file (`PS3UPDAT.PUP`) — download from Sony's servers and install through RPCS3's settings.
 
-**Xbox 360** (Xenia, included): Mixed. Many titles work, many don't. Xenia compatibility is incomplete and less predictable than RPCS3.
+**Xbox 360** (Xenia): Mixed. Many titles work; many don't. Less predictable than RPCS3.
 
-**Nintendo Switch**: NOT included in the default Batocera image. Nintendo has successfully pursued legal action against Yuzu and Ryujinx; most active forks are also under pressure. A community script (`batocera-switch` on GitHub) can add a Switch emulator fork to an existing Batocera install. Doable, but requires manual steps and carries ongoing uncertainty as forks come and go.
+**Nintendo Switch**: Not in the default image. Legal pressure on Yuzu and Ryujinx has pushed the forks into grey territory. A community installer exists but requires manual steps and carries ongoing uncertainty.
 
-**PS4**: shadPS4 is not in Batocera and is still too early for practical use.
+**PS4**: shadPS4 is not in Batocera and too immature for practical use.
 
 ---
 
 ## Getting ROMs onto the machine
 
-Once Batocera is installed and networked, the share partition appears on your local network as a Samba share (\\batocera or via its IP address). Copy ROMs directly from another machine into the appropriate system folder (`roms/ps2/`, `roms/ps3/`, etc.). Batocera will scan and add them to the frontend automatically.
+Once networked, the share partition is a Samba share. Copy from another machine on the same network:
 
-For PS3 specifically, games need to be in a specific format (either installed PKG or the folder structure from a disc dump). RPCS3's documentation covers this; the short version is that PS3 ISOs need to be extracted to a folder structure with `PARAM.SFO` at the right path.
+- Windows: `\\batocera\share` or `\\<IP>\share`
+- macOS/Linux: `smb://batocera/share` or `smb://<IP>/share`
+
+Drop ROMs into the appropriate system folder (`roms/ps2/`, `roms/ps3/`, etc.). Batocera scans and adds them to the frontend automatically.
+
+For PS3: games need to be in folder format with `PARAM.SFO` at the right path — RPCS3's documentation covers the exact structure. Raw ISOs need to be extracted first.
 
 ---
 
 ## After setup: what to configure
 
-- **Scrapers**: Batocera includes a scraper that downloads cover art and metadata for your library automatically. Run it from **Start → Scraper** once your ROMs are in place.
+- **Scrapers**: Start → Scraper — downloads cover art and metadata for the whole library automatically.
 - **RetroAchievements**: built-in support if you want achievements on classic games.
-- **Bezels and shaders**: Batocera ships with CRT shader presets and bezel overlays for older systems — worth enabling for NES/SNES/PS1 on a large display.
-- **Per-system Vulkan**: for PS2, PS3, and Wii U specifically, confirm the Vulkan renderer is selected in the emulator settings (not OpenGL). The 780M's Vulkan driver is its strong suit.
+- **CRT shaders and bezels**: worth enabling for NES/SNES/PS1 on a large display — Batocera ships a good set of presets.
+- **Vulkan renderer**: confirm this is selected for PS2, PS3, and Wii U specifically. The Radeon 780M's Vulkan driver is its strong suit; OpenGL performance on those systems is noticeably worse.
 
 ---
 
-**How much to trust this:** Assessment throughout. Hardware compatibility (780M, WiFi) is based on kernel version cross-referencing and community reports — not a direct test on this machine. The WiFi warning is the one real unknown; treat it as a "bring a backup" rather than a "this won't work." Everything else has strong community confirmation on similar AMD mini PC hardware running Batocera.
+**How much to trust this:** FACT claims above are from direct observation during the 2026-08-31 build. Emulation performance is Assessment based on hardware class and community reports on similar AMD mini PC hardware with Batocera — not exhaustive per-game testing.
 
-*Sources: [Batocera changelog](https://batocera.org/changelog); [Batocera supported controllers wiki](https://wiki.batocera.org/supported_controllers); [Batocera second drive wiki](https://wiki.batocera.org/store_games_on_a_second_usb_sata_drive); [minipclab.com Batocera guide](https://minipclab.com/blog/best-mini-pc-for-batocera); Intel Killer AX1675 Linux support thread*
+*Sources: [Batocera changelog](https://batocera.org/changelog); [Batocera supported controllers wiki](https://wiki.batocera.org/supported_controllers); [Batocera second drive wiki](https://wiki.batocera.org/store_games_on_a_second_usb_sata_drive); [Batocera batocera.conf wiki](https://wiki.batocera.org/batocera.conf); direct build log 2026-08-31*
