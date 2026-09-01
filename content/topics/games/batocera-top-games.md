@@ -458,7 +458,7 @@ The PS1 library defined the 32-bit era and delivered the first wave of 3D gaming
 
 ## Nintendo 64
 
-The N64 library is smaller than its contemporaries but contains some of the most influential 3D games ever made. Dolphin handles N64 emulation through the Wii's Virtual Console versions for many titles; standalone N64 emulation via Mupen64Plus is also solid.
+The N64 library is smaller than its contemporaries but contains some of the most influential 3D games ever made. Batocera runs them on Mupen64Plus, which is its default for the system and handles the library well. (Dolphin is the GameCube and Wii emulator and does not emulate N64 hardware; it can only run the Virtual Console re-releases, which is a different thing from playing the cartridges.)
 
 Full standalone walkthroughs for every game below: **[Nintendo 64 Game Guides](topics/games/n64/)**.
 

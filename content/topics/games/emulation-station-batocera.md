@@ -121,9 +121,29 @@ batocera-wifi start
 
 This restarts connman and picks up the new config. The machine will auto-connect to the first network it finds from the list.
 
-FACT (direct observation, 2026-08-31): The MT7922 connected to a 2.4 GHz network (Buffalo-G-9630) and received a DHCP lease within seconds of `batocera-wifi start`. The 6 GHz band (Buffalo-A-9630) is also configured and will be used as the preferred network going forward.
+FACT (direct observation, 2026-08-31): The MT7922 connected to a 2.4 GHz network (Buffalo-G-9630) and received a DHCP lease within seconds of `batocera-wifi start`. A 5 GHz network (Buffalo-A-9630) is also configured as the second entry.
 
-If you are configuring remotely (over ethernet) and want to verify WiFi without disconnecting ethernet, check `/var/lib/connman/<service>/settings` — a `IPv4.DHCP.LastAddress` line there confirms the network connected at least once and the password is correct.
+**Correction (2026-09-01):** an earlier version of this note called Buffalo-A-9630 a 6 GHz band. It is 5 GHz — a scan from the machine reports it at 5320 MHz. The band matters when you are choosing which network to make primary, because range differs.
+
+## Why your WiFi looks broken while an ethernet cable is plugged in
+
+This is the single most confusing thing about networking a Batocera box, and it costs hours if you do not know it.
+
+`/etc/connman/main.conf` ships with:
+
+```
+PreferredTechnologies=ethernet,wifi
+SingleConnectedTechnology=true
+```
+
+connman keeps **exactly one** network technology connected, and prefers ethernet. So with a cable plugged in at boot, WiFi is not merely disconnected — it is never scanned. `connmanctl services` lists only the wired connection, and your configured networks do not appear at all. Everything looks like a driver or password fault and none of it is.
+
+Two consequences worth planning around:
+
+- **Checking for a stored lease proves nothing in this state.** An earlier version of this note suggested verifying WiFi from `/var/lib/connman/<service>/settings` while ethernet stayed connected. If connman never scanned, that file does not exist, and its absence tells you nothing about whether your password is right.
+- **Connecting WiFi by hand disconnects ethernet**, same rule. If you do that over an SSH session running on the cable, you drop your own connection mid-command. It comes back on WiFi shortly afterwards, but the safe move is to edit `batocera.conf` and let the setting take effect at boot rather than switching the live interface you are sitting on.
+
+The good news is the deployed case needs no intervention. `/etc/init.d/S08connman` regenerates the connman config from `batocera.conf` on every boot for each configured network. With no cable attached there is no ethernet to prefer, so WiFi is what connman brings up.
 
 ---
 
