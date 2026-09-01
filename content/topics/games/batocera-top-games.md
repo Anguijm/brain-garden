@@ -454,6 +454,9 @@ The PS1 library defined the 32-bit era and delivered the first wave of 3D gaming
 10. **Chrono Cross** (1999) — RPG — Assessment: 9/10
     Controversial as a Chrono Trigger successor because it barely connects to the original. On its own terms: enormous cast, elemental combat system, and a soundtrack by Yasunori Mitsuda that is among the best in the medium.
 
+11. **Crash Team Racing** (1999) — Kart racer — Assessment: 9.5/10
+    Naughty Dog's answer to Mario Kart, and the rare imitator that beat the original at its own game. The power-sliding system rewards holding a boost chain through a whole corner rather than tapping it, which gives the racing a skill ceiling most kart games never reach. Adventure mode is a genuine single-player campaign rather than a cup ladder.
+
 ---
 
 ## Nintendo 64

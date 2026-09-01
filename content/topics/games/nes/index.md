@@ -25,4 +25,16 @@ Standalone walkthroughs for the best games on the NES library. Each guide covers
 | [Ninja Gaiden](topics/games/nes/ninja-gaiden) | Action-platformer | 8/10 |
 | [Rygar](topics/games/nes/rygar) | Action-platformer | 8/10 |
 
+## Added on request (2026-09-01)
+
+Four the operator asked for by name. These sit outside the original top-12 ranking, so they
+are listed separately rather than shuffled into it.
+
+| Game | Genre | Note |
+|------|-------|------|
+| [Super Mario Bros.](topics/games/nes/super-mario-bros) | Platformer | The 1985 original |
+| [Mike Tyson's Punch-Out!!](topics/games/nes/mike-tysons-punch-out) | Boxing / pattern game | The original licensed version, not *Featuring Mr. Dream* |
+| [Solomon's Key](topics/games/nes/solomons-key) | Puzzle-platformer | Tecmo, 1987 |
+| [Bomberman](topics/games/nes/bomberman) | Maze / action | Single-player NES original |
+
 Back to [Batocera Top Games](topics/games/batocera-top-games).
