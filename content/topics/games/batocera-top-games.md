@@ -11,7 +11,7 @@ draft: false
 
 # Top 10 games on every system Batocera can run
 
-Twenty-seven systems, 276 games. Each list is ranked by a combination of critical consensus and lasting playability — not nostalgia. Scores are Assessment based on aggregated critical reception; nothing here was play-tested against this specific hardware. For PS3 and Xbox 360, compatibility with the emulator matters as much as game quality; notes on that are included.
+Twenty-seven systems, 277 games. Each list is ranked by a combination of critical consensus and lasting playability — not nostalgia. Scores are Assessment based on aggregated critical reception; nothing here was play-tested against this specific hardware. For PS3 and Xbox 360, compatibility with the emulator matters as much as game quality; notes on that are included.
 
 ---
 
@@ -196,6 +196,9 @@ The SNES library is one of the strongest in gaming history. Mode 7, the SPC700 s
 
 10. **Mega Man X** (1993) — Action-platformer — Assessment: 9/10
     The series reinvention. Dash mechanic, wall-climbing, and a difficulty curve that opens up as you collect abilities. The opening Sigma stage is a masterclass in teaching through play.
+
+11. **Wing Commander** (1992) — Space combat — Assessment: 7.5/10
+    Origin's space combat sim ported from PC. You fly a series of missions defending the Confederation from the Kilrathi, choose your wingman, and the war's outcome depends on your record. The SNES version loses some of the PC's depth but keeps the mission structure and the choice-consequence system intact. One of the few games in this era that made you feel like you were in a war rather than an arcade level.
 
 ---
 
