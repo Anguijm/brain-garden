@@ -27,7 +27,7 @@ Standalone walkthroughs for the best games in the Nintendo 64 library. Each guid
 
 ## One thing that applies to the whole library
 
-Three of these games — **Majora's Mask**, **Donkey Kong 64** and **Perfect Dark** — require the N64 Expansion Pak, the 4 MB memory upgrade Nintendo sold separately. Under emulation this is a setting rather than a purchase, but if one of them hangs at the title screen or boots with the campaign greyed out, the cause is almost always that the Expansion Pak (sometimes labelled 8 MB RDRAM) is not enabled in the core options. It looks exactly like a bad ROM and it is not.
+Three of these games — **Majora's Mask**, **Donkey Kong 64** and **Perfect Dark** — require the N64 Expansion Pak, the 4 MB memory upgrade Nintendo sold separately. Under emulation this is a setting rather than a purchase, and it is normally switched on already: Batocera enables it by default. It is worth knowing about anyway, because when one of these three hangs at the title screen or boots with its campaign greyed out, a disabled Expansion Pak is the cause, and the symptom looks exactly like a bad ROM. People replace a perfectly good dump over it.
 
 The second thing worth knowing across the library is that N64 games were tuned for a controller whose analogue stick had a much longer physical throw than a modern thumbstick. Games that read *how far* you pushed — Super Mario 64's walk-versus-run, 1080°'s edge control, Smash Bros.' tilt-versus-smash — feel twitchy on an Xbox-style pad until you raise the deadzone and lower the sensitivity. That single adjustment fixes more N64 complaints than any video setting.
 

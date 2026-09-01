@@ -115,6 +115,6 @@ It also contains two complete arcade games — the original **Donkey Kong** and 
 
 ## Emulation Notes
 
-Donkey Kong 64 requires the N64 Expansion Pak and will not run without it. If the game hangs at the title screen, enable the Expansion Pak or 8 MB RDRAM option in the core settings before suspecting the ROM. This is the most common failure and it is a configuration problem, not a bad dump.
+Donkey Kong 64 requires the N64 Expansion Pak and will not run without it. Most emulators enable it by default, Batocera included, so this rarely bites. When the game does hang at the title screen, check that setting before suspecting the ROM: it is a configuration problem that presents as a bad dump.
 
 Beyond that, it is a Rare title and shares Banjo's plugin sensitivity. If the world geometry or the water renders wrong, change the video plugin rather than the ROM.

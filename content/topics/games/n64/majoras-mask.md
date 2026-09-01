@@ -109,6 +109,6 @@ Six of them, and several are behind substantial quests — the Romani Ranch alie
 
 ## Emulation Notes
 
-Majora's Mask uses the N64 Expansion Pak, the 4 MB memory upgrade, and will not run without it. Every emulator can supply it, but if the game refuses to boot past the title, check that the Expansion Pak or 8 MB RDRAM option is enabled in the core settings. This is the single most common Majora's Mask emulation problem and it looks like a bad ROM when it is not.
+Majora's Mask uses the N64 Expansion Pak, the 4 MB memory upgrade Nintendo sold separately, and will not run without it. Most emulators supply it by default, Batocera included, so this is usually a non-issue. But when the game refuses to boot past the title it is the first thing to check, because a missing Expansion Pak looks exactly like a bad ROM and sends people hunting for a new dump they do not need.
 
 Beyond that it behaves like Ocarina. Mupen64Plus handles it; try alternate video plugins if Stone Tower's flipped geometry renders wrong.

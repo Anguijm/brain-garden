@@ -124,7 +124,7 @@ This is the reason to own Perfect Dark.
 
 ## Emulation Notes
 
-Perfect Dark **requires the N64 Expansion Pak** for the campaign. Without the 4 MB upgrade, only a reduced multiplayer mode is available. If the game boots but the campaign is greyed out, enable the Expansion Pak or 8 MB RDRAM option in the core settings.
+Perfect Dark **requires the N64 Expansion Pak** for the campaign. Without the 4 MB upgrade, only a reduced multiplayer mode is available. Most emulators enable it by default, Batocera included. If the game boots but the campaign is greyed out, that setting is the cause.
 
 Perfect Dark is one of the most demanding N64 games to emulate and one of the ones where plugin choice most visibly matters. Expect to try more than one video plugin. ParaLLEl-RDP is the accuracy-first choice; GlideN64 is faster but has historically had Rare-specific glitches.
 
