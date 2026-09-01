@@ -125,40 +125,40 @@ Sega's handheld ran on the same hardware as the Master System, which means its l
 
 The NES library has been picked over for forty years; what survives is genuinely hard and genuinely good. The UM790Pro runs everything at full speed with upscaling options that look better than they have any right to.
 
-1. **Super Mario Bros. 3** (1988) — Platformer — Assessment: 10/10
+1. **[Super Mario Bros. 3](topics/games/nes/super-mario-bros-3)** (1988) — Platformer — Assessment: 10/10
    The high point of the NES era. Level design, power-up variety, and moment-to-moment feel have not aged. The only caveat is that you probably already know it.
 
-2. **Mega Man 2** (1988) — Action-platformer — Assessment: 9.5/10
+2. **[Mega Man 2](topics/games/nes/mega-man-2)** (1988) — Action-platformer — Assessment: 9.5/10
    The template every action-platformer copies. Eight robot masters, tight controls, and a difficulty curve that rewards learning rather than luck. The soundtrack is an outlier for the hardware.
 
-3. **Metroid** (1986) — Action-adventure — Assessment: 9/10
+3. **[Metroid](topics/games/nes/metroid)** (1986) — Action-adventure — Assessment: 9/10
    The original nonlinear exploration game. Atmospheric and disorienting in a way its successors have tried to recapture. Save states help with the brutal lack of in-game saving.
 
-4. **Contra** (1988) — Run-and-gun — Assessment: 9/10
+4. **[Contra](topics/games/nes/contra)** (1988) — Run-and-gun — Assessment: 9/10
    Two-player co-op that still works. Hard enough that earning the ending feels meaningful. The Spread Gun remains one of the best weapon pickups in gaming.
 
-5. **Castlevania** (1986) — Action-platformer — Assessment: 9/10
+5. **[Castlevania](topics/games/nes/castlevania)** (1986) — Action-platformer — Assessment: 9/10
    Gothic atmosphere and punishing platforming. The whip-based combat aged better than most contemporaries. Symphony of the Night on PS1 is the better game, but this is where Simon Belmont was established.
 
-6. **Tecmo Super Bowl** (1991) — Sports — Assessment: 8.5/10
+6. **[Tecmo Super Bowl](topics/games/nes/tecmo-super-bowl)** (1991) — Sports — Assessment: 8.5/10
    The best football game of its era, possibly the best arcade football game ever made. Barry Sanders is as broken as you remember.
 
-7. **Mega Man 3** (1990) — Action-platformer — Assessment: 8.5/10
+7. **[Mega Man 3](topics/games/nes/mega-man-3)** (1990) — Action-platformer — Assessment: 8.5/10
    More of Mega Man 2 with a slide mechanic and Proto Man cameos. Slightly easier, slightly longer, and sometimes underrated relative to its predecessor.
 
-8. **DuckTales** (1989) — Platformer — Assessment: 8.5/10
+8. **[DuckTales](topics/games/nes/ducktales)** (1989) — Platformer — Assessment: 8.5/10
    Capcom at the height of its Disney licensing era. Pogo-stick cane movement, non-linear world selection, and a Moon level theme that refuses to leave your memory.
 
-9. **Battletoads** (1991) — Beat-em-up/Platformer — Assessment: 8/10
+9. **[Battletoads](topics/games/nes/battletoads)** (1991) — Beat-em-up/Platformer — Assessment: 8/10
    Infamous difficulty makes it a genuine achievement to finish. The turbo tunnel section is a legitimate test. Best played with save states and no shame.
 
-10. **Ninja Gaiden** (1988) — Action-platformer — Assessment: 8/10
+10. **[Ninja Gaiden](topics/games/nes/ninja-gaiden)** (1988) — Action-platformer — Assessment: 8/10
     Cinematic story presentation by NES standards and tight action. The final stage's respawn mechanic will test patience. Worth it.
 
-11. **Rygar** (1987) — Action-platformer — Assessment: 8/10
+11. **[Rygar](topics/games/nes/rygar)** (1987) — Action-platformer — Assessment: 8/10
     Tecmo's Diskarmor-swinging action game with an open-world structure unusual for 1987. You choose the order you tackle areas and return to earlier zones with new traversal abilities — a proto-Metroidvania on the NES. The combat system is faster than most contemporaries.
 
-12. **Bionic Commando** (1988) — Action-platformer — Assessment: 8.5/10
+12. **[Bionic Commando](topics/games/nes/bionic-commando)** (1988) — Action-platformer — Assessment: 8.5/10
     Capcom's grappling-hook platformer. You cannot jump — the bionic arm is your only means of gaining elevation, which completely changes how every screen reads. One of the most mechanically distinct action games on the hardware, and the level design is built specifically around the constraint.
 
 ---
@@ -1047,4 +1047,4 @@ For PS3, Xbox 360, and Original Xbox: emulator compatibility changes with every 
 
 For everything else: mGBA, Flycast, PCSX2, Dolphin, and Cemu are mature emulators with broad compatibility. The games on this list run without significant issue on the UM790Pro hardware class.
 
-*This list was compiled 2026-08-31 for the [Batocera UM790Pro build](emulation-station-batocera). NES games have a full [walkthroughs and secrets guide](nes-guides).*
+*This list was compiled 2026-08-31 for the [Batocera UM790Pro build](emulation-station-batocera). Each NES game has an inline walkthrough linked from its title in the NES section above.*
