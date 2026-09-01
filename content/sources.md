@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-798 citations across 119 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+799 citations across 119 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -536,6 +536,7 @@ This page lists every external link cited anywhere in the garden, article by art
 
 1. [rpcs3.net/compatibility](https://rpcs3.net/compatibility)
 2. [xenia.jp](https://xenia.jp)
+3. [xemu.app](https://xemu.app)
 
 ### [Batocera emulation appliance on the MINISFORUM UM790Pro](topics/games/emulation-station-batocera)
 

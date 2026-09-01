@@ -4,14 +4,14 @@ type: topic-note
 category: games
 tags: [emulation, batocera, games, retro, ps2, ps3, snes, n64, gamecube, wii, psp, 3ds, dreamcast, master-system, sega, sega-cd, 3do]
 created: 2026-08-31
-updated: 2026-08-31
+updated: 2026-09-01
 sources_staged: false
 draft: false
 ---
 
 # Top 10 games on every system Batocera can run
 
-Twenty-six systems, 260 games. Each list is ranked by a combination of critical consensus and lasting playability — not nostalgia. Scores are Assessment based on aggregated critical reception; nothing here was play-tested against this specific hardware. For PS3 and Xbox 360, compatibility with the emulator matters as much as game quality; notes on that are included.
+Twenty-seven systems, 276 games. Each list is ranked by a combination of critical consensus and lasting playability — not nostalgia. Scores are Assessment based on aggregated critical reception; nothing here was play-tested against this specific hardware. For PS3 and Xbox 360, compatibility with the emulator matters as much as game quality; notes on that are included.
 
 ---
 
@@ -37,6 +37,7 @@ Twenty-six systems, 260 games. Each list is ranked by a combination of critical 
 | [Game Boy Advance](#game-boy-advance) | 2001–2008 |
 | [PlayStation 2](#playstation-2) | 2000–2013 |
 | [GameCube](#gamecube) | 2001–2007 |
+| [Original Xbox](#original-xbox) | 2001–2006 |
 | [Nintendo DS](#nintendo-ds) | 2004–2014 |
 | [PSP](#psp) | 2005–2014 |
 | [Wii](#wii) | 2006–2013 |
@@ -153,6 +154,12 @@ The NES library has been picked over for forty years; what survives is genuinely
 
 10. **Ninja Gaiden** (1988) — Action-platformer — Assessment: 8/10
     Cinematic story presentation by NES standards and tight action. The final stage's respawn mechanic will test patience. Worth it.
+
+11. **Rygar** (1987) — Action-platformer — Assessment: 8/10
+    Tecmo's Diskarmor-swinging action game with an open-world structure unusual for 1987. You choose the order you tackle areas and return to earlier zones with new traversal abilities — a proto-Metroidvania on the NES. The combat system is faster than most contemporaries.
+
+12. **Bionic Commando** (1988) — Action-platformer — Assessment: 8.5/10
+    Capcom's grappling-hook platformer. You cannot jump — the bionic arm is your only means of gaining elevation, which completely changes how every screen reads. One of the most mechanically distinct action games on the hardware, and the level design is built specifically around the constraint.
 
 ---
 
@@ -478,6 +485,12 @@ The N64 library is smaller than its contemporaries but contains some of the most
 10. **F-Zero X** (1998) — Racing — Assessment: 9/10
     Thirty cars at extreme speed with a death mechanic that punishes mistakes honestly. No modern racing game captures this specific kind of speed. The randomized track generator adds replayability.
 
+11. **1080° Snowboarding** (1998) — Sports — Assessment: 8.5/10
+    Nintendo's snowboarding game before the Tony Hawk era defined extreme sports games. Physics-based movement, multiple riders with distinct stats, and a trick system that rewards commitment. The Deadly Fall course still holds up as a test of edge control. One of the better sports games in the N64 library.
+
+12. **Perfect Dark** (2000) — First-person shooter — Assessment: 9.5/10
+    Rare's follow-up to GoldenEye with a larger campaign, a vastly more capable multiplayer, and the Co-op/Counter-Op modes that let a second player inhabit the enemy AI. The Carrington Institute hub, the weapon design, and the optional objectives make the solo campaign far denser than its predecessor. Technically demanding on original hardware; emulation removes the frame rate issues.
+
 ---
 
 ## Dreamcast
@@ -693,6 +706,42 @@ The GameCube's library is small and excellent. Dolphin runs it at 4K on the UM79
 
 10. **Ikaruga** (2003) — Shoot-em-up — Assessment: 9.5/10
     The GameCube port of the Dreamcast original. Identical experience; choose whichever platform you prefer.
+
+---
+
+## Original Xbox
+
+Microsoft's first console launched in 2001 with a hard drive and a broadband ethernet port built in — years ahead of the competition on both counts — and its library reflects the ambitions of a company willing to throw money at exclusives to establish a platform. Batocera runs it via Xemu, which has improved significantly through 2025 and handles most of the important library. Check xemu.app for per-title compatibility before downloading. The original Xbox controller (the "Duke") is not required; a modern controller maps cleanly.
+
+1. **Halo: Combat Evolved** (2001) — First-person shooter — Assessment: 9.5/10
+   Xemu status: Playable. The launch title that built the platform. The Warthog, the Flood reveal, 343 Guilty Spark — campaign milestones that defined the generation. Two-player split-screen co-op still works. The Anniversary remaster exists on PC; the original has a different feel.
+
+2. **Halo 2** (2004) — First-person shooter — Assessment: 9.5/10
+   Xemu status: Playable. Dual wielding, the Arbiter campaign, and the online multiplayer that Xbox Live was built around. The campaign ending is famously abrupt; the story continues in Halo 3. Master Chief Collection on PC is the clean option, but Xemu gets this running.
+
+3. **Ninja Gaiden** (2004) — Action — Assessment: 9.5/10
+   Xemu status: Playable. Team Ninja's character action game. Faster and more demanding than Devil May Cry; the combat system rewards precise input in a way few games of the era matched. The Black version adds difficulty modes and additional missions. Still holds up as one of the best action games ever made.
+
+4. **Star Wars: Knights of the Old Republic** (2003) — RPG — Assessment: 9.5/10
+   Xemu status: Playable. BioWare's Star Wars RPG. Turn-based combat dressed as real-time, a crew with genuine character, and a story twist in the third act that the series still lives off. The PC version is available on GOG; Xemu is another route.
+
+5. **Jet Set Radio Future** (2002) — Action/Sports — Assessment: 9/10
+   Xemu status: Playable. The follow-up to the Dreamcast original, Xbox-exclusive. Larger city, more characters, and a less rigid mission structure. The cell-shaded art holds up completely; the soundtrack is exceptional. No PC version exists, making Xemu the only modern way to play it.
+
+6. **Fable** (2004) — Action-RPG — Assessment: 8.5/10
+   Xemu status: Playable. Lionhead's morality-system RPG. The Lost Chapters version adds content and is the one to seek out. Delivers less than it promised at launch but the systems that shipped — reputation, aging, consequence — are genuinely interesting. Fable II on Xbox 360 is the better game; this is the foundation.
+
+7. **Panzer Dragoon Orta** (2002) — Rail shooter — Assessment: 9/10
+   Xemu status: Playable. Sega's rail shooter with a dragon. On-rail movement, lock-on targeting, and a visual style carried forward from the Saturn originals. One of the most technically impressive Xbox exclusives and one of the better entries in the rail shooter genre. Includes an unlockable emulation of the Saturn original.
+
+8. **Crimson Skies: High Road to Revenge** (2003) — Combat flight — Assessment: 8.5/10
+   Xemu status: Playable. Aerial combat in a 1930s dieselpunk alternate America. Accessible controls, a charismatic protagonist, and online multiplayer that built an early Xbox Live community around it. Never released on PC; Xemu is the only route.
+
+9. **The Elder Scrolls III: Morrowind** (2002) — Open-world RPG — Assessment: 9/10
+   Xemu status: Playable. The PC version with its decade of mods is the definitive experience, but the Xbox port is complete and Xemu runs it. The alien landscape of Vvardenfell, text-heavy dialogue, and a skill system without quest markers. One of the most demanding RPGs of its era to navigate without a guide.
+
+10. **Star Wars: Knights of the Old Republic II** (2004) — RPG — Assessment: 9/10
+    Xemu status: Playable. Obsidian's follow-up. Darker, philosophically denser, and unfinished at ship — the Restored Content Mod on PC addresses the cut content. On Xemu, the shipped version is what you get. Still one of the best Star Wars stories told in any medium.
 
 ---
 
@@ -988,9 +1037,10 @@ The arcade library in Batocera via MAME and FinalBurn Neo covers tens of thousan
 
 Assessment throughout. Scores reflect critical consensus at the time of the game's peak reputation — a combination of review aggregates, longterm community regard, and competitive scene durability where relevant. No score here reflects play-testing on this specific hardware configuration.
 
-For PS3 and Xbox 360 specifically: emulator compatibility changes with every release. Before committing to a download, check the official compatibility databases:
+For PS3, Xbox 360, and Original Xbox: emulator compatibility changes with every release. Before committing to a download, check the official compatibility databases:
 - RPCS3: [rpcs3.net/compatibility](https://rpcs3.net/compatibility)
-- Xenia: [xenia.jp](https://xenia.jp) (or the GitHub issues tracker for specific titles)
+- Xenia (Xbox 360): [xenia.jp](https://xenia.jp) (or the GitHub issues tracker for specific titles)
+- Xemu (Original Xbox): [xemu.app](https://xemu.app) (compatibility notes on the game-specific GitHub issues)
 
 For everything else: mGBA, Flycast, PCSX2, Dolphin, and Cemu are mature emulators with broad compatibility. The games on this list run without significant issue on the UM790Pro hardware class.
 
