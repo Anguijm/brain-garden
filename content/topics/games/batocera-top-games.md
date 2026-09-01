@@ -125,6 +125,8 @@ Sega's handheld ran on the same hardware as the Master System, which means its l
 
 The NES library has been picked over for forty years; what survives is genuinely hard and genuinely good. The UM790Pro runs everything at full speed with upscaling options that look better than they have any right to.
 
+Full standalone walkthroughs for every game below: **[NES Game Guides](topics/games/nes/)**.
+
 1. **[Super Mario Bros. 3](topics/games/nes/super-mario-bros-3)** (1988) — Platformer — Assessment: 10/10
    The high point of the NES era. Level design, power-up variety, and moment-to-moment feel have not aged. The only caveat is that you probably already know it.
 
@@ -458,40 +460,42 @@ The PS1 library defined the 32-bit era and delivered the first wave of 3D gaming
 
 The N64 library is smaller than its contemporaries but contains some of the most influential 3D games ever made. Dolphin handles N64 emulation through the Wii's Virtual Console versions for many titles; standalone N64 emulation via Mupen64Plus is also solid.
 
-1. **The Legend of Zelda: Ocarina of Time** (1998) — Action-adventure — Assessment: 10/10
+Full standalone walkthroughs for every game below: **[Nintendo 64 Game Guides](topics/games/n64/)**.
+
+1. **[The Legend of Zelda: Ocarina of Time](topics/games/n64/ocarina-of-time)** (1998) — Action-adventure — Assessment: 10/10
    The game that defined 3D action-adventure. Z-targeting, context-sensitive actions, and a world that taught players how to navigate 3D space. Its influence is still visible everywhere.
 
-2. **Super Mario 64** (1996) — 3D platformer — Assessment: 10/10
+2. **[Super Mario 64](topics/games/n64/super-mario-64)** (1996) — 3D platformer — Assessment: 10/10
    The template for 3D platformers. 120 stars, a hub world that rewards exploration, and movement mechanics — wall kicks, long jumps, triple jumps — that speedrunners still optimize.
 
-3. **GoldenEye 007** (1997) — First-person shooter — Assessment: 9.5/10
+3. **[GoldenEye 007](topics/games/n64/goldeneye-007)** (1997) — First-person shooter — Assessment: 9.5/10
    The console FPS before Halo. Objective-based missions, stealth options, and four-player split-screen deathmatch that defined couch multiplayer for years. Controls age poorly without modern camera inversion.
 
-4. **The Legend of Zelda: Majora's Mask** (2000) — Action-adventure — Assessment: 9.5/10
+4. **[The Legend of Zelda: Majora's Mask](topics/games/n64/majoras-mask)** (2000) — Action-adventure — Assessment: 9.5/10
    A darker, stranger Zelda built on a three-day loop mechanic. Fewer dungeons than Ocarina, more character depth, and a structure that rewards mastery of the clock system.
 
-5. **Super Smash Bros.** (1999) — Fighting — Assessment: 9/10
+5. **[Super Smash Bros.](topics/games/n64/super-smash-bros)** (1999) — Fighting — Assessment: 9/10
    The original four-player party fighter. Simpler than its successors, faster in some respects, and still fun with the right group. Pikachu remains the pick of competitive players from this era.
 
-6. **Banjo-Kazooie** (1998) — 3D platformer — Assessment: 9.5/10
+6. **[Banjo-Kazooie](topics/games/n64/banjo-kazooie)** (1998) — 3D platformer — Assessment: 9.5/10
    Rare's best. Collectible-hunting through imaginatively designed worlds, excellent note/jiggy economy, and a duo with genuine chemistry. Tooie is larger but more bloated.
 
-7. **Donkey Kong 64** (1999) — 3D platformer — Assessment: 8/10
+7. **[Donkey Kong 64](topics/games/n64/donkey-kong-64)** (1999) — 3D platformer — Assessment: 8/10
    Massive and collectible-heavy to a fault — five characters each with their own items is 20% more than needed. The execution is solid and the multiplayer mode holds up, but it outstays its welcome.
 
-8. **Star Fox 64** (1997) — Rail shooter — Assessment: 9/10
+8. **[Star Fox 64](topics/games/n64/star-fox-64)** (1997) — Rail shooter — Assessment: 9/10
    Branching path system, fully voiced cast, and a campaign length that suits the genre. "Do a barrel roll" is a meme; the game deserves better than the meme.
 
-9. **Paper Mario** (2001) — RPG — Assessment: 9/10
+9. **[Paper Mario](topics/games/n64/paper-mario)** (2001) — RPG — Assessment: 9/10
    The RPG that made Mario's world feel inhabited. Turn-based combat with timing-based action commands, a chapter structure, and writing sharper than any Mario game before it.
 
-10. **F-Zero X** (1998) — Racing — Assessment: 9/10
+10. **[F-Zero X](topics/games/n64/f-zero-x)** (1998) — Racing — Assessment: 9/10
     Thirty cars at extreme speed with a death mechanic that punishes mistakes honestly. No modern racing game captures this specific kind of speed. The randomized track generator adds replayability.
 
-11. **1080° Snowboarding** (1998) — Sports — Assessment: 8.5/10
+11. **[1080° Snowboarding](topics/games/n64/1080-snowboarding)** (1998) — Sports — Assessment: 8.5/10
     Nintendo's snowboarding game before the Tony Hawk era defined extreme sports games. Physics-based movement, multiple riders with distinct stats, and a trick system that rewards commitment. The Deadly Fall course still holds up as a test of edge control. One of the better sports games in the N64 library.
 
-12. **Perfect Dark** (2000) — First-person shooter — Assessment: 9.5/10
+12. **[Perfect Dark](topics/games/n64/perfect-dark)** (2000) — First-person shooter — Assessment: 9.5/10
     Rare's follow-up to GoldenEye with a larger campaign, a vastly more capable multiplayer, and the Co-op/Counter-Op modes that let a second player inhabit the enemy AI. The Carrington Institute hub, the weapon design, and the optional objectives make the solo campaign far denser than its predecessor. Technically demanding on original hardware; emulation removes the frame rate issues.
 
 ---

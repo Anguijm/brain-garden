@@ -8,6 +8,11 @@ than raw research. Newest is first.
 
 ## Latest
 
+- **[Nintendo 64 game guides](topics/games/n64/)** — standalone walkthroughs for the twelve
+  best N64 games: controls, the systems that actually matter, and what changes when you run
+  them under emulation instead of on original hardware. Companion set to the
+  **[NES game guides](topics/games/nes/)**.
+
 - **[Top 10 games on every system Batocera can run](topics/games/batocera-top-games)** —
   170 games across 17 systems (NES through Wii U), each ranked by critical consensus with honest
   caveats on PS3/RPCS3 and Xbox 360/Xenia compatibility. Companion to the UM790Pro build guide.
