@@ -1047,4 +1047,4 @@ For PS3, Xbox 360, and Original Xbox: emulator compatibility changes with every 
 
 For everything else: mGBA, Flycast, PCSX2, Dolphin, and Cemu are mature emulators with broad compatibility. The games on this list run without significant issue on the UM790Pro hardware class.
 
-*This list was compiled 2026-08-31 for the [Batocera UM790Pro build](emulation-station-batocera).*
+*This list was compiled 2026-08-31 for the [Batocera UM790Pro build](emulation-station-batocera). NES games have a full [walkthroughs and secrets guide](nes-guides).*
