@@ -32,7 +32,7 @@ in team effectiveness.
 
 ## How to build it
 
-![Diagram: a four-step loop for building psychological safety. Make clear why people's voices matter. Admit your own fallibility. Actively invite input (ask, don't wait). Respond productively (appreciation and curiosity, not blame). The loop feeds back into more candor.](../../topics/leadership/img/build-psych-safety.png)
+![Diagram: a four-step loop for building psychological safety. Make clear why people's voices matter. Admit your own fallibility. Actively invite input (ask, don't wait). Respond productively (appreciation and curiosity, not blame). The loop feeds back into more candor.](img/build-psych-safety.png)
 *Four moves that build psychological safety. Diagram.*
 
 - **Make clear why voices matter** — people default to silence, so tell them why you need their

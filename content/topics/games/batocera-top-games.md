@@ -15,6 +15,39 @@ Twenty-seven systems, 277 games. Each list is ranked by a combination of critica
 
 ---
 
+## What is actually on the machine
+
+This page is the wish list: 27 systems and 277 games, ranked on critical consensus. **The list
+below is what has actually been sourced, verified and installed on the UM790Pro** — 148 titles
+across 14 systems, every one of them checksum-verified against the published No-Intro or Redump
+dumps, and every one with a written guide.
+
+| System | Titles | Guides |
+|---|---|---|
+| [NES](topics/games/nes/) | 17 | [16 guides](topics/games/nes/) |
+| [SNES](topics/games/snes/) | 12 | [11 guides](topics/games/snes/) |
+| [Nintendo 64](topics/games/n64/) | 12 | [12 guides](topics/games/n64/) |
+| [Game Boy](topics/games/gb/) | 9 | [9 guides](topics/games/gb/) |
+| [Game Boy Color](topics/games/gbc/) | 12 | [12 guides](topics/games/gbc/) |
+| [Game Boy Advance](topics/games/gba/) | 10 | [9 guides](topics/games/gba/) |
+| [Mega Drive](topics/games/megadrive/) | 11 | [10 guides](topics/games/megadrive/) |
+| [Master System](topics/games/mastersystem/) | 10 | [10 guides](topics/games/mastersystem/) |
+| [Game Gear](topics/games/gamegear/) | 8 | [8 guides](topics/games/gamegear/) |
+| [PC Engine](topics/games/pcengine/) | 8 | [6 guides](topics/games/pcengine/) |
+| [Sega Saturn](topics/games/saturn/) | 7 | [7 guides](topics/games/saturn/) |
+| [Dreamcast](topics/games/dreamcast/) | 12 | [12 guides](topics/games/dreamcast/) |
+| [PlayStation 2](topics/games/ps2/) | 10 | [10 guides](topics/games/ps2/) |
+| [PSP](topics/games/psp/) | 10 | [10 guides](topics/games/psp/) |
+
+The shortfall between titles and guides is the six freeware games Batocera ships with, covered
+together in [The Games Batocera Ships With](topics/games/bundled-homebrew).
+
+**Sourcing rule:** official US releases only, verified from the ROM header rather than the
+filename, with one documented exception per system where no US release exists — 1080°
+Snowboarding on N64 and Ikaruga on Dreamcast. The full rule set is internal to the vault.
+
+---
+
 ## Navigation
 
 | System | Era |
@@ -53,34 +86,36 @@ Twenty-seven systems, 277 games. Each list is ranked by a combination of critica
 
 Sega's answer to the NES lost the North American market war but dominated Europe and Brazil, and its library reflects that: tighter ports of Sega's arcade output and a handful of RPGs that have no NES equivalent. Batocera runs it via Genesis Plus GX, the same core that handles the Genesis. Performance is perfect.
 
-1. **Phantasy Star** (1987) — RPG — Assessment: 9/10
+Full standalone walkthroughs for all ten: **[Master System Game Guides](topics/games/mastersystem/)**.
+
+1. **[Phantasy Star](topics/games/mastersystem/phantasy-star)** (1987) — RPG — Assessment: 9/10
    One of the best RPGs of the 8-bit era, with 3D dungeons and a story that holds up. It is harder and stranger than early Final Fantasy, and it went places Nintendo-adjacent RPGs would not reach for years.
 
-2. **Wonder Boy III: The Dragon's Trap** (1989) — Action-RPG — Assessment: 9/10
+2. **[Wonder Boy III: The Dragon's Trap](topics/games/mastersystem/wonder-boy-iii)** (1989) — Action-RPG — Assessment: 9/10
    A shape-shifting action RPG with a continuous world and transformation mechanics that feel modern. The 2017 remake exists if you want the facelift, but the original still plays cleanly.
 
-3. **Alex Kidd in Miracle World** (1986) — Platformer — Assessment: 8/10
+3. **[Alex Kidd in Miracle World](topics/games/mastersystem/alex-kidd-in-miracle-world)** (1986) — Platformer — Assessment: 8/10
    Sega's mascot before Sonic. Built into many consoles from the factory. The boss fights are rock-paper-scissors, which is either charming or maddening depending on your tolerance. The later levels are harder than they look.
 
-4. **R-Type** (1988) — Shoot-em-up — Assessment: 8.5/10
+4. **[R-Type](topics/games/mastersystem/r-type)** (1988) — Shoot-em-up — Assessment: 8.5/10
    The best port of the Irem arcade classic on a home console at the time. Slow, deliberate, and brutal — the charge shot and the Force pod system reward patience in a genre that usually rewards reflexes.
 
-5. **Golden Axe Warrior** (1991) — Action-RPG — Assessment: 8/10
+5. **[Golden Axe Warrior](topics/games/mastersystem/golden-axe-warrior)** (1991) — Action-RPG — Assessment: 8/10
    A Zelda-style top-down RPG wearing Golden Axe clothes. Better than it has any right to be. If you played every Zelda and want something adjacent from the same era, this fills the gap.
 
-6. **Shinobi** (1988) — Action — Assessment: 8/10
+6. **[Shinobi](topics/games/mastersystem/shinobi)** (1988) — Action — Assessment: 8/10
    A strong home conversion of the Sega arcade hit. Hostage rescue stages, throwing stars, and a bonus round that breaks the rhythm. Harder than the arcade version on later stages.
 
-7. **Master of Darkness** (1992) — Action-platformer — Assessment: 8/10
+7. **[Master of Darkness](topics/games/mastersystem/master-of-darkness)** (1992) — Action-platformer — Assessment: 8/10
    A Castlevania clone that is genuinely good. Victorian horror setting, whip-adjacent weapon mechanics, and a progression structure borrowed directly from Konami. Available in North America as Dracula (Game Gear version) but the Master System release is the complete one.
 
-8. **Ys: The Vanished Omens** (1988) — Action-RPG — Assessment: 8/10
+8. **[Ys: The Vanished Omens](topics/games/mastersystem/ys-the-vanished-omens)** (1988) — Action-RPG — Assessment: 8/10
    The first entry in the Ys series, known for bump combat where you run into enemies at the right angle to deal damage. Odd but fast, and the soundtrack is one of the best on the hardware.
 
-9. **Sonic the Hedgehog** (1991) — Platformer — Assessment: 7.5/10
+9. **[Sonic the Hedgehog](topics/games/mastersystem/sonic-the-hedgehog)** (1991) — Platformer — Assessment: 7.5/10
    A scaled-back conversion of the Genesis launch title. Missing levels, reduced parallax, and the spin dash is absent in some versions. Still playable and historically significant, but play the Genesis version first.
 
-10. **Psycho Fox** (1989) — Platformer — Assessment: 7.5/10
+10. **[Psycho Fox](topics/games/mastersystem/psycho-fox)** (1989) — Platformer — Assessment: 7.5/10
     A loose spiritual predecessor to the Wonder Boy series. Character selection changes your jump arc and a bird companion can be thrown at enemies. Underrated and rarely discussed outside of Master System enthusiasts.
 
 ---
@@ -89,34 +124,36 @@ Sega's answer to the NES lost the North American market war but dominated Europe
 
 Sega's handheld ran on the same hardware as the Master System, which means its library overlaps heavily and the ports are mostly faithful; Batocera runs it via the same Genesis Plus GX core, so everything here is solid. The battery life was infamous in 1990 but irrelevant in emulation.
 
-1. **Sonic the Hedgehog** (1991) — Platformer — Assessment: 8.5/10
+Full standalone walkthroughs for the eight on the box: **[Game Gear Game Guides](topics/games/gamegear/)**.
+
+1. **[Sonic the Hedgehog](topics/games/gamegear/sonic-the-hedgehog)** (1991) — Platformer — Assessment: 8.5/10
    A purpose-built Game Gear entry rather than a port, with its own level design and a smaller screen framing that actually suits the game. The best Sonic on the platform and one of the better handheld Sonic titles overall.
 
-2. **Shining Force: The Sword of Hajya** (1993) — Tactical RPG — Assessment: 8.5/10
+2. **[Shining Force: The Sword of Hajya](topics/games/gamegear/shining-force-sword-of-hajya)** (1993) — Tactical RPG — Assessment: 8.5/10
    A standalone entry in the Shining Force series scaled to handheld play. The strategy is as deep as the console originals and the story holds together independently. Rarely mentioned when people list the best Game Gear titles, and it should be.
 
-3. **Defenders of Oasis** (1992) — RPG — Assessment: 8/10
+3. **[Defenders of Oasis](topics/games/gamegear/defenders-of-oasis)** (1992) — RPG — Assessment: 8/10
    An Arabian Nights JRPG with a full party system, overworld exploration, and a story that takes itself seriously. The production values punch above the hardware. One of the best RPGs on any Sega handheld.
 
 4. **Dragon Crystal** (1991) — Roguelike — Assessment: 7.5/10
    A dungeon crawler with permadeath and randomised floors. Short enough for handheld sessions and hard enough to keep you honest. A companion egg hatches into a creature that grows alongside your character.
 
-5. **GG Shinobi** (1991) — Action — Assessment: 8/10
+5. **[GG Shinobi](topics/games/gamegear/shinobi)** (1991) — Action — Assessment: 8/10
    Five ninjas, each with a distinct playstyle, and stages built around switching between them. Tight controls and a strong visual identity. Better than the Master System Shinobi games.
 
 6. **Columns** (1990) — Puzzle — Assessment: 7.5/10
    Sega's answer to Tetris, launch title for the Game Gear. Match three gems of the same colour in any direction. Simpler than Tetris and faster to pick up; still playable thirty-five years later.
 
-7. **Baku Baku Animal** (1996) — Puzzle — Assessment: 8/10
+7. **[Baku Baku Animal](topics/games/gamegear/baku-baku)** (1996) — Puzzle — Assessment: 8/10
    Feed animals to matching food in a falling-block format. The two-player mode (link cable in original hardware, netplay via emulation) elevates it. One of the most distinctive puzzle games on the platform.
 
-8. **Sonic Chaos** (1993) — Platformer — Assessment: 7.5/10
+8. **[Sonic Chaos](topics/games/gamegear/sonic-chaos)** (1993) — Platformer — Assessment: 7.5/10
    The first Sonic with a dedicated run button and Tails as a playable character. Level design is looser than the original but the speed remains intact. Good for a second Sonic option after the first game.
 
-9. **Crystal Warriors** (1991) — Tactical RPG — Assessment: 7.5/10
+9. **[Crystal Warriors](topics/games/gamegear/crystal-warriors)** (1991) — Tactical RPG — Assessment: 7.5/10
    A grid-based strategy RPG with elemental affinities and a small but functional party system. Predates Fire Emblem's western arrival and fills a similar niche for handheld play.
 
-10. **Ristar** (1995) — Platformer — Assessment: 8/10
+10. **[Ristar](topics/games/gamegear/ristar)** (1995) — Platformer — Assessment: 8/10
     A port of the underrated Genesis game. Star-shaped protagonist grabs enemies and pulls himself to surfaces. Satisfying physics-based mechanics and strong art direction. Arrived late in the platform's life and was overlooked accordingly.
 
 ---
@@ -280,19 +317,21 @@ The Sega CD added CD-ROM storage to the Genesis, which the industry mostly used 
 
 NEC's console sold modestly in the West but dominated in Japan under the PC Engine name, and its CD-ROM library — available in Batocera via Mednafen's PCE core — contains some of the finest RPGs and shoot-em-ups of the era. The core handles both the base cartridge library and the CD add-on with no configuration needed.
 
+Full standalone walkthroughs for the six on the box: **[TurboGrafx-16 Game Guides](topics/games/pcengine/)**.
+
 1. **Castlevania: Rondo of Blood** (1993) — Action-platformer — Assessment: 9.5/10
    Long considered the pinnacle of classic Castlevania, exclusive to the PC Engine CD until its Wii Virtual Console release. Multiple branching paths, a hidden playable character, and the tightest control in the series before Symphony of the Night. The version that Dracula X on SNES was a watered-down port of.
 
 2. **Ys Book I and II** (1989) — Action-RPG — Assessment: 9/10
    The CD format gave Ys a fully voiced cast and a redbook audio soundtrack that was revelatory in 1989. Bump combat, a continuous two-game story, and production values that embarrassed contemporary console RPGs. The gateway drug for the entire Ys franchise.
 
-3. **Blazing Lazers** (1989) — Shoot-em-up — Assessment: 9/10
+3. **[Blazing Lazers](topics/games/pcengine/blazing-lazers)** (1989) — Shoot-em-up — Assessment: 9/10
    A vertical shmup that pushed the hardware on launch and still looks strong. Weapon upgrades stack into combinations and the bosses scale well across the game's difficulty curve. One of the best shooters of the era, period.
 
-4. **Bonk's Adventure** (1990) — Platformer — Assessment: 8.5/10
+4. **[Bonk's Adventure](topics/games/pcengine/bonks-adventure)** (1990) — Platformer — Assessment: 8.5/10
    The TurboGrafx mascot game. Head-butt enemies, spin off ledges, and eat meat to power up. Charming and physically inventive in ways that feel distinct from Nintendo platformers of the same period.
 
-5. **Military Madness** (1989) — Tactical strategy — Assessment: 8.5/10
+5. **[Military Madness](topics/games/pcengine/military-madness)** (1989) — Tactical strategy — Assessment: 8.5/10
    A hex-grid turn-based strategy game with unit variety and terrain effects. The AI is competent enough to teach you the mechanics. One of the first strategy games on a home console that felt designed for adults.
 
 6. **Gate of Thunder** (1992) — Shoot-em-up — Assessment: 8.5/10
@@ -301,13 +340,13 @@ NEC's console sold modestly in the West but dominated in Japan under the PC Engi
 7. **Lords of Thunder** (1993) — Shoot-em-up — Assessment: 8.5/10
    Spiritual successor to Gate of Thunder with selectable stage order and elemental armour upgrades. The soundtrack is arguably better. Both games belong on any shmup shortlist.
 
-8. **Dungeon Explorer** (1989) — Action-RPG — Assessment: 8/10
+8. **[Dungeon Explorer](topics/games/pcengine/dungeon-explorer)** (1989) — Action-RPG — Assessment: 8/10
    A top-down action RPG with five-player multiplayer. Hack through dungeons, collect items, level up. The multiplayer is the main draw; solo play is functional but less engaging. A landmark for cooperative console gaming.
 
-9. **Neutopia** (1990) — Action-adventure — Assessment: 8/10
+9. **[Neutopia](topics/games/pcengine/neutopia)** (1990) — Action-adventure — Assessment: 8/10
    The TurboGrafx Zelda. Not a clone — clearly inspired but with its own dungeon logic and overworld structure. If you exhausted A Link to the Past and want more of the same design philosophy, this fills the gap.
 
-10. **Magical Chase** (1991) — Shoot-em-up — Assessment: 8/10
+10. **[Magical Chase](topics/games/pcengine/magical-chase)** (1991) — Shoot-em-up — Assessment: 8/10
     A horizontally scrolling shmup with a witch protagonist and a deceleration mechanic that makes positioning deliberate. Expensive on the original hardware market; emulation is the practical way to play it. Visually distinctive and mechanically sound.
 
 ---

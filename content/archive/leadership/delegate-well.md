@@ -26,7 +26,7 @@ Assessment: leaders confuse being *involved* (hands in the work) with being *ess
 thing that makes it go). His diagnostic: if you took an unexpected week off, would your
 priorities still move? If not, you're more involved than essential.
 
-![Diagram: a two-by-two of involvement (low to high) against how essential you are (low to high). High-essential, low-involved is the leader/catalyst (the goal). High-essential, high-involved is the bottleneck (burnout, stalled team). Low-essential, high-involved is a super-sized individual contributor (busy, not productive). An arrow runs from bottleneck to catalyst, labeled "delegate well."](../../topics/leadership/img/essential-vs-involved.png)
+![Diagram: a two-by-two of involvement (low to high) against how essential you are (low to high). High-essential, low-involved is the leader/catalyst (the goal). High-essential, high-involved is the bottleneck (burnout, stalled team). Low-essential, high-involved is a super-sized individual contributor (busy, not productive). An arrow runs from bottleneck to catalyst, labeled "delegate well."](img/essential-vs-involved.png)
 *Aim for essential-but-not-involved: the catalyst, not the bottleneck. Diagram.*
 
 Four moves to delegate well:

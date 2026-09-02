@@ -31,7 +31,7 @@ are the author of their story, not its victim.
 
 ## Five things authentic leaders develop
 
-![Diagram: a center circle reading "your life story and crucibles," with five surrounding elements feeding in: know your authentic self (self-awareness), practice your values, balance intrinsic and extrinsic motivation, build a support team, and stay grounded by integrating your life. An arrow points out to: empower others, and lasting results.](../../topics/leadership/img/authentic-leadership.png)
+![Diagram: a center circle reading "your life story and crucibles," with five surrounding elements feeding in: know your authentic self (self-awareness), practice your values, balance intrinsic and extrinsic motivation, build a support team, and stay grounded by integrating your life. An arrow points out to: empower others, and lasting results.](img/authentic-leadership.png)
 *Authentic leadership: rooted in your story, built on five dimensions. Diagram.*
 
 - **Know your authentic self.** FACT: asked the single most important capability to develop,

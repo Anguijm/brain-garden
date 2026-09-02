@@ -25,7 +25,7 @@ FACT: this is a 2025 HBR.org article, drawing on the author's "Last 8%" research
 
 Assessment: the whole model is a two-by-two: connection on one axis, courage on the other.
 
-![Diagram: a two-by-two grid. The horizontal axis is connection (low to high); the vertical axis is courage (low to high). Low connection, low courage is a fear-based culture. High connection, low courage is a family culture (nice but avoids hard things). Low connection, high courage is a transactional culture (results over relationships, burnout). High connection, high courage is the target: accountability plus care.](../../topics/leadership/img/last-8-culture.png)
+![Diagram: a two-by-two grid. The horizontal axis is connection (low to high); the vertical axis is courage (low to high). Low connection, low courage is a fear-based culture. High connection, low courage is a family culture (nice but avoids hard things). Low connection, high courage is a transactional culture (results over relationships, burnout). High connection, high courage is the target: accountability plus care.](img/last-8-culture.png)
 *You need both connection and courage. The top-right corner is the goal. Diagram.*
 
 - **Family culture** (high connection, low courage) — nice, but avoids hard conversations;
