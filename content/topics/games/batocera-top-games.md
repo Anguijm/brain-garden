@@ -18,8 +18,8 @@ Twenty-seven systems, 277 games. Each list is ranked by a combination of critica
 ## What is actually on the machine
 
 This page is the wish list: 27 systems and 277 games, ranked on critical consensus. **The list
-below is what has actually been sourced, verified and installed on the UM790Pro** — 148 titles
-across 14 systems, every one of them checksum-verified against the published No-Intro or Redump
+below is what has actually been sourced, verified and installed on the UM790Pro** — 169 titles
+across 16 systems, every one of them checksum-verified against the published No-Intro or Redump
 dumps, and every one with a written guide.
 
 | System | Titles | Guides |
@@ -38,6 +38,8 @@ dumps, and every one with a written guide.
 | [Dreamcast](topics/games/dreamcast/) | 12 | [12 guides](topics/games/dreamcast/) |
 | [PlayStation 2](topics/games/ps2/) | 10 | [10 guides](topics/games/ps2/) |
 | [PSP](topics/games/psp/) | 10 | [10 guides](topics/games/psp/) |
+| [PlayStation](topics/games/psx/) | 11 | [11 guides](topics/games/psx/) |
+| [Neo Geo](topics/games/neogeo/) | 10 | [10 guides](topics/games/neogeo/) |
 
 The shortfall between titles and guides is the six freeware games Batocera ships with, covered
 together in [The Games Batocera Ships With](topics/games/bundled-homebrew).
@@ -45,6 +47,11 @@ together in [The Games Batocera Ships With](topics/games/bundled-homebrew).
 **Sourcing rule:** official US releases only, verified from the ROM header rather than the
 filename, with one documented exception per system where no US release exists — 1080°
 Snowboarding on N64 and Ikaruga on Dreamcast. The full rule set is internal to the vault.
+
+**Neo Geo is the one system that works differently.** It uses FinalBurn Neo arcade romsets
+rather than cartridge or disc dumps, named by short set code (`mslug.zip`) rather than title,
+and those sets are version-locked to the emulator core. Compatibility cannot be established
+from metadata, so all ten were launch-tested on the machine before being trusted.
 
 ---
 
