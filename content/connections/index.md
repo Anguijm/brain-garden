@@ -25,6 +25,11 @@ of each note) shows the same links as a web you can click through.
 - **[Making with the Bambu X1C](making-with-the-x1c)** — one printer, four very
   different jobs, sometimes pulling in opposite directions (heavy game pieces versus
   ultralight airframes) on the same machine.
+- **[When the artifact looks right and isn't](connections/looks-right-is-wrong)** — a scraper
+  naming Mega Man 2 "Totally Rad", a vendor's unfalsifiable backtest, a fluent paragraph from a
+  model, a search summary with the wrong date. Five domains where the well-formed output is the
+  problem, and why cheap mechanical checks beat careful review.
+
 - **[Finite resources, ruthless economy](finite-resources)** — tokens, megabytes,
   grams, and person-hours: four hard ceilings, one shared move, do not ask for more
   headroom, get ruthless about what you spend it on.

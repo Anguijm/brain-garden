@@ -191,6 +191,30 @@ for it from a homebrew perspective.
 
 ---
 
+## The alternative this note does not cover
+
+Everything above is about modifying hardware you own. For most of the libraries people jailbreak
+*for*, there is a second route that involves no hardware risk at all: run the games on a PC.
+
+- **[Batocera on the UM790Pro](topics/games/emulation-station-batocera)** — turning a mini PC into
+  a controller-driven appliance that boots straight into a game library, with what actually
+  happened running one.
+- **[Top games per system](topics/games/batocera-top-games)** and the
+  [guides for every game on the machine](topics/games/batocera-top-games) — 163 walkthroughs across
+  16 systems.
+- **[Homebrew on portable game devices](topics/games/portable-homebrew/)** — the overlap between the
+  two routes, where a modded handheld and an emulation box do the same job.
+
+**Where jailbreaking still wins:** playing on the original hardware with its original feel, using
+the console's own controllers and screen, and anything current-generation that emulation cannot yet
+touch. **Where emulation wins:** no warranty risk, no ban risk, no firmware timing to chase, save
+states, rewind, and — for the handful of games whose original hardware could not keep up — the
+prospect of a steadier frame rate. *Shadow of the Colossus* is the standard example, having
+dropped to around 20 frames per second on a real PS2 in its heaviest moments. Whether a given
+emulated setup actually holds 60 is a question for that setup, not a guarantee.
+
+---
+
 **How much to trust this:** The 3DS, Vita, and Switch assessments come from the active community
 guide sites (3ds.hacks.guide, cfw.guide, and equivalents) as of 2024 — these are maintained by
 the scene and generally accurate about their own platforms, though naturally optimistic about risk.

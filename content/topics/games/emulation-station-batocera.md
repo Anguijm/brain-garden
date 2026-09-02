@@ -196,13 +196,117 @@ For PS3: games need to be in folder format with `PARAM.SFO` at the right path �
 
 ## After setup: what to configure
 
-- **Scrapers**: Start → Scraper — downloads cover art and metadata for the whole library automatically.
+- **Scrapers**: Start → Scraper populates cover art and metadata. **Treat its output as
+  unverified.** It matches on filename text, so a ROM whose filename does not closely resemble
+  the real title gets a confident wrong answer — see the operating notes below.
 - **RetroAchievements**: built-in support if you want achievements on classic games.
 - **CRT shaders and bezels**: worth enabling for NES/SNES/PS1 on a large display — Batocera ships a good set of presets.
 - **Vulkan renderer**: confirm this is selected for PS2, PS3, and Wii U specifically. The Radeon 780M's Vulkan driver is its strong suit; OpenGL performance on those systems is noticeably worse.
 
 ---
 
-**How much to trust this:** FACT claims above are from direct observation during the 2026-08-31 build. Emulation performance is Assessment based on hardware class and community reports on similar AMD mini PC hardware with Batocera — not exhaustive per-game testing.
+## What actually happened when we ran it
+
+Everything above was written during the 2026-08-31 build. The following is FACT from operating the
+machine since, and several items contradict what the documentation implies.
+
+### The built-in scraper will confidently mislabel games
+
+EmulationStation's scraper matches on **filename text**. A ROM named in the older GoodTools style
+(`Megaman II (U) [!].nes`) does not resemble the real title, so the scraper guesses — and it guessed
+**Totally Rad**, applying that game's name, description and box art. `Megaman III` became
+**Magic John**. An audit of the whole library found 20 wrong entries: two ROM hacks scraped as the
+real game, and eight US releases filed under Japanese or European titles (Streets of Rage 2 as
+"Bare Knuckle II", Star Fox 64 as "Lylat Wars").
+
+**The fix is naming, not scraping.** Identify each ROM by checksum against the published No-Intro
+or Redump data, rename it to the official dump name, and the scraper's job becomes trivial.
+Renaming a ROM orphans its save files, which are keyed to the filename, so those must be carried
+across at the same time.
+
+### Bluetooth pairings do not survive a reboot on their own
+
+`/` is a 256 MB overlay whose upper layer lives in RAM. Bluetooth bonds are written there and are
+lost on power-off unless the shutdown is clean. A small service that copies the bond data into
+`/userdata` and restores it at boot fixes this permanently.
+
+### A plugged-in ethernet cable stops WiFi being scanned at all
+
+Covered above, and worth restating because it looks exactly like broken WiFi hardware: connman is
+configured with `SingleConnectedTechnology=true` and ethernet preferred, so with a cable in, WiFi
+is never even scanned. Diagnose WiFi with the cable **out**.
+
+### Fast-forward has no controller binding by default
+
+Batocera's config generator binds fast-forward to the **F12 key** and actively clears controller
+bindings for it, so no button combination works out of the box. It has to be set explicitly in
+`retroarchcustom.cfg`, and the correct button number must be read from the pad's own entry in
+`es_input.cfg` — the same controller model appears there several times with completely different
+numbering.
+
+### Multi-disc games show up once per disc
+
+EmulationStation scans `.m3u` **and** the disc files, and there is no setting to hide the members.
+A four-disc game therefore occupies five tiles. The gamelist's `<hidden>true</hidden>` flag on each
+member disc collapses it to one entry, with the playlist inheriting disc 1's artwork.
+
+### BIOS files are exactly verifiable
+
+`batocera-systems --filter <system>` prints every required BIOS file **with its MD5**. That turns
+"find a BIOS" from a trust exercise into a checksum comparison. Note that it reports *every* known
+revision as missing when you only need one — having the US PlayStation BIOS is sufficient even
+though four other revisions still show as MISSING.
+
+### Arcade systems work differently from everything else
+
+Neo Geo uses FinalBurn Neo arcade romsets rather than cartridge dumps: zips of individual chip
+dumps named by short set code (`mslug.zip`), plus `neogeo.zip` as a system BIOS. **Those sets are
+version-locked to the emulator core and nothing in the metadata says so** — the only way to
+establish compatibility is to load a game and watch for checksum errors.
+
+### Never `pkill -9 -f emulationstation`
+
+The process chain is `S31emulationstation` → `startx` → openbox → `emulationstation-standalone`
+(a supervisor loop) → EmulationStation. A `-f` pattern match kills the supervisor too, so nothing
+restarts it and the screen stays black. Use `batocera-es-swissknife --restart`.
+
+**One check that matters:** `pgrep -f emulationstation` matches its own command line and will report
+a dead frontend as running. Use `ps -C emulationstation`.
+
+---
+
+## Where to go next
+
+This note is the build. Three companions cover what comes after it:
+
+- **[What to actually put on it](topics/games/batocera-top-games)** — the ranked list of what is
+  worth playing per system, plus a section separating that wish list from the 169 titles actually
+  installed and verified here.
+- **Guides for every game on the machine** — 163 walkthroughs across 16 systems, each covering
+  controls, the mechanics that matter, and what changes under emulation. The per-system indexes are
+  the entry points:
+  [NES](topics/games/nes/) · [SNES](topics/games/snes/) · [N64](topics/games/n64/) ·
+  [Game Boy](topics/games/gb/) · [GBC](topics/games/gbc/) · [GBA](topics/games/gba/) ·
+  [Mega Drive](topics/games/megadrive/) · [Master System](topics/games/mastersystem/) ·
+  [Game Gear](topics/games/gamegear/) · [PC Engine](topics/games/pcengine/) ·
+  [Saturn](topics/games/saturn/) · [Dreamcast](topics/games/dreamcast/) ·
+  [PlayStation](topics/games/psx/) · [PS2](topics/games/ps2/) · [PSP](topics/games/psp/) ·
+  [Neo Geo](topics/games/neogeo/)
+- **[The games Batocera ships with](topics/games/bundled-homebrew)** — the freeware titles already
+  on a fresh install.
+
+**If you are choosing between emulating and modifying real hardware**, the
+[console jailbreak survey](topics/technology/console-jailbreak-landscape) covers the other route:
+which consoles are worth opening up, which are hopeless, and why Nintendo hardware is always the
+most exploitable. A mini PC running Batocera and a modded handheld solve overlapping problems, and
+[homebrew on portable devices](topics/games/portable-homebrew/) is where the two meet.
+
+---
+
+**How much to trust this:** the install, storage, networking and controller sections are FACT from the 2026-08-31 build. Everything under *What actually happened when we ran it* is FACT from operating the machine since, and several items there correct what the earlier sections and the official documentation imply.
+
+Per-system **performance** ratings remain Assessment. 169 titles across 16 systems are installed and every ROM is checksum-verified, but *installed and verified* is not the same as *performance-tested*, and it would be easy to read the two as one thing.
+
+What has actually been observed: the ten Neo Geo games were **launch-tested individually** (they load and the core initialises — not a frame-rate measurement), and a handful of NES titles have been played through by the operator. Everything else is installed and launches but has not been sat with long enough to confirm sustained full speed. PS3, Xbox 360, Wii U, 3DS and Switch have nothing installed at all, so those ratings remain community reports on similar hardware.
 
 *Sources: [Batocera changelog](https://batocera.org/changelog); [Batocera supported controllers wiki](https://wiki.batocera.org/supported_controllers); [Batocera second drive wiki](https://wiki.batocera.org/store_games_on_a_second_usb_sata_drive); [Batocera batocera.conf wiki](https://wiki.batocera.org/batocera.conf); direct build log 2026-08-31*

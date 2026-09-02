@@ -8,19 +8,25 @@ than raw research. Newest is first.
 
 ## Latest
 
-- **[Nintendo 64 game guides](topics/games/n64/)** — standalone walkthroughs for the twelve
-  best N64 games: controls, the systems that actually matter, and what changes when you run
-  them under emulation instead of on original hardware. Companion set to the
-  **[NES game guides](topics/games/nes/)**.
+- **[Game guides for every game on the machine](topics/games/batocera-top-games)** — 163
+  standalone walkthroughs covering all 169 titles installed on the UM790Pro, across 16 systems:
+  [NES](topics/games/nes/), [SNES](topics/games/snes/), [N64](topics/games/n64/),
+  [Game Boy](topics/games/gb/), [Game Boy Color](topics/games/gbc/),
+  [Game Boy Advance](topics/games/gba/), [Mega Drive](topics/games/megadrive/),
+  [Master System](topics/games/mastersystem/), [Game Gear](topics/games/gamegear/),
+  [PC Engine](topics/games/pcengine/), [Saturn](topics/games/saturn/),
+  [Dreamcast](topics/games/dreamcast/), [PlayStation](topics/games/psx/),
+  [PS2](topics/games/ps2/), [PSP](topics/games/psp/) and [Neo Geo](topics/games/neogeo/).
+  Each guide covers controls, the systems that actually matter, and what changes under emulation
+  rather than on original hardware.
 
 - **[Top 10 games on every system Batocera can run](topics/games/batocera-top-games)** —
-  170 games across 17 systems (NES through Wii U), each ranked by critical consensus with honest
-  caveats on PS3/RPCS3 and Xbox 360/Xenia compatibility. Companion to the UM790Pro build guide.
+  the wish list: 277 games across 27 systems (Master System through Wii U), ranked by critical
+  consensus with honest caveats on PS3/RPCS3 and Xbox 360/Xenia compatibility. Now carries a
+  section separating that list from what is actually installed and verified.
 
-- **[Batocera emulation appliance on the UM790Pro](topics/games/emulation-station-batocera)** —
-  turning the MINISFORUM UM790Pro into a controller-driven emulation appliance with Batocera:
-  install steps, the WiFi risk to know about before you start, per-system performance (PS3/RPCS3,
-  Wii U/Cemu, PS2/PCSX2, Switch caveat), storage layout, and ROM setup over the network.
+- **[The games Batocera ships with](topics/games/bundled-homebrew)** — the six freeware
+  homebrew titles that come with a fresh install, and why they are there.
 
 - **[Console jailbreaks: which are worth your time](topics/technology/console-jailbreak-landscape)** —
   ranked survey of every modern platform: 3DS (do it today), unpatched Switch (best current-gen
@@ -140,6 +146,10 @@ threads through several domains:
   discipline in AI engineering, defense BD, and (surprisingly) a frog terrarium.
 - **[Making with the Bambu X1C](connections/making-with-the-x1c)** — one printer, heavy
   game pieces to ultralight airframes.
+- **[When the artifact looks right and isn't](connections/looks-right-is-wrong)** — the same
+  failure in five domains: output that is well-formed, plausible and wrong, so every cheap check
+  passes. A scraper that named Mega Man 2 "Totally Rad", a vendor backtest you cannot falsify, a
+  search summary with the wrong date.
 - **[Finite resources, ruthless economy](connections/finite-resources)** — tokens,
   megabytes, grams, and people-hours, one shared move.
 
