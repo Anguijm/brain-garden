@@ -18,14 +18,14 @@ Twenty-seven systems, 277 games. Each list is ranked by a combination of critica
 ## What is actually on the machine
 
 This page is the wish list: 27 systems and 277 games, ranked on critical consensus. **The list
-below is what has actually been sourced, verified and installed on the UM790Pro** — 169 titles
+below is what has actually been sourced, verified and installed on the UM790Pro** — 171 titles
 across 16 systems, every one of them checksum-verified against the published No-Intro or Redump
 dumps, and every one with a written guide.
 
 | System | Titles | Guides |
 |---|---|---|
-| [NES](topics/games/nes/) | 17 | [16 guides](topics/games/nes/) |
-| [SNES](topics/games/snes/) | 12 | [11 guides](topics/games/snes/) |
+| [NES](topics/games/nes/) | 18 | [17 guides](topics/games/nes/) |
+| [SNES](topics/games/snes/) | 13 | [12 guides](topics/games/snes/) |
 | [Nintendo 64](topics/games/n64/) | 12 | [12 guides](topics/games/n64/) |
 | [Game Boy](topics/games/gb/) | 9 | [9 guides](topics/games/gb/) |
 | [Game Boy Color](topics/games/gbc/) | 12 | [12 guides](topics/games/gbc/) |
@@ -46,7 +46,7 @@ together in [The Games Batocera Ships With](topics/games/bundled-homebrew).
 
 **Sourcing rule:** official US releases only, verified from the ROM header rather than the
 filename, with one documented exception per system where no US release exists — 1080°
-Snowboarding on N64 and Ikaruga on Dreamcast. The full rule set is internal to the vault.
+Snowboarding on N64, Ikaruga on Dreamcast, and Lode Runner Twin on SNES. The full rule set is internal to the vault.
 
 **Neo Geo is the one system that works differently.** It uses FinalBurn Neo arcade romsets
 rather than cartridge or disc dumps, named by short set code (`mslug.zip`) rather than title,
@@ -207,6 +207,9 @@ Full standalone walkthroughs for every game below: **[NES Game Guides](topics/ga
 12. **[Bionic Commando](topics/games/nes/bionic-commando)** (1988) — Action-platformer — Assessment: 8.5/10
     Capcom's grappling-hook platformer. You cannot jump — the bionic arm is your only means of gaining elevation, which completely changes how every screen reads. One of the most mechanically distinct action games on the hardware, and the level design is built specifically around the constraint.
 
+13. **[Lode Runner](topics/games/nes/lode-runner)** (1987) — Puzzle-platformer — Assessment: 8.5/10
+    Broderbund's 1983 original ported by Hudson Soft. 150 levels of grid-based puzzle-platforming: collect all the gold, use holes you drill in the floor to trap enemies, reach the exit. There is no jump. Every level is a planning problem and most of them have exactly one solution. The design has not aged because it never depended on spectacle to work.
+
 ---
 
 ## SNES
@@ -245,6 +248,9 @@ The SNES library is one of the strongest in gaming history. Mode 7, the SPC700 s
 
 11. **Wing Commander** (1992) — Space combat — Assessment: 7.5/10
     Origin's space combat sim ported from PC. You fly a series of missions defending the Confederation from the Kilrathi, choose your wingman, and the war's outcome depends on your record. The SNES version loses some of the PC's depth but keeps the mission structure and the choice-consequence system intact. One of the few games in this era that made you feel like you were in a war rather than an arcade level.
+
+12. **[Lode Runner Twin](topics/games/snes/lode-runner-twin)** (1994, Japan) — Puzzle-platformer — Assessment: 8/10
+    Hudson Soft's definitive 16-bit take on Broderbund's original. The mechanics are identical — drill holes, trap enemies, collect gold, reach the exit — but the production quality is a clear step up from any NES version: smooth animation, better sound, larger stages, and a working two-player mode. No US SNES release exists; this is the Japan cartridge, playable without reading Japanese.
 
 ---
 

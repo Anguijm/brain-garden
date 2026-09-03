@@ -36,5 +36,6 @@ are listed separately rather than shuffled into it.
 | [Mike Tyson's Punch-Out!!](topics/games/nes/mike-tysons-punch-out) | Boxing / pattern game | The original licensed version, not *Featuring Mr. Dream* |
 | [Solomon's Key](topics/games/nes/solomons-key) | Puzzle-platformer | Tecmo, 1987 |
 | [Bomberman](topics/games/nes/bomberman) | Maze / action | Single-player NES original |
+| [Lode Runner](topics/games/nes/lode-runner) | Puzzle-platformer | Broderbund/Hudson, 1987 — 150 levels, no jump, pure planning |
 
 Back to [Batocera Top Games](topics/games/batocera-top-games).

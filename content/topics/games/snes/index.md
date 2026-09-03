@@ -24,6 +24,7 @@ games on this list are still the reference version of their genre thirty years l
 | [Super Castlevania IV](topics/games/snes/super-castlevania-iv) | Action-platformer | 9/10 |
 | [Street Fighter II Turbo](topics/games/snes/street-fighter-ii-turbo) | Fighting | 9/10 |
 | [Wing Commander](topics/games/snes/wing-commander) | Space combat | 7/10 |
+| [Lode Runner Twin](topics/games/snes/lode-runner-twin) | Puzzle-platformer | 8/10 — Japan only, no Japanese required |
 
 ## The numbering mess
 
