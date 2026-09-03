@@ -4,7 +4,7 @@ type: topic-note
 category: games
 tags: [emulation, batocera, gaming, hardware, minisforum, setup, retro]
 created: 2026-08-31
-updated: 2026-08-31
+updated: 2026-09-03
 sources_staged: false
 draft: false
 ---
@@ -272,6 +272,230 @@ restarts it and the screen stays black. Use `batocera-es-swissknife --restart`.
 
 **One check that matters:** `pgrep -f emulationstation` matches its own command line and will report
 a dead frontend as running. Use `ps -C emulationstation`.
+
+---
+
+## PS3 and RPCS3 setup (September 2026)
+
+This section covers what it actually took to get PS3 working. The general overview above says "install PS3UPDAT.PUP through RPCS3's settings," which omits the specifics that matter.
+
+### Firmware install
+
+FACT (2026-09-03): RPCS3 (Batocera 43.1 package) was installed. PS3 firmware 4.93 is installed and confirmed. The firmware version lives at:
+```
+/userdata/system/configs/rpcs3/dev_flash/vsh/etc/version.txt
+```
+Content: `release:04.9300:` — that is how `rpcs3Generator.py` confirms the firmware is present.
+
+**How to install:** Download `PS3UPDAT.PUP` from Sony. The ROM rule treats this as a BIOS file — stage it in `/userdata/bios/rpcs3/`. Then run:
+```bash
+/usr/bin/rpcs3 --installfw /userdata/bios/rpcs3/PS3UPDAT.PUP
+```
+
+This works unattended IF you have the correct entries in `CurrentSettings.ini`. Without them, RPCS3 blocks on a "Welcome to RPCS3" dialog and the install hangs indefinitely.
+
+### The dialog suppression INI: critical detail
+
+FACT (2026-09-03): Batocera's `rpcs3Generator.py` reads and writes `[main_window]` section keys, not `[Interface]`. Any attempt to suppress dialogs via `[Interface]` is silently ignored.
+
+The working config is at `/userdata/system/configs/rpcs3/GuiConfigs/CurrentSettings.ini`:
+```ini
+[Localization]
+language=en
+
+[Meta]
+attachCommandLine=false
+
+[main_window]
+confirmationBoxExitGame=false
+infoBoxEnabledInstallPUP=false
+infoBoxEnabledWelcome=false
+```
+
+**Failed approaches** (hours wasted, do not try again):
+- `[Interface]` / `show_welcome=false` — key does not exist in RPCS3's schema, silently ignored
+- `[Interface]` / `ib_show_welcome=false` — same
+- `QT_QPA_PLATFORM=offscreen` — Qt still processes the event loop and waits for the dialog
+- `xdotool click` at estimated coordinates — blocked by fullscreen overlay window
+- `xdotool key --window $WID Return` — Qt rejects XSendEvent (synthetic) events on XCB
+
+The discovery that broke the deadlock: reading `rpcs3Generator.py` source at `/usr/lib/python3.12/site-packages/configgen/generators/rpcs3/rpcs3Generator.py` to find the actual key names the generator sets.
+
+### PS3 game format
+
+RPCS3 on Batocera expects PS3 games either:
+- As folder dumps with PARAM.SFO at the correct path (extracted from `.pkg` or RAR archives)
+- As disc images in a format RPCS3 supports
+
+MiNERVA distributes games as multi-part RAR archives (e.g., `Metal_Gear_Solid_4_Guns_of_The_Patriots_BLUS30109.rar`). Extract the RAR to get the game folder, then place it under `/userdata/roms/ps3/`.
+
+---
+
+## Steam Big Picture: fixes applied (September 2026)
+
+### Fix 1: ES immediately reclaims foreground
+
+**Problem:** Launching Steam Big Picture from ES dropped back to ES immediately.
+
+**Root cause:** the original `batocera-steam` script's no-game path launched Big Picture in the background, slept 3 seconds, and exited. ES detects the emulator process ending and reclaims foreground.
+
+**Fix:** Launch Steam with the `-bigpicture` flag directly (not via `steam://open/bigpicture` URL), then block until Steam exits:
+
+```bash
+# OLD: URL approach left a 48x48 stub window; sleep-and-exit gave ES foreground back
+flatpak run com.valvesoftware.Steam steam://open/bigpicture &
+sleep 3
+
+# NEW: direct flag, block until Steam actually quits
+flatpak run com.valvesoftware.Steam -bigpicture &
+while steam_is_running; do sleep 3; done
+```
+
+`steam_is_running` checks for `flatpak-bwrap.*-- steam` — the bwrap wrapper — not the generic Steam name that also matches helper processes.
+
+FACT (2026-09-03, operator-confirmed): fix deployed in `/boot/boot-custom.sh` (persistent across reboots) and `/usr/bin/batocera-steam` (live). Big Picture now shows fullscreen at 1920x1080.
+
+### Fix 2: Xbox controller not working in Big Picture
+
+**Problem:** Xbox Series X/S controller (045E:0B22) connected and showed in kernel (`/proc/bus/input/devices`) but could not navigate Big Picture menus.
+
+**Root causes found** (both needed to be fixed):
+
+1. **Stuck preview config**: During Plague Inc. controller setup, Steam's controller config editor was left in "preview" mode for app 443510, loading a community workshop config (`steamapps/workshop/content/241100/936992996/767148481031564973_legacy.bin`) on every Big Picture focus cycle. This config overrides navigation bindings while active. Fixed by deleting the workshop file.
+
+2. **Batocera Control Center stealing X11 focus**: The Batocera Control Center (`python3 /usr/bin/batocera-controlcenter-app --hidden`, PID persistent across sessions) has two X11 windows. Openbox is configured with `focusNew=yes` — any new window gets focus automatically. When the Control Center creates or raises windows, it steals focus from the Steam Big Picture window. Steam detects the focus change and switches to the Desktop controller context (App 413080), which loads `empty.vdf` (no bindings). The controller goes dead for several seconds, then Big Picture reclaims focus, and the cycle repeats every 6–9 seconds.
+
+**Fixes applied (2026-09-03):**
+
+- Deleted the stuck preview file: `steamapps/workshop/content/241100/936992996/767148481031564973_legacy.bin`
+- Updated `batocera-steam` to kill `batocera-controlcenter` before launching Steam, and added a focus-keeper background loop:
+
+```bash
+# Kill Control Center so it cannot steal X11 focus
+pkill -f "batocera-controlcenter" 2>/dev/null || true
+sleep 1
+
+# ... launch -bigpicture ...
+
+# Focus keeper runs in background; reclaims Steam window whenever focus is lost
+(
+    sleep 8
+    WID=""
+    while [ -z "$WID" ] && steam_is_running; do
+        WID=$(DISPLAY="$DISP" xdotool search --name "Steam Big Picture Mode" 2>/dev/null | tail -1)
+        [ -z "$WID" ] && sleep 2
+    done
+    while steam_is_running; do
+        FOCUS=$(DISPLAY="$DISP" xdotool getwindowfocus 2>/dev/null)
+        if [ -n "$WID" ] && [ "$FOCUS" != "$WID" ]; then
+            DISPLAY="$DISP" xdotool windowactivate --sync "$WID" 2>/dev/null
+        fi
+        sleep 2
+    done
+) &
+FOCUS_PID=$!
+while steam_is_running; do sleep 3; done
+kill "$FOCUS_PID" 2>/dev/null || true
+```
+
+**How to diagnose this in future:** `logs/controller_ui.txt` shows `OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080` when focus is stolen. `logs/controller.txt` shows `Using preview config for appid: N` when a stuck preview is active.
+
+**The Plague Inc. workshop config** (`configset_45e-28e-1ba49c0.vdf`, app 246620 → workshop 1512491847) is separate and untouched — it only affects controller mappings when playing Plague Inc., not Big Picture navigation.
+
+FACT (2026-09-03): fix confirmed working. After applying both changes, the controller navigated Big Picture, opened the on-screen keyboard, and opened game controller settings — all without the focus cycling recurring.
+
+**Why the Control Center steals focus:** `emulationstation-standalone` starts `batocera-controlcenter hidden &` on every ES boot. Despite the `--hidden` flag, it creates two X11 windows. Openbox's `focusNew=yes` setting gives any newly-mapped window automatic focus, pulling focus from Steam. The Control Center does not restart during a Steam session, so killing it once at Steam launch is sufficient.
+
+**The focus keeper loop** in the updated script is a backup — if anything else creates a window and steals focus, the loop reclaims it every 2 seconds using `xdotool search --class "steam"`. The fix is not fragile: killing the Control Center is the primary solution, and the keeper is belt-and-suspenders.
+
+Assessment: `focusNew=no` in the Openbox config (`/etc/openbox/rc.xml`) would fix the root cause without needing the Control Center kill or focus keeper, but that would change all of Batocera's normal window focus behavior — a bigger change to test.
+
+---
+
+## PS3 ROM download via MiNERVA and qbittorrent-nox (September 2026)
+
+### ROM source: MiNERVA Archive
+
+FACT (2026-09-03): Myrient closed around March 2026 after unsustainable hosting costs (~\$6,000/month). Its successor is **MiNERVA Archive** at `minerva-archive.org`. The collection is the same Myrient data — 385 TB — redistributed via BitTorrent only. No direct HTTP downloads.
+
+MiNERVA's per-game pages show:
+- The file's `so_id` (the file index within the torrent)
+- A magnet link and `.torrent` download for the entire collection
+- File size
+
+For PS3: the torrent contains PS3_ALVRO_PART_1 through PART_11 (alphabetical) plus PS3_PSN_1/2.
+
+**What failed:**
+- archive.org PS3_ALVRO collections: HTTP 401 — requires account authentication. Direct `wget`/`curl` produces a 0-byte file with no error.
+- MiNERVA has no direct HTTP endpoint; all links resolve to torrent/magnet only.
+
+### Torrent client: qbittorrent-nox static binary
+
+Batocera has no torrent client and aria2c is not in the package manager. The solution is a static `qbittorrent-nox` binary from GitHub:
+
+```bash
+# One-time download (already done — binary is at /userdata/system/qbittorrent-nox)
+URL=$(curl -sL "https://api.github.com/repos/userdocs/qbittorrent-nox-static/releases/latest" | \
+  python3 -c "import json,sys; [print(a['browser_download_url']) for a in json.load(sys.stdin)['assets'] if a['name']=='x86_64-qbittorrent-nox']")
+wget -O /userdata/system/qbittorrent-nox "$URL"
+chmod +x /userdata/system/qbittorrent-nox
+```
+
+FACT (2026-09-03): qbittorrent-nox v5.2.3 (x86_64 musl static) runs on Batocera 43.1. Binary is at `/userdata/system/qbittorrent-nox` (persistent). Auto-starts via `boot-custom.sh` Fix 3 on every boot.
+
+Web UI: `http://192.168.11.65:8089`, user `admin`, password changes each session — read from `/tmp/qbt.log`.
+
+### File selection: fastresume edit
+
+qBittorrent 5.x broke the `/api/v2/torrents/filePrio` endpoint (the TorrentsController methods no longer exist). The workaround is to edit the `.fastresume` bencoded file directly while qbt is stopped:
+
+```bash
+pkill qbittorrent-nox
+# Edit fastresume with Python — key is file_priority (underscore, not dash)
+python3 /tmp/fix_fastresume.py   # see script below
+# Restart
+/userdata/system/qbittorrent-nox --confirm-legal-notice --webui-port=8089 --profile=/userdata/system/qbt-config >>/tmp/qbt.log 2>&1 &
+```
+
+The fastresume file is at:
+```
+/userdata/system/qbt-config/qBittorrent/data/BT_backup/<hash>.fastresume
+```
+
+**Failed qbt 5.x API endpoints** (do not try again):
+- `POST /api/v2/torrents/filePrio` — returns HTTP 200 with body "Endpoint does not exist"
+- `POST /api/v2/torrents/pause` / `resume` — HTTP 200 but no-op (methods removed)
+- `POST /api/v2/torrents/stop` / `start` — these DO work in v5.x
+- Cookie-based auth: `MozillaCookieJar.load()` fails on qbt's cookie file format; use `opener.open()` with the session opener that did the login, not the cookie file
+
+**Working in qbt 5.x:**
+- `GET /api/v2/torrents/info?hashes=<hash>` — returns state, size, progress, speed, peers
+- `GET /api/v2/torrents/files?hash=<hash>&indexes=N` — returns file list with index and priority
+- `GET /api/v2/app/preferences` — returns DHT/PEX/port settings
+- `GET /api/v2/torrents/trackers?hash=<hash>` — tracker status and peer counts
+- `POST /api/v2/torrents/add` with multipart `torrents=@<file>` — add a torrent
+
+### MGS4 status
+
+FACT (2026-09-03): Metal Gear Solid 4 (BLUS30109, US) is downloading.
+- File index in MiNERVA torrent: 1226 (0-indexed)
+- File size: 30,608 MB (~29 GB as a RAR archive)
+- MiNERVA torrent hash: `84a87977a30f1c22f09f68ba69d57c489f773adf`
+- Torrent: `minerva_myrient` (the full MiNERVA collection torrent)
+- As of 2026-09-03: downloading at ~23 KB/s, 19 peers, 1 MB completed
+
+Speed will increase as more peers are found. Let it run in the background. qbittorrent-nox will resume automatically after each reboot.
+
+### Other PS3 games to download (next)
+
+When MGS4 completes, queue these (all from the same MiNERVA torrent, just change the file index):
+- Uncharted 2 (BCUS98123): file index 3246 (PART_11)
+- Uncharted 1 (BCUS98103): file index 3242 (PART_11)
+- God of War 3 (BCUS98111): file index approx. PART_4
+- Heavy Rain (BCUS98246): file index approx. PART_4
+- Gran Turismo 5 (BCUS98114): file index approx. PART_4
+
+Look up exact file indices via the MiNERVA website or by checking the torrent's file list via the qbt API.
 
 ---
 

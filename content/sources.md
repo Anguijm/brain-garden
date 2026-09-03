@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-799 citations across 119 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+800 citations across 119 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -540,10 +540,11 @@ This page lists every external link cited anywhere in the garden, article by art
 
 ### [Batocera emulation appliance on the MINISFORUM UM790Pro](topics/games/emulation-station-batocera)
 
-1. [Batocera changelog](https://batocera.org/changelog)
-2. [Batocera supported controllers wiki](https://wiki.batocera.org/supported_controllers)
-3. [Batocera second drive wiki](https://wiki.batocera.org/store_games_on_a_second_usb_sata_drive)
-4. [Batocera batocera.conf wiki](https://wiki.batocera.org/batocera.conf)
+1. [Web UI: user admin, password changes each session — read from /tmp/qbt.log.](http://192.168.11.65:8089`)
+2. [Batocera changelog](https://batocera.org/changelog)
+3. [Batocera supported controllers wiki](https://wiki.batocera.org/supported_controllers)
+4. [Batocera second drive wiki](https://wiki.batocera.org/store_games_on_a_second_usb_sata_drive)
+5. [Batocera batocera.conf wiki](https://wiki.batocera.org/batocera.conf)
 
 ## Health
 
