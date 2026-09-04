@@ -32,6 +32,13 @@ sheets, front and back), with the events calendar on its own page after them.
 Each issue is readable on the web (with links into the rest of this garden) and
 downloadable as the print PDF (source links only).
 
+- **[Vol. 1, No. 8 — Week 36, September 2026](2026-w36)**
+  ([download the PDF](pdf/2026-w36.8daac17b.pdf)) — who built each section of a new destroyer's hull
+  and where the production records live; what Portsmouth learned during the first Block III
+  submarine maintenance cycle; why the \$14.3 billion FY27 ship maintenance request is the
+  pre-Epic Fury number; and what happens to foundational trade skill when automation
+  absorbs the decision-making.
+
 - **[Vol. 1, No. 7 — Week 35, August 2026](2026-w35)**
   ([download the PDF](pdf/2026-w35.fe66d411.pdf)) — eleven percent of attack submarine depot maintenance
   finished on time over ten years, and GAO's two recommendations are both about disposal, not

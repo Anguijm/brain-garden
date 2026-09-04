@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-800 citations across 119 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+820 citations across 120 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -146,6 +146,29 @@ This page lists every external link cited anywhere in the garden, article by art
 12. [Stars and Stripes, May 5, 2025](https://www.stripes.com/branches/navy/2025-05-05/navy-ship-overhaul-japanese-shipyard-17685893.html)
 13. [The Maritime Executive, May 2, 2025](https://maritime-executive.com/article/japan-s-mitsubishi-shipyard-completes-largest-overhaul-contract-for-us-navy)
 14. [Navy.mil, May 13, 2026](https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4485233/srf-jrmc-continues-to-deliver-warships-to-fleet-on-time/)
+
+### [The Waterfront Brief, Vol. 1 No. 8 (week 36)](projects/waterfront-brief/2026-w36)
+
+1. [HII Sea-Air-Space 2026, Apr 20, 2026](https://www.hii.com/news/at-sea-air-space-2026-hii-celebrates-manufacturing-job-creation-expansion-of-us-shipbuilding-industrial-base)
+2. [HII DDG 135 erection milestone, Jul 15, 2026](https://www.hii.com/news/hiis-ingalls-shipbuilding-erects-first-grand-blocks-built-by-distributed-shipbuilding-partners-on-thad-cochran-ddg-135)
+3. [HII LPD-32 announcement, Jul 27, 2026](https://www.hii.com/news/hiis-ingalls-shipbuilding-expands-distributed-shipbuilding-to-amphibious-ships)
+4. [HII HYPR announcement, Aug 6, 2026](https://www.hii.com/news/hii-signs-performance-based-production-agreements-with-path-robotics-and-graymatter-robotics)
+5. [RealClearDefense, Jul 17, 2026](https://www.realcleardefense.com/articles/2026/07/17/digital_thread_not_digital_theater_the_shipbuilding_fix_washington_keeps_missing_1195046.html)
+6. [Army Recognition, Aug 2026](https://www.armyrecognition.com/news/navy-news/2026/uss-north-dakota-ssn-784-rejoins-navy-gao-submarine-crisis)
+7. [Interesting Engineering, Aug 2026](https://interestingengineering.com/military/uss-north-dakota-returns-to-us-navy-fleet)
+8. [DVIDS Portsmouth undocking, Feb 26, 2026](https://www.dvidshub.net/news/558852/portsmouth-naval-shipyard-undocks-uss-north-dakota-ssn-784)
+9. [NavyCRF, Aug 31, 2026](https://www.navycrf.com/2026/08/31/pnsy-returns-north-dakota-to-the-fleet/)
+10. [DoN FY27 Budget Request press release, Apr 21, 2026](https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/4464720/department-of-the-navy-releases-fy27-budget-request/)
+11. [FY27 OMN Justification Book](https://www.secnav.navy.mil/fmc/fmb/Documents/27pres/OMN_Book.pdf)
+12. [Navy Times, CNO \$6-8B shortfall, Aug 28, 2026](https://www.navytimes.com/news/your-military/2026/08/28/after-epic-fury-navy-may-need-an-extra-8-billion-to-be-solvent-cno-says/)
+13. [CNN, Iran war maintenance delays, May 27, 2026](https://www.cnn.com/2026/05/27/politics/iran-war-spending-cancelled-trainings-delayed-maintenance)
+14. [Defense One, Mar 2026](https://www.defenseone.com/defense-systems/2026/03/navy-bets-900m-automated-factories-boost-submarine-production/412290/)
+15. [256 Today, Factory 4 deep dive, Mar 2026](https://256today.com/inside-hadrians-2-4-billion-factory-4-how-alabama-is-reshaping-u-s-defense-manufacturing/)
+16. [Hadrian press release, Mar 20, 2026](https://www.prnewswire.com/news-releases/hadrian-opens-advanced-manufacturing-facility-in-alabama-to-support-columbia--and-virginia-class-submarine-production-302720156.html)
+17. [Bainbridge, "Ironies of Automation," Automatica, 1983](https://dl.acm.org/doi/abs/10.1016/0005-1098(83)90046-8)
+18. [Flight Safety Foundation, "Use It or Lose It"](https://flightsafety.org/asw-article/use-it-or-lose-it/)
+19. [CSIS, "Industrial Mobilization: Assessing Surge Capabilities, Wartime Risk, and System](https://www.csis.org/analysis/industrial-mobilization-assessing-surge-capabilities-wartime-risk-and-system-brittleness)
+20. [Army Science Board, Surge Capacity in the Defense Munitions Industrial Base, 2023](https://asb.army.mil/Portals/105/Reports/2020s/ASB%20FY%2023%20DMIB%20Report%20(E).pdf)
 
 ## AI engineering
 
