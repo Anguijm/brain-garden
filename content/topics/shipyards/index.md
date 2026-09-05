@@ -20,6 +20,33 @@ qualification path is worth adopting.
 
 ## Notes
 
+Reference notes on how Navy maintenance is organised, written 2026-09-05 so the brief's
+Assessments have settled background to lean on instead of rediscovering it each week:
+
+- **[Who runs US Navy ship maintenance: fleets, NAVSEA, RMCs and the yards](navy-maintenance-organisation.md)**:
+  the chain from the fleet commander who owns the ship to the regional maintenance
+  centre that awards and administers a private-yard availability, and where a public
+  shipyard sits in it.
+
+- **[Optimized Fleet Response Plan (OFRP): the cycle a shipyard availability sits inside](optimized-fleet-response-plan.md)**:
+  the 36-month carrier and destroyer cycle, how long the maintenance phase is meant to
+  take, where the slack is when a yard runs late (training, not the plan), and what an
+  extended deployment does to the next availability.
+
+- **[Who plans the work on each Navy ship class: planning yards, lead yards and technical authority](planning-yards.md)**:
+  who owns the drawings and the class design for each hull type, what the planning yard
+  hands a repair yard and when, and who can sign a departure from specification.
+
+- **[Navy maintenance availabilities: the types and who performs them](availability-types.md)**:
+  what SRA, DSRA, EDSRA, DMP, PIA, DPIA, RCOH, EOH and the rest mean, which are public-yard
+  work and which private, and how long each is planned to run against how long it has.
+
+- **[Navy availability milestones: the planner's calendar from advance planning to close-out](availability-milestones.md)**:
+  the A-minus and C-plus calendar, where the package locks, and the formal line between
+  growth work and new work, which decides who has to sign for it.
+
+Standing notes:
+
 - **[Can a foreign yard repair a US warship? The homeport rule](foreign-yard-repair-law.md)**
   — 10 U.S.C. § 8680, and why a Korean yard being certified for destroyers is not the same
   thing as being allowed to work on them. Written because this desk conflated the two and

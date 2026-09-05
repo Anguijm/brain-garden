@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-820 citations across 120 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+902 citations across 125 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -167,7 +167,7 @@ This page lists every external link cited anywhere in the garden, article by art
 16. [Hadrian press release, Mar 20, 2026](https://www.prnewswire.com/news-releases/hadrian-opens-advanced-manufacturing-facility-in-alabama-to-support-columbia--and-virginia-class-submarine-production-302720156.html)
 17. [Bainbridge, "Ironies of Automation," Automatica, 1983](https://dl.acm.org/doi/abs/10.1016/0005-1098(83)90046-8)
 18. [Flight Safety Foundation, "Use It or Lose It"](https://flightsafety.org/asw-article/use-it-or-lose-it/)
-19. [CSIS, "Industrial Mobilization: Assessing Surge Capabilities, Wartime Risk, and System](https://www.csis.org/analysis/industrial-mobilization-assessing-surge-capabilities-wartime-risk-and-system-brittleness)
+19. [CSIS, "Industrial Mobilization: Assessing Surge Capabilities, Wartime Risk, and System](https://csis-website-prod.s3.amazonaws.com/s3fs-public/publication/210108_Cancian_Industrial_Mobilization.pdf)
 20. [Army Science Board, Surge Capacity in the Defense Munitions Industrial Base, 2023](https://asb.army.mil/Portals/105/Reports/2020s/ASB%20FY%2023%20DMIB%20Report%20(E).pdf)
 
 ## AI engineering
@@ -1092,9 +1092,106 @@ This page lists every external link cited anywhere in the garden, article by art
 
 1. [Taylor & Francis](https://www.tandfonline.com/doi/full/10.1179/1743284714Y.0000000723)
 
+### [Navy availability milestones: the planner's calendar from advance planning to close-out](topics/shipyards/availability-milestones)
+
+1. [JFMM Vol II, Part II, ch. 2, Appendix D1, row 68](https://web.archive.org/web/20250312071433id_/https://www.navsea.navy.mil/Portals/103/Documents/SUBMEPP/JFMM/Volume_II.pdf)
+2. [RAND RR1155, 2015](https://www.rand.org/content/dam/rand/pubs/research_reports/RR1100/RR1155/RAND_RR1155.pdf)
+3. [GAO-20-370, pp. 17-18](https://www.gao.gov/assets/gao-20-370.pdf)
+4. [GAO-20-588](https://www.gao.gov/assets/gao-20-588.pdf)
+5. [JFMM Vol VI, ch. 31, paras 31.3.2.c and 31.4.3.k](https://web.archive.org/web/20241119222606id_/https://www.navsea.navy.mil/Portals/103/Documents/SUBMEPP/JFMM/Volume%20VI.pdf)
+6. [CBO, Maintenance Delays for Conventional Navy Ships, Dec 2025, footnote 5](https://web.archive.org/web/20260122074505id_/https://www.cbo.gov/system/files/2025-12/61507-ship-maintenance.pdf)
+7. [secnav.navy.mil/4700.7N.pdf](https://www.secnav.navy.mil/doni/Directives/04000%20Logistical%20Support%20and%20Services/04-700%20General%20Maintenance%20and%20Construction%20Support/4700.7N.pdf)
+
+### [Navy maintenance availabilities: the types and who performs them](topics/shipyards/availability-types)
+
+1. [OPNAVINST 4700.7N, para 701.1](https://www.secnav.navy.mil/doni/Directives/04000%20Logistical%20Support%20and%20Services/04-700%20General%20Maintenance%20and%20Construction%20Support/4700.7N.pdf)
+2. [JFMM Vol II, glossary](https://web.archive.org/web/20250312071433id_/https://www.navsea.navy.mil/Portals/103/Documents/SUBMEPP/JFMM/Volume_II.pdf)
+3. [GAO-26-109256, pp. 3-4](https://www.gao.gov/assets/gao-26-109256.pdf)
+4. [JFMM Vol VI, ch. 31, para 31.3.2.i](https://web.archive.org/web/20241119222606id_/https://www.navsea.navy.mil/Portals/103/Documents/SUBMEPP/JFMM/Volume%20VI.pdf)
+5. [CBO, Maintenance Delays for Conventional Navy Ships, Dec 2025](https://web.archive.org/web/20260122074505id_/https://www.cbo.gov/system/files/2025-12/61507-ship-maintenance.pdf)
+6. [RAND RR1155, 2015](https://www.rand.org/content/dam/rand/pubs/research_reports/RR1100/RR1155/RAND_RR1155.pdf)
+7. [GAO-11-388R, p. 8](https://www.gao.gov/assets/gao-11-388r.pdf)
+8. [GAO-20-588](https://www.gao.gov/assets/gao-20-588.pdf)
+9. [DVIDS, USS New Hampshire begins DMP, 5 Sep 2025](https://www.dvidshub.net/news/547296/)
+10. [gao.gov/gao-20-370.pdf](https://www.gao.gov/assets/gao-20-370.pdf)
+
 ### [Can a foreign yard repair a US warship? The homeport rule](topics/shipyards/foreign-yard-repair-law)
 
 1. [10 U.S.C. § 8680](https://www.law.cornell.edu/uscode/text/10/8680)
+
+### [Who runs US Navy ship maintenance: fleets, NAVSEA, RMCs and the yards](topics/shipyards/navy-maintenance-organisation)
+
+1. [GAO-17-54](https://www.gao.gov/assets/gao-17-54.pdf)
+2. [GAO-22-104510](https://www.gao.gov/assets/gao-22-104510.pdf)
+3. [DVIDS, SRF-JRMC change of command](https://www.dvidshub.net/news/490220/srf-jrmc-hosts-change-command)
+4. [GAO-25-106990](https://www.gao.gov/assets/gao-25-106990.pdf)
+5. [DVIDS, Greene visits FDRMC](https://www.dvidshub.net/news/458399/commander-us-navy-surface-ship-maintenance-visits-forward-deployed-maintenance-locations)
+6. [DVIDS, MARMC change of command 2022](https://www.dvidshub.net/news/427158/mid-atlantic-regional-maintenance-center-holds-change-command)
+7. [DVIDS, Greene visits HRMC 2023](https://www.dvidshub.net/news/455907/rear-adm-greene-visits-hawaii-regional-maintenance-center)
+8. [DVIDS, Bily assumes command of FDRMC 2024](https://www.dvidshub.net/news/473352/bily-assumes-command-forward-deployed-regional-maintenance-center)
+9. [DoD contracts, Jan. 6, 2022](https://www.defense.gov/News/Contracts/Contract/Article/2891105/)
+10. [DVIDS, NRMOs established, 2012](https://www.dvidshub.net/news/printable/89969)
+11. [GAO-17-548](https://www.gao.gov/products/gao-17-548)
+12. [GAO-20-64](https://www.gao.gov/assets/gao-20-64.pdf)
+13. [GAO-22-104655](https://www.gao.gov/assets/gao-22-104655.pdf)
+14. [DVIDS, SUPSHIP board meeting 2025](https://www.dvidshub.net/news/548951/supship-board-directors-meeting-strengthens-strategic-alignment-across-enterprise)
+15. [SURFLANT mission page](https://www.surflant.usff.navy.mil/About-Us/Mission/)
+16. [SURFPAC home page](https://www.surfpac.navy.mil/)
+17. [DoD contracts, Nov. 30, 2021](https://www.defense.gov/News/Contracts/Contract/Article/2857360/)
+18. [DoD contracts, Jan. 26, 2024](https://www.defense.gov/News/Contracts/Contract/Article/3658212/)
+19. [DoD contracts, Apr. 24, 2024](https://www.defense.gov/News/Contracts/Contract/Article/3754777/)
+20. [DVIDS unit feeds (undated, no unit description; staged for the record only): CNRMC MARMC](https://www.dvidshub.net/unit/CNRMC)
+21. [DVIDS unit feeds (undated, no unit description; staged for the record only): CNRMC](https://www.dvidshub.net/unit/MARMC)
+22. [DVIDS unit feeds (undated, no unit description; staged for the record only): CNRMC](https://www.dvidshub.net/unit/SWRMC)
+23. [DVIDS unit feeds (undated, no unit description; staged for the record only): CNRMC](https://www.dvidshub.net/unit/SERMC)
+24. [DVIDS unit feeds (undated, no unit description; staged for the record only): CNRMC](https://www.dvidshub.net/unit/FDRMC)
+25. [DVIDS unit feeds (undated, no unit description; staged for the record only): CNRMC](https://www.dvidshub.net/unit/SRF-JRMC)
+26. [DVIDS unit feeds (undated, no unit description; staged for the record only): CNRMC](https://www.dvidshub.net/unit/SoS-NN)
+
+### [Optimized Fleet Response Plan (OFRP): the cycle a shipyard availability sits inside](topics/shipyards/optimized-fleet-response-plan)
+
+1. [OPNAVINST 3000.15A](https://www.secnav.navy.mil/doni/Directives/03000%20Naval%20Operations%20and%20Readiness/03-00%20General%20Operations%20and%20Readiness%20Support/3000.15A.pdf)
+2. [USNI News, 2020-10-28](https://news.usni.org/2020/10/28/navy-issues-revision-to-ofrp-deployment-scheme)
+3. [GAO-16-466R](https://www.gao.gov/assets/gao-16-466r.pdf)
+4. [AFTT Final EIS, chapter 1](https://media.defense.gov/2020/May/13/2002299471/-1/-1/1/1.0%20AFTT%20FEIS%20PURPOSE%20AND%20NEED.PDF)
+5. [USNI News, 2026-02-12](https://news.usni.org/2026/02/12/improving-maintenance-timelines-key-to-on-time-strike-group-deployments-cno-says)
+6. [COMNAVSURFPAC/COMNAVSURFLANTINST 3502.7](https://allhands.navy.mil/Portals/1/Optask/references/COMNAVSURFPAC_COMNAVSURFLANTINST-3502_7-1Nov18-Surface_Force_Training_Readiness_Manual.pdf?ver=W4gxIOXq_F2u55iCVjiVzQ%3D%3D)
+7. [hearing transcript, 2015-09-10](https://www.govinfo.gov/content/pkg/CHRG-114hhrg96239/html/CHRG-114hhrg96239.htm)
+8. [Breaking Defense, 2026-05-13](https://breakingdefense.com/2026/05/navy-to-run-into-financial-constraints-this-summer-due-to-current-operations-cno-says/)
+9. [USNI News, 2016-01-19](https://news.usni.org/2016/01/19/u-s-fleet-forces-new-deployment-plan-designed-to-create-sustainable-naval-force)
+10. [Defense News, 2020-02-10](https://www.defensenews.com/naval/2020/02/07/the-us-navys-vaunted-deployment-plan-is-showing-cracks-everywhere/)
+11. [USNI News, 2026-07-14](https://news.usni.org/2026/07/14/carrier-uss-gerald-r-ford-starts-first-major-post-deployment-maintenance-period)
+12. [Defense News, 2023-01-18](https://www.defensenews.com/naval/2023/01/18/fleet-forces-team-tackles-decoupling-destroyers-from-carriers/)
+13. [GAO-25-108104](https://www.gao.gov/products/gao-25-108104)
+14. [GAO-26-108888](https://www.gao.gov/products/gao-26-108888)
+15. [2026-09-05docs-house-govhmtg-114-as03-wstate-burket-20150910.md: joint statement of RADM](https://docs.house.gov/meetings/AS/AS03/20150910/103881/HMTG-114-AS03-Wstate-BurkeT-20150910.pdf)
+16. [2026-09-05news-usni-orgnavy-dod-conducting-parallel-reviews-of-ofrp-usni-news.md: USNI](https://news.usni.org/2020/01/16/navy-dod-conducting-parallel-reviews-of-ofrp)
+
+### [Who plans the work on each Navy ship class: planning yards, lead yards and technical authority](topics/shipyards/planning-yards)
+
+1. [NVR, Planning Yard (Hull) Assignments](https://www.nvr.navy.mil/nvr/getByPlanningYard.htm?shipCraft=0&hullNuc=H)
+2. [JFMM Vol I, para 2.7, Wayback copy of the navsea.navy.mil PDF](https://web.archive.org/web/20250523215304id_/https://www.navsea.navy.mil/Portals/103/Documents/SUBMEPP/JFMM/Volume_I_D4.pdf)
+3. [General Dynamics, 11 June 2018](https://www.gd.com/Articles/2018/06/11/general-dynamics-bath-iron-works-awarded-50-million-ddg-51-lead-yard-services-contract)
+4. [war.gov contracts for 2 April 2026](https://www.war.gov/News/Contracts/Contract/Article/4450753/contracts-for-april-2-2026/)
+5. [NAVSEA 05D, Engineering and Technical Authority Overview, 15 Jan 2019, Wayback copy](https://web.archive.org/web/20221115025356id_/https://www.navsea.navy.mil/Portals/103/Documents/Exhibits/SNA2019/Eng_TechAuth-Lind.pdf)
+6. [JFMM Vol II, Part II ch. 2 App. D1, Wayback copy](https://web.archive.org/web/20250312071433id_/https://www.navsea.navy.mil/Portals/103/Documents/SUBMEPP/JFMM/Volume_II.pdf)
+7. [defense.gov contracts for 4 Feb 2019](https://www.defense.gov/News/Contracts/Contract/Article/1747970/)
+8. [Naval Today, 20 Nov 2020](https://www.navaltoday.com/2020/11/20/bath-iron-works-secures-146m-planning-yard-option-from-us-navy/)
+9. [HII, 1 May 2019](https://www.globenewswire.com/news-release/2019/05/01/1813745/0/en/PHOTO-RELEASE-Huntington-Ingalls-Industries-Wins-LCS-Planning-Yard-Contract-Worth-A-Potential-931-7-Million.html)
+10. [NSWC Port Hueneme, In Service Engineering, Wayback copy, undated](https://web.archive.org/web/20260612173919id_/https://www.navsea.navy.mil/Home/Warfare-Centers/NSWC-Port-Hueneme/What-We-Do/In-Service-Engineering/)
+11. [JFMM Vol V, Part I ch. 8, paras 8.2 and 8.1.2, Wayback copy](https://web.archive.org/web/20240927040421id_/https://www.navsea.navy.mil/Portals/103/Documents/SUBMEPP/JFMM/Volume_V.pdf)
+12. [OPNAVINST 4700.7N, para 902.3, 5 Dec 2024](https://www.secnav.navy.mil/doni/Directives/04000%20Logistical%20Support%20and%20Services/04-700%20General%20Maintenance%20and%20Construction%20Support/4700.7N.pdf)
+13. [war.gov 14 June 2024](https://www.war.gov/News/Contracts/Contract/Article/3808062/)
+14. [CRS R44972, 4 March 2025](https://www.congress.gov/crs_external_products/R/PDF/R44972/R44972.131.pdf)
+15. [NVR hull page, USS Nimitz](https://www.nvr.navy.mil/nvr/getHull.htm?shipId=5151)
+16. [NVR hull page, USS Gerald R. Ford](https://www.nvr.navy.mil/nvr/getHull.htm?shipId=4524)
+17. [NVR hull page, USS Albany](https://www.nvr.navy.mil/nvr/getHull.htm?shipId=1999)
+18. [HII, 20 Dec 2019](https://hii.com/news/photo-release-huntington-ingalls-industries-awarded-submarine-planning-yard-contract-worth-a-potential-454-million/)
+19. [General Dynamics, Bath Iron Works Awarded \$719 Million for Planning Yard Services](https://www.gd.com/Articles/2019/02/04/general-dynamics-bath-iron-works-awarded-719-million-planning-yard)
+20. [PR Newswire copy of the same release, 2019-02-04.](https://www.prnewswire.com/news-releases/general-dynamics-awarded-719-million-for-planning-yard-services-for-ddg-51-class-ships-300789401.html)
+21. [Seapower, GD Bath Iron Works Awarded \$719 Million for Planning Yard Services for DDG 51s](https://seapowermagazine.org/gd-bath-iron-works-awarded-719-million-for-planning-yard-services-for-ddg-51s/)
+22. [Senators Collins and King, announcement of the June 2024 planning yard award, undated on](https://www.collins.senate.gov/newsroom/senators-collins-king-announce-more-than-200-million-contract-awarded-to-bath-iron-works)
+23. [HII newsroom copy of the same release, 2019-05-01.](https://newsroom.hii.com/releases/photo-release-huntington-ingalls-industries-wins-lcs-planning-yard-contract-worth-a-potential-931-7-million)
 
 ## Software
 
