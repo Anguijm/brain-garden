@@ -45,6 +45,12 @@ Assessments have settled background to lean on instead of rediscovering it each 
   the A-minus and C-plus calendar, where the package locks, and the formal line between
   growth work and new work, which decides who has to sign for it.
 
+- **[Portfolio Acquisition Executives: the 2026 reorganisation and where ship maintenance now sits](portfolio-acquisition-executives.md)**:
+  what a PAE is, the nine the Navy stood up in 2026, the three a repair yard meets
+  (Industrial Operations, Maritime, Undersea), where the public yards, the RMCs, SURFMEPP
+  and the SUPSHIPs now report, and what has not moved yet. The organisation note above
+  describes the chart this one replaces.
+
 Standing notes:
 
 - **[Can a foreign yard repair a US warship? The homeport rule](foreign-yard-repair-law.md)**

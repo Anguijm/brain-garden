@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-902 citations across 125 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+917 citations across 126 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -1173,25 +1173,43 @@ This page lists every external link cited anywhere in the garden, article by art
 2. [JFMM Vol I, para 2.7, Wayback copy of the navsea.navy.mil PDF](https://web.archive.org/web/20250523215304id_/https://www.navsea.navy.mil/Portals/103/Documents/SUBMEPP/JFMM/Volume_I_D4.pdf)
 3. [General Dynamics, 11 June 2018](https://www.gd.com/Articles/2018/06/11/general-dynamics-bath-iron-works-awarded-50-million-ddg-51-lead-yard-services-contract)
 4. [war.gov contracts for 2 April 2026](https://www.war.gov/News/Contracts/Contract/Article/4450753/contracts-for-april-2-2026/)
-5. [NAVSEA 05D, Engineering and Technical Authority Overview, 15 Jan 2019, Wayback copy](https://web.archive.org/web/20221115025356id_/https://www.navsea.navy.mil/Portals/103/Documents/Exhibits/SNA2019/Eng_TechAuth-Lind.pdf)
-6. [JFMM Vol II, Part II ch. 2 App. D1, Wayback copy](https://web.archive.org/web/20250312071433id_/https://www.navsea.navy.mil/Portals/103/Documents/SUBMEPP/JFMM/Volume_II.pdf)
-7. [defense.gov contracts for 4 Feb 2019](https://www.defense.gov/News/Contracts/Contract/Article/1747970/)
-8. [Naval Today, 20 Nov 2020](https://www.navaltoday.com/2020/11/20/bath-iron-works-secures-146m-planning-yard-option-from-us-navy/)
-9. [HII, 1 May 2019](https://www.globenewswire.com/news-release/2019/05/01/1813745/0/en/PHOTO-RELEASE-Huntington-Ingalls-Industries-Wins-LCS-Planning-Yard-Contract-Worth-A-Potential-931-7-Million.html)
-10. [NSWC Port Hueneme, In Service Engineering, Wayback copy, undated](https://web.archive.org/web/20260612173919id_/https://www.navsea.navy.mil/Home/Warfare-Centers/NSWC-Port-Hueneme/What-We-Do/In-Service-Engineering/)
-11. [JFMM Vol V, Part I ch. 8, paras 8.2 and 8.1.2, Wayback copy](https://web.archive.org/web/20240927040421id_/https://www.navsea.navy.mil/Portals/103/Documents/SUBMEPP/JFMM/Volume_V.pdf)
-12. [OPNAVINST 4700.7N, para 902.3, 5 Dec 2024](https://www.secnav.navy.mil/doni/Directives/04000%20Logistical%20Support%20and%20Services/04-700%20General%20Maintenance%20and%20Construction%20Support/4700.7N.pdf)
-13. [war.gov 14 June 2024](https://www.war.gov/News/Contracts/Contract/Article/3808062/)
-14. [CRS R44972, 4 March 2025](https://www.congress.gov/crs_external_products/R/PDF/R44972/R44972.131.pdf)
-15. [NVR hull page, USS Nimitz](https://www.nvr.navy.mil/nvr/getHull.htm?shipId=5151)
-16. [NVR hull page, USS Gerald R. Ford](https://www.nvr.navy.mil/nvr/getHull.htm?shipId=4524)
-17. [NVR hull page, USS Albany](https://www.nvr.navy.mil/nvr/getHull.htm?shipId=1999)
-18. [HII, 20 Dec 2019](https://hii.com/news/photo-release-huntington-ingalls-industries-awarded-submarine-planning-yard-contract-worth-a-potential-454-million/)
-19. [General Dynamics, Bath Iron Works Awarded \$719 Million for Planning Yard Services](https://www.gd.com/Articles/2019/02/04/general-dynamics-bath-iron-works-awarded-719-million-planning-yard)
-20. [PR Newswire copy of the same release, 2019-02-04.](https://www.prnewswire.com/news-releases/general-dynamics-awarded-719-million-for-planning-yard-services-for-ddg-51-class-ships-300789401.html)
-21. [Seapower, GD Bath Iron Works Awarded \$719 Million for Planning Yard Services for DDG 51s](https://seapowermagazine.org/gd-bath-iron-works-awarded-719-million-for-planning-yard-services-for-ddg-51s/)
-22. [Senators Collins and King, announcement of the June 2024 planning yard award, undated on](https://www.collins.senate.gov/newsroom/senators-collins-king-announce-more-than-200-million-contract-awarded-to-bath-iron-works)
-23. [HII newsroom copy of the same release, 2019-05-01.](https://newsroom.hii.com/releases/photo-release-huntington-ingalls-industries-wins-lcs-planning-yard-contract-worth-a-potential-931-7-million)
+5. [SECNAVINST 5400.15D, para 4.f(4) and encl (1) para 4, 19 Jan 2021](https://www.secnav.navy.mil/doni/Directives/05000%20General%20Management%20Security%20and%20Safety%20Services/05-400%20Organization%20and%20Functional%20Support%20Services/5400.15D.pdf)
+6. [JFMM Vol II, Part I ch. 3, Wayback copy](https://web.archive.org/web/20250312071433id_/https://www.navsea.navy.mil/Portals/103/Documents/SUBMEPP/JFMM/Volume_II.pdf)
+7. [NAVSEA 05D, Engineering and Technical Authority Overview, 15 Jan 2019, Wayback copy](https://web.archive.org/web/20221115025356id_/https://www.navsea.navy.mil/Portals/103/Documents/Exhibits/SNA2019/Eng_TechAuth-Lind.pdf)
+8. [defense.gov contracts for 4 Feb 2019](https://www.defense.gov/News/Contracts/Contract/Article/1747970/)
+9. [Naval Today, 20 Nov 2020](https://www.navaltoday.com/2020/11/20/bath-iron-works-secures-146m-planning-yard-option-from-us-navy/)
+10. [HII, 1 May 2019](https://www.globenewswire.com/news-release/2019/05/01/1813745/0/en/PHOTO-RELEASE-Huntington-Ingalls-Industries-Wins-LCS-Planning-Yard-Contract-Worth-A-Potential-931-7-Million.html)
+11. [NSWC Port Hueneme, In Service Engineering, Wayback copy, undated](https://web.archive.org/web/20260612173919id_/https://www.navsea.navy.mil/Home/Warfare-Centers/NSWC-Port-Hueneme/What-We-Do/In-Service-Engineering/)
+12. [JFMM Vol V, Part I ch. 8, paras 8.2 and 8.1.2, Wayback copy](https://web.archive.org/web/20240927040421id_/https://www.navsea.navy.mil/Portals/103/Documents/SUBMEPP/JFMM/Volume_V.pdf)
+13. [OPNAVINST 4700.7N, para 902.3, 5 Dec 2024](https://www.secnav.navy.mil/doni/Directives/04000%20Logistical%20Support%20and%20Services/04-700%20General%20Maintenance%20and%20Construction%20Support/4700.7N.pdf)
+14. [war.gov 14 June 2024](https://www.war.gov/News/Contracts/Contract/Article/3808062/)
+15. [CRS R44972, 4 March 2025](https://www.congress.gov/crs_external_products/R/PDF/R44972/R44972.131.pdf)
+16. [NVR hull page, USS Nimitz](https://www.nvr.navy.mil/nvr/getHull.htm?shipId=5151)
+17. [NVR hull page, USS Gerald R. Ford](https://www.nvr.navy.mil/nvr/getHull.htm?shipId=4524)
+18. [NVR hull page, USS Albany](https://www.nvr.navy.mil/nvr/getHull.htm?shipId=1999)
+19. [HII, 20 Dec 2019](https://hii.com/news/photo-release-huntington-ingalls-industries-awarded-submarine-planning-yard-contract-worth-a-potential-454-million/)
+20. [General Dynamics, Bath Iron Works Awarded \$719 Million for Planning Yard Services](https://www.gd.com/Articles/2019/02/04/general-dynamics-bath-iron-works-awarded-719-million-planning-yard)
+21. [PR Newswire copy of the same release, 2019-02-04.](https://www.prnewswire.com/news-releases/general-dynamics-awarded-719-million-for-planning-yard-services-for-ddg-51-class-ships-300789401.html)
+22. [Seapower, GD Bath Iron Works Awarded \$719 Million for Planning Yard Services for DDG 51s](https://seapowermagazine.org/gd-bath-iron-works-awarded-719-million-for-planning-yard-services-for-ddg-51s/)
+23. [Senators Collins and King, announcement of the June 2024 planning yard award, undated on](https://www.collins.senate.gov/newsroom/senators-collins-king-announce-more-than-200-million-contract-awarded-to-bath-iron-works)
+24. [HII newsroom copy of the same release, 2019-05-01.](https://newsroom.hii.com/releases/photo-release-huntington-ingalls-industries-wins-lcs-planning-yard-contract-worth-a-potential-931-7-million)
+
+### [Portfolio Acquisition Executives: the 2026 reorganisation and where ship maintenance now sits](topics/shipyards/portfolio-acquisition-executives)
+
+1. [Secretary of War memorandum, 7 Nov 2025](https://media.defense.gov/2025/Nov/10/2003819439/-1/-1/1/TRANSFORMING-THE-DEFENSE-ACQUISITION-SYSTEM-INTO-THE-WARFIGHTING-ACQUISITION-SYSTEM-TO-ACCELERATE-FIELDING-OF-URGENTLY-NEEDED-CAPABILITIES-TO-OUR-WARRIORS.PDF)
+2. [Navy press release, 16 Mar 2026](https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/4435370/navy-reshapes-warfighting-acquisition-system/)
+3. [Navy press release, 11 May 2026](https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/4483312/navy-advances-acquisition-reform-strategy-appoints-three-new-portfolio-acquisit/)
+4. [USNI News, 16 Mar 2026](https://news.usni.org/2026/03/16/secnav-phelan-stands-up-5-new-offices-for-navy-marine-acquisition)
+5. [USNI, 10 Aug 2026](https://news.usni.org/2026/08/10/navsea-commander-downey-retires-2-admirals-take-over-roles-in-interim)
+6. [DVIDS, 6 Aug 2026](https://www.dvidshub.net/news/571787/weeks-relieves-downey-portfolio-acquisition-executive-industrial-operations)
+7. [USNI, 20 Jul 2026](https://news.usni.org/2026/07/20/new-navy-pae-maritime-shipbuilding-office-reaches-ioc)
+8. [PAE Maritime portfolio page](https://www.paemaritime.navy.mil/)
+9. [Janes, 14 Aug 2026](https://www.janes.com/defence-intelligence-insights/defence-news/industry/new-us-navy-submarine-programme-reorganisation-leads-to-overhaul-of-submarine-construction-oversight)
+10. [DefenseScoop, 21 Jul 2026](https://defensescoop.com/2026/07/21/navy-submarine-production-technology-acquisition/)
+11. [SECNAVINST 5400.15D](https://www.secnav.navy.mil/doni/Directives/05000%20General%20Management%20Security%20and%20Safety%20Services/05-400%20Organization%20and%20Functional%20Support%20Services/5400.15D.pdf)
+12. [JFMM Vol II, Part I ch. 3, paras 2.1.2 and 3.3.8.9, Wayback copy](https://web.archive.org/web/20250312071433id_/https://www.navsea.navy.mil/Portals/103/Documents/SUBMEPP/JFMM/Volume_II.pdf)
+13. [Breaking Defense, Navy unveils acquisition reform, establishes five more PAE](https://breakingdefense.com/2026/03/navy-unveils-acquisition-reform-establishes-five-more-pae-organizations/)
+14. [Inside Defense, Navy appoints new NAVSEA commander, PAE Industrial Operations](https://insidedefense.com/insider/navy-appoints-new-navsea-commander-pae-industrial-operations)
 
 ## Software
 
