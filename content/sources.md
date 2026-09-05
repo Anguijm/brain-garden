@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-917 citations across 126 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+919 citations across 126 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -1129,24 +1129,26 @@ This page lists every external link cited anywhere in the garden, article by art
 6. [DVIDS, MARMC change of command 2022](https://www.dvidshub.net/news/427158/mid-atlantic-regional-maintenance-center-holds-change-command)
 7. [DVIDS, Greene visits HRMC 2023](https://www.dvidshub.net/news/455907/rear-adm-greene-visits-hawaii-regional-maintenance-center)
 8. [DVIDS, Bily assumes command of FDRMC 2024](https://www.dvidshub.net/news/473352/bily-assumes-command-forward-deployed-regional-maintenance-center)
-9. [DoD contracts, Jan. 6, 2022](https://www.defense.gov/News/Contracts/Contract/Article/2891105/)
-10. [DVIDS, NRMOs established, 2012](https://www.dvidshub.net/news/printable/89969)
-11. [GAO-17-548](https://www.gao.gov/products/gao-17-548)
-12. [GAO-20-64](https://www.gao.gov/assets/gao-20-64.pdf)
-13. [GAO-22-104655](https://www.gao.gov/assets/gao-22-104655.pdf)
-14. [DVIDS, SUPSHIP board meeting 2025](https://www.dvidshub.net/news/548951/supship-board-directors-meeting-strengthens-strategic-alignment-across-enterprise)
-15. [SURFLANT mission page](https://www.surflant.usff.navy.mil/About-Us/Mission/)
-16. [SURFPAC home page](https://www.surfpac.navy.mil/)
-17. [DoD contracts, Nov. 30, 2021](https://www.defense.gov/News/Contracts/Contract/Article/2857360/)
-18. [DoD contracts, Jan. 26, 2024](https://www.defense.gov/News/Contracts/Contract/Article/3658212/)
-19. [DoD contracts, Apr. 24, 2024](https://www.defense.gov/News/Contracts/Contract/Article/3754777/)
-20. [DVIDS unit feeds (undated, no unit description; staged for the record only): CNRMC MARMC](https://www.dvidshub.net/unit/CNRMC)
-21. [DVIDS unit feeds (undated, no unit description; staged for the record only): CNRMC](https://www.dvidshub.net/unit/MARMC)
-22. [DVIDS unit feeds (undated, no unit description; staged for the record only): CNRMC](https://www.dvidshub.net/unit/SWRMC)
-23. [DVIDS unit feeds (undated, no unit description; staged for the record only): CNRMC](https://www.dvidshub.net/unit/SERMC)
-24. [DVIDS unit feeds (undated, no unit description; staged for the record only): CNRMC](https://www.dvidshub.net/unit/FDRMC)
-25. [DVIDS unit feeds (undated, no unit description; staged for the record only): CNRMC](https://www.dvidshub.net/unit/SRF-JRMC)
-26. [DVIDS unit feeds (undated, no unit description; staged for the record only): CNRMC](https://www.dvidshub.net/unit/SoS-NN)
+9. [GAO-20-86](https://www.gao.gov/products/gao-20-86)
+10. [JFMM Vol II, Part I ch. 2, paras 2.1.1 and 2.1.2, Wayback copy](https://web.archive.org/web/20250312071433id_/https://www.navsea.navy.mil/Portals/103/Documents/SUBMEPP/JFMM/Volume_II.pdf)
+11. [DoD contracts, Jan. 6, 2022](https://www.defense.gov/News/Contracts/Contract/Article/2891105/)
+12. [DVIDS, NRMOs established, 2012](https://www.dvidshub.net/news/printable/89969)
+13. [GAO-17-548](https://www.gao.gov/products/gao-17-548)
+14. [GAO-20-64](https://www.gao.gov/assets/gao-20-64.pdf)
+15. [GAO-22-104655](https://www.gao.gov/assets/gao-22-104655.pdf)
+16. [DVIDS, SUPSHIP board meeting 2025](https://www.dvidshub.net/news/548951/supship-board-directors-meeting-strengthens-strategic-alignment-across-enterprise)
+17. [SURFLANT mission page](https://www.surflant.usff.navy.mil/About-Us/Mission/)
+18. [SURFPAC home page](https://www.surfpac.navy.mil/)
+19. [DoD contracts, Nov. 30, 2021](https://www.defense.gov/News/Contracts/Contract/Article/2857360/)
+20. [DoD contracts, Jan. 26, 2024](https://www.defense.gov/News/Contracts/Contract/Article/3658212/)
+21. [DoD contracts, Apr. 24, 2024](https://www.defense.gov/News/Contracts/Contract/Article/3754777/)
+22. [DVIDS unit feeds (undated, no unit description; staged for the record only): CNRMC MARMC](https://www.dvidshub.net/unit/CNRMC)
+23. [DVIDS unit feeds (undated, no unit description; staged for the record only): CNRMC](https://www.dvidshub.net/unit/MARMC)
+24. [DVIDS unit feeds (undated, no unit description; staged for the record only): CNRMC](https://www.dvidshub.net/unit/SWRMC)
+25. [DVIDS unit feeds (undated, no unit description; staged for the record only): CNRMC](https://www.dvidshub.net/unit/SERMC)
+26. [DVIDS unit feeds (undated, no unit description; staged for the record only): CNRMC](https://www.dvidshub.net/unit/FDRMC)
+27. [DVIDS unit feeds (undated, no unit description; staged for the record only): CNRMC](https://www.dvidshub.net/unit/SRF-JRMC)
+28. [DVIDS unit feeds (undated, no unit description; staged for the record only): CNRMC](https://www.dvidshub.net/unit/SoS-NN)
 
 ### [Optimized Fleet Response Plan (OFRP): the cycle a shipyard availability sits inside](topics/shipyards/optimized-fleet-response-plan)
 
@@ -1174,7 +1176,7 @@ This page lists every external link cited anywhere in the garden, article by art
 3. [General Dynamics, 11 June 2018](https://www.gd.com/Articles/2018/06/11/general-dynamics-bath-iron-works-awarded-50-million-ddg-51-lead-yard-services-contract)
 4. [war.gov contracts for 2 April 2026](https://www.war.gov/News/Contracts/Contract/Article/4450753/contracts-for-april-2-2026/)
 5. [SECNAVINST 5400.15D, para 4.f(4) and encl (1) para 4, 19 Jan 2021](https://www.secnav.navy.mil/doni/Directives/05000%20General%20Management%20Security%20and%20Safety%20Services/05-400%20Organization%20and%20Functional%20Support%20Services/5400.15D.pdf)
-6. [JFMM Vol II, Part I ch. 3, Wayback copy](https://web.archive.org/web/20250312071433id_/https://www.navsea.navy.mil/Portals/103/Documents/SUBMEPP/JFMM/Volume_II.pdf)
+6. [JFMM Vol II, Part I ch. 2, para 2.1.1, Wayback copy](https://web.archive.org/web/20250312071433id_/https://www.navsea.navy.mil/Portals/103/Documents/SUBMEPP/JFMM/Volume_II.pdf)
 7. [NAVSEA 05D, Engineering and Technical Authority Overview, 15 Jan 2019, Wayback copy](https://web.archive.org/web/20221115025356id_/https://www.navsea.navy.mil/Portals/103/Documents/Exhibits/SNA2019/Eng_TechAuth-Lind.pdf)
 8. [defense.gov contracts for 4 Feb 2019](https://www.defense.gov/News/Contracts/Contract/Article/1747970/)
 9. [Naval Today, 20 Nov 2020](https://www.navaltoday.com/2020/11/20/bath-iron-works-secures-146m-planning-yard-option-from-us-navy/)
@@ -1207,7 +1209,7 @@ This page lists every external link cited anywhere in the garden, article by art
 9. [Janes, 14 Aug 2026](https://www.janes.com/defence-intelligence-insights/defence-news/industry/new-us-navy-submarine-programme-reorganisation-leads-to-overhaul-of-submarine-construction-oversight)
 10. [DefenseScoop, 21 Jul 2026](https://defensescoop.com/2026/07/21/navy-submarine-production-technology-acquisition/)
 11. [SECNAVINST 5400.15D](https://www.secnav.navy.mil/doni/Directives/05000%20General%20Management%20Security%20and%20Safety%20Services/05-400%20Organization%20and%20Functional%20Support%20Services/5400.15D.pdf)
-12. [JFMM Vol II, Part I ch. 3, paras 2.1.2 and 3.3.8.9, Wayback copy](https://web.archive.org/web/20250312071433id_/https://www.navsea.navy.mil/Portals/103/Documents/SUBMEPP/JFMM/Volume_II.pdf)
+12. [JFMM Vol II, Part I ch. 2 para 2.1.1 and ch. 3 para 3.3.8.9, Wayback copy](https://web.archive.org/web/20250312071433id_/https://www.navsea.navy.mil/Portals/103/Documents/SUBMEPP/JFMM/Volume_II.pdf)
 13. [Breaking Defense, Navy unveils acquisition reform, establishes five more PAE](https://breakingdefense.com/2026/03/navy-unveils-acquisition-reform-establishes-five-more-pae-organizations/)
 14. [Inside Defense, Navy appoints new NAVSEA commander, PAE Industrial Operations](https://insidedefense.com/insider/navy-appoints-new-navsea-commander-pae-industrial-operations)
 
