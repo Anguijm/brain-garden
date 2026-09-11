@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-931 citations across 126 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+964 citations across 127 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -169,6 +169,42 @@ This page lists every external link cited anywhere in the garden, article by art
 18. [Flight Safety Foundation, "Use It or Lose It"](https://flightsafety.org/asw-article/use-it-or-lose-it/)
 19. [CSIS, "Industrial Mobilization: Assessing Surge Capabilities, Wartime Risk, and System](https://csis-website-prod.s3.amazonaws.com/s3fs-public/publication/210108_Cancian_Industrial_Mobilization.pdf)
 20. [Army Science Board, Surge Capacity in the Defense Munitions Industrial Base, 2023](https://asb.army.mil/Portals/105/Reports/2020s/ASB%20FY%2023%20DMIB%20Report%20(E).pdf)
+
+### [The Waterfront Brief, Vol. 1 No. 9 (week 37)](projects/waterfront-brief/2026-w37)
+
+1. [NAVSEA via DVIDS, Jun 26, 2026](https://www.dvidshub.net/news/568662/navy-delivers-major-capability-with-completion-uss-chung-hoon-ddg-93-and-uss-james-e-williams-ddg-95-modernizations)
+2. [Naval News, Jun 26, 2026](https://www.navalnews.com/naval-news/2026/06/u-s-navy-accepts-two-modernized-destroyers-ahead-of-schedule/)
+3. [Naval News, Jun 1, 2025](https://www.navalnews.com/event-news/cne-2025/2025/06/u-s-navy-sees-significant-improvement-in-scheduling-after-maintenance-planning-overhaul/)
+4. [USNI News, Jan 16, 2025](https://news.usni.org/2025/01/16/navy-identifies-first-destroyer-to-receive-full-set-of-ddg-mod-2-0-upgrades)
+5. [USNI News, Jan 31, 2023](https://news.usni.org/2023/01/31/navy-destroyer-modernization-program-could-cost-17b-take-up-to-2-years-per-hull)
+6. [GAO-25-106749](https://www.gao.gov/products/gao-25-106749)
+7. [GAO-26-109256](https://www.gao.gov/products/gao-26-109256)
+8. [SRF-JRMC via DVIDS, Sep 9, 2026](https://www.dvidshub.net/news/574143/srf-jrmc-returns-uss-preble-fleet)
+9. [NAVSEA, SRF-JRMC Yokosuka description](https://www.navsea.navy.mil/Home/RMC/SRFJRMC/JapanTours/WorkingInJapan/SRFRMCYokoDescription.aspx)
+10. [NAVSEA, Jul 7, 2026](https://www.navsea.navy.mil/Media/News/Article-View/Article/4535400/uss-illinois-successfully-undocks-at-pearl-harbor-naval-shipyard/)
+11. [NAVSEA, Aug 12, 2026](https://www.navsea.navy.mil/Media/News/Article-View/Article/4583054/pearl-harbor-naval-shipyard-wraps-up-dry-dock-phase-of-north-carolina-maintenan/)
+12. [USNI News, Jan 27, 2023](https://news.usni.org/2023/01/27/navy-closes-4-puget-sound-submarine-dry-docks-following-earthquake-risk-study)
+13. [U.S. Navy, Aug 28, 2026](https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4585267/us-navy-completes-dry-dock-4-seismic-modernization-at-puget-sound-naval-shipyar/)
+14. [Naval News, Aug 8, 2023](https://www.navalnews.com/naval-news/2023/08/navsea-updates-on-uss-connecticut-ssn-22-submarine-repairs/)
+15. [The War Zone, Jul 15, 2025](https://www.twz.com/sea/submarine-uss-connecticut-severely-damaged-in-pacific-crash-to-return-to-service-in-2026)
+16. [New Haven Register via CT OMA, Jun 1, 2026](https://portal.ct.gov/oma/in-the-news/2026-news/uss-connecticut-after-crashes-bedbugs-and-polar-bear-encounters-nears-return-to-service)
+17. [Navy long-range shipbuilding plan, May 2026](https://media.defense.gov/2026/May/11/2003928909/-1/-1/1/NAVY%20SHIPBUILDING%20PLAN%20MAY%202026.PDF)
+18. [NRL via DVIDS, May 29, 2026](https://www.dvidshub.net/news/565987/weeks-hours-nrls-isis360-reduces-inspection-time-shipboard-tank-inspections)
+19. [SERMC via DVIDS, May 7, 2026](https://www.dvidshub.net/news/564644)
+20. [SRF-JRMC via DVIDS, Jul 9, 2026](https://www.dvidshub.net/news/569670/srf-jrmc-boosts-fleet-readiness-with-360-degree-tank-inspection-system)
+21. [GAO-25-106990](https://www.gao.gov/products/gao-25-106990)
+22. [SIMA Norfolk via DVIDS, Jul 22, 2026](https://www.dvidshub.net/news/570402/sima-norfolk-establishes-expeditionary-maintenance-capability-advance-fleet-readiness)
+23. [U.S. Pacific Fleet, Apr 4, 2026](https://www.cpf.navy.mil/Newsroom/News/Article/4452493/uss-ashland-completes-ship-wartime-repair-and-maintenance-exercise-in-philippin/)
+24. [White House, Aug 13, 2026](https://www.whitehouse.gov/presidential-actions/2026/08/rebuilding-the-united-states-navy-and-americas-shipbuilding-industrial-base/)
+25. [White House, Sep 3, 2026](https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bill-h-r-6500-signed-into-law/)
+26. [Inside Defense, Sep 2026](https://insidedefense.com/insider/congress-approves-cr-through-dec-11)
+27. [H.R. 6500, enrolled](https://www.congress.gov/bill/119th-congress/house-bill/6500/text)
+28. [The Korea Times, Sep 10, 2026](https://www.koreatimes.co.kr/southkorea/politics/20260910/korea-seeks-to-expand-us-naval-cooperation-from-mro-to-shipbuilding)
+29. [Naval News, Sep 10, 2026](https://www.navalnews.com/features/2026/09/japan-industry-pulling-back-us-navy-frigate-plan/)
+30. [The Maritime Executive, Sep 1, 2026](https://maritime-executive.com/article/partial-strikes-begin-at-hd-hyundai-s-ulsan-yard-as-contract-talks-stall)
+31. [The Maritime Executive, Sep 7, 2026](https://maritime-executive.com/article/potential-u-s-bidder-emerges-to-challenge-hanwha-for-austal-usa)
+32. [The Maritime Executive, Sep 2026](https://maritime-executive.com/article/us-investors-top-hanwha-s-bid-for-austal-usa)
+33. [DoD News via GlobalSecurity, Sep 8, 2026](https://www.globalsecurity.org/military/library/news/2026/09/mil-260908-dodnews02.htm)
 
 ## AI engineering
 

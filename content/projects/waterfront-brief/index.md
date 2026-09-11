@@ -32,6 +32,11 @@ sheets, front and back), with the events calendar on its own page after them.
 Each issue is readable on the web (with links into the rest of this garden) and
 downloadable as the print PDF (source links only).
 
+- **[Vol. 1, No. 9, Week 37, September 2026](2026-w37)**
+  ([download the PDF](pdf/2026-w37.2b7fa784.pdf)): why destroyer modernization periods are landing on
+  time and what the answer costs; a tank inspection camera going to all seven regional
+  maintenance centers; two Puget Sound submarine docks changing state in one month; the
+  expeditionary repair container No. 2 said to watch; and six things to watch.
 - **[Vol. 1, No. 8 — Week 36, September 2026](2026-w36)**
   ([download the PDF](pdf/2026-w36.34b55b1a.pdf)) — who built each section of a new destroyer's hull
   and where the production records live; what Portsmouth learned during the first Block III
