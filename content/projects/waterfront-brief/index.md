@@ -45,7 +45,7 @@ downloadable as the print PDF (source links only).
   absorbs the decision-making.
 
 - **[Vol. 1, No. 7 — Week 35, August 2026](2026-w35)**
-  ([download the PDF](pdf/2026-w35.fe66d411.pdf)) — eleven percent of attack submarine depot maintenance
+  ([download the PDF](pdf/2026-w35.d46c94b6.pdf)) — eleven percent of attack submarine depot maintenance
   finished on time over ten years, and GAO's two recommendations are both about disposal, not
   overhauls; the O&M account that pays for maintenance was spent on the Iran conflict and the
   supplemental has not passed; Bath Iron Works ratified a five-year contract and the automation
