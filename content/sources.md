@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-964 citations across 127 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+995 citations across 128 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -205,6 +205,40 @@ This page lists every external link cited anywhere in the garden, article by art
 31. [The Maritime Executive, Sep 7, 2026](https://maritime-executive.com/article/potential-u-s-bidder-emerges-to-challenge-hanwha-for-austal-usa)
 32. [The Maritime Executive, Sep 2026](https://maritime-executive.com/article/us-investors-top-hanwha-s-bid-for-austal-usa)
 33. [DoD News via GlobalSecurity, Sep 8, 2026](https://www.globalsecurity.org/military/library/news/2026/09/mil-260908-dodnews02.htm)
+
+### [The Waterfront Brief: reference shelf](projects/waterfront-brief/reference-shelf)
+
+1. [MIL-STD-2035](https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=72749)
+2. [MIL-STD-1689](https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=37098)
+3. [MIL-STD-777](https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=35947)
+4. [MIL-STD-1310](https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=36209)
+5. [MIL-STD-2003](https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=37217)
+6. [MIL-DTL-24441](https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=17311)
+7. [MIL-PRF-23236](https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=16128)
+8. [MIL-PRF-24667](https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=107630)
+9. [MIL-STD-2041](https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=111087)
+10. [MIL-STD-1399](https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=36807)
+11. [29 CFR 1915, OSHA shipyard employment](https://www.ecfr.gov/current/title-29/part-1915)
+12. [PDF](https://web.archive.org/web/20250312071433id_/https://www.navsea.navy.mil/Portals/103/Documents/SUBMEPP/JFMM/Volume_II.pdf)
+13. [PDF](https://web.archive.org/web/20240927040421id_/https://www.navsea.navy.mil/Portals/103/Documents/SUBMEPP/JFMM/Volume_V.pdf)
+14. [Navy long-range shipbuilding plan, May 2026](https://media.defense.gov/2026/May/11/2003928909/-1/-1/1/NAVY%20SHIPBUILDING%20PLAN%20MAY%202026.PDF)
+15. [GAO-26-109256, attack submarine maintenance (Aug 2026)](https://www.gao.gov/products/gao-26-109256)
+16. [GAO-25-106749, cruiser modernization outcomes (2025)](https://www.gao.gov/products/gao-25-106749)
+17. [GAO-22-104510, Navy ship maintenance organisation (2022)](https://www.gao.gov/assets/gao-22-104510.pdf)
+18. [CBO, Maintenance Delays for Conventional Navy Ships (Dec 2025)](https://www.cbo.gov/publication/61507)
+19. [Presidential memorandum, Rebuilding the United States Navy (Aug 13, 2026)](https://www.whitehouse.gov/presidential-actions/2026/08/rebuilding-the-united-states-navy-and-americas-shipbuilding-industrial-base/)
+20. [H.R. 6500, Continuing Appropriations and Extensions Act, 2027 (enrolled)](https://www.congress.gov/bill/119th-congress/house-bill/6500/text)
+21. [2015-437 Safer Inspection of Medium-High Voltage Switchboards MS 4 Final Report](https://www.nsrp.org/wp-content/uploads/2026/07/2015-437-Safer-Inspection-of-Medium-High-Voltage-Switchboards-MS-4-Final-Report.pdf)
+22. [2014-413 Comparison of Heavy Metal Removal from Shipyard Storm Water Runoff MS 04 Final](https://www.nsrp.org/wp-content/uploads/2026/07/2014-413-Comparison-of-Heavy-Metal-Removal-from-Shipyard-Storm-Water-Runoff-MS-04-Final-Report-1.pdf)
+23. [Protecting America'S Fleet: The Navy, The Fire Service, And The Struggle For Interagency](https://calhoun.nps.edu/handle/10945/75748)
+24. [Cruiser Modernization: An Organizational Knowledge Capture](https://calhoun.nps.edu/handle/10945/75651)
+25. [Characterization Of A Modified Aluminum Alloy Fabricated Via Liquid Metal Jet Printing](https://calhoun.nps.edu/handle/10945/75722)
+26. [Bridging The Labor Gap: Leveraging Immigration Policy To Address Workforce Shortages In](https://calhoun.nps.edu/handle/10945/75900)
+27. [Contracted Trainers Or Dedicated Airframes? Evaluating Pilot Training And Sustainment](https://calhoun.nps.edu/handle/10945/75989)
+28. [Mechanical Properties Of Copper-Nickel Utilized In Expeditionary Cold Spray Additive](https://calhoun.nps.edu/handle/10945/75968)
+29. [NPS Calhoun](https://calhoun.nps.edu/)
+30. [NSRP](https://www.nsrp.org/)
+31. [war.gov/News/Contracts](https://www.war.gov/News/Contracts/)
 
 ## AI engineering
 
