@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-995 citations across 128 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+1012 citations across 129 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -381,6 +381,26 @@ This page lists every external link cited anywhere in the garden, article by art
 3. [How Reduction Gears Work, Chapter 7, Gene Slover's US Navy Pages](https://www.eugeneleeslover.com/ENGINEERING/CHAPTER-7.php)
 4. [Reduction Gears, Massachusetts Maritime TSPS Engineering Manual](https://weh.maritime.edu/campus/TSPS/manual/DriveTrain.html)
 5. [P3D-Bench: Benchmarking MLLMs for Parametric 3D Generation and Structural Reasoning](https://arxiv.org/html/2606.11152v1)
+
+### [Running frontier-class models at home](topics/ai-engineering/22-running-frontier-models-at-home)
+
+1. [arena.ai/leaderboard](https://arena.ai/leaderboard)
+2. [artificialanalysis.ai/models](https://artificialanalysis.ai/models)
+3. [Apple newsroom](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/)
+4. [Apple's spec page](https://www.apple.com/mac-studio/specs/)
+5. [MacRumors, 2026-08-25](https://www.macrumors.com/2026/08/25/mac-studio-m5-ultra-512gb-ram-october/)
+6. [hardware-corner.net, 2026-03-11](https://www.hardware-corner.net/m5-max-local-llm-benchmarks-20261233/)
+7. [IntuitionLabs review, updated 2026-08-12](https://intuitionlabs.ai/articles/nvidia-dgx-spark-review)
+8. [Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next)
+9. [DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash)
+10. [Level1Techs benchmark thread](https://forum.level1techs.com/t/strix-halo-ryzen-ai-max-395-llm-benchmark-results/233796)
+11. [ollama/ollama issue #15601](https://github.com/ollama/ollama/issues/15601)
+12. [lmstudio.ai/blog/claudecode](https://lmstudio.ai/blog/claudecode)
+13. [ollama.com/blog](https://ollama.com/blog)
+14. [Jeff Geerling, 2025-12-18](https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5/)
+15. [AppleInsider's writeup, 2025-12-20](https://appleinsider.com/articles/25/12/20/ai-calculations-on-mac-cluster-gets-a-big-boost-from-new-rdma-support-on-thunderbolt-5)
+16. [Notebookcheck, 2026-01-13](https://www.notebookcheck.net/Framework-Desktop-now-cost-up-to-460-more-due-to-RAM-shortage.1203235.0.html)
+17. [PCGamesN, September 2026](https://www.pcgamesn.com/nvidia/rtx-5090-pricing-september-2026)
 
 ## Business development
 

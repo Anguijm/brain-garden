@@ -158,6 +158,19 @@ almost never the model. It is packaging, and it is fixable.
   design work, and why an over-constrained problem lands close without anyone recalling the
   real machine.
 
+## Owning the machine instead of renting the tokens
+
+Assessment: the question behind a home AI lab is not "can I run a model" but "can I run
+one I would trust with real work." In September 2026 the answer moved: the best open
+models sit one generation behind the frontier, not an era behind it.
+
+- **[Running frontier-class models at home](22-running-frontier-models-at-home)**
+  — the state of local inference as of September 2026: how close the open models actually
+  come (one generation, measured on the arenas and felt in the missed edge cases), why
+  memory bandwidth decides everything, what fits in 64 versus 256 versus 512 GB, why two
+  clustered machines lose to one big one, the memory shortage repricing the whole market,
+  and a purchase decision on the M5 Ultra Mac Studio with a date on it.
+
 ## See also
 
 - **[Using AI well](connections/using-ai-well)** — the discipline running under this whole wing: a fluent model is an assistant, not an oracle.
