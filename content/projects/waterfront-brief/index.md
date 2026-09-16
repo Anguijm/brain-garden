@@ -27,6 +27,14 @@ is the editor's read; Speculation is flagged), and every article ends with a one
 bottom line. The print edition is a two-column PDF: exactly four article pages (two
 sheets, front and back), with the events calendar on its own page after them.
 
+## The reference shelf
+
+Beside the issues sits the [reference shelf](projects/waterfront-brief/reference-shelf): the
+standards a repair package is certified to with their current revisions read from the record,
+the plans and reports the queue is read from, the vault's notes on how Navy maintenance is
+organised, and the newest theses and NSRP reports on the work, each with the date it was
+last checked.
+
 ## Issues
 
 Each issue is readable on the web (with links into the rest of this garden) and
