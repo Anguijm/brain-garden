@@ -53,7 +53,7 @@ All state below is as reported by the operator, 2026-09-19.
 - Redo both water closets, upstairs and downstairs.
 - Build a wood deck or balcony where the old balcony was.
 - Take down part of the front wall for a parking space at the front of the yard.
-- Request the electrical service upgrade from 30-amp (target 50 or 60 amp, to be confirmed).
+- Request the electrical service upgrade from 30-amp; working target 60-amp, to be confirmed with the electrician.
 - Replace or refinish the roof.
 - Paint the whole house exterior.
 - Stair lighting.

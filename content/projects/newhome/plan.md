@@ -71,11 +71,11 @@ an interim measure; the real fix is a wood deck or balcony, to be scoped later.
 **Parking.** Take down part of the front-yard wall so a car can park all the way at
 the front.
 
-**Electrical.** The house has 30-amp service. The upgrade target needs confirming:
-the scope statement for this project said 50-amp, and the earlier planning
-conversations said 60-amp. Either way it is a contract change with the utility,
-coordinated with local electricians; whether the house wiring supports the new
-capacity is a research item.
+**Electrical.** The house has 30-amp service. Working target is 60-amp (operator,
+2026-09-19: "probably 60, not 100% sure"; to be confirmed with the electrician
+before the utility request). It is a contract change with the utility, coordinated
+with local electricians; whether the house wiring supports the new capacity is a
+research item.
 
 **Roof.** Probably needs replacing or refinishing. Which one is a decision that
 needs an inspection first.
@@ -117,8 +117,8 @@ Questions that need a proper researched answer before the work they block:
 - Laying flooring over tatami: moisture, underlayment, height at doorways. (blocks
   the master floor)
 - Refreshing shoji: re-papering versus replacement panels.
-- Service upgrade from 30-amp: confirm the target (50 or 60 amp; the two plans
-  differ), the utility process, cost, and whether the house wiring needs work.
+- Service upgrade from 30-amp to (probably) 60-amp: confirm the target with the
+  electrician, the utility process, cost, and whether the house wiring needs work.
 - Deck or balcony: options, rough costs, and what Japanese regulations apply to an
   elevated structure.
 - Roof: how to tell refinish from replace, and what an inspection should cover.
