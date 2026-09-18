@@ -22,7 +22,7 @@ pieces are ordered and will be installed once the paint and floor are in.
 **TV living area.** Left as it is, except one small wall comes down. Before demo,
 confirm the wall is not load-bearing (research item; see the safety flags).
 
-**Middle living area (Tommy's old room).** Cleared out. Needs a new floor, paint,
+**Middle living area.** Was a tatami room; the tatami has been taken out. Needs a new floor, paint,
 and finishing.
 
 **Bath and laundry room.** Done. Refinished by a contractor.

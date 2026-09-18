@@ -29,7 +29,7 @@ All state below is as reported by the operator, 2026-09-19.
 ## Now (before move-in)
 
 - Kitchen: paint and new floor, then install the ordered counters, stove, and IKEA pieces.
-- Middle living area (Tommy's old room): new floor, paint, finish out.
+- Middle living area (the old tatami room, mats already out): new floor, paint, finish out.
 - Small bedroom 1: finish the flooring edge, install trim, refinish the closet doors, clean the glass.
 - Master bedroom (traditional Japanese, two connected spaces): finish painting, refresh the shoji, lay the already-ordered flooring over the tatami.
 - Small bedroom 2: paint the ceiling; the wood paneling stays.
