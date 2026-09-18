@@ -1,5 +1,5 @@
 ---
-title: "Sonic the Hedgehog 2 — Mega Drive Guide"
+title: "Sonic the Hedgehog 2: Mega Drive Guide"
 type: game-guide
 category: games/megadrive
 tags: [megadrive, genesis, sonic, sega, platformer, walkthrough, guide]

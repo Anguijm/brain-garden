@@ -224,5 +224,5 @@ loop cannot drain the balance.
 
 ## See also
 
-- [How The Waterfront Brief is made](projects/waterfront-brief/how-it-works) — the editorial method:
+- [How The Waterfront Brief is made](projects/waterfront-brief/how-it-works): the editorial method:
   what it searches for, what it screens against, how a fact gets checked.

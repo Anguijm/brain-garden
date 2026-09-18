@@ -1,5 +1,5 @@
 ---
-title: "Tactics Ogre: Let Us Cling Together — PSP Guide"
+title: "Tactics Ogre: Let Us Cling Together: PSP Guide"
 type: game-guide
 category: games/psp
 tags: [psp, tactics-ogre, square-enix, quest, strategy, srpg, walkthrough, guide]

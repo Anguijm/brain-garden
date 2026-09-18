@@ -53,11 +53,11 @@ is low-risk and sensible; treat the specific figures as the study's own claims.
 
 ## See also
 
-- **[Collaborative overload](collaborative-overload)** — the organizational-scale companion:
+- **[Collaborative overload](collaborative-overload)**: the organizational-scale companion:
   why a few people carry too much of the load.
-- **[Who's got the monkey?](whos-got-the-monkey)** — protecting your time from other people's
+- **[Who's got the monkey?](whos-got-the-monkey)**: protecting your time from other people's
   next moves, one level down.
-- **[The making of a corporate athlete](corporate-athlete)** — the energy side of avoiding
+- **[The making of a corporate athlete](corporate-athlete)**: the energy side of avoiding
   burnout.
 
 ## Sources

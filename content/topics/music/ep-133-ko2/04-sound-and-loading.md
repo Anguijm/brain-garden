@@ -8,7 +8,7 @@ tags: [music, sampler, groovebox, teenage-engineering, ep-133, ko-ii, tutorial]
 created: 2026-06-23
 ---
 
-# Chapter 4 — Sound mode and loading sounds
+# Chapter 4: Sound mode and loading sounds
 
 ![The SOUND button with EDIT as its SHIFT secondary](img/sound.jpg)
 *The SOUND button (SHIFT+SOUND for sound edit). Photo: Teenage Engineering.*

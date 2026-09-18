@@ -1,5 +1,5 @@
 ---
-title: "Final Fantasy Adventure — Game Boy Guide"
+title: "Final Fantasy Adventure: Game Boy Guide"
 type: game-guide
 category: games/gb
 tags: [gb, gameboy, square, mana, final-fantasy-adventure, action-rpg, walkthrough, guide]
@@ -42,10 +42,10 @@ That is the combat system, and it is why button-mashing fails here. **Wait, stri
 
 **Levels come from kills**, and on level-up you choose which stat to raise — Power, Stamina, Wisdom or Will. That choice is permanent.
 
-- **Power** — physical damage.
-- **Stamina** — HP and defence.
-- **Wisdom** — magic power.
-- **Will** — MP.
+- **Power**: physical damage.
+- **Stamina**: HP and defence.
+- **Wisdom**: magic power.
+- **Will**: MP.
 
 A balanced Power/Stamina build carries most players; magic is useful but the game is winnable as a fighter.
 

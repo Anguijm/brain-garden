@@ -1,5 +1,5 @@
 ---
-title: "Kingdom Hearts II — PS2 Guide"
+title: "Kingdom Hearts II: PS2 Guide"
 type: game-guide
 category: games/ps2
 tags: [ps2, playstation-2, kingdom-hearts, square-enix, disney, action-rpg, walkthrough, guide]

@@ -64,4 +64,4 @@ through the whole section.
 
 ## Sources
 
-- Anthropic, *Extended thinking* — https://docs.anthropic.com/en/docs/build-with-claude/extended-thinking
+- Anthropic, *Extended thinking*: https://docs.anthropic.com/en/docs/build-with-claude/extended-thinking

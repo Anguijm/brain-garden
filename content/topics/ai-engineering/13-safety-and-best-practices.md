@@ -107,11 +107,11 @@ Assessment: the habits that hold up across every chapter:
 ## See also
 
 - **In this series:** [← Multi-agent systems](12-multi-agent-systems) · [MRAgent →](14-mragent) · [Overview](topics/ai-engineering/)
-- **[Using AI well](connections/using-ai-well)** — overconfidence and hallucination as named failure modes.
+- **[Using AI well](connections/using-ai-well)**: overconfidence and hallucination as named failure modes.
 
 ## Sources
 
-- OWASP GenAI Security Project, *Top 10 for LLM Applications (2025)* — https://genai.owasp.org/llm-top-10/
-- Anthropic, *Building Effective Agents* — https://www.anthropic.com/engineering/building-effective-agents
-- Anthropic, *How we built our multi-agent research system* — https://www.anthropic.com/engineering/multi-agent-research-system
-- Datadog, *LLM guardrails best practices* — https://www.datadoghq.com/blog/llm-guardrails-best-practices/
+- OWASP GenAI Security Project, *Top 10 for LLM Applications (2025)*: https://genai.owasp.org/llm-top-10/
+- Anthropic, *Building Effective Agents*: https://www.anthropic.com/engineering/building-effective-agents
+- Anthropic, *How we built our multi-agent research system*: https://www.anthropic.com/engineering/multi-agent-research-system
+- Datadog, *LLM guardrails best practices*: https://www.datadoghq.com/blog/llm-guardrails-best-practices/

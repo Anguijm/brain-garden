@@ -36,7 +36,7 @@ opposite.
   large meta-analysis found feedback worsened performance in about a third of cases, see
   [saving your rookie managers](saving-rookie-managers)).
 - **Concentrate hard, for a limited time.** FACT: even elite performers rarely sustain more
-  than four to five hours of true deliberate practice a day.
+  than four to five hours of true deliberate practice a day. (Ericsson, Prietula & Cokely.)
 - **Get a coach.** Good coaches give the honest, sometimes painful feedback you can't generate
   alone, and keep raising the target. Over time you build an "inner coach" and self-correct.
 
@@ -78,11 +78,11 @@ drop the "anyone can master anything with enough hours" slogan.
 
 ## See also
 
-- **[The leader as coach](the-leader-as-coach)** — the coach's role in building skill, which
+- **[The leader as coach](the-leader-as-coach)**: the coach's role in building skill, which
   this note says is essential.
-- **[What great managers do](what-great-managers-do)** — developing each person's strengths;
+- **[What great managers do](what-great-managers-do)**: developing each person's strengths;
   deliberate practice is how those strengths actually grow.
-- **[Why leadership training fails](why-leadership-training-fails)** — the system around a
+- **[Why leadership training fails](why-leadership-training-fails)**: the system around a
   skill matters as much as the practice; training works best when the job demands what it
   teaches.
 

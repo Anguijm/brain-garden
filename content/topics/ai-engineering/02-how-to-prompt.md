@@ -87,4 +87,4 @@ noticeably more out of any model, without learning a single technical trick.
 
 ## Sources
 
-- Anthropic, *Prompt engineering overview* — https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview
+- Anthropic, *Prompt engineering overview*: https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview

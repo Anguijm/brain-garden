@@ -149,15 +149,15 @@ below.
 
 ## See also
 
-- **[The secrets of great teamwork](secrets-of-great-teamwork)** — psychological safety is a
+- **[The secrets of great teamwork](secrets-of-great-teamwork)**: psychological safety is a
   big part of the "shared mindset" and healthy structure a good team needs.
-- **[Building the emotional intelligence of groups](group-emotional-intelligence)** — the
+- **[Building the emotional intelligence of groups](group-emotional-intelligence)**: the
   older cousin: group norms that make candor and belonging normal.
-- **[The feedback fallacy](the-feedback-fallacy)** — candor done well: describing what you
+- **[The feedback fallacy](the-feedback-fallacy)**: candor done well: describing what you
   see rather than punishing people for speaking up.
-- **[The set-up-to-fail syndrome](set-up-to-fail)** — what the absence of safety looks like:
+- **[The set-up-to-fail syndrome](set-up-to-fail)**: what the absence of safety looks like:
   people shutting down under a boss's distrust.
-- **[Why teams don't work](why-teams-dont-work)** — protecting a dissenting voice, safety in
+- **[Why teams don't work](why-teams-dont-work)**: protecting a dissenting voice, safety in
   action.
 
 ## Sources

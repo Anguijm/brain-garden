@@ -8,7 +8,7 @@ tags: [software, autodesk, navisworks, bim, 3d-viewer, tutorial]
 created: 2026-06-24
 ---
 
-# Chapter 1 — Install and open a model
+# Chapter 1: Install and open a model
 
 ## Getting Freedom
 

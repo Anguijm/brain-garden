@@ -72,5 +72,5 @@ to one of these nodes and makes it actually do something.
 
 ## Sources
 
-- Godot docs, *First look at Godot's editor* — https://docs.godotengine.org/en/stable/getting_started/introduction/first_look_at_the_editor.html
-- Godot docs, *Nodes and scenes* — https://docs.godotengine.org/en/stable/getting_started/step_by_step/nodes_and_scenes.html
+- Godot docs, *First look at Godot's editor*: https://docs.godotengine.org/en/stable/getting_started/introduction/first_look_at_the_editor.html
+- Godot docs, *Nodes and scenes*: https://docs.godotengine.org/en/stable/getting_started/step_by_step/nodes_and_scenes.html

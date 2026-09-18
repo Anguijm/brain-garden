@@ -216,11 +216,9 @@ systematic one introduced upstream and faithfully reproduced every time after.
 
 ## See also
 
-- [Generating 3D, and why you cannot just script it](topics/ai-engineering/17-generating-3d-versus-scripting-it) —
-  the opposite case: why code is the wrong tool for organic form, and how the two approaches fail in
+- [Generating 3D, and why you cannot just script it](topics/ai-engineering/17-generating-3d-versus-scripting-it): the opposite case: why code is the wrong tool for organic form, and how the two approaches fail in
   mirror image.
-- [Three image-to-3D models against a real slicer](topics/ai-engineering/20-three-image-to-3d-models-against-a-real-slicer) —
-  what the mesh generators actually produce when you try to print it.
+- [Three image-to-3D models against a real slicer](topics/ai-engineering/20-three-image-to-3d-models-against-a-real-slicer): what the mesh generators actually produce when you try to print it.
 
 ## Sources
 

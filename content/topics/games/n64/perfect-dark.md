@@ -1,5 +1,5 @@
 ---
-title: "Perfect Dark — N64 Guide"
+title: "Perfect Dark: N64 Guide"
 type: game-guide
 category: games/n64
 tags: [n64, nintendo, rare, perfect-dark, fps, shooter, walkthrough, guide]

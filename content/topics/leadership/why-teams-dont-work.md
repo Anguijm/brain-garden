@@ -71,13 +71,13 @@ thresholds loosely.
 
 ## See also
 
-- **[The discipline of teams](the-discipline-of-teams)** — the companion definition: what a
+- **[The discipline of teams](the-discipline-of-teams)**: the companion definition: what a
   real team even is.
-- **[The secrets of great teamwork](secrets-of-great-teamwork)** — built directly on Hackman's
+- **[The secrets of great teamwork](secrets-of-great-teamwork)**: built directly on Hackman's
   "enabling conditions."
-- **[Psychological safety](psychological-safety)** — what protecting a "deviant" voice looks
+- **[Psychological safety](psychological-safety)**: what protecting a "deviant" voice looks
   like day to day.
-- **[Let your team have that heated conversation](heated-conversation)** — the how-to for
+- **[Let your team have that heated conversation](heated-conversation)**: the how-to for
   protecting dissent when it actually gets heated.
 
 ## Sources

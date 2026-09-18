@@ -94,13 +94,13 @@ that the ecosystem is older and smaller than it once was.
 ## See also
 
 - **In this series:** [Frameworks →](02-frameworks) · [Overview](topics/software/mobile-game-engines/)
-- **[Godot, a plain-English course](topics/software/godot/)** — Godot, covered as a full course.
+- **[Godot, a plain-English course](topics/software/godot/)**: Godot, covered as a full course.
 
 ## Sources
 
-- Godot, command-line export — https://docs.godotengine.org/en/stable/tutorials/editor/command_line_tutorial.html
-- Godot, exporting projects — https://docs.godotengine.org/en/stable/tutorials/export/exporting_projects.html
-- Defold, Bob command-line tool — https://defold.com/manuals/bob/
-- Defold, license — https://defold.com/license/
-- Solar2D — https://solar2d.com/
-- Solar2D releases — https://github.com/coronalabs/corona/releases
+- Godot, command-line export: https://docs.godotengine.org/en/stable/tutorials/editor/command_line_tutorial.html
+- Godot, exporting projects: https://docs.godotengine.org/en/stable/tutorials/export/exporting_projects.html
+- Defold, Bob command-line tool: https://defold.com/manuals/bob/
+- Defold, license: https://defold.com/license/
+- Solar2D: https://solar2d.com/
+- Solar2D releases: https://github.com/coronalabs/corona/releases

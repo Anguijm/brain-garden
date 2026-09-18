@@ -1,5 +1,5 @@
 ---
-title: "Super Metroid — SNES Guide"
+title: "Super Metroid: SNES Guide"
 type: game-guide
 category: games/snes
 tags: [snes, super-nintendo, metroid, super-metroid, nintendo, metroidvania, walkthrough, guide]

@@ -1,5 +1,5 @@
 ---
-title: "Crash Team Racing — PS1 Guide"
+title: "Crash Team Racing: PS1 Guide"
 type: game-guide
 category: games/psx
 tags: [psx, playstation, crash-team-racing, ctr, naughty-dog, kart-racer, walkthrough, guide]

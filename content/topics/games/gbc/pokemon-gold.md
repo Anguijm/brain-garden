@@ -1,5 +1,5 @@
 ---
-title: "Pokémon Gold — Game Boy Color Guide"
+title: "Pokémon Gold: Game Boy Color Guide"
 type: game-guide
 category: games/gbc
 tags: [gbc, gameboy-color, pokemon, pokemon-gold, rpg, johto, walkthrough, guide]

@@ -48,7 +48,8 @@ Here are the conditions that do the heavy lifting: three from Hackman's classic 
   was that they had far worse equipment and less funding than headquarters.
 - **A shared mindset** (the modern addition). FACT: scattered teams drift into two failures:
   "us versus them" thinking between subgroups, and incomplete information, where some people
-  know things others do not. The fix is to build a common identity and shared understanding,
+  know things others do not. (Haas & Mortensen.) The fix is to build a common identity and
+  shared understanding,
   by stressing how each subgroup matters to the goal and creating shared experiences.
 
 ## Building a shared mindset
@@ -80,17 +81,17 @@ and the individual stories as illustrations.
 
 ## See also
 
-- **[The discipline of teams](the-discipline-of-teams)** — the companion piece: that one
+- **[The discipline of teams](the-discipline-of-teams)**: the companion piece: that one
   defines what a team *is*, this one lists the conditions that make it work.
-- **[Building collaborative teams](building-collaborative-teams)** — the deep dive on one
+- **[Building collaborative teams](building-collaborative-teams)**: the deep dive on one
   hard case, big and scattered expert teams.
-- **[Leading your teammates](leading-your-teammates)** — building the shared mindset from the
+- **[Leading your teammates](leading-your-teammates)**: building the shared mindset from the
   inside, teammate to teammate.
-- **[Psychological safety](psychological-safety)** — a core part of the "shared mindset" and
+- **[Psychological safety](psychological-safety)**: a core part of the "shared mindset" and
   healthy structure a team needs to work.
-- **[The new science of building great teams](new-science-of-teams)** — the "shared mindset"
+- **[The new science of building great teams](new-science-of-teams)**: the "shared mindset"
   measured: the communication patterns that mark a great team.
-- **[Great teams are about personalities](team-personalities)** — the direct counter-claim
+- **[Great teams are about personalities](team-personalities)**: the direct counter-claim
   (personality mix matters most); the two notes disagree, and the conditions side has the
   better-replicated evidence.
 

@@ -2,13 +2,13 @@
 type: lesson
 series: sudoku
 lesson: 4
-title: Hidden subsets — pairs, triples, quads
+title: "Hidden subsets: pairs, triples, quads"
 status: curated
 tags: [sudoku, games, puzzles, logic, brain-training]
 created: 2026-06-16
 ---
 
-# Lesson 4 — Hidden subsets (pairs, triples, quads)
+# Lesson 4: Hidden subsets (pairs, triples, quads)
 
 Naked subsets look at the cells. Hidden subsets look at the *digits*. A hidden
 subset is N digits that can only land in the same N cells within a unit, even though

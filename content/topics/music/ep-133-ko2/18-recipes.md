@@ -2,14 +2,14 @@
 type: lesson
 series: ep-133-ko2
 chapter: 18
-title: Recipes — build a beat start to finish
+title: "Recipes: build a beat start to finish"
 aliases: ["topics/music/ep-133-ko2/18-recipes-overview", "topics/music/ep-133-ko2/19-recipe-boom-bap", "topics/music/ep-133-ko2/20-recipe-house", "topics/music/ep-133-ko2/21-recipe-trap", "topics/music/ep-133-ko2/22-recipe-dnb", "topics/music/ep-133-ko2/23-recipe-drill", "topics/music/ep-133-ko2/24-recipe-lofi-ambient", "topics/music/ep-133-ko2/25-recipe-punk-rock", "topics/music/ep-133-ko2/26-recipe-grunge"]
 status: curated
 tags: [music, sampler, groovebox, teenage-engineering, ep-133, ko-ii, tutorial, recipes]
 created: 2026-06-23
 ---
 
-# Chapter 18 — Recipes
+# Chapter 18: Recipes
 
 ![The 12 pads with group buttons A-D and RECORD/PLAY](img/pads.jpg)
 *The pads and group buttons you'll build on. Photo: Teenage Engineering.*

@@ -2,13 +2,13 @@
 type: lesson
 series: sudoku
 lesson: 7
-title: Swordfish and Jellyfish — bigger fish
+title: "Swordfish and Jellyfish: bigger fish"
 status: curated
 tags: [sudoku, games, puzzles, logic, brain-training]
 created: 2026-06-16
 ---
 
-# Lesson 7 — Swordfish and Jellyfish
+# Lesson 7: Swordfish and Jellyfish
 
 An X-Wing is a 2-by-2 "fish." Swordfish and Jellyfish are the same idea scaled up.
 Same single-digit logic, more lines.

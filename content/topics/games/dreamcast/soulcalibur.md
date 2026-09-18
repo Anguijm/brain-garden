@@ -1,5 +1,5 @@
 ---
-title: "Soulcalibur — Dreamcast Guide"
+title: "Soulcalibur: Dreamcast Guide"
 type: game-guide
 category: games/dreamcast
 tags: [dreamcast, soulcalibur, namco, fighting, walkthrough, guide]

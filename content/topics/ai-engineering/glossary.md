@@ -2,7 +2,7 @@
 type: lesson
 series: ai-engineering
 chapter: 15
-title: AI agent engineering — word list
+title: "AI agent engineering: word list"
 status: curated
 tags: [ai, ai-agents, llm, agent-engineering, glossary]
 created: 2026-06-28

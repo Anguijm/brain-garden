@@ -1,5 +1,5 @@
 ---
-title: "Sega Rally Championship — Saturn Guide"
+title: "Sega Rally Championship: Saturn Guide"
 type: game-guide
 category: games/saturn
 tags: [saturn, sega-saturn, sega-rally, sega-am3, racing, walkthrough, guide]

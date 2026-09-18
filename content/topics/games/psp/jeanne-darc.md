@@ -1,5 +1,5 @@
 ---
-title: "Jeanne d'Arc — PSP Guide"
+title: "Jeanne d'Arc: PSP Guide"
 type: game-guide
 category: games/psp
 tags: [psp, jeanne-darc, level-5, sony, strategy, srpg, walkthrough, guide]

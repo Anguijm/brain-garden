@@ -60,11 +60,11 @@ data.
 
 ## See also
 
-- **[How managers become leaders](how-managers-become-leaders)** — a different map of leader
+- **[How managers become leaders](how-managers-become-leaders)**: a different map of leader
   growth: the seven shifts as you take on bigger jobs.
-- **[Why leadership training fails](why-leadership-training-fails)** — why this kind of
+- **[Why leadership training fails](why-leadership-training-fails)**: why this kind of
   development needs a supportive system, not just a course.
-- **[Level 5 leadership](level-5-leadership)** — one picture of the top of the ladder.
+- **[Level 5 leadership](level-5-leadership)**: one picture of the top of the ladder.
 
 ## Sources
 

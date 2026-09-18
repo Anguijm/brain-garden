@@ -1,5 +1,5 @@
 ---
-title: "Crazy Taxi — Dreamcast Guide"
+title: "Crazy Taxi: Dreamcast Guide"
 type: game-guide
 category: games/dreamcast
 tags: [dreamcast, crazy-taxi, sega, hitmaker, arcade, racing, walkthrough, guide]

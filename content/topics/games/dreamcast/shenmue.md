@@ -1,5 +1,5 @@
 ---
-title: "Shenmue — Dreamcast Guide"
+title: "Shenmue: Dreamcast Guide"
 type: game-guide
 category: games/dreamcast
 tags: [dreamcast, shenmue, sega, ags, adventure, open-world, walkthrough, guide]

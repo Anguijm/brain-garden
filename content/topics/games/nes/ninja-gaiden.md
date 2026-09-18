@@ -1,5 +1,5 @@
 ---
-title: "Ninja Gaiden — NES Walkthrough"
+title: "Ninja Gaiden: NES Walkthrough"
 type: game-guide
 category: games/nes
 tags: [nes, nintendo, ninja-gaiden, action-platformer, walkthrough, guide]
@@ -9,7 +9,7 @@ created: 2026-09-01
 draft: false
 ---
 
-# Ninja Gaiden — NES Walkthrough
+# Ninja Gaiden: NES Walkthrough
 
 **Platform:** NES | **Publisher:** Tecmo | **US Release:** March 1989 | **Genre:** Action-Platformer
 
@@ -91,7 +91,7 @@ Makes Ryu temporarily invincible (roughly five seconds) surrounded by a damaging
 
 ## Act-by-Act Walkthrough
 
-### Act 1 — Destiny
+### Act 1: Destiny
 
 **Stages:** 1-1, 1-2, 1-3
 
@@ -109,7 +109,7 @@ The Barbarian is a large swordsman who charges across the floor slashing horizon
 
 ---
 
-### Act 2 — The Escape
+### Act 2: The Escape
 
 **Stages:** 2-1, 2-2, 2-3
 
@@ -127,7 +127,7 @@ Bomberhead is tall and wields a chain sickle that swings horizontally at mid-hei
 
 ---
 
-### Act 3 — The Chase
+### Act 3: The Chase
 
 **Stages:** 3-1, 3-2, 3-3
 
@@ -145,7 +145,7 @@ Basaquer jumps side-to-side across the boss room and fires three bullets per jum
 
 ---
 
-### Act 4 — A Trap
+### Act 4: A Trap
 
 **Stages:** 4-1, 4-2, 4-3
 
@@ -161,7 +161,7 @@ Jump and Slash handles Kelbeross more effectively than any other approach becaus
 
 ---
 
-### Act 5 — Life or Death
+### Act 5: Life or Death
 
 **Stages:** 5-1, 5-2, 5-3
 
@@ -181,7 +181,7 @@ Enter this fight with maximum health and at least 20 Spiritual Energy.
 
 ---
 
-### Act 6 — Fall of the Demon
+### Act 6: Fall of the Demon
 
 **Stages:** 6-1, 6-2, 6-3, 6-4 (boss gauntlet)
 
@@ -217,7 +217,7 @@ The slash-cancel technique matters here: when you do reach him via a jump, swing
 
 ---
 
-### Boss: Jashin — The Demon (Act 6, fight 3)
+### Boss: Jashin: The Demon (Act 6, fight 3)
 
 Jashin is the final boss and a multi-phase encounter. He appears first as a large sculpted head that fires projectiles; destroy the head. The demon's heart then becomes exposed below the destroyed head — this is the actual target. The heart also fires projectiles and is the demon's true life gauge.
 

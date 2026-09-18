@@ -8,7 +8,7 @@ tags: [software, autodesk, navisworks, bim, 3d-viewer, tutorial]
 created: 2026-06-24
 ---
 
-# Chapter 8 — Output, performance, and shortcuts
+# Chapter 8: Output, performance, and shortcuts
 
 ## Getting something out of Freedom
 

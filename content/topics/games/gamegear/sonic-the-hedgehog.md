@@ -1,5 +1,5 @@
 ---
-title: "Sonic the Hedgehog — Game Gear Guide"
+title: "Sonic the Hedgehog: Game Gear Guide"
 type: game-guide
 category: games/gamegear
 tags: [gamegear, sega, sonic, platformer, walkthrough, guide]

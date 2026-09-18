@@ -217,16 +217,16 @@ theater you already distrust.
 
 ## See also
 
-- **[Improvement science from a leadership perspective](improvement-science)** — the hub this note
+- **[Improvement science from a leadership perspective](improvement-science)**: the hub this note
   sits under: the wider discipline, how to read variation before you react to it, and a blunt
   account of which parts of the field hold up.
-- **[Psychological safety](psychological-safety)** — the precondition: people only surface the
+- **[Psychological safety](psychological-safety)**: the precondition: people only surface the
   real obstacles when speaking up feels safe, which is the whole reason Step 1 is confidential.
-- **[The power of small wins](power-of-small-wins)** — why the "visible win in weeks" rule
+- **[The power of small wins](power-of-small-wins)**: why the "visible win in weeks" rule
   works: progress people can see is the deepest everyday motivator.
-- **[Why leadership training fails](why-leadership-training-fails)** — the companion warning:
+- **[Why leadership training fails](why-leadership-training-fails)**: the companion warning:
   changing individuals without changing the system (tools, metrics, work design) does not stick.
-- **[The leader as coach](the-leader-as-coach)** — the case's second fix was a coaching cadence;
+- **[The leader as coach](the-leader-as-coach)**: the case's second fix was a coaching cadence;
   this is how to run those one-on-one conversations well.
 
 ## Sources

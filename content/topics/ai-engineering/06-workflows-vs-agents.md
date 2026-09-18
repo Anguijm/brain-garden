@@ -114,10 +114,10 @@ walled-off setup, along with safety limits. (Anthropic.) That is exactly what th
 ## See also
 
 - **In this series:** [← Pictures and voice (multimodal)](05-pictures-and-voice) · [Tools and MCP →](07-tools-and-mcp) · [Overview](topics/ai-engineering/)
-- **[Multi-agent systems](12-multi-agent-systems)** — what happens when several agents work together.
+- **[Multi-agent systems](12-multi-agent-systems)**: what happens when several agents work together.
 
 ## Sources
 
-- Anthropic, *Building Effective Agents* — https://www.anthropic.com/engineering/building-effective-agents
-- Anthropic, *Effective Context Engineering for AI Agents* — https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
-- LangChain / LangGraph, *Workflows and agents* — https://docs.langchain.com/oss/python/langgraph/workflows-agents
+- Anthropic, *Building Effective Agents*: https://www.anthropic.com/engineering/building-effective-agents
+- Anthropic, *Effective Context Engineering for AI Agents*: https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
+- LangChain / LangGraph, *Workflows and agents*: https://docs.langchain.com/oss/python/langgraph/workflows-agents

@@ -1,5 +1,5 @@
 ---
-title: "Kirby's Dream Land — Game Boy Guide"
+title: "Kirby's Dream Land: Game Boy Guide"
 type: game-guide
 category: games/gb
 tags: [gb, gameboy, nintendo, hal, kirby, platformer, walkthrough, guide]

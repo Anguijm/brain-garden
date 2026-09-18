@@ -1,5 +1,5 @@
 ---
-title: "Paper Mario — N64 Guide"
+title: "Paper Mario: N64 Guide"
 type: game-guide
 category: games/n64
 tags: [n64, nintendo, paper-mario, rpg, turn-based, walkthrough, guide]
@@ -53,14 +53,14 @@ Badges are found, bought and won, and they attach abilities to Mario at a BP cos
 
 Notable ones:
 
-- **Power Bounce** — jump repeatedly in one turn until you miss the timing. The strongest damage badge in the game in the hands of someone with good rhythm.
-- **Multibounce** — one jump hits every enemy.
-- **Power Smash / Mega Smash** — hammer damage upgrades.
-- **Quick Change** — swap partners without using your turn. Expensive and excellent.
-- **Double Dip** — use two items in one turn.
-- **Zap Tap** — damages enemies that touch you; also prevents some contact hazards.
-- **Peekaboo** — shows enemy HP.
-- **Danger Mario setups** — badges like Power Rush that boost damage when your HP is very low. A high-risk build that experienced players enjoy.
+- **Power Bounce**: jump repeatedly in one turn until you miss the timing. The strongest damage badge in the game in the hands of someone with good rhythm.
+- **Multibounce**: one jump hits every enemy.
+- **Power Smash / Mega Smash**: hammer damage upgrades.
+- **Quick Change**: swap partners without using your turn. Expensive and excellent.
+- **Double Dip**: use two items in one turn.
+- **Zap Tap**: damages enemies that touch you; also prevents some contact hazards.
+- **Peekaboo**: shows enemy HP.
+- **Danger Mario setups**: badges like Power Rush that boost damage when your HP is very low. A high-risk build that experienced players enjoy.
 
 Badges can be freely swapped at any time outside combat, so carry the whole collection and reconfigure for boss fights.
 

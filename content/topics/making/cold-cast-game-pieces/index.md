@@ -31,7 +31,7 @@ jobs:
 For coins, tokens, resource cubes, and chunky minis, FDM is plenty, with one caveat:
 FDM layer lines telegraph into the mold, so masters get a smoothing step.
 
-## Route 1 — cold-cast metal (weighty and repeatable)
+## Route 1: cold-cast metal (weighty and repeatable)
 
 FACT: "cold-casting" means mixing **metal powder into resin** and casting it in a
 **silicone mold**. Once you buff the surface, it's real metal; the body underneath is
@@ -75,7 +75,7 @@ Assessment, the heft ladder, lightest to heaviest:
 plain PLA  <  metal-filled filament  <  cold-cast metal-resin  <  cold-cast +
 steel/tungsten fill  <  solid metal.
 
-## Route 2 — print weighty directly on the X1C (no molds)
+## Route 2: print weighty directly on the X1C (no molds)
 
 If you'd rather skip molding:
 
@@ -132,6 +132,6 @@ the [electroplating route](topics/making/plated-game-components/).
 
 ## See also
 
-- **[Making with the X1C](connections/making-with-the-x1c)** — the shared-toolchain thread.
-- **[Metal-look game pieces (electroplating)](topics/making/plated-game-components/)** — the plating route to the same heavy-piece goal.
-- **[Plastic-and-tissue model aircraft](topics/making/3d-printed-tissue-aircraft/)** — same printer, opposite goal (minimum weight).
+- **[Making with the X1C](connections/making-with-the-x1c)**: the shared-toolchain thread.
+- **[Metal-look game pieces (electroplating)](topics/making/plated-game-components/)**: the plating route to the same heavy-piece goal.
+- **[Plastic-and-tissue model aircraft](topics/making/3d-printed-tissue-aircraft/)**: same printer, opposite goal (minimum weight).

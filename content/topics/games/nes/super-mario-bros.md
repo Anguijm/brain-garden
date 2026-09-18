@@ -1,5 +1,5 @@
 ---
-title: "Super Mario Bros. — NES Guide"
+title: "Super Mario Bros.: NES Guide"
 type: game-guide
 category: games/nes
 tags: [nes, nintendo, mario, super-mario-bros, platformer, walkthrough, guide]

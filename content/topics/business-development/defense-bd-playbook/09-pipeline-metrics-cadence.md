@@ -8,7 +8,7 @@ tags: [business-development, defense, capture-management, govcon, proposals, pla
 created: 2026-06-18
 ---
 
-# Chapter 9 — Pipeline, metrics, and cadence
+# Chapter 9: Pipeline, metrics, and cadence
 
 BD that is not measured drifts into busywork and wishful pipelines. Assessment: run
 BD as a managed system with a visible pipeline, a few honest metrics, and a
@@ -86,4 +86,4 @@ Next: [Using Gen AI in BD without fooling yourself](10-gen-ai-in-bd.md).
 ## See also
 
 - **In this series:** [← Relationships, ethics, and OCI](08-relationships-ethics-oci) · [Using Gen AI in BD without fooling yourself →](10-gen-ai-in-bd) · [Overview](topics/business-development/defense-bd-playbook/)
-- **[Finite resources](connections/finite-resources)** — people-hours as a hard ceiling: a tight pipeline beats a sprawling one.
+- **[Finite resources](connections/finite-resources)**: people-hours as a hard ceiling: a tight pipeline beats a sprawling one.

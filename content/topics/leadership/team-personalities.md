@@ -55,13 +55,13 @@ toward buying a personality test.
 
 ## See also
 
-- **[Why teams don't work](why-teams-dont-work)** — Hackman on getting the team's *size and
+- **[Why teams don't work](why-teams-dont-work)**: Hackman on getting the team's *size and
   membership* right, a close cousin of getting the mix right.
-- **[The discipline of teams](the-discipline-of-teams)** — "complementary skills" from the
+- **[The discipline of teams](the-discipline-of-teams)**: "complementary skills" from the
   skills side; this note adds the personality side.
-- **[Psychological safety](psychological-safety)** — the finding this article argues against;
+- **[Psychological safety](psychological-safety)**: the finding this article argues against;
   read them together.
-- **[The secrets of great teamwork](secrets-of-great-teamwork)** — the direct counter-claim
+- **[The secrets of great teamwork](secrets-of-great-teamwork)**: the direct counter-claim
   (conditions matter, personalities mostly don't); read both, the conditions side has the
   better-replicated evidence.
 

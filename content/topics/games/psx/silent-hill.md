@@ -1,5 +1,5 @@
 ---
-title: "Silent Hill — PS1 Guide"
+title: "Silent Hill: PS1 Guide"
 type: game-guide
 category: games/psx
 tags: [psx, playstation, silent-hill, konami, survival-horror, walkthrough, guide]

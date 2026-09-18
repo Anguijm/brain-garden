@@ -142,7 +142,7 @@ situation.**
 
 - **Do not start the pause and a new diet on the same day.** If something changes, there will be
   no way to tell which change caused it. Settle the diet first, then pause the drug.
-- **Keep a simple daily log** — stool frequency, blood present or not, urgency, pain, plus what
+- **Keep a simple daily log**: stool frequency, blood present or not, urgency, pain, plus what
   was eaten. Two lines a day. During a pause, the trend matters more than any single day, and
   memory is unreliable once someone is worried.
 - **Front-load the boring version.** The weeks just after stopping are the ones to be most
@@ -174,11 +174,11 @@ change substitutes for that call.
 
 ## Sources
 
-- [Mediterranean Diet Pattern Improves Intestinal Inflammation Concomitant with Reshaping of the Bacteriome in Ulcerative Colitis: A Randomised Controlled Trial](https://academic.oup.com/ecco-jcc/article/17/10/1569/7140490) — *Journal of Crohn's and Colitis*, the 28-person RCT and the calprotectin figures.
-- [Inflammatory bowel diseases and the low-FODMAP diet: benefits and challenges in therapy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12542732/) — the symptoms-versus-inflammation distinction.
-- [Efficacy of FODMAP Elimination and Subsequent Blinded Placebo-Controlled Provocations in UC in Remission](https://pubmed.ncbi.nlm.nih.gov/35334953/) — the pain and bloating result.
-- [The Emulsifier Carboxymethylcellulose Induces More Aggressive Colitis in Humanized Mice with IBD Microbiota Than Polysorbate-80](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8540676/) — the emulsifier mechanism work.
-- [American Cancer Society Guideline for Diet and Physical Activity for Cancer Survivors](https://www.cancer.org/cancer/supportive-care/nutrition-activity-with-cancer/acs-nutrition-and-physical-activity-guideline-for-survivors.html) — the survivorship recommendations.
-- [Dietary Strategies for Breast Cancer Survivorship: From Evidence to Practice](https://link.springer.com/article/10.1007/s12609-025-00608-y) — fibre, protein and the soy position.
-- [RINVOQ (upadacitinib) FDA label](https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/211675s015lbl.pdf) — the malignancy warning and the "known malignancy" wording.
-- [Anti-inflammatory dietary interventions in inflammatory bowel disease: current insights and future perspectives](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1817465/full) — the maintenance-diet risk-benefit summary.
+- [Mediterranean Diet Pattern Improves Intestinal Inflammation Concomitant with Reshaping of the Bacteriome in Ulcerative Colitis: A Randomised Controlled Trial](https://academic.oup.com/ecco-jcc/article/17/10/1569/7140490): *Journal of Crohn's and Colitis*, the 28-person RCT and the calprotectin figures.
+- [Inflammatory bowel diseases and the low-FODMAP diet: benefits and challenges in therapy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12542732/): the symptoms-versus-inflammation distinction.
+- [Efficacy of FODMAP Elimination and Subsequent Blinded Placebo-Controlled Provocations in UC in Remission](https://pubmed.ncbi.nlm.nih.gov/35334953/): the pain and bloating result.
+- [The Emulsifier Carboxymethylcellulose Induces More Aggressive Colitis in Humanized Mice with IBD Microbiota Than Polysorbate-80](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8540676/): the emulsifier mechanism work.
+- [American Cancer Society Guideline for Diet and Physical Activity for Cancer Survivors](https://www.cancer.org/cancer/supportive-care/nutrition-activity-with-cancer/acs-nutrition-and-physical-activity-guideline-for-survivors.html): the survivorship recommendations.
+- [Dietary Strategies for Breast Cancer Survivorship: From Evidence to Practice](https://link.springer.com/article/10.1007/s12609-025-00608-y): fibre, protein and the soy position.
+- [RINVOQ (upadacitinib) FDA label](https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/211675s015lbl.pdf): the malignancy warning and the "known malignancy" wording.
+- [Anti-inflammatory dietary interventions in inflammatory bowel disease: current insights and future perspectives](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1817465/full): the maintenance-diet risk-benefit summary.

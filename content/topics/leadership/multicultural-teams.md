@@ -88,11 +88,11 @@ hold the cultural generalizations loosely and treat people as individuals.
 
 ## See also
 
-- **[The secrets of great teamwork](secrets-of-great-teamwork)** — the "4-D" (diverse,
+- **[The secrets of great teamwork](secrets-of-great-teamwork)**: the "4-D" (diverse,
   dispersed, digital, dynamic) challenges this note zooms in on the cultural part of.
-- **[Building collaborative teams](building-collaborative-teams)** — blending "cosmopolitan"
+- **[Building collaborative teams](building-collaborative-teams)**: blending "cosmopolitan"
   and "local" members, a related staffing idea.
-- **[Why teams don't work](why-teams-dont-work)** — the general conditions that any team,
+- **[Why teams don't work](why-teams-dont-work)**: the general conditions that any team,
   cross-cultural or not, still needs.
 
 ## Sources

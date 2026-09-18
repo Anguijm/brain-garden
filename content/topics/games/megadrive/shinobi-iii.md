@@ -1,5 +1,5 @@
 ---
-title: "Shinobi III: Return of the Ninja Master — Mega Drive Guide"
+title: "Shinobi III: Return of the Ninja Master: Mega Drive Guide"
 type: game-guide
 category: games/megadrive
 tags: [megadrive, genesis, shinobi, sega, action-platformer, ninja, walkthrough, guide]

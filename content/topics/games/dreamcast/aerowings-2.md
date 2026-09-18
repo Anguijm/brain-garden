@@ -1,5 +1,5 @@
 ---
-title: "AeroWings 2: Airstrike — Dreamcast Guide"
+title: "AeroWings 2: Airstrike: Dreamcast Guide"
 type: game-guide
 category: games/dreamcast
 tags: [dreamcast, aerowings, aero-dancing, crave, cri, flight-simulator, walkthrough, guide]

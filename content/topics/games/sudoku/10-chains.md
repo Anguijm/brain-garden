@@ -2,13 +2,13 @@
 type: lesson
 series: sudoku
 lesson: 10
-title: Chains — remote pairs and XY-chains
+title: "Chains: remote pairs and XY-chains"
 status: curated
 tags: [sudoku, games, puzzles, logic, brain-training]
 created: 2026-06-16
 ---
 
-# Lesson 10 — Remote pairs and XY-chains
+# Lesson 10: Remote pairs and XY-chains
 
 Colouring chained one digit. These chain through bivalue cells (two-candidate cells)
 and let the logic hop between digits.

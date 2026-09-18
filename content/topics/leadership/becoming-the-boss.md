@@ -78,15 +78,15 @@ and mental shift the job demands, and on that it is very good.
 
 ## See also
 
-- **[The manager's job](the-managers-job)** — what the work you are stepping into actually
+- **[The manager's job](the-managers-job)**: what the work you are stepping into actually
   looks like day to day (fragmented and verbal, not tidy planning).
-- **[Who's got the monkey?](whos-got-the-monkey)** — the first-time manager's classic trap:
+- **[Who's got the monkey?](whos-got-the-monkey)**: the first-time manager's classic trap:
   taking back the work you should be delegating.
-- **[Begin with trust](begin-with-trust)** — how you earn the credibility that a title alone
+- **[Begin with trust](begin-with-trust)**: how you earn the credibility that a title alone
   does not give you.
-- **[How managers become leaders](how-managers-become-leaders)** — the *next* version of this
+- **[How managers become leaders](how-managers-become-leaders)**: the *next* version of this
   leap, from running a function to running a whole business.
-- **[Saving your rookie managers from themselves](saving-rookie-managers)** — the same
+- **[Saving your rookie managers from themselves](saving-rookie-managers)**: the same
   transition seen from your boss's chair: the traps, and how a good boss heads them off.
 
 ## Sources

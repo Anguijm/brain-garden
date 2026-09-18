@@ -1,5 +1,5 @@
 ---
-title: "The Legend of Zelda: Majora's Mask — N64 Guide"
+title: "The Legend of Zelda: Majora's Mask: N64 Guide"
 type: game-guide
 category: games/n64
 tags: [n64, nintendo, zelda, majoras-mask, action-adventure, walkthrough, guide]

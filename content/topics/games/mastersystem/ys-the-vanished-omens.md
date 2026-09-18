@@ -1,5 +1,5 @@
 ---
-title: "Ys: The Vanished Omens — Master System Guide"
+title: "Ys: The Vanished Omens: Master System Guide"
 type: game-guide
 category: games/mastersystem
 tags: [mastersystem, sega, falcom, ys, action-rpg, walkthrough, guide]

@@ -1,5 +1,5 @@
 ---
-title: "Chrono Trigger — SNES Guide"
+title: "Chrono Trigger: SNES Guide"
 type: game-guide
 category: games/snes
 tags: [snes, super-nintendo, chrono-trigger, square, rpg, time-travel, walkthrough, guide]

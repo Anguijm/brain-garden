@@ -1,5 +1,5 @@
 ---
-title: "Dungeon Explorer — TurboGrafx-16 Guide"
+title: "Dungeon Explorer: TurboGrafx-16 Guide"
 type: game-guide
 category: games/pcengine
 tags: [pcengine, turbografx-16, dungeon-explorer, action-rpg, multiplayer, walkthrough, guide]
@@ -56,11 +56,11 @@ In a group, spread the classes: a Fighter to hold the front, a Bishop or Wizard 
 
 Magic is collected as items and cast from a shared pool. Each spell has a distinct use rather than being a damage ladder:
 
-- **Bomb** — heavy area damage; the boss-killer.
-- **Fire** — a spread attack, good against groups.
-- **Cure** — healing, and the reason a party lives.
-- **Speed** — temporary movement boost, useful for escaping a swarm.
-- **Reflect** — bounces projectiles.
+- **Bomb**: heavy area damage; the boss-killer.
+- **Fire**: a spread attack, good against groups.
+- **Cure**: healing, and the reason a party lives.
+- **Speed**: temporary movement boost, useful for escaping a swarm.
+- **Reflect**: bounces projectiles.
 
 Magic is finite and does not regenerate quickly, so it is worth hoarding for bosses rather than spending on ordinary rooms.
 

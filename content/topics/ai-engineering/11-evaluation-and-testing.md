@@ -113,13 +113,13 @@ its prompts, tool calls, time, and cost, so you can look back. Builders call tha
 ## See also
 
 - **In this series:** [← Retrieval and RAG](10-retrieval-and-rag) · [Multi-agent systems →](12-multi-agent-systems) · [Overview](topics/ai-engineering/)
-- **[Using AI well](connections/using-ai-well)** — part of the garden's spine: how you actually know an answer is good.
+- **[Using AI well](connections/using-ai-well)**: part of the garden's spine: how you actually know an answer is good.
 
 ## Sources
 
-- Anthropic, *How we built our multi-agent research system* — https://www.anthropic.com/engineering/multi-agent-research-system
-- OpenAI, *Evaluation best practices* — https://developers.openai.com/api/docs/guides/evaluation-best-practices
-- Google Cloud, *Evaluate AI agents with Vertex Gen AI evaluation service* — https://cloud.google.com/vertex-ai/generative-ai/docs/models/evaluation-agents
-- *Judging the Judges: A Systematic Study of Position Bias in LLM-as-a-Judge* (arXiv:2406.07791) — https://arxiv.org/abs/2406.07791
-- *CalibraEval* (arXiv:2410.15393) — https://arxiv.org/pdf/2410.15393
-- Confident AI, *LLM Agent Evaluation Metrics* — https://www.confident-ai.com/blog/llm-agent-evaluation-complete-guide
+- Anthropic, *How we built our multi-agent research system*: https://www.anthropic.com/engineering/multi-agent-research-system
+- OpenAI, *Evaluation best practices*: https://developers.openai.com/api/docs/guides/evaluation-best-practices
+- Google Cloud, *Evaluate AI agents with Vertex Gen AI evaluation service*: https://cloud.google.com/vertex-ai/generative-ai/docs/models/evaluation-agents
+- *Judging the Judges: A Systematic Study of Position Bias in LLM-as-a-Judge* (arXiv:2406.07791): https://arxiv.org/abs/2406.07791
+- *CalibraEval* (arXiv:2410.15393): https://arxiv.org/pdf/2410.15393
+- Confident AI, *LLM Agent Evaluation Metrics*: https://www.confident-ai.com/blog/llm-agent-evaluation-complete-guide

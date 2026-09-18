@@ -2,7 +2,7 @@
 type: lesson
 series: navisworks-freedom-2026
 chapter: 0
-title: Navisworks Freedom 2026 — course overview
+title: "Navisworks Freedom 2026: course overview"
 status: curated
 tags: [software, autodesk, navisworks, bim, 3d-viewer, tutorial]
 created: 2026-06-24
@@ -71,4 +71,4 @@ Start with [Install and open a model](01-install-and-open.md).
 
 ## See also
 
-- **[Godot, a plain-English course](topics/software/godot/)** — another plain-English, step-by-step software course in the garden.
+- **[Godot, a plain-English course](topics/software/godot/)**: another plain-English, step-by-step software course in the garden.

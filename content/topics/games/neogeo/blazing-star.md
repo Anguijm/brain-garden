@@ -1,5 +1,5 @@
 ---
-title: "Blazing Star — Neo Geo Guide"
+title: "Blazing Star: Neo Geo Guide"
 type: game-guide
 category: games/neogeo
 tags: [neogeo, snk, blazing-star, shmup, arcade, walkthrough, guide]
@@ -46,10 +46,10 @@ Holding A charges a heavy attack. That much is standard. What is not standard is
 
 Each has a different shot pattern, charge behaviour, speed and bomb. They are not cosmetic:
 
-- **Windina** — homing lightning, forgiving, the beginner pick
-- **Peplos** — spread shot, wide coverage
-- **Dino246** — heavy, slow, huge damage
-- **Hellhound** — fast, narrow, high skill ceiling
+- **Windina**: homing lightning, forgiving, the beginner pick
+- **Peplos**: spread shot, wide coverage
+- **Dino246**: heavy, slow, huge damage
+- **Hellhound**: fast, narrow, high skill ceiling
 - **Bloody Dragon** and **Empire-57** — specialised patterns
 
 ---

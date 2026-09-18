@@ -90,11 +90,11 @@ genuinely wide and the payoff is worth roughly fifteen times the cost.
 ## See also
 
 - **In this series:** [← Evaluation and testing](11-evaluation-and-testing) · [Safety and best practices →](13-safety-and-best-practices) · [Overview](topics/ai-engineering/)
-- **[Workflows vs agents](06-workflows-vs-agents)** — the simpler single-agent picture this builds on.
-- **[MRAgent](14-mragent)** — memory shared across agents.
+- **[Workflows vs agents](06-workflows-vs-agents)**: the simpler single-agent picture this builds on.
+- **[MRAgent](14-mragent)**: memory shared across agents.
 
 ## Sources
 
-- Anthropic, *How we built our multi-agent research system* — https://www.anthropic.com/engineering/multi-agent-research-system
-- Anthropic, *Building Effective Agents* — https://www.anthropic.com/engineering/building-effective-agents
-- *The math behind why multi-step AI agents fail in production* — https://medium.com/k8slens/the-math-behind-why-multi-step-ai-agents-fail-in-production-c6d60ea6ca31
+- Anthropic, *How we built our multi-agent research system*: https://www.anthropic.com/engineering/multi-agent-research-system
+- Anthropic, *Building Effective Agents*: https://www.anthropic.com/engineering/building-effective-agents
+- *The math behind why multi-step AI agents fail in production*: https://medium.com/k8slens/the-math-behind-why-multi-step-ai-agents-fail-in-production-c6d60ea6ca31

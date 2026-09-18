@@ -225,20 +225,20 @@ rather than designed, so assume it needs making watertight before it meets a sli
 ## See also
 
 - **In this series:** [← Web automation and bot defences](topics/ai-engineering/16-web-automation-and-bot-defenses) · [The plan that runs →](topics/ai-engineering/18-the-plan-that-runs) · [Overview](topics/ai-engineering/)
-- **[Pictures and voice](topics/ai-engineering/05-pictures-and-voice)** — the same
+- **[Pictures and voice](topics/ai-engineering/05-pictures-and-voice)**: the same
   generate-versus-describe split, one dimension down.
-- **[Making with the Bambu X1C](connections/making-with-the-x1c)** — the printer these
+- **[Making with the Bambu X1C](connections/making-with-the-x1c)**: the printer these
   decisions actually land on.
-- **[Cold-cast game pieces](topics/making/cold-cast-game-pieces/)** — the print-a-master-
+- **[Cold-cast game pieces](topics/making/cold-cast-game-pieces/)**: the print-a-master-
   and-cast route, which is how a filament printer gets around its own resolution limit.
 
 ## Sources
 
-- Longwen Zhang et al., *CLAY: A Controllable Large-scale Generative Model for Creating High-quality 3D Assets* (arXiv, 30 May 2024) — https://arxiv.org/abs/2406.13897
-- *P3D-Bench: Benchmarking MLLMs for Parametric 3D Generation and Structural Reasoning* (arXiv, 9 June 2026) — https://arxiv.org/html/2606.11152v1
-- Jin Gao and Saichandu Juluri, *From Idea to Co-Creation: A Planner-Actor-Critic Framework for Agent Augmented 3D Modeling* (arXiv, 8 January 2026) — https://arxiv.org/html/2601.05016
-- Meshy, *How to Fix Non-Manifold Edges in STL Files for 3D Printing* (vendor documentation) — https://www.meshy.ai/blog/fix-non-manifold-edges-stl-repair
-- Tripo, *AI 3D Model Generation & Automated Manifold Repair* (vendor documentation) — https://www.tripo3d.ai/blog/explore/ai-3d-model-generator-and-manifold-repair-automation
-- AmeraLabs, *Best Layer Height for Miniatures* — https://ameralabs.com/blog/layer-height-for-miniatures/
-- AmeraLabs, *Miniature Scale for 3D Printing* — https://ameralabs.com/blog/miniature-scale-3d-printing/
-- 3D Printerly, *Best Wall Thickness for Resin 3D Prints* — https://3dprinterly.com/best-wall-thickness-for-resin-3d-prints-miniatures-more/
+- Longwen Zhang et al., *CLAY: A Controllable Large-scale Generative Model for Creating High-quality 3D Assets* (arXiv, 30 May 2024): https://arxiv.org/abs/2406.13897
+- *P3D-Bench: Benchmarking MLLMs for Parametric 3D Generation and Structural Reasoning* (arXiv, 9 June 2026): https://arxiv.org/html/2606.11152v1
+- Jin Gao and Saichandu Juluri, *From Idea to Co-Creation: A Planner-Actor-Critic Framework for Agent Augmented 3D Modeling* (arXiv, 8 January 2026): https://arxiv.org/html/2601.05016
+- Meshy, *How to Fix Non-Manifold Edges in STL Files for 3D Printing* (vendor documentation): https://www.meshy.ai/blog/fix-non-manifold-edges-stl-repair
+- Tripo, *AI 3D Model Generation & Automated Manifold Repair* (vendor documentation): https://www.tripo3d.ai/blog/explore/ai-3d-model-generator-and-manifold-repair-automation
+- AmeraLabs, *Best Layer Height for Miniatures*: https://ameralabs.com/blog/layer-height-for-miniatures/
+- AmeraLabs, *Miniature Scale for 3D Printing*: https://ameralabs.com/blog/miniature-scale-3d-printing/
+- 3D Printerly, *Best Wall Thickness for Resin 3D Prints*: https://3dprinterly.com/best-wall-thickness-for-resin-3d-prints-miniatures-more/

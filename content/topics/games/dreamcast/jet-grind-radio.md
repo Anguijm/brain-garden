@@ -1,5 +1,5 @@
 ---
-title: "Jet Grind Radio — Dreamcast Guide"
+title: "Jet Grind Radio: Dreamcast Guide"
 type: game-guide
 category: games/dreamcast
 tags: [dreamcast, jet-set-radio, jet-grind-radio, sega, smilebit, action, cel-shading, walkthrough, guide]

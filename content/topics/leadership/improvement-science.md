@@ -362,17 +362,17 @@ them.
 
 ## See also
 
-- **[Frontline workers know how to solve your problems](frontline-problem-solving)** — the
+- **[Frontline workers know how to solve your problems](frontline-problem-solving)**: the
   discretionary lane: why involving the people who do the work pays, and the industrial evidence.
-- **[Turning frontline input into action: a build-it guide](frontline-input-playbook)** — the
+- **[Turning frontline input into action: a build-it guide](frontline-input-playbook)**: the
   de-branded mechanics for that lane.
-- **[Standards and deviations: how settled work safely changes](standards-and-deviations)** — the
+- **[Standards and deviations: how settled work safely changes](standards-and-deviations)**: the
   governed lane: documenting, measuring, and judging deviations from settled work.
-- **[Why leadership training fails](why-leadership-training-fails)** — the same finding in another
+- **[Why leadership training fails](why-leadership-training-fails)**: the same finding in another
   domain: train the individual and change nothing about the system, and nothing changes.
-- **[Psychological safety](psychological-safety)** — none of the data reaches you if people are not
+- **[Psychological safety](psychological-safety)**: none of the data reaches you if people are not
   safe to report it honestly, which is also how measurement gaming starts.
-- **[How to read the evidence](how-to-read-the-evidence)** — the decoder ring for the verdicts and
+- **[How to read the evidence](how-to-read-the-evidence)**: the decoder ring for the verdicts and
   statistics used above.
 
 ## Sources

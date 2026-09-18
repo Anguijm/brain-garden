@@ -1,5 +1,5 @@
 ---
-title: "Samurai Shodown II — Neo Geo Guide"
+title: "Samurai Shodown II: Neo Geo Guide"
 type: game-guide
 category: games/neogeo
 tags: [neogeo, snk, samurai-shodown, fighting, arcade, walkthrough, guide]

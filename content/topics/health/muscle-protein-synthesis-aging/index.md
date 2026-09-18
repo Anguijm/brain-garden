@@ -210,22 +210,22 @@ supplement or a new exercise program, especially with any health conditions.
 
 ## See also
 
-- **[Supplements for a midlife body](topics/health/supplements-for-midlife/)** — the practical supplement plan built on this science.
-- **[The core stack that actually works](topics/health/supplements-for-midlife/01-core-stack)** — where leucine and HMB are handled in the stack.
-- **[If you are prone to gout (high uric acid)](topics/health/supplements-for-midlife/05-gout-and-uric-acid)** — whether any of this raises uric acid.
-- **[Using AI well](connections/using-ai-well)** — the same honest-appraisal habit: separate real science from marketing.
+- **[Supplements for a midlife body](topics/health/supplements-for-midlife/)**: the practical supplement plan built on this science.
+- **[The core stack that actually works](topics/health/supplements-for-midlife/01-core-stack)**: where leucine and HMB are handled in the stack.
+- **[If you are prone to gout (high uric acid)](topics/health/supplements-for-midlife/05-gout-and-uric-acid)**: whether any of this raises uric acid.
+- **[Using AI well](connections/using-ai-well)**: the same honest-appraisal habit: separate real science from marketing.
 
 ## Sources
 
-- Moore DR et al. (2015), older adults need more protein per meal for muscle synthesis, *J Gerontol A* — https://academic.oup.com/biomedgerontology/article-abstract/70/1/57/2947642
-- Zaromskyte G et al. (2021), leucine trigger hypothesis systematic review, *Front Nutr* — https://pmc.ncbi.nlm.nih.gov/articles/PMC8295465/
-- Leucine supplementation meta-analysis, 17 RCTs (2022), *Front Nutr* — https://pmc.ncbi.nlm.nih.gov/articles/PMC9284268/
-- Morton RW et al. (2018), protein + resistance training meta-analysis, *Br J Sports Med* — https://pmc.ncbi.nlm.nih.gov/articles/PMC5867436/
-- Mitchell CJ et al. (2014), acute synthesis does not predict growth, *PLOS One* — https://pmc.ncbi.nlm.nih.gov/articles/PMC3933567/
-- Bauer J et al. (2013), PROT-AGE protein recommendations for older adults, *JAMDA* — https://kclpure.kcl.ac.uk/ws/files/132005858/Moore_Witard_et_al_JAMDA_S_13_00436_I.pdf
-- Deutz NEP et al. (2013), HMB preserves muscle during bed rest, *Clin Nutr* — https://pubmed.ncbi.nlm.nih.gov/23514626/
-- HMB in sarcopenia, meta-analysis — https://pmc.ncbi.nlm.nih.gov/articles/PMC11272589/
-- Creatine + resistance training in older adults, meta-analysis — https://pmc.ncbi.nlm.nih.gov/articles/PMC5679696/
-- Vitamin D and muscle, null meta-analysis (Prokopidis 2022), *J Cachexia Sarcopenia Muscle* — https://onlinelibrary.wiley.com/doi/full/10.1002/jcsm.12976
-- Apex Muscle Defense product page — https://apexlaboratories.com/products/muscle-defense
-- Apex Muscle Defense Supplement Facts panel (label image, the only place the amounts are published) — https://apexlaboratories.com/cdn/shop/files/MD_INGREDIENTS.jpg
+- Moore DR et al. (2015), older adults need more protein per meal for muscle synthesis, *J Gerontol A*: https://academic.oup.com/biomedgerontology/article-abstract/70/1/57/2947642
+- Zaromskyte G et al. (2021), leucine trigger hypothesis systematic review, *Front Nutr*: https://pmc.ncbi.nlm.nih.gov/articles/PMC8295465/
+- Leucine supplementation meta-analysis, 17 RCTs (2022), *Front Nutr*: https://pmc.ncbi.nlm.nih.gov/articles/PMC9284268/
+- Morton RW et al. (2018), protein + resistance training meta-analysis, *Br J Sports Med*: https://pmc.ncbi.nlm.nih.gov/articles/PMC5867436/
+- Mitchell CJ et al. (2014), acute synthesis does not predict growth, *PLOS One*: https://pmc.ncbi.nlm.nih.gov/articles/PMC3933567/
+- Bauer J et al. (2013), PROT-AGE protein recommendations for older adults, *JAMDA*: https://kclpure.kcl.ac.uk/ws/files/132005858/Moore_Witard_et_al_JAMDA_S_13_00436_I.pdf
+- Deutz NEP et al. (2013), HMB preserves muscle during bed rest, *Clin Nutr*: https://pubmed.ncbi.nlm.nih.gov/23514626/
+- HMB in sarcopenia, meta-analysis: https://pmc.ncbi.nlm.nih.gov/articles/PMC11272589/
+- Creatine + resistance training in older adults, meta-analysis: https://pmc.ncbi.nlm.nih.gov/articles/PMC5679696/
+- Vitamin D and muscle, null meta-analysis (Prokopidis 2022), *J Cachexia Sarcopenia Muscle*: https://onlinelibrary.wiley.com/doi/full/10.1002/jcsm.12976
+- Apex Muscle Defense product page: https://apexlaboratories.com/products/muscle-defense
+- Apex Muscle Defense Supplement Facts panel (label image, the only place the amounts are published): https://apexlaboratories.com/cdn/shop/files/MD_INGREDIENTS.jpg

@@ -1,5 +1,5 @@
 ---
-title: "Battletoads — NES Walkthrough"
+title: "Battletoads: NES Walkthrough"
 type: game-guide
 category: games/nes
 tags: [nes, nintendo, battletoads, beat-em-up, walkthrough, guide]
@@ -9,7 +9,7 @@ created: 2026-09-01
 draft: false
 ---
 
-# Battletoads — NES Walkthrough
+# Battletoads: NES Walkthrough
 
 **Developer:** Rare | **Publisher:** Tradewest | **Year:** 1991
 

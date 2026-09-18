@@ -1,5 +1,5 @@
 ---
-title: "Rygar — NES Walkthrough"
+title: "Rygar: NES Walkthrough"
 type: game-guide
 category: games/nes
 tags: [nes, nintendo, rygar, action-platformer, walkthrough, guide]
@@ -9,7 +9,7 @@ created: 2026-09-01
 draft: false
 ---
 
-# Rygar — NES Walkthrough
+# Rygar: NES Walkthrough
 
 *Tecmo, 1987. Action-platformer with RPG stat growth and open-world exploration.*
 

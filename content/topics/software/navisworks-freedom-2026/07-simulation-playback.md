@@ -8,7 +8,7 @@ tags: [software, autodesk, navisworks, bim, 3d-viewer, tutorial]
 created: 2026-06-24
 ---
 
-# Chapter 7 — Playing back 4D simulations and animations
+# Chapter 7: Playing back 4D simulations and animations
 
 One of Freedom's best tricks: if an author built a 4D construction sequence or
 object animations and published them into the NWD, Freedom can **play them back**.

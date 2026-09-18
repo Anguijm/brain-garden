@@ -120,8 +120,8 @@ tidy option.
 
 ## Sources
 
-- Flame — https://pub.dev/packages/flame ; https://github.com/flame-engine/flame
-- Flutter CLI and mobile builds — https://docs.flutter.dev/reference/flutter-cli ; https://docs.flutter.dev/deployment/android ; https://docs.flutter.dev/deployment/ios
-- libGDX — https://libgdx.com/ ; project generation https://libgdx.com/wiki/start/project-generation ; running https://libgdx.com/wiki/start/import-and-running
-- MonoGame — https://github.com/MonoGame/MonoGame ; platforms https://docs.monogame.net/articles/getting_started/platforms.html ; license https://github.com/MonoGame/MonoGame/blob/develop/LICENSE.txt
-- HaxeFlixel — https://haxeflixel.com/documentation/install-haxeflixel/ ; https://haxeflixel.com/documentation/android/
+- Flame: https://pub.dev/packages/flame ; https://github.com/flame-engine/flame
+- Flutter CLI and mobile builds: https://docs.flutter.dev/reference/flutter-cli ; https://docs.flutter.dev/deployment/android ; https://docs.flutter.dev/deployment/ios
+- libGDX: https://libgdx.com/ ; project generation https://libgdx.com/wiki/start/project-generation ; running https://libgdx.com/wiki/start/import-and-running
+- MonoGame: https://github.com/MonoGame/MonoGame ; platforms https://docs.monogame.net/articles/getting_started/platforms.html ; license https://github.com/MonoGame/MonoGame/blob/develop/LICENSE.txt
+- HaxeFlixel: https://haxeflixel.com/documentation/install-haxeflixel/ ; https://haxeflixel.com/documentation/android/

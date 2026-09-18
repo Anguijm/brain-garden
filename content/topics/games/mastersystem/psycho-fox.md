@@ -1,5 +1,5 @@
 ---
-title: "Psycho Fox — Master System Guide"
+title: "Psycho Fox: Master System Guide"
 type: game-guide
 category: games/mastersystem
 tags: [mastersystem, sega, psycho-fox, platformer, walkthrough, guide]

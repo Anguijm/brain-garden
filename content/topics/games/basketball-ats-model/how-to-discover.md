@@ -238,13 +238,13 @@ every step up the parlay ladder pays the house more.
 
 ## See also
 
-- **[Building a basketball spread model](topics/games/basketball-ats-model/)** — the companion:
+- **[Building a basketball spread model](topics/games/basketball-ats-model/)**: the companion:
   this note's loop, applied end-to-end to one concrete model.
-- **[AI agent engineering](topics/ai-engineering/)** — the same evaluation discipline
+- **[AI agent engineering](topics/ai-engineering/)**: the same evaluation discipline
   aimed at LLMs instead of gradient boosting.
-- **[How to read the evidence](topics/leadership/how-to-read-the-evidence)** — the
+- **[How to read the evidence](topics/leadership/how-to-read-the-evidence)**: the
   vault's decoder for calibration, effect sizes, and benchmark claims.
-- **[Using AI well](connections/using-ai-well)** — the habit underneath all
+- **[Using AI well](connections/using-ai-well)**: the habit underneath all
   of it: a confident number is a claim to test.
 
 ## Sources

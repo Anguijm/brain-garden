@@ -1,5 +1,5 @@
 ---
-title: "Contra — NES Guide"
+title: "Contra: NES Guide"
 type: game-guide
 category: games/nes
 tags: [nes, nintendo, contra, run-and-gun, shooter, walkthrough, guide]

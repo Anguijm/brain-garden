@@ -8,7 +8,7 @@ tags: [business-development, defense, capture-management, govcon, proposals, pla
 created: 2026-06-18
 ---
 
-# Chapter 4 — Customer, stakeholders, and shaping
+# Chapter 4: Customer, stakeholders, and shaping
 
 In defense, "the customer" is not one person, it is a system of roles with
 different powers and different motivations. Capture means understanding that system

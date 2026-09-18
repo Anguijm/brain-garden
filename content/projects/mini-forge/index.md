@@ -178,7 +178,7 @@ picture catch different faults.
 
 **Known defects, characterised rather than guessed:**
 
-- **Pixal3D emits a double-layered open shell** — 503,463 open edges across 43,089 components on the
+- **Pixal3D emits a double-layered open shell**: 503,463 open edges across 43,089 components on the
   raw GLB, and two surfaces about 0.002 mm apart over the whole figure. A coarse voxel at print prep
   (0.20 to 0.30 mm, subject-dependent) fuses them and it slices normally. Fine voxels preserve the
   defect and Bambu rejects the object at load with `1 models, 0 objects`.
@@ -202,14 +202,14 @@ slicer output, not about plastic.
 
 ## See also
 
-- **[Generating 3D, and why you cannot just script it](topics/ai-engineering/17-generating-3d-versus-scripting-it)** — why a generated mesh and a scripted one fail at opposite things.
-- **[The plan that reads right and the plan that runs](topics/ai-engineering/18-the-plan-that-runs)** — the six failures that building this turned up.
-- **[Building HIP extensions against AMD's self-contained ROCm wheels](topics/ai-engineering/19-building-hip-extensions-on-strix-halo)** — how the ROCm half of this was made to compile, and the five packaging gaps that stop it.
-- **[Three image-to-3D models, judged by the slicer instead of a ruler](topics/ai-engineering/20-three-image-to-3d-models-against-a-real-slicer)** — the comparison that decides which generator to reach for, and why the thickness metric was the wrong gate.
+- **[Generating 3D, and why you cannot just script it](topics/ai-engineering/17-generating-3d-versus-scripting-it)**: why a generated mesh and a scripted one fail at opposite things.
+- **[The plan that reads right and the plan that runs](topics/ai-engineering/18-the-plan-that-runs)**: the six failures that building this turned up.
+- **[Building HIP extensions against AMD's self-contained ROCm wheels](topics/ai-engineering/19-building-hip-extensions-on-strix-halo)**: how the ROCm half of this was made to compile, and the five packaging gaps that stop it.
+- **[Three image-to-3D models, judged by the slicer instead of a ruler](topics/ai-engineering/20-three-image-to-3d-models-against-a-real-slicer)**: the comparison that decides which generator to reach for, and why the thickness metric was the wrong gate.
 
 ## Sources
 
-- pwilkin, *trellis.cpp* — https://github.com/pwilkin/trellis.cpp
-- ilintar, *trellis2-gguf weights* — https://huggingface.co/ilintar/trellis2-gguf
-- AMD, *Strix Halo system optimization* — https://rocm.docs.amd.com/en/docs-7.2.0/how-to/system-optimization/strixhalo.html
-- capetron, *MS-S1 Max BIOS update from Linux* — https://github.com/capetron/minisforum-ms-s1-max-bios
+- pwilkin, *trellis.cpp*: https://github.com/pwilkin/trellis.cpp
+- ilintar, *trellis2-gguf weights*: https://huggingface.co/ilintar/trellis2-gguf
+- AMD, *Strix Halo system optimization*: https://rocm.docs.amd.com/en/docs-7.2.0/how-to/system-optimization/strixhalo.html
+- capetron, *MS-S1 Max BIOS update from Linux*: https://github.com/capetron/minisforum-ms-s1-max-bios

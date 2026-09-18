@@ -59,17 +59,17 @@ is exactly why the vault labels sources rather than swallowing them.
 
 ## See also
 
-- **[The feedback fallacy](the-feedback-fallacy)** — feedback done as drawing out, one of the
+- **[The feedback fallacy](the-feedback-fallacy)**: feedback done as drawing out, one of the
   six behaviors here.
-- **[Teamwork on the fly](teamwork-on-the-fly)** — curiosity and empathy,
+- **[Teamwork on the fly](teamwork-on-the-fly)**: curiosity and empathy,
   the same collaborative mindset.
-- **[Using AI well](connections/using-ai-well)** — the reason to label and doubt sources
+- **[Using AI well](connections/using-ai-well)**: the reason to label and doubt sources
   rather than trust a confident name.
 
 ## Sources
 
 - Francesca Gino, "Cracking the Code of Sustained Collaboration", Harvard Business Review
   (November–December 2019) — https://hbr.org/2019/11/cracking-the-code-of-sustained-collaboration
-- Harvard revokes Gino's tenure after the data-fraud investigation, NBC News — https://www.nbcnews.com/news/us-news/harvard-revokes-tenure-professor-famous-ethics-studies-first-time-80-y-rcna209108
+- Harvard revokes Gino's tenure after the data-fraud investigation, NBC News: https://www.nbcnews.com/news/us-news/harvard-revokes-tenure-professor-famous-ethics-studies-first-time-80-y-rcna209108
 - Note: the author's research record came under investigation in 2023 and Harvard found research
   misconduct; weight this source accordingly.

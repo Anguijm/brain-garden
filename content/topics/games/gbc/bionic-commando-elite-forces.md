@@ -1,5 +1,5 @@
 ---
-title: "Bionic Commando: Elite Forces — Game Boy Color Guide"
+title: "Bionic Commando: Elite Forces: Game Boy Color Guide"
 type: game-guide
 category: games/gbc
 tags: [gbc, gameboy-color, bionic-commando, capcom, nintendo, action-platformer, walkthrough, guide]

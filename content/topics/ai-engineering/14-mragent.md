@@ -232,13 +232,13 @@ argued, but unproven outside the authors' own runs."
 ## See also
 
 - **In this series:** [← Safety and best practices](13-safety-and-best-practices) · [Overview](topics/ai-engineering/)
-- **[Memory for agents](08-memory-for-agents)** — the plain-English memory chapter this is a deep example of.
-- **[Using AI well](connections/using-ai-well)** — 'promising but unproven' is the same honest-catch habit.
+- **[Memory for agents](08-memory-for-agents)**: the plain-English memory chapter this is a deep example of.
+- **[Using AI well](connections/using-ai-well)**: 'promising but unproven' is the same honest-catch habit.
 
 ## Sources
 
-- *Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents* (arXiv:2606.06036) — https://arxiv.org/abs/2606.06036 (full text: https://arxiv.org/html/2606.06036v1)
-- OpenReview record (venue: ICLR 2026 Workshop MemAgents; no public reviews) — https://openreview.net/forum?id=YPoHy6lgKP
-- ICLR 2026 MemAgents workshop — https://sites.google.com/view/memagent-iclr26
-- MRAgent code repository — https://github.com/Ji-shuo/MRAgent
-- *Does Memory Need Graphs?* (a field counterpoint, arXiv:2601.01280) — https://arxiv.org/abs/2601.01280
+- *Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents* (arXiv:2606.06036): https://arxiv.org/abs/2606.06036 (full text: https://arxiv.org/html/2606.06036v1)
+- OpenReview record (venue: ICLR 2026 Workshop MemAgents; no public reviews): https://openreview.net/forum?id=YPoHy6lgKP
+- ICLR 2026 MemAgents workshop: https://sites.google.com/view/memagent-iclr26
+- MRAgent code repository: https://github.com/Ji-shuo/MRAgent
+- *Does Memory Need Graphs?* (a field counterpoint, arXiv:2601.01280): https://arxiv.org/abs/2601.01280

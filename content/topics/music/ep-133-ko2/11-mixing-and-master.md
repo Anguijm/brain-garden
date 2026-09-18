@@ -8,7 +8,7 @@ tags: [music, sampler, groovebox, teenage-engineering, ep-133, ko-ii, tutorial]
 created: 2026-06-23
 ---
 
-# Chapter 11 — Mixing and the master
+# Chapter 11: Mixing and the master
 
 ![The MAIN button with COMMIT as its SHIFT secondary](img/main.jpg)
 *MAIN is the mixer view; SHIFT+FX opens the master section. Photo: Teenage Engineering.*

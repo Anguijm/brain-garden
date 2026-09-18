@@ -1,5 +1,5 @@
 ---
-title: "Mega Man 2 — NES Walkthrough"
+title: "Mega Man 2: NES Walkthrough"
 type: game-guide
 category: games/nes
 tags: [nes, nintendo, mega-man, action-platformer, walkthrough, guide, capcom]
@@ -9,7 +9,7 @@ created: 2026-09-01
 draft: false
 ---
 
-# Mega Man 2 — NES Walkthrough
+# Mega Man 2: NES Walkthrough
 
 Mega Man 2 is the benchmark action-platformer on the NES. Eight robot masters, a Wily fortress, a weapon system that rewards learning, and a difficulty curve that is demanding without being unfair. This guide covers the full game: stage order, weapon strategies, Energy Tank locations, Item pickups, boss strategies, and the Wily Castle. The guide assumes you are playing on Normal difficulty; Difficult mode costs Mega Man more damage per hit.
 
@@ -253,21 +253,21 @@ Carry all E-Tanks into the Wily stages. The boss rush in Wily 5 and the Wily fig
 
 ## Wily Castle Walkthrough
 
-### Wily Stage 1 — Mecha Dragon
+### Wily Stage 1: Mecha Dragon
 
 Standard traversal opening with platform enemies. At the end of the stage, a giant mechanical dragon (the Mecha Dragon) chases Mega Man up a vertical shaft. You must climb and leap across platforms while the dragon pursues from below. Keep moving upward — falling behind means it catches you. If you have Item 2, use it to cover gaps fast.
 
 At the top, the Mecha Dragon is the boss. It flies back and forth and breathes fireballs. Stand on the high ledge on the right side of the room and fire Crash Bomber at its face when it passes. Several hits end it.
 
-### Wily Stage 2 — Picopico-kun
+### Wily Stage 2: Picopico-kun
 
 Platform traversal with a boss at the end: **Picopico-kun**, a large wall structure made of blocks. It absorbs little Met enemies and incorporates them into its body, expanding. It also fires projectiles from its body. Use Crash Bomber on it — stick bombs to the central sections and let them detonate. The absorbed Mets can be shot out of it. Target the core blocks. Several Crash Bombs finish it.
 
-### Wily Stage 3 — Guts-Dozer
+### Wily Stage 3: Guts-Dozer
 
 A short stage leading to the **Guts-Dozer**, a massive robotic bulldozer that charges across the room. It fires bullets from its eye. Jump over it when it charges, fire Crash Bomber at the eye, and land behind it. Repeat. It turns around and charges again. Several Crash Bomb hits on the eye finish it.
 
-### Wily Stage 4 — Boobeam Trap
+### Wily Stage 4: Boobeam Trap
 
 **The most punishing single encounter in the game.** 
 
@@ -277,7 +277,7 @@ This stage has few enemies but a maze-like layout. The boss at the end is the **
 
 The cannons fire at fixed intervals. Learn which cannon fires next, dodge, and place a Crash Bomb on the nearest cannon while the others are dormant. Work systematically from one side to the other. After all five are destroyed, the fight ends.
 
-### Wily Stage 5 — Boss Rush
+### Wily Stage 5: Boss Rush
 
 Eight rooms, each containing one of the robot masters you fought earlier. They use the same patterns. You have all their weapon weaknesses now — hit each one with its weakness for a fast kill:
 
@@ -292,7 +292,7 @@ Eight rooms, each containing one of the robot masters you fought earlier. They u
 
 Use E-Tanks between rooms where needed. This gauntlet is the game testing whether you learned it.
 
-### Wily Stage 6 — Wily Machine 2 and Final Form
+### Wily Stage 6: Wily Machine 2 and Final Form
 
 The final stage. Short traversal, then the endgame boss sequence.
 

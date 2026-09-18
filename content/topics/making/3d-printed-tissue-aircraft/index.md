@@ -261,28 +261,28 @@ job balsa still does best.
 
 ## See also
 
-- **[Finite resources](connections/finite-resources)** — weight as a hard ceiling: geometry beats material.
-- **[Making with the X1C](connections/making-with-the-x1c)** — the X1C thread this note inverts.
-- **[Weighty game pieces (cold-casting)](topics/making/cold-cast-game-pieces/)** — the opposite extreme: making pieces as heavy as possible.
-- **[White's (dumpy) tree frogs](topics/pets/whites-tree-frog-bioactive-japan)** — the same PETG-over-PLA materials call, in a terrarium.
+- **[Finite resources](connections/finite-resources)**: weight as a hard ceiling: geometry beats material.
+- **[Making with the X1C](connections/making-with-the-x1c)**: the X1C thread this note inverts.
+- **[Weighty game pieces (cold-casting)](topics/making/cold-cast-game-pieces/)**: the opposite extreme: making pieces as heavy as possible.
+- **[White's (dumpy) tree frogs](topics/pets/whites-tree-frog-bioactive-japan)**: the same PETG-over-PLA materials call, in a terrarium.
 
 ## Sources
 
-- Model Aviation (AMA), *Balsa Density, Grain, and Grade* — https://www.modelaviation.com/balsa
-- eSUN ePLA-LW technical data sheet (density 0.54 g/cm3) — https://www.esun3d.com/uploads/eSUN_ePLA-LW-Filament_TDS_V4.02.pdf
-- ColorFabb, *How to Print with LW-PLA* — https://colorfabb.com/blog/post/how-to-print-with-colorfabb-lw-pla
-- Fabbaloo, *A Field Test of Lightweight PLA* (372 g vs 332 g) — https://www.fabbaloo.com/news/3d-print-materials-count-a-field-test-of-lightweight-pla
-- Hackaday, *A Guide to 3D Printing Model Aircraft Wings* — https://hackaday.com/2022/08/26/a-guide-to-3d-printing-model-aircraft-wings/
-- 3DLabPrint, *Materials for 3D printing planes* — https://3dlabprint.com/faq/materials-for-3d-printing-planes/
-- Eclipson EBW-160 (weights and wing loading) — https://www.eclipson-airplanes.com/ebw-160-rc
-- RC Wing 3D Printer / ColorFabb, *Type M1* sectioned wing — https://colorfabb.com/blog/post/rcwing3dprinter-x-colorfabb
-- Free Flight Lab, LW-PLA free-flight kit (sub-19 g) — https://freeflightlab.org/product/lw-pla-3d-printed-airplane-kit-printed-parts-only/
-- Bambu Lab X1-Carbon specifications (256 mm bed, hardened nozzle) — https://public-cdn.bambulab.com/store/bambulab-X1-carbon-tech-specs.pdf
-- ORNL, *Advanced 3D printing creates origami-inspired structures* — https://www.ornl.gov/news/advanced-3d-printing-creates-origami-inspired-structures
-- New Atlas, *Origami-inspired 3D printing needs no molds* — https://newatlas.com/3d-printing/origami-inspired-3d-printing-no-molds/
-- Wikipedia, *Aircraft dope* — https://en.wikipedia.org/wiki/Aircraft_dope
-- LCAA, *Comparative Weights of Covering Materials* — https://lcaa.org/pdf/comparative_weights_of_covering_material.pdf
-- rc3dprint, *3D printing geodesic internal structure* (heavier result) — https://www.rc3dprint.com/post/3d-printing-geodesic-internal-structure
-- Guillow's, *About Us* — https://www.guillow.com/about-us/
-- FAA, *Recreational Flyers* / TRUST — https://www.faa.gov/uas/recreational_flyers
-- AMA, *National Model Aircraft Safety Code* — https://www.modelaircraft.org/content/official-ama-national-model-aircraft-safety-code
+- Model Aviation (AMA), *Balsa Density, Grain, and Grade*: https://www.modelaviation.com/balsa
+- eSUN ePLA-LW technical data sheet (density 0.54 g/cm3): https://www.esun3d.com/uploads/eSUN_ePLA-LW-Filament_TDS_V4.02.pdf
+- ColorFabb, *How to Print with LW-PLA*: https://colorfabb.com/blog/post/how-to-print-with-colorfabb-lw-pla
+- Fabbaloo, *A Field Test of Lightweight PLA* (372 g vs 332 g): https://www.fabbaloo.com/news/3d-print-materials-count-a-field-test-of-lightweight-pla
+- Hackaday, *A Guide to 3D Printing Model Aircraft Wings*: https://hackaday.com/2022/08/26/a-guide-to-3d-printing-model-aircraft-wings/
+- 3DLabPrint, *Materials for 3D printing planes*: https://3dlabprint.com/faq/materials-for-3d-printing-planes/
+- Eclipson EBW-160 (weights and wing loading): https://www.eclipson-airplanes.com/ebw-160-rc
+- RC Wing 3D Printer / ColorFabb, *Type M1* sectioned wing: https://colorfabb.com/blog/post/rcwing3dprinter-x-colorfabb
+- Free Flight Lab, LW-PLA free-flight kit (sub-19 g): https://freeflightlab.org/product/lw-pla-3d-printed-airplane-kit-printed-parts-only/
+- Bambu Lab X1-Carbon specifications (256 mm bed, hardened nozzle): https://public-cdn.bambulab.com/store/bambulab-X1-carbon-tech-specs.pdf
+- ORNL, *Advanced 3D printing creates origami-inspired structures*: https://www.ornl.gov/news/advanced-3d-printing-creates-origami-inspired-structures
+- New Atlas, *Origami-inspired 3D printing needs no molds*: https://newatlas.com/3d-printing/origami-inspired-3d-printing-no-molds/
+- Wikipedia, *Aircraft dope*: https://en.wikipedia.org/wiki/Aircraft_dope
+- LCAA, *Comparative Weights of Covering Materials*: https://lcaa.org/pdf/comparative_weights_of_covering_material.pdf
+- rc3dprint, *3D printing geodesic internal structure* (heavier result): https://www.rc3dprint.com/post/3d-printing-geodesic-internal-structure
+- Guillow's, *About Us*: https://www.guillow.com/about-us/
+- FAA, *Recreational Flyers* / TRUST: https://www.faa.gov/uas/recreational_flyers
+- AMA, *National Model Aircraft Safety Code*: https://www.modelaircraft.org/content/official-ama-national-model-aircraft-safety-code

@@ -1,5 +1,5 @@
 ---
-title: "Bomberman — NES Guide"
+title: "Bomberman: NES Guide"
 type: game-guide
 category: games/nes
 tags: [nes, hudson, bomberman, action, maze, walkthrough, guide]

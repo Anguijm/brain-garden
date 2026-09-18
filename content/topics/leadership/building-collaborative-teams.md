@@ -61,6 +61,7 @@ about how you build a single team.
 6. **Pick leaders who are both task- and relationship-focused, and can switch.** FACT: the
    most productive teams had "ambidextrous" leaders who led on the task up front (nailing
    goals and responsibilities) and shifted to relationships once the work was in full swing.
+   (Gratton & Erickson.)
 
 **Building the team:**
 
@@ -104,15 +105,15 @@ scoreboard.
 
 ## See also
 
-- **[The discipline of teams](the-discipline-of-teams)** — the foundation: before you build
+- **[The discipline of teams](the-discipline-of-teams)**: the foundation: before you build
   a big collaborative team, decide whether you even need a team or a working group.
-- **[Leading your teammates](leading-your-teammates)** — the person-to-person side of making
+- **[Leading your teammates](leading-your-teammates)**: the person-to-person side of making
   a group of specialists actually pull together.
-- **[Collaborative overload](collaborative-overload)** — the flip side: collaboration's hidden
+- **[Collaborative overload](collaborative-overload)**: the flip side: collaboration's hidden
   cost, and how a few helpful people end up carrying too much of it.
-- **[Managing multicultural teams](multicultural-teams)** — the culture-specific version of
+- **[Managing multicultural teams](multicultural-teams)**: the culture-specific version of
   this note's diversity friction, with fixes.
-- **[Finite resources](connections/finite-resources)** — a cousin idea from elsewhere
+- **[Finite resources](connections/finite-resources)**: a cousin idea from elsewhere
   in the garden: a smaller, tighter effort often beats a big one spread thin.
 
 ## Sources

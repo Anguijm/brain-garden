@@ -84,16 +84,16 @@ way to "never correct anyone." The authors themselves don't go that far.
 
 ## See also
 
-- **[Feedback isn't enough](feedback-isnt-enough)** — the sequel: why feedback needs an ongoing coaching relationship to land.
-- **[What great managers do](what-great-managers-do)** — the same author's positive program:
+- **[Feedback isn't enough](feedback-isnt-enough)**: the sequel: why feedback needs an ongoing coaching relationship to land.
+- **[What great managers do](what-great-managers-do)**: the same author's positive program:
   build on each person's strengths rather than fix their weaknesses.
-- **[Leadership that gets results](leadership-that-gets-results)** — the coaching style, done
+- **[Leadership that gets results](leadership-that-gets-results)**: the coaching style, done
   as spotlighting rather than criticizing.
-- **[The leader as coach](the-leader-as-coach)** — the same "draw out, don't pour in" stance,
+- **[The leader as coach](the-leader-as-coach)**: the same "draw out, don't pour in" stance,
   applied to coaching conversations.
-- **[The set-up-to-fail syndrome](set-up-to-fail)** — what happens when a boss's judgment goes
+- **[The set-up-to-fail syndrome](set-up-to-fail)**: what happens when a boss's judgment goes
   the other way: distrust and criticism that quietly create a poor performer.
-- **[Using AI well](connections/using-ai-well)** — the rater problem is this garden's
+- **[Using AI well](connections/using-ai-well)**: the rater problem is this garden's
   spine: a confident judgment is a claim to check, not the truth.
 
 ## Sources

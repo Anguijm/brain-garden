@@ -1,5 +1,5 @@
 ---
-title: "Donkey Kong 64 — N64 Guide"
+title: "Donkey Kong 64: N64 Guide"
 type: game-guide
 category: games/n64
 tags: [n64, nintendo, rare, donkey-kong-64, platformer, walkthrough, guide]

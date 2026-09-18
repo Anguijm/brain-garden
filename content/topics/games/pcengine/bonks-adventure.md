@@ -1,5 +1,5 @@
 ---
-title: "Bonk's Adventure — TurboGrafx-16 Guide"
+title: "Bonk's Adventure: TurboGrafx-16 Guide"
 type: game-guide
 category: games/pcengine
 tags: [pcengine, turbografx-16, bonk, red-company, platformer, walkthrough, guide]
@@ -44,8 +44,8 @@ Five worlds, dinosaur theme throughout, and a length that suits a platformer of 
 
 Bonk's power-ups are pieces of meat, and they change his state rather than giving him a weapon.
 
-- **Small meat** — Bonk gets angry. Attacks do more damage, and his headbutt has more reach.
-- **Large meat** — Bonk goes into a full rage. He becomes briefly invincible, and stomping the ground stuns every enemy on screen.
+- **Small meat**: Bonk gets angry. Attacks do more damage, and his headbutt has more reach.
+- **Large meat**: Bonk goes into a full rage. He becomes briefly invincible, and stomping the ground stuns every enemy on screen.
 - **Losing health** drops you back down the ladder.
 
 **Smileys** are the extra-life currency, and **hearts** restore health. Bonk's health is shown as a row of small faces; he can take several hits before dying, which makes the game noticeably friendlier than its contemporaries.

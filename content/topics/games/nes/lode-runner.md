@@ -1,5 +1,5 @@
 ---
-title: "Lode Runner — NES Guide"
+title: "Lode Runner: NES Guide"
 type: game-guide
 category: games/nes
 tags: [nes, nintendo, lode-runner, puzzle, platformer, walkthrough, guide]

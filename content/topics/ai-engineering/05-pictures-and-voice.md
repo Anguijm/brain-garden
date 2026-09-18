@@ -66,4 +66,4 @@ helpful and fast, but worth a second look whenever the stakes are real.
 
 ## Sources
 
-- Anthropic, *Vision (using images with Claude)* — https://docs.anthropic.com/en/docs/build-with-claude/vision
+- Anthropic, *Vision (using images with Claude)*: https://docs.anthropic.com/en/docs/build-with-claude/vision

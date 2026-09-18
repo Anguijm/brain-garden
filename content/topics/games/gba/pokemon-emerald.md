@@ -1,5 +1,5 @@
 ---
-title: "Pokémon Emerald — Game Boy Advance Guide"
+title: "Pokémon Emerald: Game Boy Advance Guide"
 type: game-guide
 category: games/gba
 tags: [gba, gameboy-advance, pokemon, pokemon-emerald, hoenn, rpg, walkthrough, guide]

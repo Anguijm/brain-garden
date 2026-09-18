@@ -1,5 +1,5 @@
 ---
-title: "Super Mario 64 — N64 Guide"
+title: "Super Mario 64: N64 Guide"
 type: game-guide
 category: games/n64
 tags: [n64, nintendo, mario, super-mario-64, platformer, walkthrough, guide]

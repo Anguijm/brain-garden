@@ -1,5 +1,5 @@
 ---
-title: "God of War: Ghost of Sparta — PSP Guide"
+title: "God of War: Ghost of Sparta: PSP Guide"
 type: game-guide
 category: games/psp
 tags: [psp, god-of-war, ready-at-dawn, sony, action, walkthrough, guide]

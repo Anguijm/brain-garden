@@ -1,5 +1,5 @@
 ---
-title: "Dragon Warrior Monsters — Game Boy Color Guide"
+title: "Dragon Warrior Monsters: Game Boy Color Guide"
 type: game-guide
 category: games/gbc
 tags: [gbc, gameboy-color, dragon-quest, dragon-warrior-monsters, enix, rpg, monster-breeding, walkthrough, guide]

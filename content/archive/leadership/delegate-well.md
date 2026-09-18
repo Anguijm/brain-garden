@@ -31,12 +31,12 @@ priorities still move? If not, you're more involved than essential.
 
 Four moves to delegate well:
 
-- **Start with your reasons** — share the context and why it matters, not just the task.
-- **Inspire their commitment** — define the work, check it against their capacity, and confirm
+- **Start with your reasons**: share the context and why it matters, not just the task.
+- **Inspire their commitment**: define the work, check it against their capacity, and confirm
   their understanding face to face (they can't read your mind).
-- **Engage at the right level** — stay involved enough to support and hold accountable, not so
+- **Engage at the right level**: stay involved enough to support and hold accountable, not so
   much that you micromanage; ask them what cadence fits.
-- **Practice "yes," "no," and "yes, if"** — say yes to what draws on your best; route the rest
+- **Practice "yes," "no," and "yes, if"**: say yes to what draws on your best; route the rest
   to others; and make the case for where your impact is higher.
 
 ## How much to trust this
@@ -54,11 +54,11 @@ reframe and the four moves; don't expect the harder questions answered here.
 
 ## See also
 
-- **[Who's got the monkey?](topics/leadership/whos-got-the-monkey)** — the vivid classic on the same trap: the
+- **[Who's got the monkey?](topics/leadership/whos-got-the-monkey)**: the vivid classic on the same trap: the
   manager who absorbs everyone's next move.
-- **[Know your own job (the manager's job)](topics/leadership/the-managers-job)** — why protecting your own scarce
+- **[Know your own job (the manager's job)](topics/leadership/the-managers-job)**: why protecting your own scarce
   time and focus matters.
-- **[Becoming the boss](topics/leadership/becoming-the-boss)** — delegation as the core skill of the doing-to-
+- **[Becoming the boss](topics/leadership/becoming-the-boss)**: delegation as the core skill of the doing-to-
   leading shift.
 
 ## Sources

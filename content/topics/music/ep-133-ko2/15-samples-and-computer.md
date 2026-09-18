@@ -2,13 +2,13 @@
 type: lesson
 series: ep-133-ko2
 chapter: 15
-title: Samples and your computer — transfer, backup, firmware
+title: "Samples and your computer: transfer, backup, firmware"
 status: curated
 tags: [music, sampler, groovebox, teenage-engineering, ep-133, ko-ii, tutorial]
 created: 2026-06-23
 ---
 
-# Chapter 15 — Samples and your computer
+# Chapter 15: Samples and your computer
 
 Getting audio on and off the device, backing up your work, and keeping firmware
 current all happen over USB-C through Teenage Engineering's browser tools.

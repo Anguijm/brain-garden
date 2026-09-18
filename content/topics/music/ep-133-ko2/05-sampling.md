@@ -2,13 +2,13 @@
 type: lesson
 series: ep-133-ko2
 chapter: 5
-title: Sampling — mic, line, and resample
+title: "Sampling: mic, line, and resample"
 status: curated
 tags: [music, sampler, groovebox, teenage-engineering, ep-133, ko-ii, tutorial]
 created: 2026-06-23
 ---
 
-# Chapter 5 — Sampling
+# Chapter 5: Sampling
 
 ![The SAMPLE button with CHOP as its SHIFT secondary](img/sample.jpg)
 *The SAMPLE button. Photo: Teenage Engineering.*

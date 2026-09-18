@@ -54,11 +54,11 @@ proof of what produces leaders.
 
 ## See also
 
-- **[Developing your leadership pipeline](leadership-pipeline)** — the how-to companion: the
+- **[Developing your leadership pipeline](leadership-pipeline)**: the how-to companion: the
   internal system that grows leaders.
-- **[Why leadership training fails](why-leadership-training-fails)** — the caution: investment
+- **[Why leadership training fails](why-leadership-training-fails)**: the caution: investment
   only works if the surrounding system supports it.
-- **[The making of an expert](making-of-an-expert)** — how individual skill is actually built,
+- **[The making of an expert](making-of-an-expert)**: how individual skill is actually built,
   underneath any corporate program.
 
 ## Sources

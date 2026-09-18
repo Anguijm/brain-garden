@@ -1,5 +1,5 @@
 ---
-title: "Bionic Commando — NES Walkthrough"
+title: "Bionic Commando: NES Walkthrough"
 type: game-guide
 category: games/nes
 tags: [nes, nintendo, bionic-commando, action, walkthrough, guide, capcom]
@@ -9,7 +9,7 @@ created: 2026-09-01
 draft: false
 ---
 
-# Bionic Commando (NES) — Complete Walkthrough
+# Bionic Commando (NES): Complete Walkthrough
 
 **Developer:** Capcom | **Publisher:** Capcom | **Release:** 1988 (US)
 
@@ -43,7 +43,7 @@ The story: Ladd Spencer is a soldier in the Federal Army sent into Albatross-occ
 
 ---
 
-## The Bionic Arm — Core Mechanics
+## The Bionic Arm: Core Mechanics
 
 Everything in Bionic Commando comes back to the arm. Here is what you need to know before Area 1:
 
@@ -142,7 +142,7 @@ The reason for this order:
 
 ## Area-by-Area Walkthrough
 
-### Area 1 — Introduction
+### Area 1: Introduction
 
 **Communicator needed:** Red (α) — you start with it.
 
@@ -156,7 +156,7 @@ The interior section has elevators — grapple to the ceiling to cross the eleva
 
 ---
 
-### Area 4 — Wide Cannon
+### Area 4: Wide Cannon
 
 **Communicator needed:** Red (α).
 
@@ -168,7 +168,7 @@ The Wide Cannon's three-spread makes the next several areas significantly easier
 
 ---
 
-### Area 5 — Rocket Launcher
+### Area 5: Rocket Launcher
 
 **Communicator needed:** Red (α).
 
@@ -180,7 +180,7 @@ This area is also the first time you may pick up a transmission involving Super 
 
 ---
 
-### Area 2 — Crucifix Charm
+### Area 2: Crucifix Charm
 
 **Communicator needed:** Green (β) — get it from Neutral Area 16 first.
 
@@ -190,7 +190,7 @@ After picking up the green communicator from Neutral Area 16, Area 2 opens. The 
 
 ---
 
-### Area 3 — Rapid Fire Device
+### Area 3: Rapid Fire Device
 
 **Communicator needed:** Green (β).
 
@@ -200,7 +200,7 @@ This area introduces quicksand — floor sections that look passable but will sl
 
 ---
 
-### Area 6 — The Permit
+### Area 6: The Permit
 
 **Communicator needed:** Green (β).
 
@@ -210,7 +210,7 @@ After Area 6, visit Neutral Area 14 (now accessible) and then Neutral Area 15 fo
 
 ---
 
-### Area 8 — Second Half Opens
+### Area 8: Second Half Opens
 
 **Communicator needed:** Blue (γ).
 
@@ -220,7 +220,7 @@ Communication room wiretap in this area reveals Albatross movement toward the in
 
 ---
 
-### Area 9 — Setup for Area 7
+### Area 9: Setup for Area 7
 
 **Communicator needed:** Blue (γ).
 
@@ -230,7 +230,7 @@ The ally communication here gives detailed intel on the Area 12 layout, includin
 
 ---
 
-### Area 7 — The Barrier
+### Area 7: The Barrier
 
 **Communicator needed:** Blue (γ).
 
@@ -240,7 +240,7 @@ The interior sections here are the most arm-intensive of the second half — nar
 
 ---
 
-### Area 10 — Approach to the Stronghold
+### Area 10: Approach to the Stronghold
 
 **Communicator needed:** Orange (δ) — from Neutral Area 15.
 
@@ -250,7 +250,7 @@ Area 10 increases arm precision requirements again. The wiretap here is worth th
 
 ---
 
-### Area 11 — Holding Position
+### Area 11: Holding Position
 
 **Communicator needed:** Orange (δ).
 
@@ -258,7 +258,7 @@ Similar difficulty to Area 10. The ally communication here mentions Super Joe's 
 
 ---
 
-### Area 12 — Super Joe
+### Area 12: Super Joe
 
 **Communicator needed:** Orange (δ).
 
@@ -270,7 +270,7 @@ After rescuing Super Joe (communication, not physical escort), push toward the e
 
 ---
 
-### Final Area — The Albatross Command
+### Final Area: The Albatross Command
 
 The final area is a direct push to MasterD. No communicator is required — the door is open. The layout is the most arm-demanding in the game. Energy conservation matters; if you took significant damage in Area 12, visit a neutral area if you can.
 
@@ -290,7 +290,7 @@ You get the briefing screen, the credits, and a congratulations message. The gam
 
 ---
 
-## Boss Strategies — General Principles
+## Boss Strategies: General Principles
 
 Every boss in the game follows a similar pattern:
 - They move back and forth or up and down in a limited space

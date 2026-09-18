@@ -1,5 +1,5 @@
 ---
-title: "Ikaruga — Dreamcast Guide"
+title: "Ikaruga: Dreamcast Guide"
 type: game-guide
 category: games/dreamcast
 tags: [dreamcast, ikaruga, treasure, shmup, bullet-hell, walkthrough, guide]

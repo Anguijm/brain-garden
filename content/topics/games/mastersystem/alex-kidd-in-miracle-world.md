@@ -1,5 +1,5 @@
 ---
-title: "Alex Kidd in Miracle World — Master System Guide"
+title: "Alex Kidd in Miracle World: Master System Guide"
 type: game-guide
 category: games/mastersystem
 tags: [mastersystem, sega, alex-kidd, platformer, walkthrough, guide]

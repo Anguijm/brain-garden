@@ -1,5 +1,5 @@
 ---
-title: "Neutopia — TurboGrafx-16 Guide"
+title: "Neutopia: TurboGrafx-16 Guide"
 type: game-guide
 category: games/pcengine
 tags: [pcengine, turbografx-16, neutopia, action-adventure, zelda-like, walkthrough, guide]

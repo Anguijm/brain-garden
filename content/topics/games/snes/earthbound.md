@@ -1,5 +1,5 @@
 ---
-title: "EarthBound — SNES Guide"
+title: "EarthBound: SNES Guide"
 type: game-guide
 category: games/snes
 tags: [snes, super-nintendo, earthbound, mother-2, nintendo, rpg, walkthrough, guide]

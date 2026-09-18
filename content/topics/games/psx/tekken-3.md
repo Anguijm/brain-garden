@@ -1,5 +1,5 @@
 ---
-title: "Tekken 3 — PS1 Guide"
+title: "Tekken 3: PS1 Guide"
 type: game-guide
 category: games/psx
 tags: [psx, playstation, tekken, namco, fighting, walkthrough, guide]

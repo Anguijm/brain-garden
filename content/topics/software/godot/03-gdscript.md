@@ -102,7 +102,7 @@ motion: the game loop, reading the player's input, and signals.
 
 ## Sources
 
-- Godot docs, *GDScript basics* — https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html
-- Godot docs, *Creating your first script* — https://docs.godotengine.org/en/stable/getting_started/step_by_step/scripting_first_script.html
-- Godot docs, *GDScript exported properties* — https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_exports.html
-- Godot docs, *Scripting languages* — https://docs.godotengine.org/en/stable/tutorials/scripting/index.html
+- Godot docs, *GDScript basics*: https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html
+- Godot docs, *Creating your first script*: https://docs.godotengine.org/en/stable/getting_started/step_by_step/scripting_first_script.html
+- Godot docs, *GDScript exported properties*: https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_exports.html
+- Godot docs, *Scripting languages*: https://docs.godotengine.org/en/stable/tutorials/scripting/index.html

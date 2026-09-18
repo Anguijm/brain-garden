@@ -1,5 +1,5 @@
 ---
-title: "1080° Snowboarding — N64 Guide"
+title: "1080° Snowboarding: N64 Guide"
 type: game-guide
 category: games/n64
 tags: [n64, nintendo, 1080-snowboarding, sports, racing, walkthrough, guide]

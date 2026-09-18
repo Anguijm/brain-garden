@@ -1,5 +1,5 @@
 ---
-title: "Marvel vs. Capcom 2 — Dreamcast Guide"
+title: "Marvel vs. Capcom 2: Dreamcast Guide"
 type: game-guide
 category: games/dreamcast
 tags: [dreamcast, marvel-vs-capcom, capcom, fighting, walkthrough, guide]

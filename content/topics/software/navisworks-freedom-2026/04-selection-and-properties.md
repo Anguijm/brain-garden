@@ -8,7 +8,7 @@ tags: [software, autodesk, navisworks, bim, 3d-viewer, tutorial]
 created: 2026-06-24
 ---
 
-# Chapter 4 — Selecting objects and reading properties
+# Chapter 4: Selecting objects and reading properties
 
 A big part of model review is interrogating objects: what is this, who made it,
 what are its dimensions and parameters. Freedom reads all of that.
@@ -17,9 +17,9 @@ what are its dimensions and parameters. Freedom reads all of that.
 
 FACT: On the **Home** tab, `Select & Search` panel:
 
-- **Select** — click an object in the Scene View to select it; its data appears in
+- **Select**: click an object in the Scene View to select it; its data appears in
   the Properties window.
-- **Select Box** — drag a rectangle to select everything inside it.
+- **Select Box**: drag a rectangle to select everything inside it.
 
 FACT: Selecting in the Scene View highlights the matching item in the **Selection
 Tree**, and vice versa, click a tree item to select it in 3D. Holding `Shift`
@@ -31,10 +31,10 @@ down the hierarchy (from a single face up to the whole element or group).
 FACT: The Selection Tree is the model's hierarchy, with a drop-down to switch
 modes:
 
-- **Standard** — the full hierarchy as authored (the default).
-- **Compact** — a simplified version.
-- **Properties** — items grouped by a chosen property.
-- **Sets** — appears only if the file contains saved selection/search sets.
+- **Standard**: the full hierarchy as authored (the default).
+- **Compact**: a simplified version.
+- **Properties**: items grouped by a chosen property.
+- **Sets**: appears only if the file contains saved selection/search sets.
 
 ![The Selection Tree window in Navisworks Freedom showing the model hierarchy](img/real-selection-tree.png)
 *The Selection Tree window. Screenshot: Autodesk.*
@@ -66,8 +66,8 @@ in the model.
 
 FACT: On the **Home** tab, `Visibility` panel:
 
-- **Hide** — hide the selected objects.
-- **Hide Unselected** — hide everything except the selection (isolate it).
+- **Hide**: hide the selected objects.
+- **Hide Unselected**: hide everything except the selection (isolate it).
 - **Unhide All** (`Ctrl+H`) — bring everything back.
 
 FACT: These are **temporary**, a view aid for the current session. You can't save

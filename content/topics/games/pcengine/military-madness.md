@@ -1,5 +1,5 @@
 ---
-title: "Military Madness — TurboGrafx-16 Guide"
+title: "Military Madness: TurboGrafx-16 Guide"
 type: game-guide
 category: games/pcengine
 tags: [pcengine, turbografx-16, military-madness, strategy, turn-based, walkthrough, guide]

@@ -16,7 +16,7 @@ worth pursuing. Ranked roughly from most to least worthwhile.
 
 ---
 
-## Tier 1 — Do it immediately if you have the hardware
+## Tier 1: Do it immediately if you have the hardware
 
 ### Nintendo 3DS
 **Verdict: the easiest, most complete jailbreak that exists on any console.**
@@ -66,7 +66,7 @@ ismyswitchpatched.com gives a definitive answer by serial.
 
 ---
 
-## Tier 2 — Worth doing if you have eligible hardware
+## Tier 2: Worth doing if you have eligible hardware
 
 ### PlayStation Vita
 **Verdict: fully open, permanently, on discontinued hardware.**
@@ -140,7 +140,7 @@ is worth buying specifically for jailbreaking in 2026.
 
 ---
 
-## Tier 3 — Not worth pursuing
+## Tier 3: Not worth pursuing
 
 ### Xbox One / Xbox Series X|S
 **Verdict: no public jailbreak exists, and none appears likely soon.**
@@ -196,13 +196,13 @@ for it from a homebrew perspective.
 Everything above is about modifying hardware you own. For most of the libraries people jailbreak
 *for*, there is a second route that involves no hardware risk at all: run the games on a PC.
 
-- **[Batocera on the UM790Pro](topics/games/emulation-station-batocera)** — turning a mini PC into
+- **[Batocera on the UM790Pro](topics/games/emulation-station-batocera)**: turning a mini PC into
   a controller-driven appliance that boots straight into a game library, with what actually
   happened running one.
 - **[Top games per system](topics/games/batocera-top-games)** and the
   [guides for every game on the machine](topics/games/batocera-top-games) — 163 walkthroughs across
   16 systems.
-- **[Homebrew on portable game devices](topics/games/portable-homebrew/)** — the overlap between the
+- **[Homebrew on portable game devices](topics/games/portable-homebrew/)**: the overlap between the
   two routes, where a modded handheld and an emulation box do the same job.
 
 **Where jailbreaking still wins:** playing on the original hardware with its original feel, using

@@ -1,5 +1,5 @@
 ---
-title: "Final Fantasy XII — PS2 Guide"
+title: "Final Fantasy XII: PS2 Guide"
 type: game-guide
 category: games/ps2
 tags: [ps2, playstation-2, final-fantasy, final-fantasy-xii, square-enix, rpg, walkthrough, guide]

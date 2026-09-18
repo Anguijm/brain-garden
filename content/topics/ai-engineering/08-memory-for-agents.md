@@ -104,12 +104,12 @@ rebuilds as it reasons, rather than one it just looks things up in.
 ## See also
 
 - **In this series:** [← Tools and MCP](07-tools-and-mcp) · [Context engineering →](09-context-engineering) · [Overview](topics/ai-engineering/)
-- **[MRAgent](14-mragent)** — a specific, research-grade memory design.
+- **[MRAgent](14-mragent)**: a specific, research-grade memory design.
 
 ## Sources
 
-- LangChain, *Memory overview* — https://docs.langchain.com/oss/python/concepts/memory
-- LangChain, *LangMem SDK launch* — https://www.langchain.com/blog/langmem-sdk-launch
-- Mem0, *Building Production-Ready AI Agents with Scalable Long-Term Memory* (arXiv:2504.19413) — https://arxiv.org/abs/2504.19413
-- MemGPT, *Towards LLMs as Operating Systems* (arXiv:2310.08560) — https://arxiv.org/abs/2310.08560
-- Zep, *A Temporal Knowledge Graph Architecture for Agent Memory* (arXiv:2501.13956) — https://arxiv.org/abs/2501.13956
+- LangChain, *Memory overview*: https://docs.langchain.com/oss/python/concepts/memory
+- LangChain, *LangMem SDK launch*: https://www.langchain.com/blog/langmem-sdk-launch
+- Mem0, *Building Production-Ready AI Agents with Scalable Long-Term Memory* (arXiv:2504.19413): https://arxiv.org/abs/2504.19413
+- MemGPT, *Towards LLMs as Operating Systems* (arXiv:2310.08560): https://arxiv.org/abs/2310.08560
+- Zep, *A Temporal Knowledge Graph Architecture for Agent Memory* (arXiv:2501.13956): https://arxiv.org/abs/2501.13956

@@ -1,5 +1,5 @@
 ---
-title: "Alone in the Dark: The New Nightmare — Game Boy Color Guide"
+title: "Alone in the Dark: The New Nightmare: Game Boy Color Guide"
 type: game-guide
 category: games/gbc
 tags: [gbc, gameboy-color, alone-in-the-dark, infogrames, survival-horror, walkthrough, guide]

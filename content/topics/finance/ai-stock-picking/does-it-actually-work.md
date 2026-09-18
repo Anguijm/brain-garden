@@ -171,10 +171,10 @@ a backtest and not one good year.
 
 ## See also
 
-- **[The AI stock-pick landscape](the-landscape)** — the services whose claims this note weighs.
-- **[How AI and quant stock-picking actually works](topics/finance/ai-stock-picking/)** — the mechanics behind
+- **[The AI stock-pick landscape](the-landscape)**: the services whose claims this note weighs.
+- **[How AI and quant stock-picking actually works](topics/finance/ai-stock-picking/)**: the mechanics behind
   the edge and its decay.
-- **[How to emulate it without fooling yourself](build-it-yourself)** — if you want to test a
+- **[How to emulate it without fooling yourself](build-it-yourself)**: if you want to test a
   strategy anyway, how to do it honestly.
 
 ## Sources
@@ -182,21 +182,21 @@ a backtest and not one good year.
 All peer-reviewed unless marked. Several were verified by research agents against publisher, NBER,
 or SSRN listings; the SPIVA figures come from S&P Dow Jones Indices (industry, authoritative).
 
-- SPIVA U.S. Scorecard, Year-End 2024 — **[industry, authoritative]** — https://www.spglobal.com/spdji/en/documents/spiva/spiva-us-year-end-2024.pdf
-- S&P U.S. Persistence Scorecard, Year-End 2024 — **[industry, authoritative]** — https://www.spglobal.com/spdji/en/documents/spiva/persistence-scorecard-year-end-2024.pdf
-- Fama & French (2010), "Luck versus Skill in the Cross-Section of Mutual Fund Returns," *Journal of Finance* — **[peer-reviewed]** — https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6261.2010.01598.x
-- Carhart (1997), "On Persistence in Mutual Fund Performance," *Journal of Finance* — **[peer-reviewed]** — https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.1997.tb03808.x
-- Barras, Scaillet & Wermers (2010), "False Discoveries in Mutual Fund Performance," *Journal of Finance* — **[peer-reviewed]** — https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6261.2009.01527.x
-- Gu, Kelly & Xiu (2020), "Empirical Asset Pricing via Machine Learning," *Review of Financial Studies* — **[peer-reviewed]** — https://academic.oup.com/rfs/article/33/5/2223/5758276
-- Avramov, Cheng & Metzker (2023), "Machine Learning vs. Economic Restrictions," *Management Science* — **[peer-reviewed]** — https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.4449
-- McLean & Pontiff (2016), "Does Academic Research Destroy Stock Return Predictability?," *Journal of Finance* — **[peer-reviewed]** — https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12365
-- Harvey, Liu & Zhu (2016), "...and the Cross-Section of Expected Returns," *Review of Financial Studies* — **[peer-reviewed]** — https://academic.oup.com/rfs/article-abstract/29/1/5/1843824
-- Novy-Marx & Velikov (2016), "A Taxonomy of Anomalies and Their Trading Costs," *Review of Financial Studies* — **[peer-reviewed]** — https://academic.oup.com/rfs/article-abstract/29/1/104/1844518
-- Bajgrowicz & Scaillet (2012), "Technical Trading Revisited," *Journal of Financial Economics* — **[peer-reviewed]** — https://econpapers.repec.org/article/eeejfinec/v_3a106_3ay_3a2012_3ai_3a3_3ap_3a473-491.htm
-- Chen & Zimmermann (2022), "Open Source Cross-Sectional Asset Pricing," *Critical Finance Review* — **[peer-reviewed]** — https://www.nowpublishers.com/article/Details/CFR-0112
-- Jensen, Kelly & Pedersen (2023), "Is There a Replication Crisis in Finance?," *Journal of Finance* — **[peer-reviewed]** — https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.13249
-- Metrick (1999), "Performance Evaluation with Transactions Data," *Journal of Finance* — **[peer-reviewed]** — https://onlinelibrary.wiley.com/doi/10.1111/0022-1082.00165
-- Jaffe & Mahoney (1999), "The Performance of Investment Newsletters," *Journal of Financial Economics* — **[peer-reviewed]** — https://www.sciencedirect.com/science/article/pii/S0304405X99000239
+- SPIVA U.S. Scorecard, Year-End 2024: **[industry, authoritative]**: https://www.spglobal.com/spdji/en/documents/spiva/spiva-us-year-end-2024.pdf
+- S&P U.S. Persistence Scorecard, Year-End 2024: **[industry, authoritative]**: https://www.spglobal.com/spdji/en/documents/spiva/persistence-scorecard-year-end-2024.pdf
+- Fama & French (2010), "Luck versus Skill in the Cross-Section of Mutual Fund Returns," *Journal of Finance*: **[peer-reviewed]**: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6261.2010.01598.x
+- Carhart (1997), "On Persistence in Mutual Fund Performance," *Journal of Finance*: **[peer-reviewed]**: https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.1997.tb03808.x
+- Barras, Scaillet & Wermers (2010), "False Discoveries in Mutual Fund Performance," *Journal of Finance*: **[peer-reviewed]**: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6261.2009.01527.x
+- Gu, Kelly & Xiu (2020), "Empirical Asset Pricing via Machine Learning," *Review of Financial Studies*: **[peer-reviewed]**: https://academic.oup.com/rfs/article/33/5/2223/5758276
+- Avramov, Cheng & Metzker (2023), "Machine Learning vs. Economic Restrictions," *Management Science*: **[peer-reviewed]**: https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.4449
+- McLean & Pontiff (2016), "Does Academic Research Destroy Stock Return Predictability?," *Journal of Finance*: **[peer-reviewed]**: https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12365
+- Harvey, Liu & Zhu (2016), "...and the Cross-Section of Expected Returns," *Review of Financial Studies*: **[peer-reviewed]**: https://academic.oup.com/rfs/article-abstract/29/1/5/1843824
+- Novy-Marx & Velikov (2016), "A Taxonomy of Anomalies and Their Trading Costs," *Review of Financial Studies*: **[peer-reviewed]**: https://academic.oup.com/rfs/article-abstract/29/1/104/1844518
+- Bajgrowicz & Scaillet (2012), "Technical Trading Revisited," *Journal of Financial Economics*: **[peer-reviewed]**: https://econpapers.repec.org/article/eeejfinec/v_3a106_3ay_3a2012_3ai_3a3_3ap_3a473-491.htm
+- Chen & Zimmermann (2022), "Open Source Cross-Sectional Asset Pricing," *Critical Finance Review*: **[peer-reviewed]**: https://www.nowpublishers.com/article/Details/CFR-0112
+- Jensen, Kelly & Pedersen (2023), "Is There a Replication Crisis in Finance?," *Journal of Finance*: **[peer-reviewed]**: https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.13249
+- Metrick (1999), "Performance Evaluation with Transactions Data," *Journal of Finance*: **[peer-reviewed]**: https://onlinelibrary.wiley.com/doi/10.1111/0022-1082.00165
+- Jaffe & Mahoney (1999), "The Performance of Investment Newsletters," *Journal of Financial Economics*: **[peer-reviewed]**: https://www.sciencedirect.com/science/article/pii/S0304405X99000239
 - Fama (1970, 1991), "Efficient Capital Markets" I and II, *Journal of Finance* — **[peer-reviewed]** — DOI 10.2307/2325486 and 10.1111/j.1540-6261.1991.tb04636.x
 - Grossman & Stiglitz (1980), "On the Impossibility of Informationally Efficient Markets," *American Economic Review* — **[peer-reviewed]**
-- Shleifer & Vishny (1997), "The Limits of Arbitrage," *Journal of Finance* — **[peer-reviewed]** — https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.1997.tb03807.x
+- Shleifer & Vishny (1997), "The Limits of Arbitrage," *Journal of Finance*: **[peer-reviewed]**: https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.1997.tb03807.x

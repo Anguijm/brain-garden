@@ -8,7 +8,7 @@ tags: [business-development, defense, capture-management, govcon, proposals, pla
 created: 2026-06-18
 ---
 
-# Chapter 1 — The capture lifecycle
+# Chapter 1: The capture lifecycle
 
 Capture is the disciplined process of turning a possible opportunity into a
 winnable one, and then into a win. The model below follows the widely used
@@ -20,7 +20,7 @@ The timeline matters. For a major defense program, capture often starts 18 to 36
 months before the RFP. The proposal phase, the part everyone notices, is the last
 30 to 90 days, and by then your probability of winning is mostly already set.
 
-## Phase 0 — Market and portfolio strategy
+## Phase 0: Market and portfolio strategy
 
 Before any single deal, decide where you are credible. Pick the customers,
 mission areas, and contract vehicles where your past performance, clearances,
@@ -30,7 +30,7 @@ every pursuit you run is one you cannot run elsewhere. Output: a target list of
 agencies, programs, and vehicles, and a deliberate list of things you will not
 chase.
 
-## Phase 1 — Opportunity identification
+## Phase 1: Opportunity identification
 
 Build a pipeline of specific opportunities tied to that strategy. Sources include
 SAM.gov pre-solicitation and sources-sought notices, agency long-range
@@ -40,14 +40,14 @@ firms (for example GovWin or Bloomberg Government), and your own customer
 relationships. Each entry gets logged with an estimated value, expected RFP date,
 incumbent, and contract vehicle. Detail is in [chapter 4](04-customer-stakeholders-shaping.md).
 
-## Phase 2 — Opportunity assessment and qualification
+## Phase 2: Opportunity assessment and qualification
 
 Decide whether this one is worth real money. Run an early qualification and a
 first probability-of-win (PWin) estimate, then take it through a gate review. Most
 opportunities should die here, on purpose. The full method is in
 [chapter 2](02-qualification-pwin-gates.md).
 
-## Phase 3 — Capture planning (the core of capture)
+## Phase 3: Capture planning (the core of capture)
 
 Once an opportunity passes the qualification gate, assign a capture manager and
 build the capture plan. This is where the win is actually engineered, over months,
@@ -67,7 +67,7 @@ Assessment: the test of a capture plan is whether it changes what the customer
 writes in the RFP and what they believe about you by the time it drops. A plan
 that only prepares you to respond is not capture, it is just early proposal work.
 
-## Phase 4 — Proposal planning
+## Phase 4: Proposal planning
 
 As the draft and final RFP approach, transition from capture to proposal. Stand up
 the proposal team, build the compliance matrix from the Section L (instructions)
@@ -75,14 +75,14 @@ and Section M (evaluation factors) of the solicitation, lock the win themes and
 solution, and schedule the color-team reviews. Capture intelligence hands off into
 the proposal here. See [chapter 7](07-proposal-management.md).
 
-## Phase 5 — Proposal development and submission
+## Phase 5: Proposal development and submission
 
 Write, review, and revise against the compliance matrix and the evaluation
 criteria, running the color-team reviews (Pink, Red, Gold) along the way. Produce a
 compliant, compelling, and clean proposal, then submit exactly per the
 instructions. Compliance failures and missed deadlines are unforced losses.
 
-## Phase 6 — Post-submission and award
+## Phase 6: Post-submission and award
 
 After submission you may face evaluation notices, discussions, a request for a
 final proposal revision (FPR), or oral presentations. Prepare for these as

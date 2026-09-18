@@ -1,5 +1,5 @@
 ---
-title: "Skies of Arcadia — Dreamcast Guide"
+title: "Skies of Arcadia: Dreamcast Guide"
 type: game-guide
 category: games/dreamcast
 tags: [dreamcast, skies-of-arcadia, overworks, sega, rpg, walkthrough, guide]

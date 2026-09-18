@@ -1,5 +1,5 @@
 ---
-title: "Comix Zone — Mega Drive Guide"
+title: "Comix Zone: Mega Drive Guide"
 type: game-guide
 category: games/megadrive
 tags: [megadrive, genesis, comix-zone, sega, beat-em-up, walkthrough, guide]

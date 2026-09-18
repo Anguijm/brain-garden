@@ -1,5 +1,5 @@
 ---
-title: "Garou: Mark of the Wolves — Neo Geo Guide"
+title: "Garou: Mark of the Wolves: Neo Geo Guide"
 type: game-guide
 category: games/neogeo
 tags: [neogeo, snk, garou, fatal-fury, fighting, arcade, walkthrough, guide]

@@ -1,5 +1,5 @@
 ---
-title: "Ristar — Game Gear Guide"
+title: "Ristar: Game Gear Guide"
 type: game-guide
 category: games/gamegear
 tags: [gamegear, sega, ristar, platformer, walkthrough, guide]
@@ -44,11 +44,11 @@ The same input does both, and which one happens depends entirely on what you aim
 
 Each planet has two acts and a boss. The themes are elemental and each introduces a mechanic:
 
-- **Flora** — the tutorial planet. Grab enemies, grab ledges, learn the rhythm.
-- **Undertow** — water. Swimming changes the grab's reach and Ristar sinks slowly.
-- **Scorch** — fire and heat hazards.
-- **Sonata** — the music planet, and the best-looking one. Grabbing objects plays notes.
-- **Freon** — ice, sliding, and the least forgiving platforming.
+- **Flora**: the tutorial planet. Grab enemies, grab ledges, learn the rhythm.
+- **Undertow**: water. Swimming changes the grab's reach and Ristar sinks slowly.
+- **Scorch**: fire and heat hazards.
+- **Sonata**: the music planet, and the best-looking one. Grabbing objects plays notes.
+- **Freon**: ice, sliding, and the least forgiving platforming.
 
 **Bosses are grab puzzles.** Every one is beaten by working out what to grab and when, rather than by attacking repeatedly. If a boss seems invulnerable, you have not found the grabbable part.
 

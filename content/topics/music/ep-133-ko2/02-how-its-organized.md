@@ -2,13 +2,13 @@
 type: lesson
 series: ep-133-ko2
 chapter: 2
-title: How it's organized — projects, groups, patterns, scenes
+title: "How it's organized: projects, groups, patterns, scenes"
 status: curated
 tags: [music, sampler, groovebox, teenage-engineering, ep-133, ko-ii, tutorial]
 created: 2026-06-23
 ---
 
-# Chapter 2 — How it's organized
+# Chapter 2: How it's organized
 
 ![The four group buttons A, B, C, D](img/groups.jpg)
 *The four group buttons, A–D. Photo: Teenage Engineering.*

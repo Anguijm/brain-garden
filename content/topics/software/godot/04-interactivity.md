@@ -122,7 +122,7 @@ what the [next chapter](05-first-game) does.
 
 ## Sources
 
-- Godot docs, *Idle and Physics Processing* — https://docs.godotengine.org/en/stable/tutorials/scripting/idle_and_physics_processing.html
-- Godot docs, *Input examples* — https://docs.godotengine.org/en/stable/tutorials/inputs/input_examples.html
-- Godot docs, *Input class reference* — https://docs.godotengine.org/en/stable/classes/class_input.html
-- Godot docs, *Using signals* — https://docs.godotengine.org/en/stable/getting_started/step_by_step/signals.html
+- Godot docs, *Idle and Physics Processing*: https://docs.godotengine.org/en/stable/tutorials/scripting/idle_and_physics_processing.html
+- Godot docs, *Input examples*: https://docs.godotengine.org/en/stable/tutorials/inputs/input_examples.html
+- Godot docs, *Input class reference*: https://docs.godotengine.org/en/stable/classes/class_input.html
+- Godot docs, *Using signals*: https://docs.godotengine.org/en/stable/getting_started/step_by_step/signals.html

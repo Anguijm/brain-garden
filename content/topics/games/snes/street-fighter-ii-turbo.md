@@ -1,5 +1,5 @@
 ---
-title: "Street Fighter II Turbo — SNES Guide"
+title: "Street Fighter II Turbo: SNES Guide"
 type: game-guide
 category: games/snes
 tags: [snes, super-nintendo, street-fighter, capcom, fighting, walkthrough, guide]

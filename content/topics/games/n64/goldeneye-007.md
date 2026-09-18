@@ -1,5 +1,5 @@
 ---
-title: "GoldenEye 007 — N64 Guide"
+title: "GoldenEye 007: N64 Guide"
 type: game-guide
 category: games/n64
 tags: [n64, nintendo, goldeneye, fps, shooter, rare, walkthrough, guide]

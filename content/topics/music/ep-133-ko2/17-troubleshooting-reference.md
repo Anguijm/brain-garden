@@ -8,7 +8,7 @@ tags: [music, sampler, groovebox, teenage-engineering, ep-133, ko-ii, tutorial, 
 created: 2026-06-23
 ---
 
-# Chapter 17 — Troubleshooting and reference
+# Chapter 17: Troubleshooting and reference
 
 ![The EP-133 K.O. II top panel](img/device.jpg)
 *The full panel, for reference. Photo: Teenage Engineering.*
@@ -75,21 +75,21 @@ removes, hold a mode button then use `-`/`+` and the knobs.
 
 ## Glossary
 
-- **Project** — one whole song's material; 9 on the device.
-- **Group (A-D)** — a set of 12 sounds with its own patterns; 4 per project.
-- **Pattern** — a sequence for one group, 1-99 bars, 99 per group.
-- **Track** — one of the 12 lanes (one per pad) in a pattern.
-- **Scene** — a snapshot of which pattern each group is playing; 99 per project.
-- **Song** — a chain of up to 99 scenes.
-- **Commit** — `SHIFT` + `MAIN`; snapshot the current state into a scene and keep
+- **Project**: one whole song's material; 9 on the device.
+- **Group (A-D)**: a set of 12 sounds with its own patterns; 4 per project.
+- **Pattern**: a sequence for one group, 1-99 bars, 99 per group.
+- **Track**: one of the 12 lanes (one per pad) in a pattern.
+- **Scene**: a snapshot of which pattern each group is playing; 99 per project.
+- **Song**: a chain of up to 99 scenes.
+- **Commit**: `SHIFT` + `MAIN`; snapshot the current state into a scene and keep
   building.
-- **Punch-in FX** — momentary, pressure-sensitive performance effects (not
+- **Punch-in FX**: momentary, pressure-sensitive performance effects (not
   recordable).
-- **Group send FX** — the always-on effect for a group (delay, reverb, distortion,
+- **Group send FX**: the always-on effect for a group (delay, reverb, distortion,
   chorus, filter, compressor).
-- **Resample** — record the device's own output (effects baked in) to a new sample.
-- **Note repeat** — hold `TIMING` + pad for rolls/fills.
-- **Mute group** — pads set to choke each other (e.g. hats).
+- **Resample**: record the device's own output (effects baked in) to a new sample.
+- **Note repeat**: hold `TIMING` + pad for rolls/fills.
+- **Mute group**: pads set to choke each other (e.g. hats).
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: "Dragon Force — Saturn Guide"
+title: "Dragon Force: Saturn Guide"
 type: game-guide
 category: games/saturn
 tags: [saturn, sega-saturn, dragon-force, sega, strategy, rpg, walkthrough, guide]

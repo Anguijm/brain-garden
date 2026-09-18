@@ -92,11 +92,11 @@ ranking as opinion, not proof.
 
 ## See also
 
-- **[Begin with trust](begin-with-trust)** — the trust triangle this school feeds into, and
+- **[Begin with trust](begin-with-trust)**: the trust triangle this school feeds into, and
   why the research favors integrity over "authenticity" as the driver.
-- **[What makes a leader?](what-makes-a-leader)** — the emotional intelligence (empathy,
+- **[What makes a leader?](what-makes-a-leader)**: the emotional intelligence (empathy,
   self-awareness) these qualities rest on.
-- **[Level 5 leadership](level-5-leadership)** — a different, quieter answer to "why follow
+- **[Level 5 leadership](level-5-leadership)**: a different, quieter answer to "why follow
   this person": humility plus will.
 
 ## Sources

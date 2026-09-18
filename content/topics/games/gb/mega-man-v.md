@@ -1,5 +1,5 @@
 ---
-title: "Mega Man V — Game Boy Guide"
+title: "Mega Man V: Game Boy Guide"
 type: game-guide
 category: games/gb
 tags: [gb, gameboy, capcom, mega-man, action-platformer, walkthrough, guide]

@@ -1,5 +1,5 @@
 ---
-title: "Sonic Chaos — Game Gear Guide"
+title: "Sonic Chaos: Game Gear Guide"
 type: game-guide
 category: games/gamegear
 tags: [gamegear, sega, sonic, sonic-chaos, platformer, walkthrough, guide]

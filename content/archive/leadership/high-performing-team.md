@@ -60,11 +60,11 @@ not evidence.
 
 ## See also
 
-- **[Psychological safety](topics/leadership/psychological-safety)** — the better-grounded version of this same
+- **[Psychological safety](topics/leadership/psychological-safety)**: the better-grounded version of this same
   "candor plus standards" idea.
-- **[Why teams don't work](topics/leadership/why-teams-dont-work)** — Hackman on protecting the dissenting voice,
+- **[Why teams don't work](topics/leadership/why-teams-dont-work)**: Hackman on protecting the dissenting voice,
   which is "courage" in action.
-- **[The feedback fallacy](topics/leadership/the-feedback-fallacy)** — how to make the "courage" part land
+- **[The feedback fallacy](topics/leadership/the-feedback-fallacy)**: how to make the "courage" part land
   without crushing people.
 
 ## Sources

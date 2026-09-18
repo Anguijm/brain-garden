@@ -1,5 +1,5 @@
 ---
-title: "Metroid II: Return of Samus — Game Boy Guide"
+title: "Metroid II: Return of Samus: Game Boy Guide"
 type: game-guide
 category: games/gb
 tags: [gb, gameboy, nintendo, metroid, action-adventure, walkthrough, guide]

@@ -1,5 +1,5 @@
 ---
-title: "Crystal Warriors — Game Gear Guide"
+title: "Crystal Warriors: Game Gear Guide"
 type: game-guide
 category: games/gamegear
 tags: [gamegear, sega, crystal-warriors, tactical-rpg, strategy, walkthrough, guide]

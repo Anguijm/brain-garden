@@ -1,5 +1,5 @@
 ---
-title: "Crisis Core: Final Fantasy VII — PSP Guide"
+title: "Crisis Core: Final Fantasy VII: PSP Guide"
 type: game-guide
 category: games/psp
 tags: [psp, final-fantasy, crisis-core, square-enix, action-rpg, walkthrough, guide]
@@ -39,9 +39,9 @@ The **Digital Mind Wave** is a slot machine that runs constantly in the top-left
 
 When reels match, things happen:
 
-- **Two matching numbers** — a limit break fires automatically
-- **Three sevens** — full heal and temporary invincibility
-- **Certain combinations** — Zack levels up, or a materia levels up
+- **Two matching numbers**: a limit break fires automatically
+- **Three sevens**: full heal and temporary invincibility
+- **Certain combinations**: Zack levels up, or a materia levels up
 
 **Levelling is controlled by the slot machine.** You do not gain experience toward a level in the ordinary way; the DMW decides when you level, influenced by accumulated experience behind the scenes.
 

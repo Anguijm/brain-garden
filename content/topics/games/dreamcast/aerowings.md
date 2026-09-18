@@ -1,5 +1,5 @@
 ---
-title: "AeroWings — Dreamcast Guide"
+title: "AeroWings: Dreamcast Guide"
 type: game-guide
 category: games/dreamcast
 tags: [dreamcast, aerowings, aero-dancing, crave, cri, flight-simulator, walkthrough, guide]

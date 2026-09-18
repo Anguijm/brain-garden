@@ -72,11 +72,11 @@ formula that guarantees results.
 
 ## See also
 
-- **[What makes a leader?](what-makes-a-leader)** — Level 5's humility and self-awareness are
+- **[What makes a leader?](what-makes-a-leader)**: Level 5's humility and self-awareness are
   emotional intelligence by another name.
-- **[Begin with trust](begin-with-trust)** — the same "it's not about you, it's about the
+- **[Begin with trust](begin-with-trust)**: the same "it's not about you, it's about the
   institution" idea, from the trust angle.
-- **[Leading your teammates](leading-your-teammates)** — putting the team ahead of your own
+- **[Leading your teammates](leading-your-teammates)**: putting the team ahead of your own
   ego, on the ground.
 
 ## Sources

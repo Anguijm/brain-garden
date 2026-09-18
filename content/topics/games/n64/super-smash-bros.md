@@ -1,5 +1,5 @@
 ---
-title: "Super Smash Bros. — N64 Guide"
+title: "Super Smash Bros.: N64 Guide"
 type: game-guide
 category: games/n64
 tags: [n64, nintendo, smash-bros, fighting, party, walkthrough, guide]

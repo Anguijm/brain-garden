@@ -2,13 +2,13 @@
 type: lesson
 series: sudoku
 lesson: 6
-title: X-Wing — the first "scary" technique
+title: "X-Wing: the first \"scary\" technique"
 status: curated
 tags: [sudoku, games, puzzles, logic, brain-training]
 created: 2026-06-16
 ---
 
-# Lesson 6 — X-Wing
+# Lesson 6: X-Wing
 
 This is the first technique that looks intimidating and isn't. It works on a single
 digit across two rows and two columns that form a rectangle.

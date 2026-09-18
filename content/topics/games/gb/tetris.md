@@ -1,5 +1,5 @@
 ---
-title: "Tetris — Game Boy Guide"
+title: "Tetris: Game Boy Guide"
 type: game-guide
 category: games/gb
 tags: [gb, gameboy, nintendo, tetris, puzzle, walkthrough, guide]

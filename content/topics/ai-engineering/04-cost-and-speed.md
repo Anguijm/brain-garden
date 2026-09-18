@@ -71,5 +71,5 @@ budget, so spend it on what actually matters.
 
 ## Sources
 
-- Anthropic, *Pricing* — https://www.anthropic.com/pricing
-- Anthropic, *Prompt caching* — https://docs.anthropic.com/en/docs/build-with-claude/prompt-caching
+- Anthropic, *Pricing*: https://www.anthropic.com/pricing
+- Anthropic, *Prompt caching*: https://docs.anthropic.com/en/docs/build-with-claude/prompt-caching

@@ -1,5 +1,5 @@
 ---
-title: "Lumines: Puzzle Fusion — PSP Guide"
+title: "Lumines: Puzzle Fusion: PSP Guide"
 type: game-guide
 category: games/psp
 tags: [psp, lumines, q-entertainment, puzzle, walkthrough, guide]

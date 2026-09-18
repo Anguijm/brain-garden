@@ -2,13 +2,13 @@
 type: lesson
 series: sudoku
 lesson: 13
-title: Workflow — the order to try things
+title: "Workflow: the order to try things"
 status: curated
 tags: [sudoku, games, puzzles, logic, brain-training]
 created: 2026-06-16
 ---
 
-# Lesson 13 — The solving order (your checklist when stuck)
+# Lesson 13: The solving order (your checklist when stuck)
 
 Techniques matter less than knowing *which to reach for next*. Work cheap-to-expensive
 and you'll rarely need the hard stuff. When you're stuck, walk this list top to

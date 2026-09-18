@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-1029 citations across 130 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+1032 citations across 130 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -295,8 +295,8 @@ This page lists every external link cited anywhere in the garden, article by art
 1. [Claude Developer docs, Tool use with Claude](https://platform.claude.com/docs/en/docs/build-with-claude/tool-use/overview)
 2. [Anthropic, Building Effective Agents](https://www.anthropic.com/engineering/building-effective-agents)
 3. [Anthropic, Effective Context Engineering for AI Agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
-4. [Model Context Protocol, Introduction and Architecture — and](https://modelcontextprotocol.io/introduction)
-5. [Model Context Protocol, Introduction and Architecture —](https://modelcontextprotocol.io/docs/learn/architecture)
+4. [Model Context Protocol, Introduction and Architecture: and](https://modelcontextprotocol.io/introduction)
+5. [Model Context Protocol, Introduction and Architecture](https://modelcontextprotocol.io/docs/learn/architecture)
 6. [OpenAI, Function calling](https://developers.openai.com/api/docs/guides/function-calling)
 
 ### [Memory for agents](topics/ai-engineering/08-memory-for-agents)
@@ -346,7 +346,7 @@ This page lists every external link cited anywhere in the garden, article by art
 
 1. [forum YPoHy6lgKP](https://openreview.net/forum?id=YPoHy6lgKP)
 2. [arXiv listing page](https://arxiv.org/abs/2606.06036)
-3. [Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents (arXiv:2606.06036) —](https://arxiv.org/html/2606.06036v1)
+3. [Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents (arXiv:2606.06036)](https://arxiv.org/html/2606.06036v1)
 4. [ICLR 2026 MemAgents workshop](https://sites.google.com/view/memagent-iclr26)
 5. [MRAgent code repository](https://github.com/Ji-shuo/MRAgent)
 6. [Does Memory Need Graphs? (a field counterpoint, arXiv:2601.01280)](https://arxiv.org/abs/2601.01280)
@@ -362,7 +362,7 @@ This page lists every external link cited anywhere in the garden, article by art
 2. [Cloudflare, Your site, your rules: new AI traffic options for all customers](https://blog.cloudflare.com/content-independence-day-ai-options/)
 3. [IETF, RFC 9309: Robots Exclusion Protocol (2022)](https://www.rfc-editor.org/rfc/rfc9309.html)
 4. [United States Court of Appeals for the Ninth Circuit, hiQ Labs, Inc. v. LinkedIn Corp.](https://cdn.ca9.uscourts.gov/datastore/opinions/2022/04/18/17-16783.pdf)
-5. [hiQ Labs v. LinkedIn — case history and final disposition](https://en.wikipedia.org/wiki/HiQ_Labs_v._LinkedIn)
+5. [hiQ Labs v. LinkedIn: case history and final disposition](https://en.wikipedia.org/wiki/HiQ_Labs_v._LinkedIn)
 6. [BoardGameGeek, Using the XML API (policy page, read via the Internet Archive because the](https://web.archive.org/web/20260715032744/https://boardgamegeek.com/using_the_xml_api)
 
 ### [Generating 3D, and why you cannot just script it](topics/ai-engineering/17-generating-3d-versus-scripting-it)
@@ -498,7 +498,7 @@ This page lists every external link cited anywhere in the garden, article by art
 
 ## Cooking
 
-### [Rice cooker recipes — beyond plain rice](topics/cooking/rice-cooker-recipes)
+### [Rice cooker recipes: beyond plain rice](topics/cooking/rice-cooker-recipes)
 
 1. [5 One-Pot Rice Cooker Meals (even a Cake)](https://cookingbomb.com/blogs/recipes/5-one-pot-ricer-cooker-meals-even-a-cake)
 2. [29 Creative Rice Cooker Recipes](https://greatist.com/eat/recipe/29-global-rice-recipes)
@@ -526,7 +526,7 @@ This page lists every external link cited anywhere in the garden, article by art
 11. [Finance (2006) — peer-reviewed](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.2006.00836.x)
 12. [Finance (2016), factor decay — peer-reviewed](https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12365)
 13. [Studies (2016), the factor zoo — peer-reviewed](https://academic.oup.com/rfs/article-abstract/29/1/5/1843824)
-14. [Zacks Rank methodology — vendor/blog](https://www.zacks.com/education/rank-guide/zacks-rank-guide)
+14. [Zacks Rank methodology: vendor/blog](https://www.zacks.com/education/rank-guide/zacks-rank-guide)
 15. [investing.com/fair-value-investing-stocks](https://www.investing.com/academy/analysis/fair-value-investing-stocks/)
 16. [vendor/blog](https://www.morningstar.com/content/dam/marketing/shared/research/methodology/705988Morningstar_Equity_Research_Methodology.pdf)
 17. [morningstar.com/an-introduction-morningstar-uncertainty-rating](https://www.morningstar.com/stocks/an-introduction-morningstar-uncertainty-rating)
@@ -548,34 +548,34 @@ This page lists every external link cited anywhere in the garden, article by art
 33. [peer-reviewed](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.2011.01705.x)
 34. [preprint](https://arxiv.org/abs/1908.10063)
 35. [ravenpack.com/news-analytics](https://www.ravenpack.com/products/edge/data/news-analytics)
-36. [LSEG/Refinitiv MarketPsych Analytics — vendor/blog](https://www.marketpsych.com/ma4/intro)
+36. [LSEG/Refinitiv MarketPsych Analytics: vendor/blog](https://www.marketpsych.com/ma4/intro)
 37. [canonical paper — peer-reviewed](https://onlinelibrary.wiley.com/doi/abs/10.1111/0022-1082.00265)
 38. [(free PDF: )](https://www.cis.upenn.edu/~mkearns/teaching/cis700/lo.pdf)
 39. [peer-reviewed](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.1992.tb04681.x)
 40. [onlinelibrary.wiley.com/0022-1082.00163](https://onlinelibrary.wiley.com/doi/abs/10.1111/0022-1082.00163)
 41. [onlinelibrary.wiley.com/1468-0262.00152](https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-0262.00152)
 42. [trade-ideas.com/What_Holly_Does.html](https://www.trade-ideas.com/hollyguide/What_Holly_Does.html)
-43. [Tickeron, Real-Time Pattern Scanner — vendor/blog](https://tickeron.com/stock-pattern-scanner/)
+43. [Tickeron, Real-Time Pattern Scanner: vendor/blog](https://tickeron.com/stock-pattern-scanner/)
 
 ### [How to emulate it without fooling yourself (and spot the chaff)](topics/finance/ai-stock-picking/build-it-yourself)
 
-1. [López de Prado (2018), Advances in Financial Machine Learning (Wiley) — book](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3104847)
+1. [López de Prado (2018), Advances in Financial Machine Learning (Wiley): book](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3104847)
 2. [Bailey, Borwein, López de Prado & Zhu (2014), "Pseudo-Mathematics and Financial](https://www.ams.org/notices/201405/rnoti-p458.pdf)
 3. [Bailey & López de Prado (2014), "The Deflated Sharpe Ratio," Journal of Portfolio](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2460551)
 4. [Bailey, Borwein, López de Prado & Zhu (2017), "The Probability of Backtest Overfitting,"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2326253)
 5. [Harvey, Liu & Zhu (2016), "...and the Cross-Section of Expected Returns," Review of](https://academic.oup.com/rfs/article/29/1/5/1843824)
-6. [Kenneth R. French Data Library (factor returns for attribution) — data repository](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html)
-7. [Palomar, "The Seven Sins of Quantitative Investing," Portfolio Optimization (open text) —](https://bookdown.org/palomar/portfoliooptimizationbook/8.2-seven-sins.html)
-8. [SEC, Investment Adviser Marketing Rule (Release IA-5653, 2020) — regulatory](https://www.sec.gov/files/rules/final/2020/ia-5653.pdf)
-9. [SEC Press Release 2023-173, marketing-rule sweep on hypothetical performance — regulatory](https://www.sec.gov/news/press-release/2023-173)
-10. [Lowe v. SEC, 472 U.S. 181 (1985), publisher's exclusion — legal](https://supreme.justia.com/cases/federal/us/472/181/)
+6. [Kenneth R. French Data Library (factor returns for attribution): data repository](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html)
+7. [Palomar, "The Seven Sins of Quantitative Investing," Portfolio Optimization (open text)](https://bookdown.org/palomar/portfoliooptimizationbook/8.2-seven-sins.html)
+8. [SEC, Investment Adviser Marketing Rule (Release IA-5653, 2020): regulatory](https://www.sec.gov/files/rules/final/2020/ia-5653.pdf)
+9. [SEC Press Release 2023-173, marketing-rule sweep on hypothetical performance: regulatory](https://www.sec.gov/news/press-release/2023-173)
+10. [Lowe v. SEC, 472 U.S. 181 (1985), publisher's exclusion: legal](https://supreme.justia.com/cases/federal/us/472/181/)
 
 ### [Does any of it actually beat the market?](topics/finance/ai-stock-picking/does-it-actually-work)
 
-1. [SPIVA U.S. Scorecard, Year-End 2024 — industry, authoritative](https://www.spglobal.com/spdji/en/documents/spiva/spiva-us-year-end-2024.pdf)
-2. [S&P U.S. Persistence Scorecard, Year-End 2024 — industry, authoritative](https://www.spglobal.com/spdji/en/documents/spiva/persistence-scorecard-year-end-2024.pdf)
+1. [SPIVA U.S. Scorecard, Year-End 2024: industry, authoritative](https://www.spglobal.com/spdji/en/documents/spiva/spiva-us-year-end-2024.pdf)
+2. [S&P U.S. Persistence Scorecard, Year-End 2024: industry, authoritative](https://www.spglobal.com/spdji/en/documents/spiva/persistence-scorecard-year-end-2024.pdf)
 3. [Fama & French (2010), "Luck versus Skill in the Cross-Section of Mutual Fund Returns,"](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6261.2010.01598.x)
-4. [Carhart (1997), "On Persistence in Mutual Fund Performance," Journal of Finance —](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.1997.tb03808.x)
+4. [Carhart (1997), "On Persistence in Mutual Fund Performance," Journal of Finance](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.1997.tb03808.x)
 5. [Barras, Scaillet & Wermers (2010), "False Discoveries in Mutual Fund Performance,"](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6261.2009.01527.x)
 6. [Gu, Kelly & Xiu (2020), "Empirical Asset Pricing via Machine Learning," Review of](https://academic.oup.com/rfs/article/33/5/2223/5758276)
 7. [Avramov, Cheng & Metzker (2023), "Machine Learning vs. Economic Restrictions," Management](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.4449)
@@ -585,9 +585,9 @@ This page lists every external link cited anywhere in the garden, article by art
 11. [Bajgrowicz & Scaillet (2012), "Technical Trading Revisited," Journal of Financial](https://econpapers.repec.org/article/eeejfinec/v_3a106_3ay_3a2012_3ai_3a3_3ap_3a473-491.htm)
 12. [Chen & Zimmermann (2022), "Open Source Cross-Sectional Asset Pricing," Critical Finance](https://www.nowpublishers.com/article/Details/CFR-0112)
 13. [Jensen, Kelly & Pedersen (2023), "Is There a Replication Crisis in Finance?," Journal of](https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.13249)
-14. [Metrick (1999), "Performance Evaluation with Transactions Data," Journal of Finance —](https://onlinelibrary.wiley.com/doi/10.1111/0022-1082.00165)
+14. [Metrick (1999), "Performance Evaluation with Transactions Data," Journal of Finance](https://onlinelibrary.wiley.com/doi/10.1111/0022-1082.00165)
 15. [Jaffe & Mahoney (1999), "The Performance of Investment Newsletters," Journal of Financial](https://www.sciencedirect.com/science/article/pii/S0304405X99000239)
-16. [Shleifer & Vishny (1997), "The Limits of Arbitrage," Journal of Finance — peer-reviewed](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.1997.tb03807.x)
+16. [Shleifer & Vishny (1997), "The Limits of Arbitrage," Journal of Finance: peer-reviewed](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.1997.tb03807.x)
 
 ### [Getting started: a 12-month factor screener](topics/finance/ai-stock-picking/getting-started-screener)
 
@@ -595,26 +595,26 @@ This page lists every external link cited anywhere in the garden, article by art
 2. [Chen & Zimmermann (2022), "Open Source Cross-Sectional Asset Pricing," Critical Finance](https://www.nowpublishers.com/article/Details/CFR-0112)
 3. [Jensen, Kelly & Pedersen (2023), "Is There a Replication Crisis in Finance?," Journal of](https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.13249)
 4. [Bailey & López de Prado (2014), "The Deflated Sharpe Ratio," Journal of Portfolio](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2460551)
-5. [Kenneth R. French Data Library (factor returns for attribution) — data repository](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html)
+5. [Kenneth R. French Data Library (factor returns for attribution): data repository](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html)
 
 ### [The AI stock-pick landscape: what these services actually sell](topics/finance/ai-stock-picking/the-landscape)
 
-1. [InvestingPro / ProPicks methodology and performance — vendor — and](https://www.investing-support.com/hc/en-us/articles/21860692550289-How-are-ProPicks-Strategies-created)
-2. [InvestingPro / ProPicks methodology and performance — vendor —](https://www.investing-support.com/hc/en-us/articles/21861480414993-ProPicks-performance)
-3. [Danelfin, "How it works" and audit page — vendor — and https://audit.danelfin.com/](https://danelfin.com/how-it-works)
-4. [Danelfin, "How it works" and audit page — vendor — https://danelfin.com/how-it-works and](https://audit.danelfin.com/)
-5. [Zacks Rank methodology and performance disclosure — vendor — and](https://www.zacks.com/stocks/zacks-rank)
-6. [Zacks Rank methodology and performance disclosure — vendor —](https://www.zacks.com/performance_disclosure/)
-7. [CXO Advisory, "Are Zacks Rankings Exploitable?" (independent real-money check) —](https://www.cxoadvisory.com/fundamental-valuation/are-zacks-rankings-exploitable/)
-8. [Seeking Alpha Quant Ratings FAQ — vendor](https://help.seekingalpha.com/premium/what-are-quant-ratings-and-how-do-i-use-them)
-9. [Seeking Alpha Alpha Picks review (live record) — review](https://stockanalysis.com/article/alpha-picks-review/)
-10. [Trade Ideas, Holly records and guide — vendor — and](https://www.trade-ideas.com/holly-records/)
-11. [Trade Ideas, Holly records and guide — vendor —](https://www.trade-ideas.com/hollyguide/Holly_AI_Strategies.html)
-12. [Tickeron AI Robots and disclaimers — vendor](https://tickeron.com/trading-investing-101/ai-robots-instructions/)
-13. [Kavout K Score — vendor](https://www.kavout.com/k-score/)
-14. [TipRanks Smart Score review — review](https://www.wallstreetzen.com/blog/tipranks-review/)
-15. [MarketBeat review — review](https://www.wallstreetzen.com/blog/marketbeat-review/)
-16. [Boosted.ai (institutional context) — vendor](https://boosted.ai/)
+1. [InvestingPro / ProPicks methodology and performance: vendor: and](https://www.investing-support.com/hc/en-us/articles/21860692550289-How-are-ProPicks-Strategies-created)
+2. [InvestingPro / ProPicks methodology and performance: vendor](https://www.investing-support.com/hc/en-us/articles/21861480414993-ProPicks-performance)
+3. [Danelfin, "How it works" and audit page: vendor: and https://audit.danelfin.com/](https://danelfin.com/how-it-works)
+4. [Danelfin, "How it works" and audit page: vendor: https://danelfin.com/how-it-works and](https://audit.danelfin.com/)
+5. [Zacks Rank methodology and performance disclosure: vendor: and](https://www.zacks.com/stocks/zacks-rank)
+6. [Zacks Rank methodology and performance disclosure: vendor](https://www.zacks.com/performance_disclosure/)
+7. [CXO Advisory, "Are Zacks Rankings Exploitable?" (independent real-money check)](https://www.cxoadvisory.com/fundamental-valuation/are-zacks-rankings-exploitable/)
+8. [Seeking Alpha Quant Ratings FAQ: vendor](https://help.seekingalpha.com/premium/what-are-quant-ratings-and-how-do-i-use-them)
+9. [Seeking Alpha Alpha Picks review (live record): review](https://stockanalysis.com/article/alpha-picks-review/)
+10. [Trade Ideas, Holly records and guide: vendor: and](https://www.trade-ideas.com/holly-records/)
+11. [Trade Ideas, Holly records and guide: vendor: https://www.trade-ideas.com/holly-records/](https://www.trade-ideas.com/hollyguide/Holly_AI_Strategies.html)
+12. [Tickeron AI Robots and disclaimers: vendor](https://tickeron.com/trading-investing-101/ai-robots-instructions/)
+13. [Kavout K Score: vendor](https://www.kavout.com/k-score/)
+14. [TipRanks Smart Score review: review](https://www.wallstreetzen.com/blog/tipranks-review/)
+15. [MarketBeat review: review](https://www.wallstreetzen.com/blog/marketbeat-review/)
+16. [Boosted.ai (institutional context): vendor](https://boosted.ai/)
 
 ## Games
 
@@ -725,17 +725,20 @@ This page lists every external link cited anywhere in the garden, article by art
 
 ### [Training, recovery, and sleep](topics/health/supplements-for-midlife/02-recovery-and-sleep)
 
-1. [ISSN Position Stand on caffeine (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7777221/)
-2. [Coffee and blood pressure in hypertensives, meta-analysis](https://www.sciencedirect.com/science/article/pii/S0002916523024814)
-3. [Caffeine 6 h before bed cuts sleep (Drake 2013)](https://doi.org/10.5664/jcsm.3170)
-4. [Curcumin, soreness and muscle damage, meta-analysis](https://pubmed.ncbi.nlm.nih.gov/35574627/)
-5. [Curcuminoids for knee osteoarthritis, meta-analysis](https://pubmed.ncbi.nlm.nih.gov/28470851/)
-6. [Tart cherry and recovery, meta-analysis (2021)](https://journals.humankinetics.com/abstract/journals/ijsnem/31/2/article-p154.xml)
-7. [Vitamin C-enriched gelatin and collagen synthesis (Shaw 2017)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5183725/)
-8. [ACSM Position Stand: exercise and fluid replacement](https://pubmed.ncbi.nlm.nih.gov/17277604/)
-9. [Glycine before bed improves sleep (Yamadera 2007)](https://onlinelibrary.wiley.com/doi/10.1111/j.1479-8425.2007.00262.x)
-10. [Melatonin for primary sleep disorders, meta-analysis (Ferracioli-Oda 2013, PLOS ONE)](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0063773)
-11. [L-theanine (alone or with caffeine), cognition, sleep and mood, meta-analysis](https://academic.oup.com/nutritionreviews/article/83/10/1873/8123998)
+1. [Paul, Leser & Oesser, Nutrients, 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6566836/)
+2. [ISSN Position Stand on caffeine (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7777221/)
+3. [Coffee and blood pressure in hypertensives, meta-analysis](https://www.sciencedirect.com/science/article/pii/S0002916523024814)
+4. [Caffeine 6 h before bed cuts sleep (Drake 2013)](https://doi.org/10.5664/jcsm.3170)
+5. [Curcumin, soreness and muscle damage, meta-analysis](https://pubmed.ncbi.nlm.nih.gov/35574627/)
+6. [Curcuminoids for knee osteoarthritis, meta-analysis](https://pubmed.ncbi.nlm.nih.gov/28470851/)
+7. [Curcumin's antiplatelet mechanism, review](https://pubmed.ncbi.nlm.nih.gov/30098070/)
+8. [Curcumin (Meriva) vs. antiplatelet/anticoagulant drugs, interaction trial (Cicero et al.](https://pubmed.ncbi.nlm.nih.gov/30070343/)
+9. [Tart cherry and recovery, meta-analysis (2021)](https://journals.humankinetics.com/abstract/journals/ijsnem/31/2/article-p154.xml)
+10. [Vitamin C-enriched gelatin and collagen synthesis (Shaw 2017)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5183725/)
+11. [ACSM Position Stand: exercise and fluid replacement](https://pubmed.ncbi.nlm.nih.gov/17277604/)
+12. [Glycine before bed improves sleep (Yamadera 2007)](https://onlinelibrary.wiley.com/doi/10.1111/j.1479-8425.2007.00262.x)
+13. [Melatonin for primary sleep disorders, meta-analysis (Ferracioli-Oda 2013, PLOS ONE)](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0063773)
+14. [L-theanine (alone or with caffeine), cognition, sleep and mood, meta-analysis](https://academic.oup.com/nutritionreviews/article/83/10/1873/8123998)
 
 ### [The weight-loss aisle, and what can hurt](topics/health/supplements-for-midlife/03-weight-loss-and-harms)
 
@@ -1175,7 +1178,7 @@ This page lists every external link cited anywhere in the garden, article by art
 
 ## Pets
 
-### [Puppy training — a practical starter guide](topics/pets/puppy-training)
+### [Puppy training: a practical starter guide](topics/pets/puppy-training)
 
 1. [Positive Reinforcement Dog Training](https://www.akc.org/expert-advice/training/operant-conditioning-positive-reinforcement-dog-training/)
 2. [Teach Your Puppy These 5 Basic Cues](https://www.akc.org/expert-advice/training/teach-your-puppy-these-5-basic-commands/)
@@ -1186,7 +1189,7 @@ This page lists every external link cited anywhere in the garden, article by art
 7. [Two Separate Brain Networks for Predicting Trainability in Working Dogs](https://pmc.ncbi.nlm.nih.gov/articles/PMC11010877/)
 8. [Behavior Guide for Your New Puppy](https://vmc.vet.osu.edu/resources/behavior-guide-your-new-puppy)
 
-### [White's (dumpy) tree frogs — care + a bioactive build in Japan](topics/pets/whites-tree-frog-bioactive-japan)
+### [White's (dumpy) tree frogs: care + a bioactive build in Japan](topics/pets/whites-tree-frog-bioactive-japan)
 
 1. [White's Tree Frog Care: The Complete Guide](https://www.allanglescreatures.com/blogs/news/how-to-properly-care-for-white-s-tree-frogs-a-complete-guide)
 2. [White's Tree Frog Care Sheet](https://dubiaroaches.com/blogs/amphibian-care/white-s-tree-frog-care-sheet)
@@ -1403,32 +1406,32 @@ This page lists every external link cited anywhere in the garden, article by art
 
 ### [Frameworks](topics/software/mobile-game-engines/02-frameworks)
 
-1. [Flame — ; https://github.com/flame-engine/flame](https://pub.dev/packages/flame)
-2. [Flame — https://pub.dev/packages/flame](https://github.com/flame-engine/flame)
-3. [Flutter CLI and mobile builds — ; https://docs.flutter.dev/deployment/android](https://docs.flutter.dev/reference/flutter-cli)
-4. [Flutter CLI and mobile builds — https://docs.flutter.dev/reference/flutter-cli](https://docs.flutter.dev/deployment/android)
-5. [Flutter CLI and mobile builds — https://docs.flutter.dev/reference/flutter-cli](https://docs.flutter.dev/deployment/ios)
-6. [libGDX — ; project generation wiki/start/project-generation ; running](https://libgdx.com/)
-7. [libGDX — https://libgdx.com/ ; project generation ; running](https://libgdx.com/wiki/start/project-generation)
-8. [libGDX — https://libgdx.com/ ; project generation](https://libgdx.com/wiki/start/import-and-running)
-9. [MonoGame — ; platforms https://docs.monogame.net/articles/getting_started/platforms.html](https://github.com/MonoGame/MonoGame)
-10. [MonoGame — https://github.com/MonoGame/MonoGame ; platforms ; license](https://docs.monogame.net/articles/getting_started/platforms.html)
-11. [MonoGame — https://github.com/MonoGame/MonoGame ; platforms](https://github.com/MonoGame/MonoGame/blob/develop/LICENSE.txt)
-12. [HaxeFlixel — ; https://haxeflixel.com/documentation/android/](https://haxeflixel.com/documentation/install-haxeflixel/)
-13. [HaxeFlixel — https://haxeflixel.com/documentation/install-haxeflixel/](https://haxeflixel.com/documentation/android/)
+1. [Flame: ; https://github.com/flame-engine/flame](https://pub.dev/packages/flame)
+2. [Flame: https://pub.dev/packages/flame](https://github.com/flame-engine/flame)
+3. [Flutter CLI and mobile builds: ; https://docs.flutter.dev/deployment/android](https://docs.flutter.dev/reference/flutter-cli)
+4. [Flutter CLI and mobile builds: https://docs.flutter.dev/reference/flutter-cli](https://docs.flutter.dev/deployment/android)
+5. [Flutter CLI and mobile builds: https://docs.flutter.dev/reference/flutter-cli](https://docs.flutter.dev/deployment/ios)
+6. [libGDX: ; project generation wiki/start/project-generation ; running](https://libgdx.com/)
+7. [libGDX: https://libgdx.com/ ; project generation ; running](https://libgdx.com/wiki/start/project-generation)
+8. [libGDX: https://libgdx.com/ ; project generation](https://libgdx.com/wiki/start/import-and-running)
+9. [MonoGame: ; platforms https://docs.monogame.net/articles/getting_started/platforms.html](https://github.com/MonoGame/MonoGame)
+10. [MonoGame: https://github.com/MonoGame/MonoGame ; platforms ; license](https://docs.monogame.net/articles/getting_started/platforms.html)
+11. [MonoGame: https://github.com/MonoGame/MonoGame ; platforms](https://github.com/MonoGame/MonoGame/blob/develop/LICENSE.txt)
+12. [HaxeFlixel: ; https://haxeflixel.com/documentation/android/](https://haxeflixel.com/documentation/install-haxeflixel/)
+13. [HaxeFlixel: https://haxeflixel.com/documentation/install-haxeflixel/](https://haxeflixel.com/documentation/android/)
 
 ### [Minimal libraries](topics/software/mobile-game-engines/03-minimal-libraries)
 
-1. [raylib — ; Android build /wiki/Working-for-Android ; iOS discussion /discussions/2681](https://github.com/raysan5/raylib)
-2. [raylib — https://github.com/raysan5/raylib ; Android build ; iOS discussion](https://github.com/raysan5/raylib/wiki/Working-for-Android)
-3. [raylib — https://github.com/raysan5/raylib ; Android build](https://github.com/raysan5/raylib/discussions/2681)
-4. [Ebitengine — ; mobile https://ebitengine.org/en/documents/mobile.html](https://github.com/hajimehoshi/ebiten)
-5. [Ebitengine — https://github.com/hajimehoshi/ebiten ; mobile](https://ebitengine.org/en/documents/mobile.html)
-6. [macroquad — ; Android via miniquad https://github.com/not-fl3/miniquad ; iOS](https://github.com/not-fl3/macroquad)
-7. [macroquad — https://github.com/not-fl3/macroquad ; Android via miniquad ; iOS](https://github.com/not-fl3/miniquad)
-8. [macroquad — https://github.com/not-fl3/macroquad ; Android via miniquad](https://macroquad.rs/articles/)
-9. [Bevy — ; mobile examples /blob/main/examples/README.md](https://github.com/bevyengine/bevy)
-10. [Bevy — https://github.com/bevyengine/bevy ; mobile examples](https://github.com/bevyengine/bevy/blob/main/examples/README.md)
+1. [raylib: ; Android build /wiki/Working-for-Android ; iOS discussion /discussions/2681](https://github.com/raysan5/raylib)
+2. [raylib: https://github.com/raysan5/raylib ; Android build ; iOS discussion](https://github.com/raysan5/raylib/wiki/Working-for-Android)
+3. [raylib: https://github.com/raysan5/raylib ; Android build](https://github.com/raysan5/raylib/discussions/2681)
+4. [Ebitengine: ; mobile https://ebitengine.org/en/documents/mobile.html](https://github.com/hajimehoshi/ebiten)
+5. [Ebitengine: https://github.com/hajimehoshi/ebiten ; mobile](https://ebitengine.org/en/documents/mobile.html)
+6. [macroquad: ; Android via miniquad https://github.com/not-fl3/miniquad ; iOS](https://github.com/not-fl3/macroquad)
+7. [macroquad: https://github.com/not-fl3/macroquad ; Android via miniquad ; iOS](https://github.com/not-fl3/miniquad)
+8. [macroquad: https://github.com/not-fl3/macroquad ; Android via miniquad](https://macroquad.rs/articles/)
+9. [Bevy: ; mobile examples /blob/main/examples/README.md](https://github.com/bevyengine/bevy)
+10. [Bevy: https://github.com/bevyengine/bevy ; mobile examples](https://github.com/bevyengine/bevy/blob/main/examples/README.md)
 
 ## Technology
 

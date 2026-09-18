@@ -2,13 +2,13 @@
 type: lesson
 series: ep-133-ko2
 chapter: 8
-title: Sequencing — recording and editing patterns
+title: "Sequencing: recording and editing patterns"
 status: curated
 tags: [music, sampler, groovebox, teenage-engineering, ep-133, ko-ii, tutorial]
 created: 2026-06-23
 ---
 
-# Chapter 8 — Sequencing
+# Chapter 8: Sequencing
 
 ![The TIMING button with CORRECT as its SHIFT secondary](img/timing.jpg)
 *The TIMING button (SHIFT+TIMING for timing correct). Photo: Teenage Engineering.*

@@ -108,17 +108,16 @@ risk.
 
 ## See also
 
-- **[The secrets of great teamwork](secrets-of-great-teamwork)** — the companion piece: this
+- **[The secrets of great teamwork](secrets-of-great-teamwork)**: the companion piece: this
   note defines what a team *is*, that one lists the conditions that make it work.
-- **[Why teams don't work](why-teams-dont-work)** — Hackman's blunt evidence on why teams
+- **[Why teams don't work](why-teams-dont-work)**: Hackman's blunt evidence on why teams
   underperform, and the five conditions that turn it around.
-- **[Building collaborative teams](building-collaborative-teams)** — the modern follow-up:
+- **[Building collaborative teams](building-collaborative-teams)**: the modern follow-up:
   what to do when the team you need is too big, too spread out, and too expert to cooperate
   easily.
-- **[Leading your teammates](leading-your-teammates)** — mutual accountability from the
+- **[Leading your teammates](leading-your-teammates)**: mutual accountability from the
   inside, told by a player who pushed his peers to a higher standard than the coach did.
-- **[The discipline of teams, applied to bidding](topics/business-development/defense-bd-playbook/05-teaming-partnerships)**
-  — teaming and partnerships in a real high-stakes setting.
+- **[The discipline of teams, applied to bidding](topics/business-development/defense-bd-playbook/05-teaming-partnerships)**: teaming and partnerships in a real high-stakes setting.
 
 ## Sources
 

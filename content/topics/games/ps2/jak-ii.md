@@ -1,5 +1,5 @@
 ---
-title: "Jak II — PS2 Guide"
+title: "Jak II: PS2 Guide"
 type: game-guide
 category: games/ps2
 tags: [ps2, playstation-2, jak-and-daxter, naughty-dog, sony, platformer, open-world, walkthrough, guide]

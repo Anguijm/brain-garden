@@ -8,7 +8,7 @@ tags: [business-development, defense, capture-management, govcon, proposals, pla
 created: 2026-06-18
 ---
 
-# Chapter 2 — Qualification, PWin, and gate reviews
+# Chapter 2: Qualification, PWin, and gate reviews
 
 The discipline that separates good BD organizations from busy ones is the
 willingness to say no early and often. Assessment: bid-and-proposal (B&P) money is

@@ -1,5 +1,5 @@
 ---
-title: "Gargoyle's Quest — Game Boy Guide"
+title: "Gargoyle's Quest: Game Boy Guide"
 type: game-guide
 category: games/gb
 tags: [gb, gameboy, capcom, gargoyles-quest, ghosts-n-goblins, action-rpg, platformer, walkthrough, guide]

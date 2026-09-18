@@ -1,5 +1,5 @@
 ---
-title: "Spyro the Dragon — PS1 Guide"
+title: "Spyro the Dragon: PS1 Guide"
 type: game-guide
 category: games/psx
 tags: [psx, playstation, spyro, insomniac, platformer, walkthrough, guide]
@@ -50,9 +50,9 @@ Jump, then press jump again at the apex to glide. **Gliding is the traversal sys
 
 ## What you collect
 
-- **Gems** — currency for the balloonist, and the completion metric
-- **Dragons** — trapped elders, the primary objective
-- **Dragon eggs** — held by thieves who must be chased down
+- **Gems**: currency for the balloonist, and the completion metric
+- **Dragons**: trapped elders, the primary objective
+- **Dragon eggs**: held by thieves who must be chased down
 
 **120% completion** requires every gem, dragon and egg across all worlds.
 

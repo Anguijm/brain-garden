@@ -52,14 +52,14 @@ downloadable as the print PDF (source links only).
   maintenance centers; two Puget Sound submarine docks changing state in one month; the
   expeditionary repair container No. 2 said to watch; and six things to watch.
 - **[Vol. 1, No. 8 — Week 36, September 2026](2026-w36)**
-  ([download the PDF](pdf/2026-w36.34b55b1a.pdf)) — who built each section of a new destroyer's hull
+  ([download the PDF](pdf/2026-w36.60378fd3.pdf)) — who built each section of a new destroyer's hull
   and where the production records live; what Portsmouth learned during the first Block III
   submarine maintenance cycle; why the \$14.3 billion FY27 ship maintenance request is the
   pre-Epic Fury number; and what happens to foundational trade skill when automation
   absorbs the decision-making.
 
 - **[Vol. 1, No. 7 — Week 35, August 2026](2026-w35)**
-  ([download the PDF](pdf/2026-w35.d46c94b6.pdf)) — eleven percent of attack submarine depot maintenance
+  ([download the PDF](pdf/2026-w35.ec2da9f3.pdf)) — eleven percent of attack submarine depot maintenance
   finished on time over ten years, and GAO's two recommendations are both about disposal, not
   overhauls; the O&M account that pays for maintenance was spent on the Iran conflict and the
   supplemental has not passed; Bath Iron Works ratified a five-year contract and the automation
@@ -68,7 +68,7 @@ downloadable as the print PDF (source links only).
   press for ten days; and Japan's largest builders say they cannot take the overflow.
 
 - **[Vol. 1, No. 6 — Week 34, August 2026](2026-w34)**
-  ([download the PDF](pdf/2026-w34.1f9477d0.pdf)) — one presidential memorandum, read past its headline:
+  ([download the PDF](pdf/2026-w34.2cd200fa.pdf)) — one presidential memorandum, read past its headline:
   a plan due in 60 days to put steam and hydraulic systems back into the carrier after next,
   when no steam catapult set has been built since 2009 and the same order was given in 2019
   and died; a fifth public shipyard whose named Pacific candidates already have a Pearl Harbor
@@ -79,7 +79,7 @@ downloadable as the print PDF (source links only).
   eight months against twenty-one days for a destroyer's hangar door.
 
 - **[Vol. 1, No. 5 — Week 33, August 2026](2026-w33)**
-  ([download the PDF](pdf/2026-w33.464f1261.pdf)) — where a hull can actually go: USS Harry S. Truman
+  ([download the PDF](pdf/2026-w33.9daaec0d.pdf)) — where a hull can actually go: USS Harry S. Truman
   still at the naval station two months after its overhaul was budgeted to start, with the
   carrier ahead of it slipped twenty-five months across two budget cycles and planning alone
   obligated half again the announced figure; Puget Sound handing a carrier back on schedule
@@ -90,7 +90,7 @@ downloadable as the print PDF (source links only).
   intermediate work back from contractors.
 
 - **[Vol. 1, No. 4 — Week 32, August 2026](2026-w32)**
-  ([download the PDF](pdf/2026-w32.6fcc50ba.pdf)) — the Department's termination of its collective
+  ([download the PDF](pdf/2026-w32.e1ab163f.pdf)) — the Department's termination of its collective
   bargaining agreements on twenty-four hours' notice, two Portsmouth unions affected and the
   case now before a judge; the Navy moving 690,000 hours of painting, preservation and
   transportation off a carrier's crew and onto contract, with a small repair firm already
@@ -100,7 +100,7 @@ downloadable as the print PDF (source links only).
   rejected in 2022, now pushed by the budget office.
 
 - **[Vol. 1, No. 3 — Week 31, July 2026](2026-w31)**
-  ([download the PDF](pdf/2026-w31.c610eed1.pdf)) — the \$76.6 billion submarine award and the
+  ([download the PDF](pdf/2026-w31.6e3d9524.pdf)) — the \$76.6 billion submarine award and the
   \$5 billion of it aimed at the workforce; RIMPAC's first digitally crewed resupply, with
   parts printed at sea and delivered by an unmanned boat; NSWC Crane's cold-spray repair
   center, the Navy's first organic non-structural cold-spray facility; an obsolete boiler
@@ -108,14 +108,14 @@ downloadable as the print PDF (source links only).
   and Korea's MRO bench as a standing thread.
 
 - **[Vol. 1, No. 2 — Week 30, July 2026](2026-w30)**
-  ([download the PDF](pdf/2026-w30.64845fd0.pdf)) — Congress splitting the difference on
+  ([download the PDF](pdf/2026-w30.7b1dcfaa.pdf)) — Congress splitting the difference on
   foreign-built ships; Saronic's \$3.2B Brownsville groundbreaking; the maintenance bill
   from a hard-run Middle East deployment; a wargame on whether the yards could repair a
   battle-damaged fleet; the PAE Maritime reorganization of NAVSEA into portfolios; and a
   Deckplate item on Federal Wage System pay caps as a retention problem.
 
 - **[Vol. 1, No. 1 — Week 29, July 2026](2026-w29)**
-  ([download the PDF](pdf/2026-w29.08399cbb.pdf)) — the Navy's first-ever Vessel
+  ([download the PDF](pdf/2026-w29.35780a97.pdf)) — the Navy's first-ever Vessel
   Construction Manager contract (\$2.2B to TOTE for the Landing Ship Medium); the May
   2026 shipbuilding plan decoded for the waterfront; the 250,000-worker hiring target;
   Korea's repair bench deepening to three yards; the Singapore lead-maintenance-activity
@@ -124,10 +124,10 @@ downloadable as the print PDF (source links only).
 
 ## See also
 
-- **[How The Waterfront Brief is made](projects/waterfront-brief/how-it-works)** — the method in
+- **[How The Waterfront Brief is made](projects/waterfront-brief/how-it-works)**: the method in
   plain language: the eighteen subject areas it watches, what gets screened out and why, and what
   is kept on file so any claim can be checked.
-- **[Defense BD Playbook](topics/business-development/defense-bd-playbook/)** — the
+- **[Defense BD Playbook](topics/business-development/defense-bd-playbook/)**: the
   business side of the same industrial base: capture, teaming, and pricing.
-- **[Using AI well](connections/using-ai-well)** — why the brief labels its claims
+- **[Using AI well](connections/using-ai-well)**: why the brief labels its claims
   and keeps its sources: a confident summary is not evidence.

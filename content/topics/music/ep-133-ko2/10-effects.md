@@ -2,13 +2,13 @@
 type: lesson
 series: ep-133-ko2
 chapter: 10
-title: Effects — group FX and punch-in FX
+title: "Effects: group FX and punch-in FX"
 status: curated
 tags: [music, sampler, groovebox, teenage-engineering, ep-133, ko-ii, tutorial]
 created: 2026-06-23
 ---
 
-# Chapter 10 — Effects
+# Chapter 10: Effects
 
 ![The FX button with OUTPUT as its SHIFT secondary](img/fx.jpg)
 *The FX button. Photo: Teenage Engineering.*

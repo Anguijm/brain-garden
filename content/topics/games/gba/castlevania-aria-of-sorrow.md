@@ -1,5 +1,5 @@
 ---
-title: "Castlevania: Aria of Sorrow — Game Boy Advance Guide"
+title: "Castlevania: Aria of Sorrow: Game Boy Advance Guide"
 type: game-guide
 category: games/gba
 tags: [gba, gameboy-advance, castlevania, aria-of-sorrow, konami, metroidvania, walkthrough, guide]

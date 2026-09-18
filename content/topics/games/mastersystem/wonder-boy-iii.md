@@ -1,5 +1,5 @@
 ---
-title: "Wonder Boy III: The Dragon's Trap — Master System Guide"
+title: "Wonder Boy III: The Dragon's Trap: Master System Guide"
 type: game-guide
 category: games/mastersystem
 tags: [mastersystem, sega, wonder-boy, westone, action-adventure, metroidvania, walkthrough, guide]

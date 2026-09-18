@@ -76,11 +76,11 @@ softer than they sound.
 
 ## See also
 
-- **[The manager's job](the-managers-job)** — protecting your scarcest resource: this note
+- **[The manager's job](the-managers-job)**: protecting your scarcest resource: this note
   says manage your energy, that one says guard your time.
-- **[Who's got the monkey?](whos-got-the-monkey)** — the other half of self-management: don't
+- **[Who's got the monkey?](whos-got-the-monkey)**: the other half of self-management: don't
   let your schedule fill with other people's work.
-- **[The power of small wins](power-of-small-wins)** — the emotional/energy side of daily
+- **[The power of small wins](power-of-small-wins)**: the emotional/energy side of daily
   performance, from the team's point of view.
 
 ## Sources

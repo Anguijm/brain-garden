@@ -1,5 +1,5 @@
 ---
-title: "Blazing Lazers — TurboGrafx-16 Guide"
+title: "Blazing Lazers: TurboGrafx-16 Guide"
 type: game-guide
 category: games/pcengine
 tags: [pcengine, turbografx-16, hudson, compile, blazing-lazers, shoot-em-up, walkthrough, guide]
@@ -49,10 +49,10 @@ This is the whole game, so it is worth understanding before you start.
 
 **Sub-weapons** stack on top and are collected separately:
 
-- **Multibody** — small drones that shadow your ship and add fire.
-- **Shield** — absorbs hits. The single most valuable pickup in the game.
-- **Full Fire** — adds rear and side coverage.
-- **Homing** — seeking missiles that clear stragglers while you concentrate forward.
+- **Multibody**: small drones that shadow your ship and add fire.
+- **Shield**: absorbs hits. The single most valuable pickup in the game.
+- **Full Fire**: adds rear and side coverage.
+- **Homing**: seeking missiles that clear stragglers while you concentrate forward.
 
 **The rule that matters: dying costs you everything.** You revert to a bare ship in the middle of whatever was killing you, which is how a good run collapses. Play cautiously at high power rather than aggressively.
 

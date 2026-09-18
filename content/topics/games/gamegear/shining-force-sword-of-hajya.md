@@ -1,5 +1,5 @@
 ---
-title: "Shining Force: The Sword of Hajya — Game Gear Guide"
+title: "Shining Force: The Sword of Hajya: Game Gear Guide"
 type: game-guide
 category: games/gamegear
 tags: [gamegear, sega, shining-force, tactical-rpg, walkthrough, guide]

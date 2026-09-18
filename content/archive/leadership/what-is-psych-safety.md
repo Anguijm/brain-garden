@@ -35,12 +35,12 @@ in team effectiveness.
 ![Diagram: a four-step loop for building psychological safety. Make clear why people's voices matter. Admit your own fallibility. Actively invite input (ask, don't wait). Respond productively (appreciation and curiosity, not blame). The loop feeds back into more candor.](img/build-psych-safety.png)
 *Four moves that build psychological safety. Diagram.*
 
-- **Make clear why voices matter** — people default to silence, so tell them why you need their
+- **Make clear why voices matter**: people default to silence, so tell them why you need their
   input.
-- **Admit your own fallibility** — own your mistakes so others can own theirs.
-- **Actively invite input** — ask open questions ("What are you seeing? Where do you stand?"),
+- **Admit your own fallibility**: own your mistakes so others can own theirs.
+- **Actively invite input**: ask open questions ("What are you seeing? Where do you stand?"),
   don't wait for volunteers.
-- **Respond productively** — meet a risky idea or hard truth with appreciation and curiosity;
+- **Respond productively**: meet a risky idea or hard truth with appreciation and curiosity;
   replace blame with "what did you learn?"
 
 Assessment: two myths worth killing, safety is *not* about being "nice" (nice often means not
@@ -60,11 +60,11 @@ as a fast introduction; the deeper [Edmondson note](topics/leadership/psychologi
 
 ## See also
 
-- **[Psychological safety](topics/leadership/psychological-safety)** — the fuller, more careful version of this
+- **[Psychological safety](topics/leadership/psychological-safety)**: the fuller, more careful version of this
   same idea (candor, not niceness; safety plus standards).
-- **[The feedback fallacy](topics/leadership/the-feedback-fallacy)** — "respond with curiosity, not blame,"
+- **[The feedback fallacy](topics/leadership/the-feedback-fallacy)**: "respond with curiosity, not blame,"
   applied to feedback.
-- **[Why teams don't work](topics/leadership/why-teams-dont-work)** — protecting a dissenting voice, safety in
+- **[Why teams don't work](topics/leadership/why-teams-dont-work)**: protecting a dissenting voice, safety in
   action.
 
 ## Sources

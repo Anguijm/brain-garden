@@ -56,11 +56,11 @@ below pins down just how far the oxytocin story has fallen.
 
 ## See also
 
-- **[Begin with trust](begin-with-trust)** — the practical companion: the three drivers of
+- **[Begin with trust](begin-with-trust)**: the practical companion: the three drivers of
   trust and finding your own "wobble."
-- **[What makes a leader?](what-makes-a-leader)** — the emotional intelligence these behaviors
+- **[What makes a leader?](what-makes-a-leader)**: the emotional intelligence these behaviors
   draw on.
-- **[Using AI well](connections/using-ai-well)** — the honest-appraisal habit: a
+- **[Using AI well](connections/using-ai-well)**: the honest-appraisal habit: a
   neuroscience label doesn't make a management claim true.
 
 ## Sources

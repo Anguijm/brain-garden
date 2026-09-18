@@ -8,7 +8,7 @@ tags: [software, autodesk, navisworks, bim, 3d-viewer, tutorial]
 created: 2026-06-24
 ---
 
-# Chapter 6 — Sectioning and measuring
+# Chapter 6: Sectioning and measuring
 
 Freedom can slice the model open and take measurements. Both are genuinely useful
 for review, with one constant caveat: in Freedom they are **temporary**, they live
@@ -25,9 +25,9 @@ only in the current session and cannot be saved.
 FACT: On the **Viewpoint** tab, `Sectioning` panel, turn on **Enable Sectioning**.
 A contextual **Sectioning Tools** tab appears. Two modes:
 
-- **Planes** — up to six cutting planes in any orientation; by default a plane is
+- **Planes**: up to six cutting planes in any orientation; by default a plane is
   created through the middle of the model.
-- **Box** — show only the geometry inside a section box; everything outside is
+- **Box**: show only the geometry inside a section box; everything outside is
   hidden.
 
 FACT: On the Sectioning Tools tab, the `Transform` controls (Move, Rotate, Scale
@@ -46,12 +46,12 @@ outside the geometry, the model can appear to vanish; just reset or re-fit the b
 
 FACT: On the **Review** tab, `Measure` panel:
 
-- **Point to Point** — straight-line distance between two points.
-- **Point to Multiple Points** — distances from one point to several.
-- **Point Line / Accumulate** — running totals along a path.
-- **Angle** — the angle between two lines.
-- **Area** — an area you outline.
-- **Shortest Distance** — the closest gap between two selected objects (great for
+- **Point to Point**: straight-line distance between two points.
+- **Point to Multiple Points**: distances from one point to several.
+- **Point Line / Accumulate**: running totals along a path.
+- **Angle**: the angle between two lines.
+- **Area**: an area you outline.
+- **Shortest Distance**: the closest gap between two selected objects (great for
   checking clearances).
 
 FACT: Click points on the model to register them (clicking empty background

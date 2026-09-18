@@ -84,11 +84,11 @@ core; skip that bit.
 
 ## See also
 
-- **[What makes a leader?](what-makes-a-leader)** — the other half of the split: this note is
+- **[What makes a leader?](what-makes-a-leader)**: the other half of the split: this note is
   about managing (the unique), that one is about leading (the shared).
-- **[How do you motivate employees?](how-to-motivate)** — recognition, the top trigger here,
+- **[How do you motivate employees?](how-to-motivate)**: recognition, the top trigger here,
   is one of Herzberg's core motivators.
-- **[The feedback fallacy](the-feedback-fallacy)** — the same author on why building strengths
+- **[The feedback fallacy](the-feedback-fallacy)**: the same author on why building strengths
   beats cataloging weaknesses.
 
 ## Sources

@@ -2,13 +2,13 @@
 type: lesson
 series: ep-133-ko2
 chapter: 1
-title: Hardware tour — every button, knob, and port
+title: "Hardware tour: every button, knob, and port"
 status: curated
 tags: [music, sampler, groovebox, teenage-engineering, ep-133, ko-ii, tutorial]
 created: 2026-06-23
 ---
 
-# Chapter 1 — Hardware tour
+# Chapter 1: Hardware tour
 
 This is the "what does every button do" chapter. The K.O. II has a deliberately
 small set of physical controls, and almost everything is reached by holding one

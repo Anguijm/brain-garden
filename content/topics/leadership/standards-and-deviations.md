@@ -150,17 +150,17 @@ you have the discipline every high-consequence industry converged on.
 
 ## See also
 
-- **[Improvement science from a leadership perspective](improvement-science)** — the hub this note
+- **[Improvement science from a leadership perspective](improvement-science)**: the hub this note
   sits under: the wider discipline both lanes belong to, how to read variation before you react to
   it, and how much of the field actually holds up.
-- **[Turning frontline input into action: a build-it guide](frontline-input-playbook)** — the
+- **[Turning frontline input into action: a build-it guide](frontline-input-playbook)**: the
   other lane: discretionary improvement work, where you try bounded bets rather than judge
   deviations from a fixed standard. Most real work needs both.
-- **[Frontline workers know how to solve your problems](frontline-problem-solving)** — the why
+- **[Frontline workers know how to solve your problems](frontline-problem-solving)**: the why
   and the evidence behind involving the people who do the work.
-- **[Psychological safety](psychological-safety)** — honest deviation reporting only happens when
+- **[Psychological safety](psychological-safety)**: honest deviation reporting only happens when
   people are safe to speak, which is the precondition for the whole loop.
-- **[Why leadership training fails](why-leadership-training-fails)** — the companion warning:
+- **[Why leadership training fails](why-leadership-training-fails)**: the companion warning:
   fix the system (the standard and the loop), not just the individual.
 
 ## Sources

@@ -159,22 +159,22 @@ talks about testimonials and "AI" instead of those numbers.
 
 ## See also
 
-- **[Does any of it actually beat the market?](does-it-actually-work)** — the base rates a homemade
+- **[Does any of it actually beat the market?](does-it-actually-work)**: the base rates a homemade
   strategy is also up against.
-- **[Building your own basketball spread model](topics/games/basketball-ats-model/)** — the same
+- **[Building your own basketball spread model](topics/games/basketball-ats-model/)**: the same
   walk-forward, cost-aware, honest-backtest discipline applied to sports betting.
-- **[Using AI well, without fooling yourself](connections/using-ai-well)** — the vault's
+- **[Using AI well, without fooling yourself](connections/using-ai-well)**: the vault's
   running thread on the same discipline in other domains.
 
 ## Sources
 
-- López de Prado (2018), *Advances in Financial Machine Learning* (Wiley) — **[book]** — https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3104847
-- Bailey, Borwein, López de Prado & Zhu (2014), "Pseudo-Mathematics and Financial Charlatanism," *Notices of the AMS* — **[peer-reviewed]** — https://www.ams.org/notices/201405/rnoti-p458.pdf
-- Bailey & López de Prado (2014), "The Deflated Sharpe Ratio," *Journal of Portfolio Management* — **[peer-reviewed]** — https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2460551
-- Bailey, Borwein, López de Prado & Zhu (2017), "The Probability of Backtest Overfitting," *Journal of Computational Finance* — **[peer-reviewed]** — https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2326253
-- Harvey, Liu & Zhu (2016), "...and the Cross-Section of Expected Returns," *Review of Financial Studies* — **[peer-reviewed]** — https://academic.oup.com/rfs/article/29/1/5/1843824
-- Kenneth R. French Data Library (factor returns for attribution) — **[data repository]** — https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html
-- Palomar, "The Seven Sins of Quantitative Investing," *Portfolio Optimization* (open text) — **[practitioner]** — https://bookdown.org/palomar/portfoliooptimizationbook/8.2-seven-sins.html
-- SEC, Investment Adviser Marketing Rule (Release IA-5653, 2020) — **[regulatory]** — https://www.sec.gov/files/rules/final/2020/ia-5653.pdf
-- SEC Press Release 2023-173, marketing-rule sweep on hypothetical performance — **[regulatory]** — https://www.sec.gov/news/press-release/2023-173
-- *Lowe v. SEC*, 472 U.S. 181 (1985), publisher's exclusion — **[legal]** — https://supreme.justia.com/cases/federal/us/472/181/
+- López de Prado (2018), *Advances in Financial Machine Learning* (Wiley): **[book]**: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3104847
+- Bailey, Borwein, López de Prado & Zhu (2014), "Pseudo-Mathematics and Financial Charlatanism," *Notices of the AMS*: **[peer-reviewed]**: https://www.ams.org/notices/201405/rnoti-p458.pdf
+- Bailey & López de Prado (2014), "The Deflated Sharpe Ratio," *Journal of Portfolio Management*: **[peer-reviewed]**: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2460551
+- Bailey, Borwein, López de Prado & Zhu (2017), "The Probability of Backtest Overfitting," *Journal of Computational Finance*: **[peer-reviewed]**: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2326253
+- Harvey, Liu & Zhu (2016), "...and the Cross-Section of Expected Returns," *Review of Financial Studies*: **[peer-reviewed]**: https://academic.oup.com/rfs/article/29/1/5/1843824
+- Kenneth R. French Data Library (factor returns for attribution): **[data repository]**: https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html
+- Palomar, "The Seven Sins of Quantitative Investing," *Portfolio Optimization* (open text): **[practitioner]**: https://bookdown.org/palomar/portfoliooptimizationbook/8.2-seven-sins.html
+- SEC, Investment Adviser Marketing Rule (Release IA-5653, 2020): **[regulatory]**: https://www.sec.gov/files/rules/final/2020/ia-5653.pdf
+- SEC Press Release 2023-173, marketing-rule sweep on hypothetical performance: **[regulatory]**: https://www.sec.gov/news/press-release/2023-173
+- *Lowe v. SEC*, 472 U.S. 181 (1985), publisher's exclusion: **[legal]**: https://supreme.justia.com/cases/federal/us/472/181/

@@ -1,5 +1,5 @@
 ---
-title: "Metroid Fusion — Game Boy Advance Guide"
+title: "Metroid Fusion: Game Boy Advance Guide"
 type: game-guide
 category: games/gba
 tags: [gba, gameboy-advance, metroid, metroid-fusion, nintendo, metroidvania, walkthrough, guide]

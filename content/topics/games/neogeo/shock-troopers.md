@@ -1,5 +1,5 @@
 ---
-title: "Shock Troopers — Neo Geo Guide"
+title: "Shock Troopers: Neo Geo Guide"
 type: game-guide
 category: games/neogeo
 tags: [neogeo, snk, shock-troopers, run-and-gun, arcade, walkthrough, guide]

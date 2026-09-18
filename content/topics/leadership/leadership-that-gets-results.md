@@ -104,13 +104,13 @@ note](what-makes-a-leader), keep the useful frame and go easy on the slogans.
 
 ## See also
 
-- **[What makes a leader?](what-makes-a-leader)** — the foundation: the emotional
+- **[What makes a leader?](what-makes-a-leader)**: the foundation: the emotional
   intelligence each of these styles draws on.
-- **[The manager's job](the-managers-job)** — a reality check on how little of a real
+- **[The manager's job](the-managers-job)**: a reality check on how little of a real
   manager's day looks like tidy "style," and how fragmented the work actually is.
-- **[Leading your teammates](leading-your-teammates)** — reading each person's motivation,
+- **[Leading your teammates](leading-your-teammates)**: reading each person's motivation,
   the same skill the coaching and affiliative styles need.
-- **[How do you motivate employees?](how-to-motivate)** — what actually drives people, the
+- **[How do you motivate employees?](how-to-motivate)**: what actually drives people, the
   fuel behind the coaching and affiliative styles.
 
 ## Sources

@@ -32,14 +32,14 @@ in real money are labeled Assessment or Speculation, because that is exactly wha
 **This note is the "how it works" part of a four-note wing.** The others answer the rest of the
 question:
 
-- **[The AI stock-pick landscape](the-landscape)** — what the named services (InvestingPro,
+- **[The AI stock-pick landscape](the-landscape)**: what the named services (InvestingPro,
   Danelfin, Zacks, Trade Ideas, Tickeron, and the rest) actually sell, and the marketing tells to
   distrust.
-- **[Does any of it actually beat the market?](does-it-actually-work)** — the peer-reviewed base
+- **[Does any of it actually beat the market?](does-it-actually-work)**: the peer-reviewed base
   rates (SPIVA, skill-versus-luck, the machine-learning evidence, and what erodes it).
-- **[How to emulate it without fooling yourself](build-it-yourself)** — the honest backtesting
+- **[How to emulate it without fooling yourself](build-it-yourself)**: the honest backtesting
   method and the red-flag checklist for separating wheat from chaff.
-- **[Getting started: a 12-month factor screener](getting-started-screener)** — a concrete
+- **[Getting started: a 12-month factor screener](getting-started-screener)**: a concrete
   where-to-begin roadmap for the low-turnover, buy-and-hold version that the evidence treats most
   kindly.
 
@@ -485,10 +485,10 @@ example) deserves more trust than one that hands you a single confident number.
 
 ## See also
 
-- **[Building your own basketball spread model](topics/games/basketball-ats-model/)** — the same
+- **[Building your own basketball spread model](topics/games/basketball-ats-model/)**: the same
   machinery (features, walk-forward validation, calibration, and the honest math on why the
   market usually wins) applied to sports betting instead of stocks.
-- **[AI agent engineering](topics/ai-engineering/)** — how the machine-learning and language-model
+- **[AI agent engineering](topics/ai-engineering/)**: how the machine-learning and language-model
   building blocks referenced here actually work.
 
 ## Sources
@@ -521,7 +521,7 @@ free working-paper or author copy is listed alongside.
   Finance* (2016), factor decay — **[peer-reviewed]** — https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12365
 - Harvey, Liu & Zhu, "... and the Cross-Section of Expected Returns," *Review of Financial
   Studies* (2016), the factor zoo — **[peer-reviewed]** — https://academic.oup.com/rfs/article-abstract/29/1/5/1843824
-- Zacks Rank methodology — **[vendor/blog]** — https://www.zacks.com/education/rank-guide/zacks-rank-guide
+- Zacks Rank methodology: **[vendor/blog]**: https://www.zacks.com/education/rank-guide/zacks-rank-guide
 
 ### Fair value / intrinsic valuation
 
@@ -573,7 +573,7 @@ free working-paper or author copy is listed alongside.
   **[preprint]** — https://arxiv.org/abs/1908.10063
 - RavenPack / Bigdata.com news analytics — **[vendor/blog]** —
   https://www.ravenpack.com/products/edge/data/news-analytics
-- LSEG/Refinitiv MarketPsych Analytics — **[vendor/blog]** — https://www.marketpsych.com/ma4/intro
+- LSEG/Refinitiv MarketPsych Analytics: **[vendor/blog]**: https://www.marketpsych.com/ma4/intro
 
 ### Technical-pattern recognition
 
@@ -589,4 +589,4 @@ free working-paper or author copy is listed alongside.
   https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-0262.00152
 - Trade Ideas, "What Holly Does" — **[vendor/blog]** —
   https://www.trade-ideas.com/hollyguide/What_Holly_Does.html
-- Tickeron, Real-Time Pattern Scanner — **[vendor/blog]** — https://tickeron.com/stock-pattern-scanner/
+- Tickeron, Real-Time Pattern Scanner: **[vendor/blog]**: https://tickeron.com/stock-pattern-scanner/

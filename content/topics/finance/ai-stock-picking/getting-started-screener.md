@@ -133,17 +133,17 @@ every piece is debugged in isolation.
 
 ## See also
 
-- **[How to emulate it without fooling yourself](build-it-yourself)** — the discipline behind
+- **[How to emulate it without fooling yourself](build-it-yourself)**: the discipline behind
   every step here.
-- **[Does any of it actually beat the market?](does-it-actually-work)** — the base rate this
+- **[Does any of it actually beat the market?](does-it-actually-work)**: the base rate this
   screener is also up against.
-- **[Building your own basketball spread model](topics/games/basketball-ats-model/)** — the same
+- **[Building your own basketball spread model](topics/games/basketball-ats-model/)**: the same
   pipeline applied to sports.
 
 ## Sources
 
-- Novy-Marx & Velikov (2016), "A Taxonomy of Anomalies and Their Trading Costs," *Review of Financial Studies* — **[peer-reviewed]** — https://academic.oup.com/rfs/article-abstract/29/1/104/1844518
-- Chen & Zimmermann (2022), "Open Source Cross-Sectional Asset Pricing," *Critical Finance Review* — **[peer-reviewed]** — https://www.nowpublishers.com/article/Details/CFR-0112
-- Jensen, Kelly & Pedersen (2023), "Is There a Replication Crisis in Finance?," *Journal of Finance* — **[peer-reviewed]** — https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.13249
-- Bailey & López de Prado (2014), "The Deflated Sharpe Ratio," *Journal of Portfolio Management* — **[peer-reviewed]** — https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2460551
-- Kenneth R. French Data Library (factor returns for attribution) — **[data repository]** — https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html
+- Novy-Marx & Velikov (2016), "A Taxonomy of Anomalies and Their Trading Costs," *Review of Financial Studies*: **[peer-reviewed]**: https://academic.oup.com/rfs/article-abstract/29/1/104/1844518
+- Chen & Zimmermann (2022), "Open Source Cross-Sectional Asset Pricing," *Critical Finance Review*: **[peer-reviewed]**: https://www.nowpublishers.com/article/Details/CFR-0112
+- Jensen, Kelly & Pedersen (2023), "Is There a Replication Crisis in Finance?," *Journal of Finance*: **[peer-reviewed]**: https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.13249
+- Bailey & López de Prado (2014), "The Deflated Sharpe Ratio," *Journal of Portfolio Management*: **[peer-reviewed]**: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2460551
+- Kenneth R. French Data Library (factor returns for attribution): **[data repository]**: https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html

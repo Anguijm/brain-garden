@@ -8,7 +8,7 @@ tags: [business-development, defense, capture-management, govcon, proposals, pla
 created: 2026-06-18
 ---
 
-# Chapter 5 — Teaming and partnerships
+# Chapter 5: Teaming and partnerships
 
 Few defense pursuits are won alone. Teaming lets you cover capability gaps, add
 relevant past performance, satisfy small-business requirements, and reduce the

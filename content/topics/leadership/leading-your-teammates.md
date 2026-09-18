@@ -84,12 +84,12 @@ this library reads its gurus.
 
 ## See also
 
-- **[The discipline of teams](the-discipline-of-teams)** — the formal backbone under Brady's
+- **[The discipline of teams](the-discipline-of-teams)**: the formal backbone under Brady's
   instinct: mutual accountability, "we hold ourselves accountable," is his standard-setting in
   academic clothes.
-- **[What makes a leader?](what-makes-a-leader)** — behaviors 4 and 7 are empathy and social
+- **[What makes a leader?](what-makes-a-leader)**: behaviors 4 and 7 are empathy and social
   skill by another name.
-- **[Using AI well](connections/using-ai-well)** — the honest-catch habit: even a
+- **[Using AI well](connections/using-ai-well)**: the honest-catch habit: even a
   seven-time champion's advice gets read as a claim to check, not gospel.
 
 ## Sources

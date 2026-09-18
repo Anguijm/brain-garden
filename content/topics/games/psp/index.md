@@ -40,9 +40,9 @@ to this library.
 
 PPSSPP can render above the PSP's native 480x272. Whether that helps depends on the game:
 
-- **Fully 3D games** — God of War, Crisis Core, Vice City Stories, Valkyria Chronicles II — look
+- **Fully 3D games**: God of War, Crisis Core, Vice City Stories, Valkyria Chronicles II — look
   dramatically better at 3x or 4x. Crisis Core in particular stops looking like a handheld game.
-- **2D sprite games** — Persona 3 Portable, Lumines — gain little, and mixing high-resolution 3D
+- **2D sprite games**: Persona 3 Portable, Lumines — gain little, and mixing high-resolution 3D
   with native-resolution sprites can look worse than leaving it alone.
 
 ## Three strategy RPGs, three difficulty levels

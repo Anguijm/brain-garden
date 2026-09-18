@@ -1,5 +1,5 @@
 ---
-title: "Super Castlevania IV — SNES Guide"
+title: "Super Castlevania IV: SNES Guide"
 type: game-guide
 category: games/snes
 tags: [snes, super-nintendo, castlevania, konami, action-platformer, walkthrough, guide]

@@ -72,11 +72,11 @@ the precision of the numbers and the "measure everyone with sensors" enthusiasm.
 
 ## See also
 
-- **[The secrets of great teamwork](secrets-of-great-teamwork)** — the "shared mindset" that
+- **[The secrets of great teamwork](secrets-of-great-teamwork)**: the "shared mindset" that
   note calls for is largely a communication pattern this one measures.
-- **[Building collaborative teams](building-collaborative-teams)** — the same research lineage:
+- **[Building collaborative teams](building-collaborative-teams)**: the same research lineage:
   investing in the informal contact that makes cooperation happen.
-- **[Psychological safety](psychological-safety)** — equal airtime and everyone speaking up is
+- **[Psychological safety](psychological-safety)**: equal airtime and everyone speaking up is
   what safety looks like in the data.
 
 ## Sources

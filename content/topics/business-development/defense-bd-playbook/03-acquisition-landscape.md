@@ -8,7 +8,7 @@ tags: [business-development, defense, capture-management, govcon, proposals, pla
 created: 2026-06-18
 ---
 
-# Chapter 3 — The acquisition landscape
+# Chapter 3: The acquisition landscape
 
 You cannot run capture well without knowing the rules of the field. This chapter
 is the compressed version of how the government is allowed to buy, because the

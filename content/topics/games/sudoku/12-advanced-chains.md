@@ -8,7 +8,7 @@ tags: [sudoku, games, puzzles, logic, brain-training]
 created: 2026-06-16
 ---
 
-# Lesson 12 — Forcing chains, AICs, and the last resort
+# Lesson 12: Forcing chains, AICs, and the last resort
 
 This is the deep end. You rarely need it, and most "expert" puzzles fall to
 everything in Lessons 1 to 11. Here's the map so the words aren't mysterious.

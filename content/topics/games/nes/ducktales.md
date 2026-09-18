@@ -1,5 +1,5 @@
 ---
-title: "DuckTales — NES Walkthrough"
+title: "DuckTales: NES Walkthrough"
 type: game-guide
 category: games/nes
 tags: [nes, nintendo, ducktales, platformer, capcom, walkthrough, guide]
@@ -9,7 +9,7 @@ created: 2026-09-01
 draft: false
 ---
 
-# DuckTales — NES Walkthrough
+# DuckTales: NES Walkthrough
 
 **Developer:** Capcom | **Publisher:** Capcom | **Year:** 1989
 

@@ -1,5 +1,5 @@
 ---
-title: "Metal Gear Solid — Game Boy Color Guide"
+title: "Metal Gear Solid: Game Boy Color Guide"
 type: game-guide
 category: games/gbc
 tags: [gbc, gameboy-color, metal-gear, konami, stealth, ghost-babel, walkthrough, guide]

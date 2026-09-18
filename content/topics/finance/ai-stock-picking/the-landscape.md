@@ -158,11 +158,11 @@ rather than FACT is that, for almost every service, those answers do not exist.
 
 ## See also
 
-- **[How AI and quant stock-picking actually works](topics/finance/ai-stock-picking/)** — the mechanics behind
+- **[How AI and quant stock-picking actually works](topics/finance/ai-stock-picking/)**: the mechanics behind
   the scores, fair values, and robots listed here.
-- **[Does any of it actually beat the market?](does-it-actually-work)** — the peer-reviewed base
+- **[Does any of it actually beat the market?](does-it-actually-work)**: the peer-reviewed base
   rates these performance claims have to clear.
-- **[How to emulate it without fooling yourself](build-it-yourself)** — the honest method and the
+- **[How to emulate it without fooling yourself](build-it-yourself)**: the honest method and the
   red-flag checklist.
 
 ## Sources
@@ -170,15 +170,15 @@ rather than FACT is that, for almost every service, those answers do not exist.
 Vendor and review pages describe drifting product details; treat them as a snapshot. The one
 independent real-money check is marked.
 
-- InvestingPro / ProPicks methodology and performance — **[vendor]** — https://www.investing-support.com/hc/en-us/articles/21860692550289-How-are-ProPicks-Strategies-created and https://www.investing-support.com/hc/en-us/articles/21861480414993-ProPicks-performance
-- Danelfin, "How it works" and audit page — **[vendor]** — https://danelfin.com/how-it-works and https://audit.danelfin.com/
-- Zacks Rank methodology and performance disclosure — **[vendor]** — https://www.zacks.com/stocks/zacks-rank and https://www.zacks.com/performance_disclosure/
-- CXO Advisory, "Are Zacks Rankings Exploitable?" (independent real-money check) — **[independent]** — https://www.cxoadvisory.com/fundamental-valuation/are-zacks-rankings-exploitable/
-- Seeking Alpha Quant Ratings FAQ — **[vendor]** — https://help.seekingalpha.com/premium/what-are-quant-ratings-and-how-do-i-use-them
-- Seeking Alpha Alpha Picks review (live record) — **[review]** — https://stockanalysis.com/article/alpha-picks-review/
-- Trade Ideas, Holly records and guide — **[vendor]** — https://www.trade-ideas.com/holly-records/ and https://www.trade-ideas.com/hollyguide/Holly_AI_Strategies.html
-- Tickeron AI Robots and disclaimers — **[vendor]** — https://tickeron.com/trading-investing-101/ai-robots-instructions/
-- Kavout K Score — **[vendor]** — https://www.kavout.com/k-score/
-- TipRanks Smart Score review — **[review]** — https://www.wallstreetzen.com/blog/tipranks-review/
-- MarketBeat review — **[review]** — https://www.wallstreetzen.com/blog/marketbeat-review/
-- Boosted.ai (institutional context) — **[vendor]** — https://boosted.ai/
+- InvestingPro / ProPicks methodology and performance: **[vendor]**: https://www.investing-support.com/hc/en-us/articles/21860692550289-How-are-ProPicks-Strategies-created and https://www.investing-support.com/hc/en-us/articles/21861480414993-ProPicks-performance
+- Danelfin, "How it works" and audit page: **[vendor]**: https://danelfin.com/how-it-works and https://audit.danelfin.com/
+- Zacks Rank methodology and performance disclosure: **[vendor]**: https://www.zacks.com/stocks/zacks-rank and https://www.zacks.com/performance_disclosure/
+- CXO Advisory, "Are Zacks Rankings Exploitable?" (independent real-money check): **[independent]**: https://www.cxoadvisory.com/fundamental-valuation/are-zacks-rankings-exploitable/
+- Seeking Alpha Quant Ratings FAQ: **[vendor]**: https://help.seekingalpha.com/premium/what-are-quant-ratings-and-how-do-i-use-them
+- Seeking Alpha Alpha Picks review (live record): **[review]**: https://stockanalysis.com/article/alpha-picks-review/
+- Trade Ideas, Holly records and guide: **[vendor]**: https://www.trade-ideas.com/holly-records/ and https://www.trade-ideas.com/hollyguide/Holly_AI_Strategies.html
+- Tickeron AI Robots and disclaimers: **[vendor]**: https://tickeron.com/trading-investing-101/ai-robots-instructions/
+- Kavout K Score: **[vendor]**: https://www.kavout.com/k-score/
+- TipRanks Smart Score review: **[review]**: https://www.wallstreetzen.com/blog/tipranks-review/
+- MarketBeat review: **[review]**: https://www.wallstreetzen.com/blog/marketbeat-review/
+- Boosted.ai (institutional context): **[vendor]**: https://boosted.ai/

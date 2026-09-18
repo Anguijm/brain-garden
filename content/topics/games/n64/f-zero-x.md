@@ -1,5 +1,5 @@
 ---
-title: "F-Zero X — N64 Guide"
+title: "F-Zero X: N64 Guide"
 type: game-guide
 category: games/n64
 tags: [n64, nintendo, f-zero, racing, walkthrough, guide]

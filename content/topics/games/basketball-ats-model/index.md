@@ -325,16 +325,16 @@ that you will never read a "60 percent guaranteed winners" pitch the same way ag
 
 ## See also
 
-- **[How prediction research actually works](how-to-discover)** — the companion: the
+- **[How prediction research actually works](how-to-discover)**: the companion: the
   discovery loop behind this build, the state of the art in tabular prediction
   (trees vs deep learning vs foundation models), and the parlay/SGP math of modern
   sportsbooks.
-- **[AI agent engineering](topics/ai-engineering/)** — the same discipline on different
+- **[AI agent engineering](topics/ai-engineering/)**: the same discipline on different
   models: evaluation, leakage, and not fooling yourself, applied to LLMs.
-- **[How to read the evidence](topics/leadership/how-to-read-the-evidence)** — the
+- **[How to read the evidence](topics/leadership/how-to-read-the-evidence)**: the
   vault's decoder for calibration, effect sizes, and why "statistically significant"
   is a low bar.
-- **[Using AI well](connections/using-ai-well)** — a confident model output
+- **[Using AI well](connections/using-ai-well)**: a confident model output
   is a claim to test, not a prediction to bet.
 
 ## Sources
@@ -356,12 +356,12 @@ that you will never read a "60 percent guaranteed winners" pitch the same way ag
   https://pmc.ncbi.nlm.nih.gov/articles/PMC11265715/
 - He & Choi, stacked ensemble NBA prediction, *Scientific Reports* (2025) —
   https://www.nature.com/articles/s41598-025-13657-1
-- Zimmermann et al., NCAAB match prediction (arXiv, full text) — https://arxiv.org/abs/1310.3607
-- Lopez & Matthews, Kaggle NCAA contest luck analysis (arXiv, full text) — https://arxiv.org/abs/1412.0248
-- Margin of victory from rankings, NCAA (arXiv, full text; line-vs-model RMSE) — https://arxiv.org/abs/1701.07316
-- Conformal win probability for March Madness (arXiv, full text) — https://arxiv.org/abs/2208.08598
-- LSTM/Transformer NCAA forecasting (arXiv, full text) — https://arxiv.org/abs/2508.02725
-- Combinatorial fusion for brackets (arXiv, full text) — https://arxiv.org/abs/2603.10916
+- Zimmermann et al., NCAAB match prediction (arXiv, full text): https://arxiv.org/abs/1310.3607
+- Lopez & Matthews, Kaggle NCAA contest luck analysis (arXiv, full text): https://arxiv.org/abs/1412.0248
+- Margin of victory from rankings, NCAA (arXiv, full text; line-vs-model RMSE): https://arxiv.org/abs/1701.07316
+- Conformal win probability for March Madness (arXiv, full text): https://arxiv.org/abs/2208.08598
+- LSTM/Transformer NCAA forecasting (arXiv, full text): https://arxiv.org/abs/2508.02725
+- Combinatorial fusion for brackets (arXiv, full text): https://arxiv.org/abs/2603.10916
 - "Beating the House" (arXiv, full text; moneyline line-shopping, thresholds tuned
   in-sample) — https://arxiv.org/abs/1910.08858
 - Gibbs, "Point Shaving in the NBA", Stanford honors thesis (2007, abstract) —

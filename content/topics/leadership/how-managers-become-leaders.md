@@ -63,13 +63,13 @@ a sharp map of a real transition, not a validated instrument.
 
 ## See also
 
-- **[Becoming the boss](becoming-the-boss)** — the first version of this leap, from star
+- **[Becoming the boss](becoming-the-boss)**: the first version of this leap, from star
   individual to first-time manager.
-- **[Seven transformations of leadership](seven-transformations)** — another map of how
+- **[Seven transformations of leadership](seven-transformations)**: another map of how
   leaders develop, by stages of thinking rather than job scope.
-- **[Why leadership training fails](why-leadership-training-fails)** — why a course alone
+- **[Why leadership training fails](why-leadership-training-fails)**: why a course alone
   rarely makes these shifts happen without a system that demands them.
-- **[Level 5 leadership](level-5-leadership)** — what the top of this ladder can look like.
+- **[Level 5 leadership](level-5-leadership)**: what the top of this ladder can look like.
 
 ## Sources
 

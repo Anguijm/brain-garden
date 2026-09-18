@@ -8,7 +8,7 @@ tags: [software, autodesk, navisworks, bim, 3d-viewer, tutorial]
 created: 2026-06-24
 ---
 
-# Chapter 2 — The interface
+# Chapter 2: The interface
 
 Freedom uses the standard Autodesk ribbon interface. This chapter names the parts
 so the rest of the course can refer to them.
@@ -40,14 +40,14 @@ FACT:
 FACT (panel groupings; a couple of exact panel names are worth confirming on your
 own install):
 
-- **Home** — `Project`, `Select & Search`, `Visibility`, `Display`, `Tools`.
-- **Viewpoint** — `Camera`, `Navigate`, `Render Style`, `Sectioning`, and
+- **Home**: `Project`, `Select & Search`, `Visibility`, `Display`, `Tools`.
+- **Viewpoint**: `Camera`, `Navigate`, `Render Style`, `Sectioning`, and
   save/load/playback of viewpoints.
-- **Review** — `Measure` and `Comments` (comments are view-only in Freedom).
-- **View** — navigation aids, scene-view options, and which windows are shown.
-- **Animation** — playback of animations saved in the file.
-- **Output** — `Print` and image export (the `Visuals` panel).
-- **Sectioning Tools** — appears only while sectioning is enabled.
+- **Review**: `Measure` and `Comments` (comments are view-only in Freedom).
+- **View**: navigation aids, scene-view options, and which windows are shown.
+- **Animation**: playback of animations saved in the file.
+- **Output**: `Print` and image export (the `Visuals` panel).
+- **Sectioning Tools**: appears only while sectioning is enabled.
 
 Assessment: you'll live mostly on **Viewpoint** (navigation, camera, render style,
 sectioning) and **Review** (measure), with the dockable windows open on the side.

@@ -59,11 +59,11 @@ that.
 
 ## See also
 
-- **[Psychological safety](psychological-safety)** — the condition that makes productive
+- **[Psychological safety](psychological-safety)**: the condition that makes productive
   conflict possible.
-- **[Why teams don't work](why-teams-dont-work)** — Hackman on why a protected dissenting voice
+- **[Why teams don't work](why-teams-dont-work)**: Hackman on why a protected dissenting voice
   makes teams better.
-- **[Begin with trust](begin-with-trust)** — the trust that lets a hard conversation stay
+- **[Begin with trust](begin-with-trust)**: the trust that lets a hard conversation stay
   productive.
 
 ## Sources

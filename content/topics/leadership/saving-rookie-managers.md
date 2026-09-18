@@ -57,11 +57,11 @@ coaching advice, which is exactly what it is.
 
 ## See also
 
-- **[Becoming the boss](becoming-the-boss)** — the same transition from the *new manager's*
+- **[Becoming the boss](becoming-the-boss)**: the same transition from the *new manager's*
   point of view.
-- **[The leader as coach](the-leader-as-coach)** — the boss's core tool for developing a
+- **[The leader as coach](the-leader-as-coach)**: the boss's core tool for developing a
   rookie: ask, don't just tell.
-- **[Who's got the monkey?](whos-got-the-monkey)** — the delegation trap, in one sharp image.
+- **[Who's got the monkey?](whos-got-the-monkey)**: the delegation trap, in one sharp image.
 
 ## Sources
 

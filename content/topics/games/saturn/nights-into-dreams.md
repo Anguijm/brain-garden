@@ -1,5 +1,5 @@
 ---
-title: "NiGHTS into Dreams — Saturn Guide"
+title: "NiGHTS into Dreams: Saturn Guide"
 type: game-guide
 category: games/saturn
 tags: [saturn, sega-saturn, nights, sonic-team, sega, action, walkthrough, guide]

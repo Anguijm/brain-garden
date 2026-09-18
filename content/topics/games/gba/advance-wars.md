@@ -1,5 +1,5 @@
 ---
-title: "Advance Wars — Game Boy Advance Guide"
+title: "Advance Wars: Game Boy Advance Guide"
 type: game-guide
 category: games/gba
 tags: [gba, gameboy-advance, advance-wars, intelligent-systems, nintendo, strategy, walkthrough, guide]

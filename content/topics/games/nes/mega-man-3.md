@@ -1,5 +1,5 @@
 ---
-title: "Mega Man 3 — NES Walkthrough"
+title: "Mega Man 3: NES Walkthrough"
 type: game-guide
 category: games/nes
 tags: [nes, nintendo, mega-man, action-platformer, walkthrough, guide]
@@ -9,7 +9,7 @@ created: 2026-09-01
 draft: false
 ---
 
-# Mega Man 3 — NES Walkthrough
+# Mega Man 3: NES Walkthrough
 
 ## Introduction
 

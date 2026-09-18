@@ -1,5 +1,5 @@
 ---
-title: "Lode Runner Twin — SNES Guide"
+title: "Lode Runner Twin: SNES Guide"
 type: game-guide
 category: games/snes
 tags: [snes, super-nintendo, lode-runner, puzzle, platformer, walkthrough, guide, japan]

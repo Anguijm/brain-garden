@@ -434,7 +434,7 @@ For PS3: the torrent contains PS3_ALVRO_PART_1 through PART_11 (alphabetical) pl
 Batocera has no torrent client and aria2c is not in the package manager. The solution is a static `qbittorrent-nox` binary from GitHub:
 
 ```bash
-# One-time download (already done — binary is at /userdata/system/qbittorrent-nox)
+# One-time download (already done: binary is at /userdata/system/qbittorrent-nox)
 URL=$(curl -sL "https://api.github.com/repos/userdocs/qbittorrent-nox-static/releases/latest" | \
   python3 -c "import json,sys; [print(a['browser_download_url']) for a in json.load(sys.stdin)['assets'] if a['name']=='x86_64-qbittorrent-nox']")
 wget -O /userdata/system/qbittorrent-nox "$URL"
@@ -451,7 +451,7 @@ qBittorrent 5.x broke the `/api/v2/torrents/filePrio` endpoint (the TorrentsCont
 
 ```bash
 pkill qbittorrent-nox
-# Edit fastresume with Python — key is file_priority (underscore, not dash)
+# Edit fastresume with Python: key is file_priority (underscore, not dash)
 python3 /tmp/fix_fastresume.py   # see script below
 # Restart
 /userdata/system/qbittorrent-nox --confirm-legal-notice --webui-port=8089 --profile=/userdata/system/qbt-config >>/tmp/qbt.log 2>&1 &
@@ -503,10 +503,10 @@ Look up exact file indices via the MiNERVA website or by checking the torrent's 
 
 This note is the build. Three companions cover what comes after it:
 
-- **[What to actually put on it](topics/games/batocera-top-games)** — the ranked list of what is
+- **[What to actually put on it](topics/games/batocera-top-games)**: the ranked list of what is
   worth playing per system, plus a section separating that wish list from the 169 titles actually
   installed and verified here.
-- **Guides for every game on the machine** — 163 walkthroughs across 16 systems, each covering
+- **Guides for every game on the machine**: 163 walkthroughs across 16 systems, each covering
   controls, the mechanics that matter, and what changes under emulation. The per-system indexes are
   the entry points:
   [NES](topics/games/nes/) · [SNES](topics/games/snes/) · [N64](topics/games/n64/) ·
@@ -516,7 +516,7 @@ This note is the build. Three companions cover what comes after it:
   [Saturn](topics/games/saturn/) · [Dreamcast](topics/games/dreamcast/) ·
   [PlayStation](topics/games/psx/) · [PS2](topics/games/ps2/) · [PSP](topics/games/psp/) ·
   [Neo Geo](topics/games/neogeo/)
-- **[The games Batocera ships with](topics/games/bundled-homebrew)** — the freeware titles already
+- **[The games Batocera ships with](topics/games/bundled-homebrew)**: the freeware titles already
   on a fresh install.
 
 **If you are choosing between emulating and modifying real hardware**, the

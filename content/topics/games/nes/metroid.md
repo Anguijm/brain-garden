@@ -1,5 +1,5 @@
 ---
-title: "Metroid — NES Walkthrough"
+title: "Metroid: NES Walkthrough"
 type: game-guide
 category: games/nes
 tags: [nes, nintendo, metroid, action-adventure, walkthrough, guide, samus]
@@ -9,7 +9,7 @@ created: 2026-09-01
 draft: false
 ---
 
-# Metroid — NES Walkthrough
+# Metroid: NES Walkthrough
 
 **Platform:** NES | **Developer:** Nintendo R&D1 / Intelligent Systems | **Year:** 1986 (JP), 1987 (US)
 
@@ -93,7 +93,7 @@ There are two Ice Beam locations — one in Brinstar, one in Norfair. You only n
 
 Fires a wavy shot that travels through walls. Useful for hitting enemies behind barriers but incompatible with Ice Beam — picking one replaces the other. Get Ice Beam and skip Wave Beam unless you know what you are doing.
 
-### Varia Suit (Norfair or Brinstar — two locations)
+### Varia Suit (Norfair or Brinstar: two locations)
 
 Halves all damage taken. This is the single most important upgrade for survival. Find it before going into Ridley's Lair or you will spend most of that dungeon dying. The Norfair location requires navigating deeper into the lower shafts; the Brinstar location requires bombing through a hidden floor in the upper-blue section.
 
@@ -124,7 +124,7 @@ You do not need all 21. You need enough to beat the bosses and Tourian. Forty or
 
 ## Walkthrough
 
-### Step 1: Brinstar — Early Exploration
+### Step 1: Brinstar: Early Exploration
 
 Start in the blue Brinstar section. Head right from the spawn point. You will immediately encounter Zoomer enemies (small circular creatures that walk along surfaces) and find your first missile tank after a little exploration. Continue right to find the **Morph Ball** — it is not hidden, just placed at the end of a horizontal corridor.
 

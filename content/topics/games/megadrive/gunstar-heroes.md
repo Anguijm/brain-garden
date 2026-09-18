@@ -1,5 +1,5 @@
 ---
-title: "Gunstar Heroes — Mega Drive Guide"
+title: "Gunstar Heroes: Mega Drive Guide"
 type: game-guide
 category: games/megadrive
 tags: [megadrive, genesis, gunstar-heroes, treasure, run-and-gun, walkthrough, guide]

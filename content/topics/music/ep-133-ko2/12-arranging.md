@@ -2,13 +2,13 @@
 type: lesson
 series: ep-133-ko2
 chapter: 12
-title: Arranging — scenes, commit, and song mode
+title: "Arranging: scenes, commit, and song mode"
 status: curated
 tags: [music, sampler, groovebox, teenage-engineering, ep-133, ko-ii, tutorial]
 created: 2026-06-23
 ---
 
-# Chapter 12 — Arranging
+# Chapter 12: Arranging
 
 ![The MAIN button with COMMIT as its SHIFT secondary](img/main.jpg)
 *Commit a scene with SHIFT+MAIN. Photo: Teenage Engineering.*

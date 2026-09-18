@@ -1,5 +1,5 @@
 ---
-title: "Shining Force III — Saturn Guide"
+title: "Shining Force III: Saturn Guide"
 type: game-guide
 category: games/saturn
 tags: [saturn, sega-saturn, shining-force, camelot, sega, strategy, srpg, walkthrough, guide]
@@ -43,7 +43,7 @@ Key rules:
 - **Terrain gives defence and costs movement.** Forests and hills are worth standing in.
 - **Facing does not matter** here, unlike some tactics games, but position does.
 - **Ranged units and mages have limited range** and are fragile; keep them behind the line.
-- **A fallen ally is not permanently dead** — unlike [Fire Emblem](topics/games/gba/fire-emblem-sacred-stones), Shining Force revives characters at a church for a fee. This is the friendlier of the two great strategy RPG traditions.
+- **A fallen ally is not permanently dead**: unlike [Fire Emblem](topics/games/gba/fire-emblem-sacred-stones), Shining Force revives characters at a church for a fee. This is the friendlier of the two great strategy RPG traditions.
 
 ---
 

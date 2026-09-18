@@ -80,12 +80,12 @@ alongside the official tutorial for the how.
 
 ## See also
 
-- **[Mobile game engines (CLI)](topics/software/mobile-game-engines/)** — Godot is one of the CLI-friendly mobile engines compared there.
-- **[Homebrew on portable game devices](topics/games/portable-homebrew/)** — where games like these can end up running.
+- **[Mobile game engines (CLI)](topics/software/mobile-game-engines/)**: Godot is one of the CLI-friendly mobile engines compared there.
+- **[Homebrew on portable game devices](topics/games/portable-homebrew/)**: where games like these can end up running.
 
 ## Sources
 
-- Godot Engine documentation — https://docs.godotengine.org/en/stable/
-- Introduction to Godot — https://docs.godotengine.org/en/stable/getting_started/introduction/introduction_to_godot.html
-- About Godot (license, Foundation) — https://docs.godotengine.org/en/stable/about/introduction.html
-- Download (current version) — https://godotengine.org/download/
+- Godot Engine documentation: https://docs.godotengine.org/en/stable/
+- Introduction to Godot: https://docs.godotengine.org/en/stable/getting_started/introduction/introduction_to_godot.html
+- About Godot (license, Foundation): https://docs.godotengine.org/en/stable/about/introduction.html
+- Download (current version): https://godotengine.org/download/

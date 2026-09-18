@@ -65,11 +65,11 @@ research was strongest.
 
 ## See also
 
-- **[The manager's job: folklore and fact](the-managers-job)** — the 1975 original this looks
+- **[The manager's job: folklore and fact](the-managers-job)**: the 1975 original this looks
   back on: what managers actually do all day.
-- **[Why leadership training fails](why-leadership-training-fails)** — the same "different
+- **[Why leadership training fails](why-leadership-training-fails)**: the same "different
   systems need different handling" theme.
-- **[Level 5 leadership](level-5-leadership)** — a foil: the "lofty leadership" writing
+- **[Level 5 leadership](level-5-leadership)**: a foil: the "lofty leadership" writing
   Mintzberg is pushing against.
 
 ## Sources

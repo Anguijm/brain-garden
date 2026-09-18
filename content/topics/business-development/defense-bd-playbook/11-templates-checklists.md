@@ -9,7 +9,7 @@ tags: [business-development, defense, capture-management, govcon, proposals, pla
 created: 2026-06-18
 ---
 
-# Chapter 11 — Templates and checklists
+# Chapter 11: Templates and checklists
 
 Copy these per opportunity and fill them in. They are deliberately lightweight, the
 point is to force the right thinking, not to generate paperwork. All are Assessment

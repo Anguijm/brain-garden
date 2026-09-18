@@ -1,5 +1,5 @@
 ---
-title: "Valkyria Chronicles II — PSP Guide"
+title: "Valkyria Chronicles II: PSP Guide"
 type: game-guide
 category: games/psp
 tags: [psp, valkyria-chronicles, sega, strategy, srpg, walkthrough, guide]

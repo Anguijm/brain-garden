@@ -1,5 +1,5 @@
 ---
-title: "Resident Evil 2 — PS1 Guide"
+title: "Resident Evil 2: PS1 Guide"
 type: game-guide
 category: games/psx
 tags: [psx, playstation, resident-evil, capcom, survival-horror, walkthrough, guide]
@@ -23,7 +23,7 @@ An entire earlier version was built to 60–80% completion and scrapped by direc
 
 ---
 
-## Controls — tank controls
+## Controls: tank controls
 
 - **Up:** Walk forward **in the direction the character faces**.
 - **Left / Right:** **Rotate**, not strafe.

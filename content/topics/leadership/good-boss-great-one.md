@@ -56,10 +56,10 @@ proof, and use the "prep, do, review" habit, which is genuinely practical.
 
 ## See also
 
-- **[Becoming the boss](becoming-the-boss)** — the same authors on the first, hardest step
+- **[Becoming the boss](becoming-the-boss)**: the same authors on the first, hardest step
   into management.
-- **[Begin with trust](begin-with-trust)** — the trust that "manage yourself" is built on.
-- **[The discipline of teams](the-discipline-of-teams)** — what "manage your team" (a real
+- **[Begin with trust](begin-with-trust)**: the trust that "manage yourself" is built on.
+- **[The discipline of teams](the-discipline-of-teams)**: what "manage your team" (a real
   "we") actually requires.
 
 ## Sources

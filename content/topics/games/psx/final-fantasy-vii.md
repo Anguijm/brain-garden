@@ -1,5 +1,5 @@
 ---
-title: "Final Fantasy VII — PS1 Guide"
+title: "Final Fantasy VII: PS1 Guide"
 type: game-guide
 category: games/psx
 tags: [psx, playstation, final-fantasy, final-fantasy-vii, square, rpg, walkthrough, guide]

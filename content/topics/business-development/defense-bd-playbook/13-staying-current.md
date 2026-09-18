@@ -2,14 +2,14 @@
 type: playbook
 series: defense-bd-playbook
 chapter: 13
-title: Staying current — search terms and sources
+title: "Staying current: search terms and sources"
 aliases: ["topics/business-development/defense-bd-playbook/12-staying-current"]
 status: curated
 tags: [business-development, defense, capture-management, govcon, proposals, playbook, research]
 created: 2026-06-18
 ---
 
-# Chapter 13 — Staying current
+# Chapter 13: Staying current
 
 This field moves: thresholds adjust, the NDAA rewrites authorities every year, LPTA
 rules tighten, new vehicles and OT consortia appear, and protest case law shifts

@@ -81,11 +81,11 @@ salesmanship around it is worth noticing.
 
 ## See also
 
-- **[Leadership that gets results](leadership-that-gets-results)** — coaching is one of
+- **[Leadership that gets results](leadership-that-gets-results)**: coaching is one of
   Goleman's six styles, and the one leaders skip most.
-- **[The feedback fallacy](the-feedback-fallacy)** — the same "draw out, don't pour in"
+- **[The feedback fallacy](the-feedback-fallacy)**: the same "draw out, don't pour in"
   stance, applied to feedback.
-- **[Make the most of your one-on-one meetings](one-on-one-meetings)** — the recurring venue
+- **[Make the most of your one-on-one meetings](one-on-one-meetings)**: the recurring venue
   where most real coaching actually happens.
 
 ## Sources

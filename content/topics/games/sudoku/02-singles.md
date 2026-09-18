@@ -2,13 +2,13 @@
 type: lesson
 series: sudoku
 lesson: 2
-title: Singles — naked and hidden
+title: "Singles: naked and hidden"
 status: curated
 tags: [sudoku, games, puzzles, logic, brain-training]
 created: 2026-06-16
 ---
 
-# Lesson 2 — Singles: the two moves you'll use most
+# Lesson 2: Singles: the two moves you'll use most
 
 These are the two most basic solving moves, and they are literally the two
 questions from Lesson 1 turned into actions.

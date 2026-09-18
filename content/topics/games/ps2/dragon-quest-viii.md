@@ -1,5 +1,5 @@
 ---
-title: "Dragon Quest VIII: Journey of the Cursed King — PS2 Guide"
+title: "Dragon Quest VIII: Journey of the Cursed King: PS2 Guide"
 type: game-guide
 category: games/ps2
 tags: [ps2, playstation-2, dragon-quest, level-5, square-enix, rpg, walkthrough, guide]

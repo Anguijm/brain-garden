@@ -211,9 +211,8 @@ temporary gap between what models can do and what enterprises can absorb.
 
 ## See also
 
-- **[Evaluation and testing](11-evaluation-and-testing)** — building evals against a customer's
+- **[Evaluation and testing](11-evaluation-and-testing)**: building evals against a customer's
   real data is the FDE's core technical task, not a side activity.
-- **[Context engineering](09-context-engineering)** — the undocumented specifics of how a
+- **[Context engineering](09-context-engineering)**: the undocumented specifics of how a
   company works are exactly the context problem, met in person.
-- **[Using Gen AI in BD without fooling yourself](topics/business-development/defense-bd-playbook/10-gen-ai-in-bd)**
-  — the same deployment gap seen from the buyer's side.
+- **[Using Gen AI in BD without fooling yourself](topics/business-development/defense-bd-playbook/10-gen-ai-in-bd)**: the same deployment gap seen from the buyer's side.

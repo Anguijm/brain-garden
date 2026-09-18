@@ -81,11 +81,11 @@ and the anecdotes as illustration.
 
 ## See also
 
-- **[Psychological safety](psychological-safety)** — the condition teaming most depends on,
+- **[Psychological safety](psychological-safety)**: the condition teaming most depends on,
   and the chapter's hub for the underlying evidence.
-- **[The discipline of teams](the-discipline-of-teams)** — the stable-team world this note
+- **[The discipline of teams](the-discipline-of-teams)**: the stable-team world this note
   contrasts itself with.
-- **[Cracking the code of sustained collaboration](cracking-the-code)** — collaboration as a
+- **[Cracking the code of sustained collaboration](cracking-the-code)**: collaboration as a
   set of teachable skills, a close cousin.
 
 ## Sources

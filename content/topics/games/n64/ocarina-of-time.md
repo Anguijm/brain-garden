@@ -1,5 +1,5 @@
 ---
-title: "The Legend of Zelda: Ocarina of Time — N64 Guide"
+title: "The Legend of Zelda: Ocarina of Time: N64 Guide"
 type: game-guide
 category: games/n64
 tags: [n64, nintendo, zelda, ocarina-of-time, action-adventure, walkthrough, guide]

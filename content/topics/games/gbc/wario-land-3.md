@@ -1,5 +1,5 @@
 ---
-title: "Wario Land 3 — Game Boy Color Guide"
+title: "Wario Land 3: Game Boy Color Guide"
 type: game-guide
 category: games/gbc
 tags: [gbc, gameboy-color, wario, wario-land, nintendo, platformer, metroidvania, walkthrough, guide]

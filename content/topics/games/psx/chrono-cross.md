@@ -1,5 +1,5 @@
 ---
-title: "Chrono Cross — PS1 Guide"
+title: "Chrono Cross: PS1 Guide"
 type: game-guide
 category: games/psx
 tags: [psx, playstation, chrono-cross, square, rpg, walkthrough, guide]
@@ -31,7 +31,7 @@ Serge, a boy from a fishing village, walks into a parallel world where he died t
 
 ---
 
-## Combat — stamina, not turns
+## Combat: stamina, not turns
 
 No experience points from ordinary fights, and no turn order in the usual sense.
 

@@ -1,5 +1,5 @@
 ---
-title: "Pokémon Crystal — Game Boy Color Guide"
+title: "Pokémon Crystal: Game Boy Color Guide"
 type: game-guide
 category: games/gbc
 tags: [gbc, gameboy-color, pokemon, pokemon-crystal, rpg, johto, walkthrough, guide]

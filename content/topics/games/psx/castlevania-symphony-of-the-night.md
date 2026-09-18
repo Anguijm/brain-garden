@@ -1,5 +1,5 @@
 ---
-title: "Castlevania: Symphony of the Night — PS1 Guide"
+title: "Castlevania: Symphony of the Night: PS1 Guide"
 type: game-guide
 category: games/psx
 tags: [psx, playstation, castlevania, symphony-of-the-night, konami, metroidvania, walkthrough, guide]

@@ -1,5 +1,5 @@
 ---
-title: "Defenders of Oasis — Game Gear Guide"
+title: "Defenders of Oasis: Game Gear Guide"
 type: game-guide
 category: games/gamegear
 tags: [gamegear, sega, defenders-of-oasis, rpg, walkthrough, guide]
@@ -36,11 +36,11 @@ It is also unusually generous. Encounter rates are moderate, the difficulty curv
 
 Standard turn-based, first-person view of the enemy party, commands chosen each round.
 
-- **Attack** — physical, uses equipped weapon.
-- **Magic** — costs MP, includes damage, healing and status effects.
-- **Item** — consumables; also the escape route when a fight turns.
-- **Defend** — halves incoming damage for the round. Genuinely useful against boss wind-ups.
-- **Run** — usually succeeds against ordinary encounters.
+- **Attack**: physical, uses equipped weapon.
+- **Magic**: costs MP, includes damage, healing and status effects.
+- **Item**: consumables; also the escape route when a fight turns.
+- **Defend**: halves incoming damage for the round. Genuinely useful against boss wind-ups.
+- **Run**: usually succeeds against ordinary encounters.
 
 **The genie is your main asset.** Summoned magic through him is stronger than anything else you have for much of the game, and MP management is largely about keeping enough in reserve for him.
 

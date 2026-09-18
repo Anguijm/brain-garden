@@ -1,5 +1,5 @@
 ---
-title: "Solomon's Key — NES Guide"
+title: "Solomon's Key: NES Guide"
 type: game-guide
 category: games/nes
 tags: [nes, tecmo, solomons-key, puzzle, platformer, walkthrough, guide]

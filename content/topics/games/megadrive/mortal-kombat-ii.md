@@ -1,5 +1,5 @@
 ---
-title: "Mortal Kombat II — Mega Drive Guide"
+title: "Mortal Kombat II: Mega Drive Guide"
 type: game-guide
 category: games/megadrive
 tags: [megadrive, genesis, mortal-kombat, midway, acclaim, fighting, walkthrough, guide]

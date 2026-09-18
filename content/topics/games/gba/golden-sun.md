@@ -1,5 +1,5 @@
 ---
-title: "Golden Sun — Game Boy Advance Guide"
+title: "Golden Sun: Game Boy Advance Guide"
 type: game-guide
 category: games/gba
 tags: [gba, gameboy-advance, golden-sun, camelot, nintendo, rpg, walkthrough, guide]

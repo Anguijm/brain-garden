@@ -1,5 +1,5 @@
 ---
-title: "Banjo-Kazooie — N64 Guide"
+title: "Banjo-Kazooie: N64 Guide"
 type: game-guide
 category: games/n64
 tags: [n64, nintendo, rare, banjo-kazooie, platformer, walkthrough, guide]

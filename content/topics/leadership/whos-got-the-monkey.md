@@ -107,13 +107,13 @@ abandon people. Paired with real coaching, it is one of the most practical ideas
 
 ## See also
 
-- **[Becoming the boss](becoming-the-boss)** — the new-manager trap this cures: doing the
+- **[Becoming the boss](becoming-the-boss)**: the new-manager trap this cures: doing the
   work yourself instead of delegating it.
-- **[The manager's job](the-managers-job)** — why protecting your own scarce time matters so
+- **[The manager's job](the-managers-job)**: why protecting your own scarce time matters so
   much.
-- **[How do you motivate employees?](how-to-motivate)** — pushing initiative down the ladder
+- **[How do you motivate employees?](how-to-motivate)**: pushing initiative down the ladder
   *is* handing people the responsibility that actually motivates them.
-- **[The leader as coach](the-leader-as-coach)** — Covey's point in practice: growing people's
+- **[The leader as coach](the-leader-as-coach)**: Covey's point in practice: growing people's
   ability to carry their own monkeys.
 
 ## Sources

@@ -77,4 +77,4 @@ physics, sound, and how to share your game with other people.
 
 ## Sources
 
-- Godot docs, *Your first 2D game* (Dodge the Creeps) — https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html
+- Godot docs, *Your first 2D game* (Dodge the Creeps): https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html

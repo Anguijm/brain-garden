@@ -1,5 +1,5 @@
 ---
-title: "Final Fantasy VI Advance — Game Boy Advance Guide"
+title: "Final Fantasy VI Advance: Game Boy Advance Guide"
 type: game-guide
 category: games/gba
 tags: [gba, gameboy-advance, final-fantasy, final-fantasy-vi, square-enix, rpg, walkthrough, guide]

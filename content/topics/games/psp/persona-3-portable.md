@@ -1,5 +1,5 @@
 ---
-title: "Shin Megami Tensei: Persona 3 Portable — PSP Guide"
+title: "Shin Megami Tensei: Persona 3 Portable: PSP Guide"
 type: game-guide
 category: games/psp
 tags: [psp, persona, persona-3, atlus, rpg, walkthrough, guide]
@@ -45,10 +45,10 @@ The handheld version of *Persona 3*, and for many people the definitive one. It 
 
 You have one year. Each day gives you limited time, and everything competes:
 
-- **Social Links** — relationships that strengthen your Personas
-- **Stats** — Academics, Charm, Courage, raised by activities
-- **Tartarus** — the dungeon, where levelling happens
-- **Rest** — because exploring makes you tired and tired characters fight badly
+- **Social Links**: relationships that strengthen your Personas
+- **Stats**: Academics, Charm, Courage, raised by activities
+- **Tartarus**: the dungeon, where levelling happens
+- **Rest**: because exploring makes you tired and tired characters fight badly
 
 **You cannot do everything in one run.** The game is designed so a first playthrough leaves things unfinished, and New Game Plus is the intended answer.
 

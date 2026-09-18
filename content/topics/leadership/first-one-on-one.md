@@ -54,11 +54,11 @@ note](one-on-one-meetings); use this one to get started.
 
 ## See also
 
-- **[Make the most of your one-on-one meetings](one-on-one-meetings)** — the research-grounded
+- **[Make the most of your one-on-one meetings](one-on-one-meetings)**: the research-grounded
   companion, with cadence data and a question bank.
-- **[Becoming the boss](becoming-the-boss)** — the wider first-time-manager transition this
+- **[Becoming the boss](becoming-the-boss)**: the wider first-time-manager transition this
   ritual sits inside.
-- **[The leader as coach](the-leader-as-coach)** — the questions to bring into a 1:1.
+- **[The leader as coach](the-leader-as-coach)**: the questions to bring into a 1:1.
 
 ## Sources
 

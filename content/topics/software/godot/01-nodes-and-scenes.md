@@ -89,7 +89,7 @@ chapter, the editor, scripting, signals, will slot neatly onto it. The
 
 ## Sources
 
-- Godot docs, *Nodes and scenes* — https://docs.godotengine.org/en/stable/getting_started/step_by_step/nodes_and_scenes.html
-- Godot docs, *Overview of Godot's key concepts* — https://docs.godotengine.org/en/stable/getting_started/introduction/key_concepts_overview.html
-- Godot docs, *Using the SceneTree* — https://docs.godotengine.org/en/stable/getting_started/step_by_step/scene_tree.html
-- Godot docs, *Upgrading from Godot 3 to Godot 4* — https://docs.godotengine.org/en/stable/tutorials/migrating/upgrading_to_godot_4.html
+- Godot docs, *Nodes and scenes*: https://docs.godotengine.org/en/stable/getting_started/step_by_step/nodes_and_scenes.html
+- Godot docs, *Overview of Godot's key concepts*: https://docs.godotengine.org/en/stable/getting_started/introduction/key_concepts_overview.html
+- Godot docs, *Using the SceneTree*: https://docs.godotengine.org/en/stable/getting_started/step_by_step/scene_tree.html
+- Godot docs, *Upgrading from Godot 3 to Godot 4*: https://docs.godotengine.org/en/stable/tutorials/migrating/upgrading_to_godot_4.html

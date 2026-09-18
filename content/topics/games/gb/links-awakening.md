@@ -1,5 +1,5 @@
 ---
-title: "The Legend of Zelda: Link's Awakening — Game Boy Guide"
+title: "The Legend of Zelda: Link's Awakening: Game Boy Guide"
 type: game-guide
 category: games/gb
 tags: [gb, gameboy, nintendo, zelda, links-awakening, action-adventure, walkthrough, guide]

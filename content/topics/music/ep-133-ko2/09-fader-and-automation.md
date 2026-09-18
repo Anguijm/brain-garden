@@ -8,7 +8,7 @@ tags: [music, sampler, groovebox, teenage-engineering, ep-133, ko-ii, tutorial]
 created: 2026-06-23
 ---
 
-# Chapter 9 — The fader and automation
+# Chapter 9: The fader and automation
 
 ![The KEYS and FADER buttons and the assignable fader](img/fader.jpg)
 *The single assignable fader. Photo: Teenage Engineering.*

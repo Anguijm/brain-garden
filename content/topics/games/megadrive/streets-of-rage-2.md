@@ -1,5 +1,5 @@
 ---
-title: "Streets of Rage 2 — Mega Drive Guide"
+title: "Streets of Rage 2: Mega Drive Guide"
 type: game-guide
 category: games/megadrive
 tags: [megadrive, genesis, streets-of-rage, sega, beat-em-up, walkthrough, guide]

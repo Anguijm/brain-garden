@@ -1,5 +1,5 @@
 ---
-title: "Grand Theft Auto: Vice City Stories — PSP Guide"
+title: "Grand Theft Auto: Vice City Stories: PSP Guide"
 type: game-guide
 category: games/psp
 tags: [psp, grand-theft-auto, gta, rockstar, open-world, walkthrough, guide]

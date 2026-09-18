@@ -1,5 +1,5 @@
 ---
-title: "The King of Fighters '98 — Neo Geo Guide"
+title: "The King of Fighters '98: Neo Geo Guide"
 type: game-guide
 category: games/neogeo
 tags: [neogeo, snk, king-of-fighters, kof, fighting, arcade, walkthrough, guide]

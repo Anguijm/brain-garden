@@ -58,12 +58,12 @@ five rules as solid practice, the specifics as dated.
 
 ## See also
 
-- **[Why leadership training fails](why-leadership-training-fails)** — the same theme, with
+- **[Why leadership training fails](why-leadership-training-fails)**: the same theme, with
   the same correction: the system around development matters, and formal training works
   better than either article claims (both evidence checks size it).
-- **[What makes a company great at producing leaders?](producing-leaders)** — the modern
+- **[What makes a company great at producing leaders?](producing-leaders)**: the modern
   companion: what firms that reliably export leaders actually do.
-- **[How managers become leaders](how-managers-become-leaders)** — the personal side of the
+- **[How managers become leaders](how-managers-become-leaders)**: the personal side of the
   transitions a pipeline prepares people for.
 
 ## Sources

@@ -1,5 +1,5 @@
 ---
-title: "Resident Evil: Code Veronica — Dreamcast Guide"
+title: "Resident Evil: Code Veronica: Dreamcast Guide"
 type: game-guide
 category: games/dreamcast
 tags: [dreamcast, resident-evil, code-veronica, capcom, survival-horror, walkthrough, guide]
@@ -25,7 +25,7 @@ Dreamcast-exclusive at launch, and a genuine system seller.
 
 ---
 
-## Controls — tank controls, explained
+## Controls: tank controls, explained
 
 - **Up:** Walk forward **in the direction the character faces**.
 - **Left / Right:** **Rotate** the character, not strafe.

@@ -102,5 +102,5 @@ model writes and reasons; everything else helps it act, remember, and stay accur
 
 ## Sources
 
-- Anthropic, *Introduction to Claude / models overview* — https://docs.anthropic.com/en/docs/about-claude/models
-- Anthropic, *Token counting and context windows* — https://docs.anthropic.com/en/docs/build-with-claude/context-windows
+- Anthropic, *Introduction to Claude / models overview*: https://docs.anthropic.com/en/docs/about-claude/models
+- Anthropic, *Token counting and context windows*: https://docs.anthropic.com/en/docs/build-with-claude/context-windows

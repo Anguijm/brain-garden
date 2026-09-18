@@ -116,4 +116,4 @@ especially with any health conditions or medications.
 ## See also
 
 - **In this series:** [← The weight-loss aisle, and what can hurt](03-weight-loss-and-harms) · [If you are prone to gout (high uric acid) →](05-gout-and-uric-acid) · [Overview](topics/health/supplements-for-midlife/)
-- **[If you are prone to gout (high uric acid)](05-gout-and-uric-acid)** — how to adjust the plan if you are gout-prone.
+- **[If you are prone to gout (high uric acid)](05-gout-and-uric-acid)**: how to adjust the plan if you are gout-prone.

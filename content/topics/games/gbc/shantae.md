@@ -1,5 +1,5 @@
 ---
-title: "Shantae — Game Boy Color Guide"
+title: "Shantae: Game Boy Color Guide"
 type: game-guide
 category: games/gbc
 tags: [gbc, gameboy-color, shantae, wayforward, metroidvania, platformer, walkthrough, guide]

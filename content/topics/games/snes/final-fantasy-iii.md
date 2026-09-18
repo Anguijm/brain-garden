@@ -1,5 +1,5 @@
 ---
-title: "Final Fantasy III (Final Fantasy VI) — SNES Guide"
+title: "Final Fantasy III (Final Fantasy VI): SNES Guide"
 type: game-guide
 category: games/snes
 tags: [snes, super-nintendo, final-fantasy, final-fantasy-vi, square, rpg, walkthrough, guide]
@@ -56,11 +56,11 @@ The game does not stop this, and it is the standard criticism of its balance. If
 
 ## Character commands worth learning
 
-- **Sabin's Blitz** — fighting-game inputs, and his best damage all game
-- **Gau's Rage** — learned from monsters on the Veldt, enormous and badly explained
-- **Setzer's Slot** — random, and one outcome is a guaranteed kill
-- **Edgar's Tools** — reliable, ignores most defences
-- **Cyan's Bushido** — charge-based, slow, very strong at full charge
+- **Sabin's Blitz**: fighting-game inputs, and his best damage all game
+- **Gau's Rage**: learned from monsters on the Veldt, enormous and badly explained
+- **Setzer's Slot**: random, and one outcome is a guaranteed kill
+- **Edgar's Tools**: reliable, ignores most defences
+- **Cyan's Bushido**: charge-based, slow, very strong at full charge
 
 ---
 

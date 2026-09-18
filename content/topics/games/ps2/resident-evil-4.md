@@ -1,5 +1,5 @@
 ---
-title: "Resident Evil 4 — PS2 Guide"
+title: "Resident Evil 4: PS2 Guide"
 type: game-guide
 category: games/ps2
 tags: [ps2, playstation-2, resident-evil, capcom, survival-horror, action, walkthrough, guide]

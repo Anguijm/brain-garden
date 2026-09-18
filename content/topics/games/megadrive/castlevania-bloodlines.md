@@ -1,5 +1,5 @@
 ---
-title: "Castlevania: Bloodlines — Mega Drive Guide"
+title: "Castlevania: Bloodlines: Mega Drive Guide"
 type: game-guide
 category: games/megadrive
 tags: [megadrive, genesis, castlevania, konami, action-platformer, walkthrough, guide]

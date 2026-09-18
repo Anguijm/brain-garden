@@ -59,7 +59,7 @@ What the checks really read:
   image, which plugins exist, how the window is sized.
 - **Automation instrumentation.** A browser being driven by a program is usually driven
   over a debugging channel, and that channel is detectable from inside the page.
-- **IP reputation** — whether your address belongs to a home broadband line or a rented
+- **IP reputation**: whether your address belongs to a home broadband line or a rented
   server in a data centre.
 - **Cookies you already hold**, including the token a challenge hands out when you pass it.
 
@@ -163,17 +163,17 @@ took ten minutes and pointed at three legitimate doors, two of which were open i
 ## See also
 
 - **In this series:** [← Forward deployed engineers](15-forward-deployed-engineers) · [Generating 3D →](17-generating-3d-versus-scripting-it) · [Overview](topics/ai-engineering/)
-- **[Safety and good habits](13-safety-and-best-practices)** — the same instinct applied to
+- **[Safety and good habits](13-safety-and-best-practices)**: the same instinct applied to
   agents that can act: least power, clear limits, verify before trusting.
-- **[Tools and MCP](07-tools-and-mcp)** — how an agent reaches the outside world in the
+- **[Tools and MCP](07-tools-and-mcp)**: how an agent reaches the outside world in the
   first place.
-- **[Using AI well](connections/using-ai-well)** — a fluent answer is not a checked one.
+- **[Using AI well](connections/using-ai-well)**: a fluent answer is not a checked one.
 
 ## Sources
 
-- Cloudflare, *Cloudflare Just Changed How AI Crawlers Scrape the Internet-at-Large* (2025) — https://www.cloudflare.com/press/press-releases/2025/cloudflare-just-changed-how-ai-crawlers-scrape-the-internet-at-large/
-- Cloudflare, *Your site, your rules: new AI traffic options for all customers* — https://blog.cloudflare.com/content-independence-day-ai-options/
-- IETF, *RFC 9309: Robots Exclusion Protocol* (2022) — https://www.rfc-editor.org/rfc/rfc9309.html
-- United States Court of Appeals for the Ninth Circuit, *hiQ Labs, Inc. v. LinkedIn Corp.*, No. 17-16783 (18 April 2022) — https://cdn.ca9.uscourts.gov/datastore/opinions/2022/04/18/17-16783.pdf
-- *hiQ Labs v. LinkedIn* — case history and final disposition — https://en.wikipedia.org/wiki/HiQ_Labs_v._LinkedIn
-- BoardGameGeek, *Using the XML API* (policy page, read via the Internet Archive because the live page is behind a bot check) — https://web.archive.org/web/20260715032744/https://boardgamegeek.com/using_the_xml_api
+- Cloudflare, *Cloudflare Just Changed How AI Crawlers Scrape the Internet-at-Large* (2025): https://www.cloudflare.com/press/press-releases/2025/cloudflare-just-changed-how-ai-crawlers-scrape-the-internet-at-large/
+- Cloudflare, *Your site, your rules: new AI traffic options for all customers*: https://blog.cloudflare.com/content-independence-day-ai-options/
+- IETF, *RFC 9309: Robots Exclusion Protocol* (2022): https://www.rfc-editor.org/rfc/rfc9309.html
+- United States Court of Appeals for the Ninth Circuit, *hiQ Labs, Inc. v. LinkedIn Corp.*, No. 17-16783 (18 April 2022): https://cdn.ca9.uscourts.gov/datastore/opinions/2022/04/18/17-16783.pdf
+- *hiQ Labs v. LinkedIn*: case history and final disposition: https://en.wikipedia.org/wiki/HiQ_Labs_v._LinkedIn
+- BoardGameGeek, *Using the XML API* (policy page, read via the Internet Archive because the live page is behind a bot check): https://web.archive.org/web/20260715032744/https://boardgamegeek.com/using_the_xml_api

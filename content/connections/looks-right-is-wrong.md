@@ -16,28 +16,28 @@ against appearances.**
 
 ## The thread
 
-- **[Game guides and the ROM library](topics/games/batocera-top-games)** — a scraper labelled
+- **[Game guides and the ROM library](topics/games/batocera-top-games)**: a scraper labelled
   *Mega Man 2* as **Totally Rad**, complete with that game's description and box art. Nothing looked
   broken: there was a name, a cover, a plausible blurb. The cause was upstream — the scraper matches
   on filename, and the filename was in an old naming style. The fix was to stop trusting names and
   derive them from **checksums against the published dump records**, which found 26 misnamed files
   and 20 wrong entries.
 
-- **[Verification rules](areas/how-the-vault-runs)** — this vault's whole labelling discipline
+- **[Verification rules](areas/how-the-vault-runs)**: this vault's whole labelling discipline
   exists for the same reason. Anything a model produces is **Assessment or Speculation by default**,
   and FACT is reserved for what was checked against a primary source. A fluent paragraph and a
   correct paragraph are indistinguishable at a glance, so the label carries what the prose cannot.
 
-- **[AI engineering: evaluation](topics/ai-engineering/)** — the same problem stated formally. A
+- **[AI engineering: evaluation](topics/ai-engineering/)**: the same problem stated formally. A
   model's confidence is uncorrelated with its accuracy, so plausibility cannot be the acceptance
   test. You need a held-out answer to compare against, which is a checksum by another name.
 
-- **[The Waterfront Brief](projects/waterfront-brief/)** — a search result's summary asserted a
+- **[The Waterfront Brief](projects/waterfront-brief/)**: a search result's summary asserted a
   publication date that the article's own page contradicted, once by two years. The summary was
   well-formed and wrong. The standing rule that came out of it: **open the page; a search summary is
   never a source.**
 
-- **[AI stock-picking services, investigated](topics/finance/ai-stock-picking/)** — vendors publish
+- **[AI stock-picking services, investigated](topics/finance/ai-stock-picking/)**: vendors publish
   backtested returns that are internally consistent, professionally presented, and unfalsifiable
   without the underlying trade log. The presentation quality carries no information about the
   result's validity, which is precisely why it is offered.

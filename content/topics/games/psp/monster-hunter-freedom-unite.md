@@ -1,5 +1,5 @@
 ---
-title: "Monster Hunter Freedom Unite — PSP Guide"
+title: "Monster Hunter Freedom Unite: PSP Guide"
 type: game-guide
 category: games/psp
 tags: [psp, monster-hunter, capcom, action-rpg, walkthrough, guide]

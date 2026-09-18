@@ -8,7 +8,7 @@ tags: [software, autodesk, navisworks, bim, 3d-viewer, tutorial]
 created: 2026-06-24
 ---
 
-# Chapter 5 — Saved viewpoints and review data
+# Chapter 5: Saved viewpoints and review data
 
 An NWD usually arrives full of review data the author packed in: saved views,
 markups, comments, and clash results. This is what makes Freedom useful for

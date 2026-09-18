@@ -1,5 +1,5 @@
 ---
-title: "Castlevania — NES Walkthrough"
+title: "Castlevania: NES Walkthrough"
 type: game-guide
 category: games/nes
 tags: [nes, nintendo, castlevania, action-platformer, walkthrough, guide]
@@ -9,7 +9,7 @@ created: 2026-09-01
 draft: false
 ---
 
-# Castlevania — NES Walkthrough
+# Castlevania: NES Walkthrough
 
 **Platform:** NES | **Year:** 1987 (US) | **Developer:** Konami | **Genre:** Action-Platformer
 
@@ -89,7 +89,7 @@ These are not separate weapons but powerups that multiply your current sub-weapo
 
 ## Stage-by-Stage Walkthrough
 
-### Block 1 — The Castle Entrance
+### Block 1: The Castle Entrance
 **Stages 1-1, 1-2, 1-3 | Boss: Giant Bat**
 
 **1-1:** You start outside the castle. Walk right. Break every torch and candle you see — they contain hearts, sub-weapons, and occasionally whip upgrades. The first enemies are zombies: slow, walk toward you, easy to whip. Bats drop from the sky in clusters; jump over them or wait for them to swoop low and whip. There is a hidden piece of meat in a wall near the middle of the stage — whip suspicious-looking walls if your health is low. Grab the Dagger from a candle; it will be your sub-weapon until you find the Axe.
@@ -103,7 +103,7 @@ The Giant Bat hangs from the ceiling and swoops at Simon. The simplest approach:
 
 ---
 
-### Block 2 — The Castle Interior
+### Block 2: The Castle Interior
 **Stages 2-1, 2-2, 2-3 | Boss: Medusa**
 
 **2-1:** Two enemy types make their introduction: Fishmen (jump from the water floor, arcing toward you — wait for them to crest and whip mid-arc) and the first Axe Knights (they walk, stop, throw a vertical axe that bounces, then repeat). Axe Knights need two or three whip hits. Wait for the axe to travel up and away before moving in to attack. Hidden meat is in the wall of the lowest section.
@@ -117,7 +117,7 @@ The giant Medusa head floats and fires two Medusa Head projectiles at Simon simu
 
 ---
 
-### Block 3 — The Clock Tower Approach
+### Block 3: The Clock Tower Approach
 **Stages 3-1, 3-2, 3-3 | Boss: The Mummies**
 
 **3-1:** Spike traps appear for the first time — vertical spikes that extend and retract from the floor. Time your walks past them; the pattern is consistent. Knights with shields appear: they block frontal attacks and must be whipped from the front at the right moment (when they raise the shield for a different animation). A safe approach is to get close, wait for a gap in the shield cycle, and whip immediately.
@@ -131,7 +131,7 @@ Two mummies, side by side, in a mid-sized room. They throw arcing bandage projec
 
 ---
 
-### Block 4 — The Underground
+### Block 4: The Underground
 **Stages 4-1, 4-2, 4-3 | Boss: Frankenstein's Monster and Igor**
 
 **4-1:** Moving platforms over pits. The platforms move in one direction at a fixed speed. Stand in the center and resist the urge to correct — over-correcting sends Simon off the edge. Red Skeletons appear for the first time: they re-assemble after being knocked down. Do not whip them on the ground unless you have a sub-weapon to hit them mid-reassembly — focus fire until they stay down (three to four hits with Vampire Killer).
@@ -147,7 +147,7 @@ Position: stand as far left as possible against the wall. Igor will hop toward y
 
 ---
 
-### Block 5 — The Clock Tower
+### Block 5: The Clock Tower
 **Stages 5-1, 5-2, 5-3 | Boss: Death**
 
 **5-1:** The Clock Tower itself — enormous gears in the background, narrow platforms, constant Fleamen. The gears are not obstacles, but the Fleamen spawn from walls at irregular intervals. Clear the spawn point whenever you can see one. Moving platforms here have a slight delay before they start moving after Simon lands.
@@ -167,7 +167,7 @@ If you somehow have only the whip: stand under Death, jump to whip his body when
 
 ---
 
-### Block 6 — Dracula's Chamber
+### Block 6: Dracula's Chamber
 **Stages 6-1, 6-2, 6-3 | Boss: Dracula**
 
 **6-1:** A gauntlet of every enemy type combined. Red Skeletons, Axe Knights, Medusa Heads, and Fleamen appear in the same rooms. The Cross is essential for dealing with multiple enemies at once. Preserve your heart supply — you need it for Dracula.

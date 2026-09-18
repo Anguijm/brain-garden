@@ -238,20 +238,19 @@ So the useful discipline is not "distrust the output." It is narrower and more a
 ## See also
 
 - **In this series:** [← Generating 3D](topics/ai-engineering/17-generating-3d-versus-scripting-it) · [Overview](topics/ai-engineering/)
-- **[Safety and good habits](topics/ai-engineering/13-safety-and-best-practices)** — the same
+- **[Safety and good habits](topics/ai-engineering/13-safety-and-best-practices)**: the same
   instinct applied to agents that act: least power, verify before trusting.
-- **[Web automation and bot defences](topics/ai-engineering/16-web-automation-and-bot-defenses)**
-  — where a status code answers a different question from the one you asked.
-- **[Mini forge](projects/mini-forge/)** — the project this came out of, and where it stands.
+- **[Web automation and bot defences](topics/ai-engineering/16-web-automation-and-bot-defenses)**: where a status code answers a different question from the one you asked.
+- **[Mini forge](projects/mini-forge/)**: the project this came out of, and where it stands.
 
 ## Sources
 
-- Microsoft, *TRELLIS* — https://github.com/microsoft/TRELLIS
-- VAST AI Research, *TripoSR* — https://github.com/VAST-AI-Research/TripoSR
-- TripoSR issue #83, *torchmcubes was not compiled with CUDA support* — https://github.com/VAST-AI-Research/TripoSR/issues/83
-- pwilkin, *trellis.cpp* — https://github.com/pwilkin/trellis.cpp
-- Tencent, *Hunyuan3D 2.1 Community License* — https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1/blob/main/LICENSE
-- Stability AI, *Community License* — https://stability.ai/license
-- CachyOS forum, *Black Screen with Kernel 6.19.0 on AMD Ryzen AI Max 395* — https://discuss.cachyos.org/t/regression-black-screen-with-kernel-6-19-0-on-amd-ryzen-ai-max-395-strix-halo/23042
-- Gygeek, *Framework Strix Halo LLM setup* — https://github.com/Gygeek/Framework-strix-halo-llm-setup
-- hogeheer499-commits, *strix-halo-guide* — https://github.com/hogeheer499-commits/strix-halo-guide
+- Microsoft, *TRELLIS*: https://github.com/microsoft/TRELLIS
+- VAST AI Research, *TripoSR*: https://github.com/VAST-AI-Research/TripoSR
+- TripoSR issue #83, *torchmcubes was not compiled with CUDA support*: https://github.com/VAST-AI-Research/TripoSR/issues/83
+- pwilkin, *trellis.cpp*: https://github.com/pwilkin/trellis.cpp
+- Tencent, *Hunyuan3D 2.1 Community License*: https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1/blob/main/LICENSE
+- Stability AI, *Community License*: https://stability.ai/license
+- CachyOS forum, *Black Screen with Kernel 6.19.0 on AMD Ryzen AI Max 395*: https://discuss.cachyos.org/t/regression-black-screen-with-kernel-6-19-0-on-amd-ryzen-ai-max-395-strix-halo/23042
+- Gygeek, *Framework Strix Halo LLM setup*: https://github.com/Gygeek/Framework-strix-halo-llm-setup
+- hogeheer499-commits, *strix-halo-guide*: https://github.com/hogeheer499-commits/strix-halo-guide

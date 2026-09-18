@@ -1,5 +1,5 @@
 ---
-title: "Panzer Dragoon Saga — Saturn Guide"
+title: "Panzer Dragoon Saga: Saturn Guide"
 type: game-guide
 category: games/saturn
 tags: [saturn, sega-saturn, panzer-dragoon, sega, rpg, walkthrough, guide]

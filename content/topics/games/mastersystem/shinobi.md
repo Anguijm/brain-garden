@@ -1,5 +1,5 @@
 ---
-title: "Shinobi — Master System Guide"
+title: "Shinobi: Master System Guide"
 type: game-guide
 category: games/mastersystem
 tags: [mastersystem, sega, shinobi, action, platformer, walkthrough, guide]

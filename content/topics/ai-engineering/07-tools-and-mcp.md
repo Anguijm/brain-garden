@@ -104,8 +104,8 @@ common way for agents to reach the outside world.
 
 ## Sources
 
-- Claude Developer docs, *Tool use with Claude* — https://platform.claude.com/docs/en/docs/build-with-claude/tool-use/overview
-- Anthropic, *Building Effective Agents* — https://www.anthropic.com/engineering/building-effective-agents
-- Anthropic, *Effective Context Engineering for AI Agents* — https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
-- Model Context Protocol, *Introduction* and *Architecture* — https://modelcontextprotocol.io/introduction and https://modelcontextprotocol.io/docs/learn/architecture
-- OpenAI, *Function calling* — https://developers.openai.com/api/docs/guides/function-calling
+- Claude Developer docs, *Tool use with Claude*: https://platform.claude.com/docs/en/docs/build-with-claude/tool-use/overview
+- Anthropic, *Building Effective Agents*: https://www.anthropic.com/engineering/building-effective-agents
+- Anthropic, *Effective Context Engineering for AI Agents*: https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
+- Model Context Protocol, *Introduction* and *Architecture*: https://modelcontextprotocol.io/introduction and https://modelcontextprotocol.io/docs/learn/architecture
+- OpenAI, *Function calling*: https://developers.openai.com/api/docs/guides/function-calling

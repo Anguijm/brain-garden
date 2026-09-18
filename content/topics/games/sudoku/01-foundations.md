@@ -2,13 +2,13 @@
 type: lesson
 series: sudoku
 lesson: 1
-title: Foundations — the board and the one rule
+title: "Foundations: the board and the one rule"
 status: curated
 tags: [sudoku, games, puzzles, logic, brain-training]
 created: 2026-06-16
 ---
 
-# Lesson 1 — The board, and the one rule everything rests on
+# Lesson 1: The board, and the one rule everything rests on
 
 A sudoku is a 9×9 grid, split into three kinds of groups. The jargon word for a
 group is a **unit** (also called a **house**):

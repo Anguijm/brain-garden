@@ -1,5 +1,5 @@
 ---
-title: "Phantasy Star Online Ver. 2 — Dreamcast Guide"
+title: "Phantasy Star Online Ver. 2: Dreamcast Guide"
 type: game-guide
 category: games/dreamcast
 tags: [dreamcast, phantasy-star-online, sonic-team, sega, action-rpg, walkthrough, guide]
@@ -55,9 +55,9 @@ Real-time, but with a **rhythm**. Attacks come in a three-hit chain and each hit
 
 Three families, each in three variants:
 
-- **Hunter** — melee, high health, the straightforward choice
-- **Ranger** — guns, ranged, safe but slower to kill
-- **Force** — techniques (magic), fragile, the strongest late
+- **Hunter**: melee, high health, the straightforward choice
+- **Ranger**: guns, ranged, safe but slower to kill
+- **Force**: techniques (magic), fragile, the strongest late
 
 Each has human, newman and android variants with different stat curves and technique access.
 

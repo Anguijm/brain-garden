@@ -2,13 +2,13 @@
 type: lesson
 series: sudoku
 lesson: 3
-title: Naked subsets — pairs, triples, quads
+title: "Naked subsets: pairs, triples, quads"
 status: curated
 tags: [sudoku, games, puzzles, logic, brain-training]
 created: 2026-06-16
 ---
 
-# Lesson 3 — Naked subsets (pairs, triples, quads)
+# Lesson 3: Naked subsets (pairs, triples, quads)
 
 A naked single was one cell with one candidate. A naked subset is the group
 version: N cells in the same unit that, between them, hold only N candidates. Those

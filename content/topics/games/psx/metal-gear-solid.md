@@ -1,5 +1,5 @@
 ---
-title: "Metal Gear Solid — PS1 Guide"
+title: "Metal Gear Solid: PS1 Guide"
 type: game-guide
 category: games/psx
 tags: [psx, playstation, metal-gear, konami, stealth, walkthrough, guide]

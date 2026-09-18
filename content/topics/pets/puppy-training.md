@@ -1,6 +1,6 @@
 ---
 type: topic-note
-title: Puppy training — a practical starter guide
+title: "Puppy training: a practical starter guide"
 status: curated
 tags: [pets, dogs, puppy, training, how-to, feedback-loops, verification]
 created: 2026-06-16
@@ -174,7 +174,7 @@ because they come from individual studies, not settled consensus.
 
 ## See also
 
-- **[White's (dumpy) tree frogs](whites-tree-frog-bioactive-japan)** — the other hands-on animal-care build in the garden.
+- **[White's (dumpy) tree frogs](whites-tree-frog-bioactive-japan)**: the other hands-on animal-care build in the garden.
 
 ## Sources
 

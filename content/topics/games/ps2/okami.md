@@ -1,5 +1,5 @@
 ---
-title: "Ōkami — PS2 Guide"
+title: "Ōkami: PS2 Guide"
 type: game-guide
 category: games/ps2
 tags: [ps2, playstation-2, okami, clover-studio, capcom, action-adventure, walkthrough, guide]

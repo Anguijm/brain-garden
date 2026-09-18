@@ -1,5 +1,5 @@
 ---
-title: "Sonic the Hedgehog — Master System Guide"
+title: "Sonic the Hedgehog: Master System Guide"
 type: game-guide
 category: games/mastersystem
 tags: [mastersystem, sega, sonic, platformer, walkthrough, guide]

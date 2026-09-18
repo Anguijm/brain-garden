@@ -94,13 +94,13 @@ confident pitch is not evidence.
 
 ## See also
 
-- **[Muscle, aging, and anabolic resistance](topics/health/muscle-protein-synthesis-aging/)** — the muscle-and-aging science behind the plan.
-- **[Using AI well](connections/using-ai-well)** — the same 'a confident pitch is not evidence' habit.
+- **[Muscle, aging, and anabolic resistance](topics/health/muscle-protein-synthesis-aging/)**: the muscle-and-aging science behind the plan.
+- **[Using AI well](connections/using-ai-well)**: the same 'a confident pitch is not evidence' habit.
 
 ## Sources
 
-- Hypertension screening in adults, USPSTF — https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/hypertension-in-adults-screening
-- Prediabetes and type 2 diabetes screening, USPSTF — https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/screening-for-prediabetes-and-type-2-diabetes
-- Statin use for primary prevention of cardiovascular disease, USPSTF — https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/statin-use-in-adults-preventive-medication
-- FDA, avoiding products with hidden ingredients — https://www.fda.gov/drugs/medication-health-fraud/avoiding-products-contaminated-hidden-ingredients
-- Adulterated supplements, JAMA Network Open — https://pmc.ncbi.nlm.nih.gov/articles/PMC6324457/
+- Hypertension screening in adults, USPSTF: https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/hypertension-in-adults-screening
+- Prediabetes and type 2 diabetes screening, USPSTF: https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/screening-for-prediabetes-and-type-2-diabetes
+- Statin use for primary prevention of cardiovascular disease, USPSTF: https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/statin-use-in-adults-preventive-medication
+- FDA, avoiding products with hidden ingredients: https://www.fda.gov/drugs/medication-health-fraud/avoiding-products-contaminated-hidden-ingredients
+- Adulterated supplements, JAMA Network Open: https://pmc.ncbi.nlm.nih.gov/articles/PMC6324457/

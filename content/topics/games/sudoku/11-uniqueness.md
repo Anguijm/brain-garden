@@ -2,13 +2,13 @@
 type: lesson
 series: sudoku
 lesson: 11
-title: Uniqueness — Unique Rectangle and BUG
+title: "Uniqueness: Unique Rectangle and BUG"
 status: curated
 tags: [sudoku, games, puzzles, logic, brain-training]
 created: 2026-06-16
 ---
 
-# Lesson 11 — Uniqueness tricks: Unique Rectangle and BUG
+# Lesson 11: Uniqueness tricks: Unique Rectangle and BUG
 
 These lean on a promise: a proper sudoku has **exactly one solution**. That promise
 forbids certain patterns, because they'd allow two solutions. Spotting a

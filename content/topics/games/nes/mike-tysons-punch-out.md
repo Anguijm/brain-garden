@@ -1,5 +1,5 @@
 ---
-title: "Mike Tyson's Punch-Out!! — NES Guide"
+title: "Mike Tyson's Punch-Out!!: NES Guide"
 type: game-guide
 category: games/nes
 tags: [nes, nintendo, punch-out, boxing, sports, walkthrough, guide]

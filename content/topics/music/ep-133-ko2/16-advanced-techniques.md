@@ -8,7 +8,7 @@ tags: [music, sampler, groovebox, teenage-engineering, ep-133, ko-ii, tutorial, 
 created: 2026-06-23
 ---
 
-# Chapter 16 — Advanced techniques and recipes
+# Chapter 16: Advanced techniques and recipes
 
 ![The SAMPLE button, used for resampling](img/sample.jpg)
 *Resampling uses SAMPLE with RSP as the source. Photo: Teenage Engineering.*
@@ -81,4 +81,4 @@ Next: [Troubleshooting and reference](17-troubleshooting-reference.md).
 ## See also
 
 - **In this series:** [← Samples and your computer](15-samples-and-computer) · [Troubleshooting, reset, and reference →](17-troubleshooting-reference) · [Overview](topics/music/ep-133-ko2/)
-- **[Finite resources](connections/finite-resources)** — resampling as the featured example of building past a memory limit.
+- **[Finite resources](connections/finite-resources)**: resampling as the featured example of building past a memory limit.

@@ -1,5 +1,5 @@
 ---
-title: "Golden Axe Warrior — Master System Guide"
+title: "Golden Axe Warrior: Master System Guide"
 type: game-guide
 category: games/mastersystem
 tags: [mastersystem, sega, golden-axe, action-adventure, zelda-like, walkthrough, guide]

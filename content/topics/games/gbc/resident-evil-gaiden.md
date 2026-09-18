@@ -1,5 +1,5 @@
 ---
-title: "Resident Evil Gaiden — Game Boy Color Guide"
+title: "Resident Evil Gaiden: Game Boy Color Guide"
 type: game-guide
 category: games/gbc
 tags: [gbc, gameboy-color, resident-evil, capcom, survival-horror, walkthrough, guide]

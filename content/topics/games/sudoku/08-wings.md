@@ -2,13 +2,13 @@
 type: lesson
 series: sudoku
 lesson: 8
-title: Wings — Y-Wing and XYZ-Wing
+title: "Wings: Y-Wing and XYZ-Wing"
 status: curated
 tags: [sudoku, games, puzzles, logic, brain-training]
 created: 2026-06-16
 ---
 
-# Lesson 8 — Y-Wing and XYZ-Wing
+# Lesson 8: Y-Wing and XYZ-Wing
 
 Fish were single-digit. Wings juggle three digits across three cells. The key word
 is **"sees"**: two cells *see* each other if they share a row, a column, or a box (so

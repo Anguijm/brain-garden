@@ -1,5 +1,5 @@
 ---
-title: "Wing Commander — SNES Guide"
+title: "Wing Commander: SNES Guide"
 type: game-guide
 category: games/snes
 tags: [snes, super-nintendo, wing-commander, origin, space-combat, simulation, walkthrough, guide]

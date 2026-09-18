@@ -1,5 +1,5 @@
 ---
-title: "Fire Emblem: The Sacred Stones — Game Boy Advance Guide"
+title: "Fire Emblem: The Sacred Stones: Game Boy Advance Guide"
 type: game-guide
 category: games/gba
 tags: [gba, gameboy-advance, fire-emblem, sacred-stones, intelligent-systems, strategy, srpg, walkthrough, guide]

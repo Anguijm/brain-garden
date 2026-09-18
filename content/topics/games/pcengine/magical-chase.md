@@ -1,5 +1,5 @@
 ---
-title: "Magical Chase — TurboGrafx-16 Guide"
+title: "Magical Chase: TurboGrafx-16 Guide"
 type: game-guide
 category: games/pcengine
 tags: [pcengine, turbografx-16, magical-chase, cute-em-up, shoot-em-up, walkthrough, guide]
@@ -42,11 +42,11 @@ That means you can fly left while shooting right, or park your options above you
 
 Between stages you spend collected crystals in a shop. This is a real decision, not a formality.
 
-- **Shot upgrades** — increase your main fire's power and spread.
-- **Option upgrades** — make the stars stronger and change their fire pattern.
-- **Bombs** — screen-clearing, limited.
-- **Extra lives** — expensive and usually worth it.
-- **Shields** — one-hit protection.
+- **Shot upgrades**: increase your main fire's power and spread.
+- **Option upgrades**: make the stars stronger and change their fire pattern.
+- **Bombs**: screen-clearing, limited.
+- **Extra lives**: expensive and usually worth it.
+- **Shields**: one-hit protection.
 
 **Buy option upgrades early.** The stars end up doing much of your damage, and upgrading them compounds with the positioning skill the game is teaching.
 

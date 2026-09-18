@@ -1,5 +1,5 @@
 ---
-title: "Crash Bandicoot 2: Cortex Strikes Back — PS1 Guide"
+title: "Crash Bandicoot 2: Cortex Strikes Back: PS1 Guide"
 type: game-guide
 category: games/psx
 tags: [psx, playstation, crash-bandicoot, naughty-dog, platformer, walkthrough, guide]

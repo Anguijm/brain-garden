@@ -1,5 +1,5 @@
 ---
-title: "Donkey Kong (1994) — Game Boy Guide"
+title: "Donkey Kong (1994): Game Boy Guide"
 type: game-guide
 category: games/gb
 tags: [gb, gameboy, nintendo, donkey-kong, mario, puzzle-platformer, walkthrough, guide]

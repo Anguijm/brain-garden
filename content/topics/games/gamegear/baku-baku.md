@@ -1,5 +1,5 @@
 ---
-title: "Baku Baku — Game Gear Guide"
+title: "Baku Baku: Game Gear Guide"
 type: game-guide
 category: games/gamegear
 tags: [gamegear, sega, baku-baku, puzzle, walkthrough, guide]

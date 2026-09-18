@@ -196,24 +196,24 @@ bed rest, at the real 3-gram dose. Neither one raises uric acid, if gout is a co
 ## See also
 
 - **In this series:** [Training, recovery, and sleep →](02-recovery-and-sleep) · [Overview](topics/health/supplements-for-midlife/)
-- **[Muscle, aging, and anabolic resistance](topics/health/muscle-protein-synthesis-aging/)** — why protein and leucine matter more as you age.
-- **[If you are prone to gout (high uric acid)](05-gout-and-uric-acid)** — how these choices affect uric acid.
+- **[Muscle, aging, and anabolic resistance](topics/health/muscle-protein-synthesis-aging/)**: why protein and leucine matter more as you age.
+- **[If you are prone to gout (high uric acid)](05-gout-and-uric-acid)**: how these choices affect uric acid.
 
 ## Sources
 
-- Creatine + resistance training in older adults, meta-analysis — https://pmc.ncbi.nlm.nih.gov/articles/PMC5679696/
-- ISSN Position Stand on creatine (Kreider 2017) — https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0173-z
-- Creatine misconceptions incl. kidneys (Antonio 2021) — https://jissn.biomedcentral.com/articles/10.1186/s12970-021-00412-w
-- Creatine and cognition, meta-analysis (2024) — https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1424972/full
-- ISSN Position Stand on protein (Jäger 2017) — https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0177-8
-- Higher protein in overweight/obesity, meta-analysis (2024) — https://pubmed.ncbi.nlm.nih.gov/39002131/
-- NIH ODS Vitamin D (deficiency, upper limit, toxicity) — https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/
-- Psyllium and lipids, meta-analysis — https://pmc.ncbi.nlm.nih.gov/articles/PMC12690803/
-- Psyllium and glycemic control, meta-analysis — https://pmc.ncbi.nlm.nih.gov/articles/PMC11155034/
-- Magnesium and blood pressure, meta-analysis of 38 RCTs — https://pmc.ncbi.nlm.nih.gov/articles/PMC12529988/
-- Omega-3 for cardiovascular disease, Cochrane review — https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full
-- Omega-3 and atrial fibrillation, dose-stratified meta-analysis (Gencer 2021, Circulation) — https://pmc.ncbi.nlm.nih.gov/articles/PMC9109217/
-- Omega-3 and atrial fibrillation risk, meta-analysis — https://pmc.ncbi.nlm.nih.gov/articles/PMC8756005/
-- Leucine supplementation meta-analysis, 17 RCTs (2022), *Front Nutr* — https://pmc.ncbi.nlm.nih.gov/articles/PMC9284268/
-- Deutz et al. (2013), HMB preserves muscle during bed rest, *Clin Nutr* — https://pubmed.ncbi.nlm.nih.gov/23514626/
-- HMB in sarcopenia, meta-analysis — https://pmc.ncbi.nlm.nih.gov/articles/PMC11272589/
+- Creatine + resistance training in older adults, meta-analysis: https://pmc.ncbi.nlm.nih.gov/articles/PMC5679696/
+- ISSN Position Stand on creatine (Kreider 2017): https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0173-z
+- Creatine misconceptions incl. kidneys (Antonio 2021): https://jissn.biomedcentral.com/articles/10.1186/s12970-021-00412-w
+- Creatine and cognition, meta-analysis (2024): https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1424972/full
+- ISSN Position Stand on protein (Jäger 2017): https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0177-8
+- Higher protein in overweight/obesity, meta-analysis (2024): https://pubmed.ncbi.nlm.nih.gov/39002131/
+- NIH ODS Vitamin D (deficiency, upper limit, toxicity): https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/
+- Psyllium and lipids, meta-analysis: https://pmc.ncbi.nlm.nih.gov/articles/PMC12690803/
+- Psyllium and glycemic control, meta-analysis: https://pmc.ncbi.nlm.nih.gov/articles/PMC11155034/
+- Magnesium and blood pressure, meta-analysis of 38 RCTs: https://pmc.ncbi.nlm.nih.gov/articles/PMC12529988/
+- Omega-3 for cardiovascular disease, Cochrane review: https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full
+- Omega-3 and atrial fibrillation, dose-stratified meta-analysis (Gencer 2021, Circulation): https://pmc.ncbi.nlm.nih.gov/articles/PMC9109217/
+- Omega-3 and atrial fibrillation risk, meta-analysis: https://pmc.ncbi.nlm.nih.gov/articles/PMC8756005/
+- Leucine supplementation meta-analysis, 17 RCTs (2022), *Front Nutr*: https://pmc.ncbi.nlm.nih.gov/articles/PMC9284268/
+- Deutz et al. (2013), HMB preserves muscle during bed rest, *Clin Nutr*: https://pubmed.ncbi.nlm.nih.gov/23514626/
+- HMB in sarcopenia, meta-analysis: https://pmc.ncbi.nlm.nih.gov/articles/PMC11272589/

@@ -8,7 +8,7 @@ tags: [software, autodesk, navisworks, bim, 3d-viewer, tutorial, glossary]
 created: 2026-06-24
 ---
 
-# Chapter 9 — Glossary and file types
+# Chapter 9: Glossary and file types
 
 ## File types
 
@@ -29,33 +29,33 @@ created: 2026-06-24
 
 ## Editions
 
-- **Navisworks Freedom** — the free, read-only viewer (this course).
-- **Navisworks Simulate** — paid; adds model aggregation, object animation, 4D
+- **Navisworks Freedom**: the free, read-only viewer (this course).
+- **Navisworks Simulate**: paid; adds model aggregation, object animation, 4D
   `TimeLiner`, and `Quantification`. No clash detection.
-- **Navisworks Manage** — paid; everything in Simulate plus `Clash Detective`.
+- **Navisworks Manage**: paid; everything in Simulate plus `Clash Detective`.
 
 ## Terms
 
-- **Scene View** — the 3D area where you view and navigate the model.
-- **Selection Tree** — the model's object hierarchy.
-- **Properties** — the data attached to a selected object.
-- **Saved Viewpoint** — a camera view (and its state) the author saved into the
+- **Scene View**: the 3D area where you view and navigate the model.
+- **Selection Tree**: the model's object hierarchy.
+- **Properties**: the data attached to a selected object.
+- **Saved Viewpoint**: a camera view (and its state) the author saved into the
   file; you recall them in Freedom but can't create them.
-- **Redline / markup** — annotations drawn over a viewpoint (view-only in Freedom).
-- **Comment / tag** — text notes attached to viewpoints or clashes (view-only).
-- **Clash / Clash Detective** — interference between elements; detection is a
+- **Redline / markup**: annotations drawn over a viewpoint (view-only in Freedom).
+- **Comment / tag**: text notes attached to viewpoints or clashes (view-only).
+- **Clash / Clash Detective**: interference between elements; detection is a
   Manage feature, Freedom only views saved results.
-- **Sectioning** — cutting the model with planes or a box to see inside
+- **Sectioning**: cutting the model with planes or a box to see inside
   (temporary in Freedom).
-- **Measure** — temporary distance/angle/area readouts.
-- **TimeLiner** — the 4D tool linking objects to a schedule; Freedom plays back a
+- **Measure**: temporary distance/angle/area readouts.
+- **TimeLiner**: the 4D tool linking objects to a schedule; Freedom plays back a
   sequence but can't author it.
-- **Animator / Scripter** — the authoring tools for object animation; playback
+- **Animator / Scripter**: the authoring tools for object animation; playback
   only in Freedom.
-- **ViewCube / SteeringWheels / Navigation Bar** — the on-screen navigation aids.
-- **Realism** — Collision, Gravity, Auto Crouch, Third Person; make Walk/Fly behave
+- **ViewCube / SteeringWheels / Navigation Bar**: the on-screen navigation aids.
+- **Realism**: Collision, Gravity, Auto Crouch, Third Person; make Walk/Fly behave
   physically.
-- **Publish** — the Manage/Simulate command that bakes an NWF into a shareable NWD;
+- **Publish**: the Manage/Simulate command that bakes an NWF into a shareable NWD;
   the step that produces the files Freedom opens.
 
 

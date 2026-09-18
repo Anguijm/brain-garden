@@ -1,5 +1,5 @@
 ---
-title: "Neo Turf Masters — Neo Geo Guide"
+title: "Neo Turf Masters: Neo Geo Guide"
 type: game-guide
 category: games/neogeo
 tags: [neogeo, snk, neo-turf-masters, golf, sports, arcade, walkthrough, guide]

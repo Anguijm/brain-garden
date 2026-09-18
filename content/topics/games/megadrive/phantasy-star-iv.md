@@ -1,5 +1,5 @@
 ---
-title: "Phantasy Star IV — Mega Drive Guide"
+title: "Phantasy Star IV: Mega Drive Guide"
 type: game-guide
 category: games/megadrive
 tags: [megadrive, genesis, phantasy-star, sega, rpg, walkthrough, guide]

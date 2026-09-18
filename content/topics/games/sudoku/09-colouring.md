@@ -2,13 +2,13 @@
 type: lesson
 series: sudoku
 lesson: 9
-title: Colouring — single-digit chains
+title: "Colouring: single-digit chains"
 status: curated
 tags: [sudoku, games, puzzles, logic, brain-training]
 created: 2026-06-16
 ---
 
-# Lesson 9 — Colouring (single-digit chains)
+# Lesson 9: Colouring (single-digit chains)
 
 Colouring is the gateway to chain logic, and it stays on a single digit so it's the
 easy way in. It rests on the **conjugate pair**: a unit where a digit has exactly two

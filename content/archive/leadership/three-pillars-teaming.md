@@ -25,11 +25,11 @@ Teaming Culture.")
 ![Diagram: three pillars holding up a "teaming culture." Curiosity (find out what others know). Passion (fuel effort and care). Empathy (see others' perspective). Under each, the leader behavior that builds it: ask and listen; show enthusiasm; attune to everyone.](img/teaming-pillars.png)
 *Three dispositions a leader grows to make teaming the culture. Diagram.*
 
-- **Curiosity** — drives people to learn what others know and bring; leaders build it by asking
+- **Curiosity**: drives people to learn what others know and bring; leaders build it by asking
   genuine questions and actually listening.
-- **Passion** — fuels the effort to stretch for a shared goal; leaders build it by showing
+- **Passion**: fuels the effort to stretch for a shared goal; leaders build it by showing
   visible enthusiasm (it's infectious).
-- **Empathy** — seeing another's perspective, which Edmondson calls critical to collaborating
+- **Empathy**: seeing another's perspective, which Edmondson calls critical to collaborating
   under pressure; leaders build it by attending to everyone, regardless of rank.
 
 Assessment: the point underneath is that people's *natural* instinct on an unfamiliar team is
@@ -54,11 +54,11 @@ notes.
 
 ## See also
 
-- **[Teamwork on the fly](topics/leadership/teamwork-on-the-fly)** — the mechanics of teaming that this culture
+- **[Teamwork on the fly](topics/leadership/teamwork-on-the-fly)**: the mechanics of teaming that this culture
   enables.
-- **[Psychological safety](topics/leadership/psychological-safety)** — the same "drop your self-protection"
+- **[Psychological safety](topics/leadership/psychological-safety)**: the same "drop your self-protection"
   dynamic, named more precisely.
-- **[Cracking the code of sustained collaboration](topics/leadership/cracking-the-code)** — collaboration as a
+- **[Cracking the code of sustained collaboration](topics/leadership/cracking-the-code)**: collaboration as a
   set of teachable skills, a close cousin.
 
 ## Sources

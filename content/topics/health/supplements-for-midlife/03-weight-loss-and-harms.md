@@ -172,25 +172,25 @@ medications.
 ## See also
 
 - **In this series:** [← Training, recovery, and sleep](02-recovery-and-sleep) · [A simple daily plan →](04-daily-plan) · [Overview](topics/health/supplements-for-midlife/)
-- **[Using AI well](connections/using-ai-well)** — the same don't-get-fooled discipline, applied to supplement marketing.
+- **[Using AI well](connections/using-ai-well)**: the same don't-get-fooled discipline, applied to supplement marketing.
 
 ## Sources
 
-- Berberine metabolic effects, meta-analysis — https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2022.1013055/full
-- Berberine, selective quasi-irreversible CYP2D6 inhibition (2020) — https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7600264/
-- Green tea for weight loss, Cochrane review — https://www.cochrane.org/evidence/CD008650_green-tea-weight-loss-and-weight-maintenance-overweight-or-obese-adults
-- Green tea extract liver injury, NIH LiverTox — https://www.ncbi.nlm.nih.gov/books/NBK547925/
-- Glucomannan in overweight and obesity, systematic review (Onakpoya) — https://www.ncbi.nlm.nih.gov/books/NBK195354/
-- Yohimbine adverse events, poison-control review — https://pubmed.ncbi.nlm.nih.gov/20442348/
-- DMAA, DoD Operation Supplement Safety — https://www.opss.org/article/dmaa-prohibited-stimulant
-- DMHA (octodrine), DoD Operation Supplement Safety — https://www.opss.org/article/dmha-octodrine-dietary-supplement-products
-- FDA warning on SARMs — https://www.fda.gov/consumers/consumer-updates/fda-warns-use-selective-androgen-receptor-modulators-sarms-among-teens-young-adults
-- SARMs safety in healthy adults, systematic review (2023) — https://pmc.ncbi.nlm.nih.gov/articles/PMC10204391/
-- Androgenic steroids and liver injury, NIH LiverTox — https://www.ncbi.nlm.nih.gov/books/NBK548931/
-- Testosterone boosters, 50 products analyzed (Clemesha 2020, *World J Mens Health*) — https://pubmed.ncbi.nlm.nih.gov/31385468/
-- Testosterone boosters, review of claimed effects (Aguilar-Morgan 2022) — https://journals.sagepub.com/doi/10.1089/andro.2022.0007
-- Vitamin E and prostate cancer, SELECT trial — https://www.cancer.gov/types/prostate/research/select-trial-results-qa
-- Adulterated supplements, JAMA Network Open — https://pmc.ncbi.nlm.nih.gov/articles/PMC6324457/
-- FDA, avoiding products with hidden ingredients — https://www.fda.gov/drugs/medication-health-fraud/avoiding-products-contaminated-hidden-ingredients
-- Third-party testing (NSF Certified for Sport / USADA) — https://www.usada.org/substances/supplement-connect/reduce-risk-testing-positive-experiencing-adverse-health-effects/
-- USPSTF screening (lipids, glucose) — https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/screening-for-abnormal-blood-glucose-and-type-2-diabetes-october-2015
+- Berberine metabolic effects, meta-analysis: https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2022.1013055/full
+- Berberine, selective quasi-irreversible CYP2D6 inhibition (2020): https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7600264/
+- Green tea for weight loss, Cochrane review: https://www.cochrane.org/evidence/CD008650_green-tea-weight-loss-and-weight-maintenance-overweight-or-obese-adults
+- Green tea extract liver injury, NIH LiverTox: https://www.ncbi.nlm.nih.gov/books/NBK547925/
+- Glucomannan in overweight and obesity, systematic review (Onakpoya): https://www.ncbi.nlm.nih.gov/books/NBK195354/
+- Yohimbine adverse events, poison-control review: https://pubmed.ncbi.nlm.nih.gov/20442348/
+- DMAA, DoD Operation Supplement Safety: https://www.opss.org/article/dmaa-prohibited-stimulant
+- DMHA (octodrine), DoD Operation Supplement Safety: https://www.opss.org/article/dmha-octodrine-dietary-supplement-products
+- FDA warning on SARMs: https://www.fda.gov/consumers/consumer-updates/fda-warns-use-selective-androgen-receptor-modulators-sarms-among-teens-young-adults
+- SARMs safety in healthy adults, systematic review (2023): https://pmc.ncbi.nlm.nih.gov/articles/PMC10204391/
+- Androgenic steroids and liver injury, NIH LiverTox: https://www.ncbi.nlm.nih.gov/books/NBK548931/
+- Testosterone boosters, 50 products analyzed (Clemesha 2020, *World J Mens Health*): https://pubmed.ncbi.nlm.nih.gov/31385468/
+- Testosterone boosters, review of claimed effects (Aguilar-Morgan 2022): https://journals.sagepub.com/doi/10.1089/andro.2022.0007
+- Vitamin E and prostate cancer, SELECT trial: https://www.cancer.gov/types/prostate/research/select-trial-results-qa
+- Adulterated supplements, JAMA Network Open: https://pmc.ncbi.nlm.nih.gov/articles/PMC6324457/
+- FDA, avoiding products with hidden ingredients: https://www.fda.gov/drugs/medication-health-fraud/avoiding-products-contaminated-hidden-ingredients
+- Third-party testing (NSF Certified for Sport / USADA): https://www.usada.org/substances/supplement-connect/reduce-risk-testing-positive-experiencing-adverse-health-effects/
+- USPSTF screening (lipids, glucose): https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/screening-for-abnormal-blood-glucose-and-type-2-diabetes-october-2015

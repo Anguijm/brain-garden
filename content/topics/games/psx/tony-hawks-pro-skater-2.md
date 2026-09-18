@@ -1,5 +1,5 @@
 ---
-title: "Tony Hawk's Pro Skater 2 — PS1 Guide"
+title: "Tony Hawk's Pro Skater 2: PS1 Guide"
 type: game-guide
 category: games/psx
 tags: [psx, playstation, tony-hawk, neversoft, sports, skateboarding, walkthrough, guide]

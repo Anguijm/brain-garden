@@ -8,7 +8,7 @@ tags: [business-development, defense, capture-management, govcon, proposals, pla
 created: 2026-06-18
 ---
 
-# Chapter 6 — Win strategy and competitive analysis
+# Chapter 6: Win strategy and competitive analysis
 
 Win strategy is the bridge between knowing the customer and writing the proposal.
 It answers one question: why will they choose us over the specific people we are

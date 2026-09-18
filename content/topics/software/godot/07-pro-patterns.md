@@ -269,15 +269,15 @@ and it stays a pleasure to work on instead of a house of cards.
 ## See also
 
 - **In this series:** [← Going further](06-going-further) · [Overview](topics/software/godot/)
-- **[Mobile: full engines](topics/software/mobile-game-engines/01-full-engines)** — how Godot stacks up against other full engines.
+- **[Mobile: full engines](topics/software/mobile-game-engines/01-full-engines)**: how Godot stacks up against other full engines.
 
 ## Sources
 
-- Godot docs, *Static typing in GDScript* — https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/static_typing.html
-- Godot docs, *Singletons (Autoload)* — https://docs.godotengine.org/en/stable/tutorials/scripting/singletons_autoload.html
-- Godot docs, *Resources* — https://docs.godotengine.org/en/stable/tutorials/scripting/resources.html
-- Godot docs, *Scene Unique Nodes* — https://docs.godotengine.org/en/stable/tutorials/scripting/scene_unique_nodes.html
-- Godot docs, *Tween class* — https://docs.godotengine.org/en/stable/classes/class_tween.html
-- Godot docs, *Groups* — https://docs.godotengine.org/en/stable/tutorials/scripting/groups.html
-- Godot docs, *CharacterBody2D* — https://docs.godotengine.org/en/stable/classes/class_characterbody2d.html
-- Godot docs, *Running code in the editor* — https://docs.godotengine.org/en/stable/tutorials/plugins/running_code_in_the_editor.html
+- Godot docs, *Static typing in GDScript*: https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/static_typing.html
+- Godot docs, *Singletons (Autoload)*: https://docs.godotengine.org/en/stable/tutorials/scripting/singletons_autoload.html
+- Godot docs, *Resources*: https://docs.godotengine.org/en/stable/tutorials/scripting/resources.html
+- Godot docs, *Scene Unique Nodes*: https://docs.godotengine.org/en/stable/tutorials/scripting/scene_unique_nodes.html
+- Godot docs, *Tween class*: https://docs.godotengine.org/en/stable/classes/class_tween.html
+- Godot docs, *Groups*: https://docs.godotengine.org/en/stable/tutorials/scripting/groups.html
+- Godot docs, *CharacterBody2D*: https://docs.godotengine.org/en/stable/classes/class_characterbody2d.html
+- Godot docs, *Running code in the editor*: https://docs.godotengine.org/en/stable/tutorials/plugins/running_code_in_the_editor.html

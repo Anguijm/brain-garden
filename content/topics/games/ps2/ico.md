@@ -1,5 +1,5 @@
 ---
-title: "Ico — PS2 Guide"
+title: "Ico: PS2 Guide"
 type: game-guide
 category: games/ps2
 tags: [ps2, playstation-2, ico, team-ico, sony, puzzle, adventure, walkthrough, guide]

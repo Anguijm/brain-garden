@@ -1,5 +1,5 @@
 ---
-title: "Master of Darkness — Master System Guide"
+title: "Master of Darkness: Master System Guide"
 type: game-guide
 category: games/mastersystem
 tags: [mastersystem, sega, master-of-darkness, action, platformer, horror, walkthrough, guide]

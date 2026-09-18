@@ -1,5 +1,5 @@
 ---
-title: "Super Mario World — SNES Guide"
+title: "Super Mario World: SNES Guide"
 type: game-guide
 category: games/snes
 tags: [snes, super-nintendo, mario, super-mario-world, nintendo, platformer, walkthrough, guide]

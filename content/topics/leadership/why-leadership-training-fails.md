@@ -81,11 +81,11 @@ Assessment: trust the core principle strongly; treat the specific ROI numbers as
 
 ## See also
 
-- **[The set-up-to-fail syndrome](set-up-to-fail)** — the same "the system shapes the person"
+- **[The set-up-to-fail syndrome](set-up-to-fail)**: the same "the system shapes the person"
   idea, at the level of one boss and one employee.
-- **[Psychological safety](psychological-safety)** — the "fertile soil": training grows only
+- **[Psychological safety](psychological-safety)**: the "fertile soil": training grows only
   where people feel safe to speak up.
-- **[How managers become leaders](how-managers-become-leaders)** — why a course can't
+- **[How managers become leaders](how-managers-become-leaders)**: why a course can't
   substitute for actually growing into a bigger role.
 
 ## Sources

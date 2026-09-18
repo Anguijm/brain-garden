@@ -1,5 +1,5 @@
 ---
-title: "Shinobi — Game Gear Guide"
+title: "Shinobi: Game Gear Guide"
 type: game-guide
 category: games/gamegear
 tags: [gamegear, sega, shinobi, action, platformer, walkthrough, guide]

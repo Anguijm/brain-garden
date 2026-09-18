@@ -1,5 +1,5 @@
 ---
-title: "Pokémon Red — Game Boy Guide"
+title: "Pokémon Red: Game Boy Guide"
 type: game-guide
 category: games/gb
 tags: [gb, gameboy, nintendo, game-freak, pokemon, rpg, walkthrough, guide]

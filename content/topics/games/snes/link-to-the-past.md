@@ -1,5 +1,5 @@
 ---
-title: "The Legend of Zelda: A Link to the Past — SNES Guide"
+title: "The Legend of Zelda: A Link to the Past: SNES Guide"
 type: game-guide
 category: games/snes
 tags: [snes, super-nintendo, zelda, link-to-the-past, nintendo, action-adventure, walkthrough, guide]
@@ -45,13 +45,13 @@ The **Magic Mirror** returns you to the Light World from anywhere, and specific 
 
 ## Items that are keys
 
-- **Pegasus Boots** — dash, break cracked walls, cross gaps
-- **Hookshot** — pull yourself across gaps and to enemies
-- **Hammer** — flatten stakes, break certain rocks
-- **Flippers** — swim
-- **Titan's Mitt / Power Glove** — lift heavier rocks
-- **Magic Mirror** — the world-switching tool the whole second half depends on
-- **Cane of Somaria / Byrna** — create blocks, become invulnerable
+- **Pegasus Boots**: dash, break cracked walls, cross gaps
+- **Hookshot**: pull yourself across gaps and to enemies
+- **Hammer**: flatten stakes, break certain rocks
+- **Flippers**: swim
+- **Titan's Mitt / Power Glove**: lift heavier rocks
+- **Magic Mirror**: the world-switching tool the whole second half depends on
+- **Cane of Somaria / Byrna**: create blocks, become invulnerable
 
 ---
 

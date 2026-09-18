@@ -1,5 +1,5 @@
 ---
-title: "The Legend of Zelda: Oracle of Seasons — Game Boy Color Guide"
+title: "The Legend of Zelda: Oracle of Seasons: Game Boy Color Guide"
 type: game-guide
 category: games/gbc
 tags: [gbc, gameboy-color, zelda, oracle-of-seasons, capcom, action-adventure, walkthrough, guide]

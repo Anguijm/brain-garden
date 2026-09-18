@@ -36,6 +36,7 @@ can succeed.
 - **Cross-boundary level:** the team reads and builds relationships with the groups *outside*
   it, rather than becoming an inward-looking clique. FACT: at one IT company, once a team built
   relationships with the group downstream, the two performed 20 to 40 percent above target.
+  (Druskat & Wolff.)
 
 Assessment: a memorable point is that *confronting* a teammate who breaks a norm is a form of
 caring: it says "we need you in," not "you're out."
@@ -58,11 +59,11 @@ examples as illustration.
 
 ## See also
 
-- **[Psychological safety](psychological-safety)** — the modern descendant of these
+- **[Psychological safety](psychological-safety)**: the modern descendant of these
   trust-and-candor norms.
-- **[The secrets of great teamwork](secrets-of-great-teamwork)** — the "shared mindset" this
+- **[The secrets of great teamwork](secrets-of-great-teamwork)**: the "shared mindset" this
   note builds from the emotional side.
-- **[What makes a leader?](what-makes-a-leader)** — individual emotional intelligence, which
+- **[What makes a leader?](what-makes-a-leader)**: individual emotional intelligence, which
   this note scales up to the group.
 
 ## Sources

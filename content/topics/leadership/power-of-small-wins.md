@@ -31,6 +31,7 @@ project had a major effect on how people *felt*.
 
 FACT: yet when 669 managers ranked five tools for motivating people, only 5 percent put
 "support for progress" first. Most ranked it dead last, and put recognition on top.
+(Amabile & Kramer.)
 Assessment: managers are aiming at the wrong lever.
 
 ## What fuels progress, and what blocks it
@@ -78,11 +79,11 @@ believable.
 
 ## See also
 
-- **[How do you motivate employees?](how-to-motivate)** — the companion: that note says drive
+- **[How do you motivate employees?](how-to-motivate)**: the companion: that note says drive
   comes from the work itself, this one shows the daily lever is *progress* in it.
-- **[The feedback fallacy](the-feedback-fallacy)** — spotlighting what's working *is* marking
+- **[The feedback fallacy](the-feedback-fallacy)**: spotlighting what's working *is* marking
   a small win.
-- **[What great managers do](what-great-managers-do)** — clearing the path for each person's
+- **[What great managers do](what-great-managers-do)**: clearing the path for each person's
   strengths is a catalyst in action.
 
 ## Sources

@@ -1,5 +1,5 @@
 ---
-title: "Burning Rangers — Saturn Guide"
+title: "Burning Rangers: Saturn Guide"
 type: game-guide
 category: games/saturn
 tags: [saturn, sega-saturn, burning-rangers, sonic-team, sega, action, walkthrough, guide]

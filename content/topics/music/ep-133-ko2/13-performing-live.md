@@ -8,7 +8,7 @@ tags: [music, sampler, groovebox, teenage-engineering, ep-133, ko-ii, tutorial]
 created: 2026-06-23
 ---
 
-# Chapter 13 — Performing live
+# Chapter 13: Performing live
 
 ![The four group buttons A, B, C, D](img/groups.jpg)
 *Hold a group button to switch its pattern live. Photo: Teenage Engineering.*

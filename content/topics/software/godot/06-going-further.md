@@ -94,7 +94,7 @@ one of those pieces, built on the same foundation you already have.
 
 ## Sources
 
-- Godot docs, *Exporting projects* — https://docs.godotengine.org/en/stable/tutorials/export/exporting_projects.html
-- Godot docs, *Introduction to Godot* — https://docs.godotengine.org/en/stable/getting_started/introduction/introduction_to_godot.html
-- Godot docs, *GUI / Control nodes* — https://docs.godotengine.org/en/stable/tutorials/ui/index.html
-- Godot documentation (home) — https://docs.godotengine.org/en/stable/
+- Godot docs, *Exporting projects*: https://docs.godotengine.org/en/stable/tutorials/export/exporting_projects.html
+- Godot docs, *Introduction to Godot*: https://docs.godotengine.org/en/stable/getting_started/introduction/introduction_to_godot.html
+- Godot docs, *GUI / Control nodes*: https://docs.godotengine.org/en/stable/tutorials/ui/index.html
+- Godot documentation (home): https://docs.godotengine.org/en/stable/

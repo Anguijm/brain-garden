@@ -110,7 +110,7 @@ point. For a first Rust game, start with macroquad; grow into Bevy if you outgro
 
 ## Sources
 
-- raylib — https://github.com/raysan5/raylib ; Android build https://github.com/raysan5/raylib/wiki/Working-for-Android ; iOS discussion https://github.com/raysan5/raylib/discussions/2681
-- Ebitengine — https://github.com/hajimehoshi/ebiten ; mobile https://ebitengine.org/en/documents/mobile.html
-- macroquad — https://github.com/not-fl3/macroquad ; Android via miniquad https://github.com/not-fl3/miniquad ; iOS https://macroquad.rs/articles/
-- Bevy — https://github.com/bevyengine/bevy ; mobile examples https://github.com/bevyengine/bevy/blob/main/examples/README.md
+- raylib: https://github.com/raysan5/raylib ; Android build https://github.com/raysan5/raylib/wiki/Working-for-Android ; iOS discussion https://github.com/raysan5/raylib/discussions/2681
+- Ebitengine: https://github.com/hajimehoshi/ebiten ; mobile https://ebitengine.org/en/documents/mobile.html
+- macroquad: https://github.com/not-fl3/macroquad ; Android via miniquad https://github.com/not-fl3/miniquad ; iOS https://macroquad.rs/articles/
+- Bevy: https://github.com/bevyengine/bevy ; mobile examples https://github.com/bevyengine/bevy/blob/main/examples/README.md

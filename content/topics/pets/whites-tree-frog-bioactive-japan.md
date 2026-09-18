@@ -1,6 +1,6 @@
 ---
 type: topic-note
-title: White's (dumpy) tree frogs — care + a bioactive build in Japan
+title: "White's (dumpy) tree frogs: care + a bioactive build in Japan"
 status: curated
 tags: [pets, frogs, amphibians, terrarium, bioactive, japan, using-ai-well, verification, maker-toolchain]
 created: 2026-06-16
@@ -23,7 +23,7 @@ point; if a number really matters, confirm it with an exotics vet.
 
 ---
 
-## Part 1 — Care basics
+## Part 1: Care basics
 
 ### The frog
 
@@ -108,7 +108,7 @@ feeding-time intimidation); never mix amphibian species (disease/stress).
 
 ---
 
-## Part 2 — The bioactive build (Exo Terra 4560, Kanagawa)
+## Part 2: The bioactive build (Exo Terra 4560, Kanagawa)
 
 This is the planned setup. It's a sound bioactive design; the hardware is chosen
 for what's actually available in Japan.
@@ -172,7 +172,7 @@ Heavy frogs crush flimsy leaves. Stick to sturdy species: pothos, snake plant
 
 ---
 
-## Part 3 — Where the Gemini plan needs a second look
+## Part 3: Where the Gemini plan needs a second look
 
 The build conversation was with an AI (Gemini), which is helpful but unverified.
 These are the points where it conflicts with the care-sheet consensus or oversells
@@ -238,10 +238,10 @@ open.
 
 ## See also
 
-- **[Using AI well](connections/using-ai-well)** — this note is a worked example of it: an adversarial pass over an AI's confident build plan.
-- **[Making with the X1C](connections/making-with-the-x1c)** — the terrarium uses printed parts too (PETG, not PLA).
-- **[Plastic-and-tissue model aircraft](topics/making/3d-printed-tissue-aircraft/)** — the same heat-and-humidity materials call.
-- **[Puppy training](puppy-training)** — the garden's other animal-care guide.
+- **[Using AI well](connections/using-ai-well)**: this note is a worked example of it: an adversarial pass over an AI's confident build plan.
+- **[Making with the X1C](connections/making-with-the-x1c)**: the terrarium uses printed parts too (PETG, not PLA).
+- **[Plastic-and-tissue model aircraft](topics/making/3d-printed-tissue-aircraft/)**: the same heat-and-humidity materials call.
+- **[Puppy training](puppy-training)**: the garden's other animal-care guide.
 
 ## Sources
 

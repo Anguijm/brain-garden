@@ -2,7 +2,7 @@
 type: lesson
 series: ep-133-ko2
 chapter: 0
-title: EP-133 K.O. II — course overview
+title: "EP-133 K.O. II: course overview"
 aliases: ["topics/music/ep-133-ko2/00-index"]
 status: curated
 tags: [music, sampler, groovebox, teenage-engineering, ep-133, ko-ii, tutorial]
@@ -84,4 +84,4 @@ New to making beats? The [recipes](18-recipes.md) are the fun way in.
 
 ## See also
 
-- **[Finite resources](connections/finite-resources)** — sample memory as a hard ceiling; resampling is the same 'flatten to keep building' move as AI compaction.
+- **[Finite resources](connections/finite-resources)**: sample memory as a hard ceiling; resampling is the same 'flatten to keep building' move as AI compaction.

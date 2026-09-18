@@ -8,7 +8,7 @@ tags: [software, autodesk, navisworks, bim, 3d-viewer, tutorial]
 created: 2026-06-24
 ---
 
-# Chapter 3 — Navigating the model
+# Chapter 3: Navigating the model
 
 Moving around the model is the heart of using Freedom. It gives you the full
 Navisworks navigation toolset.
@@ -24,17 +24,17 @@ Navisworks navigation toolset.
 FACT, from the Navigation Bar (or the keyboard shortcuts in
 [chapter 8](08-output-tips-shortcuts.md)):
 
-- **Walk** — move through the model at eye level, as if walking. A center circle
+- **Walk**: move through the model at eye level, as if walking. A center circle
   appears and you drag in the direction you want to go; speed scales with how far
   you drag.
-- **Fly** — free, flight-simulator-style movement anywhere in space (no ground
+- **Fly**: free, flight-simulator-style movement anywhere in space (no ground
   constraint).
-- **Look Around** — swivel the camera in place (turn your head without moving).
-- **Pan** — slide the view parallel to the screen.
+- **Look Around**: swivel the camera in place (turn your head without moving).
+- **Pan**: slide the view parallel to the screen.
 - **Zoom** / **Zoom Window** — magnify; Zoom Window zooms to a box you draw.
 - **Orbit** / **Free Orbit (Examine)** — rotate the model around a pivot. Plain
   Orbit keeps the model upright; Free Orbit/Examine rotates freely.
-- **Turntable** — rotate the model about a vertical axis like a turntable.
+- **Turntable**: rotate the model about a vertical axis like a turntable.
 
 Assessment: Walk and Orbit cover 90% of review work, Walk to move through a space,
 Orbit to spin a component and look at it from all sides. Reach for Fly only when
@@ -62,7 +62,7 @@ physically:
 
 - **Collision** (`Ctrl+D`) — you can't pass through walls or objects.
 - **Gravity** (`Ctrl+G`) — you stay on the floor (use with Collision).
-- **Auto Crouch** — you duck under low obstacles automatically.
+- **Auto Crouch**: you duck under low obstacles automatically.
 - **Third Person** (`Ctrl+T`) — show a human avatar so you can see scale and how a
   person fits the space.
 

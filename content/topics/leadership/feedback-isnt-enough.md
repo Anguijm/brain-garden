@@ -52,11 +52,11 @@ is well-echoed elsewhere, and treat the specific numbers as advertising.
 
 ## See also
 
-- **[The feedback fallacy](the-feedback-fallacy)** — the piece this builds on: why criticism
+- **[The feedback fallacy](the-feedback-fallacy)**: the piece this builds on: why criticism
   hurts learning and spotlighting strengths helps.
-- **[The leader as coach](the-leader-as-coach)** — the ask-don't-tell coaching stance, in more
+- **[The leader as coach](the-leader-as-coach)**: the ask-don't-tell coaching stance, in more
   depth.
-- **[The set-up-to-fail syndrome](set-up-to-fail)** — what happens when a boss stays a critic:
+- **[The set-up-to-fail syndrome](set-up-to-fail)**: what happens when a boss stays a critic:
   the downward spiral.
 
 ## Sources

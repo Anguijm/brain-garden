@@ -1,5 +1,5 @@
 ---
-title: "Tecmo Super Bowl — NES Guide"
+title: "Tecmo Super Bowl: NES Guide"
 type: game-guide
 category: games/nes
 tags: [nes, nintendo, tecmo-super-bowl, sports, football, walkthrough, guide]
@@ -44,12 +44,12 @@ Tecmo Super Bowl is not a simulation. Blocking assignments are simplified, route
 - **B:** No function pre-snap
 - **D-Pad:** Navigate play selection screen
 
-### Offense (after snap — running plays)
+### Offense (after snap: running plays)
 - **D-Pad:** Control the ball carrier
 - **A:** Speed burst — tap rapidly to break arm tackles and shed defenders. This is not a sprint button in the traditional sense; it sends break-tackle inputs that the game resolves probabilistically based on your player's stats versus the tackler's. Mashing A when you're grabbed is worth doing on every single carry.
 - **B:** No function while running (no stiff-arm, no spin)
 
-### Offense (after snap — passing plays)
+### Offense (after snap: passing plays)
 - **D-Pad:** Move the quarterback while in the pocket
 - **A:** Throw — targets the flashing receiver (the one the game has designated open). You cannot freely choose your target. The game cycles through receivers and highlights the one it considers open; you throw to that receiver. Veteran players learn to read which receiver flashes and time their throw to the down-field option rather than the checkdown.
 - **B:** No function during passing plays
@@ -92,7 +92,7 @@ The gap between elite players and average ones is not marginal. A team with Jerr
 
 Tecmo Super Bowl has 28 teams covering the full 1990 NFL season rosters. Here is how they stack up.
 
-### Tier 1 — Elite
+### Tier 1: Elite
 
 **San Francisco 49ers**
 Joe Montana at quarterback (the best passing rating in the game), Jerry Rice at receiver (the best receiver in the game, period), and a balanced offensive line. The 49ers were widely considered for banning in competitive play among friends because the Montana-to-Rice connection functions as a cheat code. Montana reads the field accurately on passing plays and Rice catches everything thrown anywhere near him. The 49ers' weakness is a defense that lacks a truly dominant individual — their secondary and linebacker corps are strong but not the transcendent force their offense is. If you want to win, play the 49ers. If you want to be invited back, maybe don't.
@@ -103,7 +103,7 @@ Lawrence Taylor alone would put this team on the list. He is the best defensive 
 **Buffalo Bills**
 The most balanced team. Jim Kelly runs the no-huddle offense effectively, Thurman Thomas is a legitimate dual-threat back (good rushing stats and reliable as a receiver), Andre Reed gives you a top-five receiver, and Bruce Smith anchors a pass rush that terrorizes CPU offenses. The Bills don't have a single player as individually broken as Rice or Jackson, but they have four legitimately elite players on the same roster. In a long season, that depth matters.
 
-### Tier 2 — Strong
+### Tier 2: Strong
 
 **Los Angeles Raiders**
 Bo Jackson. That is the entire case. Jackson's Maximum Speed is capped at the highest value in the game, his Ball Control is 81, and his Hitting Power is the highest among runners. When Jackson reaches the second level with a clear path, he will score. Defenders who should catch him don't. On paper, he is not the "best" running back by composite rating — his Receiving stat is low, limiting his pass-catching value. But as a pure ball carrier on running plays, nothing in the game stops him the way the numbers suggest he should be stopped. The Raiders' passing game is weak; their defense is average. You have one plan and it either works or it doesn't.
@@ -117,15 +117,15 @@ Warren Moon is the second-best quarterback in the game. Drew Hill is the second-
 **Chicago Bears**
 Mike Singletary and Richard Dent anchor a defense that can shut down most offenses when you play their run-stopping alignments. Neal Anderson provides a solid ground game. The Bears are not an elite offense but their defense makes them competitive in every game.
 
-### Tier 3 — Competitive
+### Tier 3: Competitive
 
 Minnesota Vikings, Kansas City Chiefs (Christian Okoye is a physical freak at running back), Philadelphia Eagles (Reggie White is the best defensive end in the game), Washington Redskins, Miami Dolphins.
 
-### Tier 4 — Below Average
+### Tier 4: Below Average
 
 Detroit Lions are here despite Barry Sanders — he is the second-best running back in the game, but the Lions' supporting cast in 1991 is so thin that the team cannot hold up in a 16-game season.
 
-### Tier 5 — Avoid
+### Tier 5: Avoid
 
 Atlanta Falcons, Tampa Bay Buccaneers, New England Patriots, Indianapolis Colts. These teams lack the individual talent to compete at the highest level. Play them in Pre-Season to learn their weaknesses; do not play a Season Mode with them unless you want a challenge run.
 
@@ -261,7 +261,7 @@ The Super Bowl is a single game with no margin for error. If you have played 16 
 
 ---
 
-## Quick Reference — Best Choices by Situation
+## Quick Reference: Best Choices by Situation
 
 | Situation | Recommendation |
 |-----------|----------------|

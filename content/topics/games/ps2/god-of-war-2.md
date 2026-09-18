@@ -1,5 +1,5 @@
 ---
-title: "God of War II — PS2 Guide"
+title: "God of War II: PS2 Guide"
 type: game-guide
 category: games/ps2
 tags: [ps2, playstation-2, god-of-war, santa-monica, sony, action, walkthrough, guide]

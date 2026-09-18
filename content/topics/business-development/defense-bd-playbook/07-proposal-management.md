@@ -8,7 +8,7 @@ tags: [business-development, defense, capture-management, govcon, proposals, pla
 created: 2026-06-18
 ---
 
-# Chapter 7 — Proposal management
+# Chapter 7: Proposal management
 
 The proposal is where capture gets cashed in. Its job is narrow and unforgiving: be
 compliant, be compelling, be clean, and be on time. Assessment: most losses at this

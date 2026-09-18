@@ -8,7 +8,7 @@ tags: [music, sampler, groovebox, teenage-engineering, ep-133, ko-ii, tutorial]
 created: 2026-06-23
 ---
 
-# Chapter 6 — Chopping
+# Chapter 6: Chopping
 
 ![The SAMPLE button; CHOP is its SHIFT secondary](img/sample.jpg)
 *CHOP is SHIFT+SAMPLE. Photo: Teenage Engineering.*

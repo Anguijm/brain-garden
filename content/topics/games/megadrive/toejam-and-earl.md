@@ -1,5 +1,5 @@
 ---
-title: "ToeJam & Earl — Mega Drive Guide"
+title: "ToeJam & Earl: Mega Drive Guide"
 type: game-guide
 category: games/megadrive
 tags: [megadrive, genesis, toejam-and-earl, sega, roguelike, walkthrough, guide]

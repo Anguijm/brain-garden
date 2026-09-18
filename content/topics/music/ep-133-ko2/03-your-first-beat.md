@@ -8,7 +8,7 @@ tags: [music, sampler, groovebox, teenage-engineering, ep-133, ko-ii, tutorial]
 created: 2026-06-23
 ---
 
-# Chapter 3 — Your first beat
+# Chapter 3: Your first beat
 
 ![The orange RECORD button and the PLAY button](img/transport.jpg)
 *RECORD and PLAY. Photo: Teenage Engineering.*

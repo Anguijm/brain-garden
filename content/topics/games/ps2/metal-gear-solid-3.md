@@ -1,5 +1,5 @@
 ---
-title: "Metal Gear Solid 3: Subsistence — PS2 Guide"
+title: "Metal Gear Solid 3: Subsistence: PS2 Guide"
 type: game-guide
 category: games/ps2
 tags: [ps2, playstation-2, metal-gear, mgs3, konami, stealth, walkthrough, guide]

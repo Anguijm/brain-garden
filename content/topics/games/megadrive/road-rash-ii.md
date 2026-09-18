@@ -1,5 +1,5 @@
 ---
-title: "Road Rash II — Mega Drive Guide"
+title: "Road Rash II: Mega Drive Guide"
 type: game-guide
 category: games/megadrive
 tags: [megadrive, genesis, road-rash, electronic-arts, racing, combat-racing, walkthrough, guide]

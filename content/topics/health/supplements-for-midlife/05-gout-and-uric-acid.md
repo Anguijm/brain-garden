@@ -24,8 +24,10 @@ replace that.
 FACT: uric acid is a normal waste product in your blood. When it climbs past the point where
 it stops dissolving (around 6.8 mg/dL), it can form sharp crystals in a joint, which is a
 gout flare. (American College of Rheumatology 2020 guideline.) FACT: high uric acid is
-strongly tied to being overweight and to metabolic syndrome, so losing weight is one of the
-most useful things you can do. And most people with high uric acid never actually get gout,
+strongly tied to being overweight, and the same guideline conditionally recommends weight loss
+for overweight or obese gout patients regardless of disease activity, so losing weight is one
+of the most useful things you can do. (Same guideline.) And most people with high uric acid
+never actually get gout,
 crossing a lab line is not the same as having the disease.
 
 ## What raises it, what lowers it
@@ -124,20 +126,20 @@ these points to them.
 ## See also
 
 - **In this series:** [← A simple daily plan](04-daily-plan) · [Overview](topics/health/supplements-for-midlife/)
-- **[The core stack that actually works](01-core-stack)** — the core stack these tweaks modify.
-- **[Muscle, aging, and anabolic resistance](topics/health/muscle-protein-synthesis-aging/)** — the muscle science behind the protein advice.
+- **[The core stack that actually works](01-core-stack)**: the core stack these tweaks modify.
+- **[Muscle, aging, and anabolic resistance](topics/health/muscle-protein-synthesis-aging/)**: the muscle science behind the protein advice.
 
 ## Sources
 
-- 2020 ACR Guideline for the Management of Gout — https://pmc.ncbi.nlm.nih.gov/articles/PMC10563586/
-- Choi et al., purine-rich foods, dairy, protein, and gout risk, NEJM 2004 — https://www.nejm.org/doi/full/10.1056/NEJMoa035700
-- Choi et al. 2004, same study, abstract with the dairy relative risk (0.56 highest vs lowest quintile) — https://pubmed.ncbi.nlm.nih.gov/15014182/
-- Choi & Curhan 2007, coffee consumption and incident gout in men — https://pubmed.ncbi.nlm.nih.gov/17530645/
-- ISSN position stand on creatine safety and efficacy — https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0173-z
-- Dalbeth et al., acute effect of milk on serum urate, Ann Rheum Dis 2010 — https://pubmed.ncbi.nlm.nih.gov/20472590/
-- Ketogenic/DASH diets and serum uric acid, meta-analysis (2023) — https://pmc.ncbi.nlm.nih.gov/articles/PMC10307853/
-- Sugary drinks/fructose and hyperuricemia and gout, meta-analysis (2025) — https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12580599/
-- Vitamin C and serum uric acid, meta-analysis (Juraschek 2011) — https://pmc.ncbi.nlm.nih.gov/articles/PMC3169708/
-- Omega-3 (fish vs supplements) and gout flares (Neogi 2019) — https://pubmed.ncbi.nlm.nih.gov/30908893/
-- Exercise and hyperuricemia review (2024) — https://pmc.ncbi.nlm.nih.gov/articles/PMC11348809/
-- Medications that raise or lower urate (diuretics, aspirin, losartan) — https://pmc.ncbi.nlm.nih.gov/articles/PMC9575594/
+- 2020 ACR Guideline for the Management of Gout: https://pmc.ncbi.nlm.nih.gov/articles/PMC10563586/
+- Choi et al., purine-rich foods, dairy, protein, and gout risk, NEJM 2004: https://www.nejm.org/doi/full/10.1056/NEJMoa035700
+- Choi et al. 2004, same study, abstract with the dairy relative risk (0.56 highest vs lowest quintile): https://pubmed.ncbi.nlm.nih.gov/15014182/
+- Choi & Curhan 2007, coffee consumption and incident gout in men: https://pubmed.ncbi.nlm.nih.gov/17530645/
+- ISSN position stand on creatine safety and efficacy: https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0173-z
+- Dalbeth et al., acute effect of milk on serum urate, Ann Rheum Dis 2010: https://pubmed.ncbi.nlm.nih.gov/20472590/
+- Ketogenic/DASH diets and serum uric acid, meta-analysis (2023): https://pmc.ncbi.nlm.nih.gov/articles/PMC10307853/
+- Sugary drinks/fructose and hyperuricemia and gout, meta-analysis (2025): https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12580599/
+- Vitamin C and serum uric acid, meta-analysis (Juraschek 2011): https://pmc.ncbi.nlm.nih.gov/articles/PMC3169708/
+- Omega-3 (fish vs supplements) and gout flares (Neogi 2019): https://pubmed.ncbi.nlm.nih.gov/30908893/
+- Exercise and hyperuricemia review (2024): https://pmc.ncbi.nlm.nih.gov/articles/PMC11348809/
+- Medications that raise or lower urate (diuretics, aspirin, losartan): https://pmc.ncbi.nlm.nih.gov/articles/PMC9575594/

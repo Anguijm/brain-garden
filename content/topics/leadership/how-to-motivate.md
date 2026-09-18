@@ -101,13 +101,13 @@ proven law.
 
 ## See also
 
-- **[What great managers do](what-great-managers-do)** — the practical other half:
+- **[What great managers do](what-great-managers-do)**: the practical other half:
   recognition (a top motivator) lands best when it is tailored to each person.
-- **[Leadership that gets results](leadership-that-gets-results)** — the coaching style is
+- **[Leadership that gets results](leadership-that-gets-results)**: the coaching style is
   motivation through growth, one of Herzberg's motivators.
-- **[The power of small wins](power-of-small-wins)** — the daily mechanics of motivation:
+- **[The power of small wins](power-of-small-wins)**: the daily mechanics of motivation:
   the biggest lever is helping people feel progress in the work.
-- **[The feedback fallacy](the-feedback-fallacy)** — why recognition and attention to what
+- **[The feedback fallacy](the-feedback-fallacy)**: why recognition and attention to what
   works beats criticism for getting more out of people.
 
 ## Sources

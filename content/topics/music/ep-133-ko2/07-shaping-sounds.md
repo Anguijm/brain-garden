@@ -8,7 +8,7 @@ tags: [music, sampler, groovebox, teenage-engineering, ep-133, ko-ii, tutorial]
 created: 2026-06-23
 ---
 
-# Chapter 7 — Shaping a sound
+# Chapter 7: Shaping a sound
 
 ![knob X (orange) and knob Y (black)](img/knobs.jpg)
 *knob X and knob Y set the two parameters on each edit page. Photo: Teenage Engineering.*

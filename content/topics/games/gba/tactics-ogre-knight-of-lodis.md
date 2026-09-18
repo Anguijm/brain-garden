@@ -1,5 +1,5 @@
 ---
-title: "Tactics Ogre: The Knight of Lodis — Game Boy Advance Guide"
+title: "Tactics Ogre: The Knight of Lodis: Game Boy Advance Guide"
 type: game-guide
 category: games/gba
 tags: [gba, gameboy-advance, tactics-ogre, quest, atlus, strategy, srpg, walkthrough, guide]

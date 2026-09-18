@@ -2,13 +2,13 @@
 type: lesson
 series: sudoku
 lesson: 5
-title: Intersections — pointing and claiming (locked candidates)
+title: "Intersections: pointing and claiming (locked candidates)"
 status: curated
 tags: [sudoku, games, puzzles, logic, brain-training]
 created: 2026-06-16
 ---
 
-# Lesson 5 — Intersections: pointing and claiming
+# Lesson 5: Intersections: pointing and claiming
 
 These are about the overlap between a box and a line (a row or column). A box and a
 line share exactly three cells. When a digit gets trapped in that shared strip, it

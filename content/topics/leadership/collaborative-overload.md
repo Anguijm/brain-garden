@@ -52,8 +52,8 @@ on.
 - **Redistribute and buffer.** Push decisions down so fewer things need the same few people;
   create "utility players" to absorb demand.
 - **Reward the assists.** FACT: only about half of an organization's top collaborators are also
-  its top performers, partly because helping is invisible and unrewarded. Track and reward
-  collaboration the way sports track assists, not just goals.
+  its top performers, partly because helping is invisible and unrewarded. (Cross, Rebele &
+  Grant.) Track and reward collaboration the way sports track assists, not just goals.
 
 ## How much to trust this
 
@@ -73,12 +73,12 @@ the resource distinction are the keepers.
 
 ## See also
 
-- **[Collaboration without burnout](collaboration-without-burnout)** — the individual's guide to reclaiming your own collaborative time.
-- **[Building collaborative teams](building-collaborative-teams)** — the other side of the
+- **[Collaboration without burnout](collaboration-without-burnout)**: the individual's guide to reclaiming your own collaborative time.
+- **[Building collaborative teams](building-collaborative-teams)**: the other side of the
   coin: how to *get* collaboration; this note is about its cost.
-- **[Who's got the monkey?](whos-got-the-monkey)** — protecting your own finite time from other
+- **[Who's got the monkey?](whos-got-the-monkey)**: protecting your own finite time from other
   people's requests, at the individual level.
-- **[The new science of building great teams](new-science-of-teams)** — collaboration measured;
+- **[The new science of building great teams](new-science-of-teams)**: collaboration measured;
   useful for spotting who's overloaded.
 
 ## Sources

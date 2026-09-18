@@ -1,5 +1,5 @@
 ---
-title: "R-Type — Master System Guide"
+title: "R-Type: Master System Guide"
 type: game-guide
 category: games/mastersystem
 tags: [mastersystem, sega, irem, r-type, shoot-em-up, walkthrough, guide]
@@ -50,9 +50,9 @@ Because it cannot be destroyed, correct Force placement makes otherwise lethal s
 
 Collected as coloured pods, each changing the Force's fire pattern:
 
-- **Red** — a straight, powerful beam.
-- **Blue** — reflecting shots that bounce off terrain. Best in enclosed sections.
-- **Yellow** — shots that travel along floors and ceilings.
+- **Red**: a straight, powerful beam.
+- **Blue**: reflecting shots that bounce off terrain. Best in enclosed sections.
+- **Yellow**: shots that travel along floors and ceilings.
 
 Plus **Bits**, small satellites that orbit above and below and block fire, and **Missiles** that add ground-tracking damage.
 

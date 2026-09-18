@@ -1,5 +1,5 @@
 ---
-title: "Guardian Heroes — Saturn Guide"
+title: "Guardian Heroes: Saturn Guide"
 type: game-guide
 category: games/saturn
 tags: [saturn, sega-saturn, guardian-heroes, treasure, beat-em-up, walkthrough, guide]

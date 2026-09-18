@@ -295,6 +295,6 @@ and replications land; the log will record what changed.
 
 ## See also
 
-- **[The leadership library](topics/leadership/)** — the source notes each rule is distilled from.
-- **[Using AI well](connections/using-ai-well)** — the same habit under rule zero:
+- **[The leadership library](topics/leadership/)**: the source notes each rule is distilled from.
+- **[Using AI well](connections/using-ai-well)**: the same habit under rule zero:
   a confident, quotable rule is a claim to test, not gospel.

@@ -71,10 +71,17 @@ FACT: there is a catch, plain turmeric is barely absorbed, so you need a formula
 the successful studies used. Dose is roughly 500 to 2,000 mg of curcuminoids a day, with
 food.
 
-FACT: safety, curcumin can thin the blood a little, so if you take a blood thinner (even
-aspirin) or have gallstones, clear it with your doctor first, and stop it a couple of weeks
-before any surgery. Assessment: given your age and the chance of being on heart or blood-
-pressure medication, this is the one item here worth running past a pharmacist.
+FACT: safety, curcumin has documented antiplatelet activity through more than one molecular
+pathway, a mechanism that could add to a blood thinner's effect ([J Cell Biochem
+review, 2018](https://pubmed.ncbi.nlm.nih.gov/30098070/)), though a clinical trial of a
+bioavailable curcumin formulation found no measurable interference with common antiplatelet
+drugs or warfarin's INR in practice ([Cicero et al.,
+2018](https://pubmed.ncbi.nlm.nih.gov/30070343/)). Assessment: the mechanism is real and the
+clinical trial evidence is reassuring but thin (one formulation, one small trial), so the
+standard caution still applies: if you take a blood thinner (even aspirin) or have gallstones,
+clear it with your doctor first, and stop curcumin a couple of weeks before any surgery. Given
+your age and the chance of being on heart or blood-pressure medication, this is the one item
+here worth running past a pharmacist.
 
 ## Tart cherry, for hard sessions
 
@@ -93,9 +100,13 @@ tendons, and the harder outcomes (less joint pain, tougher tendons) have softer 
 Still, it is low-risk and reasonable to try for nagging tendon or joint issues, as long as
 you pair it with the strengthening exercise that does most of the work.
 
-FACT: one thing to know, collagen is a poor protein for building muscle (it is missing key
-amino acids), so do not count it toward your daily protein target. Take it for connective
-tissue, not muscle.
+FACT: one thing to know, collagen lacks tryptophan entirely, which is one of the nine amino
+acids the body cannot make and must get from food, so it is classified as an incomplete
+protein ([Paul, Leser & Oesser, *Nutrients*, 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6566836/),
+read 2026-09-18; PMC's bot check blocks this desk's automated staging, so this is read but not archived).
+Assessment: muscle-building needs every essential amino acid present at once, so a protein
+missing one outright is a poor choice for that job; do not count collagen toward your daily
+protein target. Take it for connective tissue, not muscle.
 
 ## Electrolytes, only when you actually need them
 
@@ -144,14 +155,16 @@ want help:
 
 ## Sources
 
-- ISSN Position Stand on caffeine (2021) — https://pmc.ncbi.nlm.nih.gov/articles/PMC7777221/
-- Coffee and blood pressure in hypertensives, meta-analysis — https://www.sciencedirect.com/science/article/pii/S0002916523024814
-- Caffeine 6 h before bed cuts sleep (Drake 2013) — https://doi.org/10.5664/jcsm.3170
-- Curcumin, soreness and muscle damage, meta-analysis — https://pubmed.ncbi.nlm.nih.gov/35574627/
-- Curcuminoids for knee osteoarthritis, meta-analysis — https://pubmed.ncbi.nlm.nih.gov/28470851/
-- Tart cherry and recovery, meta-analysis (2021) — https://journals.humankinetics.com/abstract/journals/ijsnem/31/2/article-p154.xml
-- Vitamin C-enriched gelatin and collagen synthesis (Shaw 2017) — https://pmc.ncbi.nlm.nih.gov/articles/PMC5183725/
-- ACSM Position Stand: exercise and fluid replacement — https://pubmed.ncbi.nlm.nih.gov/17277604/
-- Glycine before bed improves sleep (Yamadera 2007) — https://onlinelibrary.wiley.com/doi/10.1111/j.1479-8425.2007.00262.x
-- Melatonin for primary sleep disorders, meta-analysis (Ferracioli-Oda 2013, PLOS ONE) — https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0063773
-- L-theanine (alone or with caffeine), cognition, sleep and mood, meta-analysis — https://academic.oup.com/nutritionreviews/article/83/10/1873/8123998
+- ISSN Position Stand on caffeine (2021): https://pmc.ncbi.nlm.nih.gov/articles/PMC7777221/
+- Coffee and blood pressure in hypertensives, meta-analysis: https://www.sciencedirect.com/science/article/pii/S0002916523024814
+- Caffeine 6 h before bed cuts sleep (Drake 2013): https://doi.org/10.5664/jcsm.3170
+- Curcumin, soreness and muscle damage, meta-analysis: https://pubmed.ncbi.nlm.nih.gov/35574627/
+- Curcuminoids for knee osteoarthritis, meta-analysis: https://pubmed.ncbi.nlm.nih.gov/28470851/
+- Curcumin's antiplatelet mechanism, review: https://pubmed.ncbi.nlm.nih.gov/30098070/
+- Curcumin (Meriva) vs. antiplatelet/anticoagulant drugs, interaction trial (Cicero et al. 2018): https://pubmed.ncbi.nlm.nih.gov/30070343/
+- Tart cherry and recovery, meta-analysis (2021): https://journals.humankinetics.com/abstract/journals/ijsnem/31/2/article-p154.xml
+- Vitamin C-enriched gelatin and collagen synthesis (Shaw 2017): https://pmc.ncbi.nlm.nih.gov/articles/PMC5183725/
+- ACSM Position Stand: exercise and fluid replacement: https://pubmed.ncbi.nlm.nih.gov/17277604/
+- Glycine before bed improves sleep (Yamadera 2007): https://onlinelibrary.wiley.com/doi/10.1111/j.1479-8425.2007.00262.x
+- Melatonin for primary sleep disorders, meta-analysis (Ferracioli-Oda 2013, PLOS ONE): https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0063773
+- L-theanine (alone or with caffeine), cognition, sleep and mood, meta-analysis: https://academic.oup.com/nutritionreviews/article/83/10/1873/8123998

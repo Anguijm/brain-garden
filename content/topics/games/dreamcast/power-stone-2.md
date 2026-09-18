@@ -1,5 +1,5 @@
 ---
-title: "Power Stone 2 — Dreamcast Guide"
+title: "Power Stone 2: Dreamcast Guide"
 type: game-guide
 category: games/dreamcast
 tags: [dreamcast, power-stone, capcom, fighting, party-game, walkthrough, guide]

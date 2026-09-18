@@ -9,7 +9,7 @@ tags: [business-development, defense, capture-management, govcon, proposals, pla
 created: 2026-06-18
 ---
 
-# Chapter 14 — Further reading
+# Chapter 14: Further reading
 
 A curated reading list for defense BD, organized by source and mapped to the
 playbook chapter each item reinforces. Assessment: recommendations are based on

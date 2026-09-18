@@ -1,5 +1,5 @@
 ---
-title: "Super Mario Bros. 3 — NES Walkthrough"
+title: "Super Mario Bros. 3: NES Walkthrough"
 type: game-guide
 category: games/nes
 tags: [nes, nintendo, mario, platformer, walkthrough, guide]
@@ -9,7 +9,7 @@ created: 2026-09-01
 draft: false
 ---
 
-# Super Mario Bros. 3 — NES Walkthrough
+# Super Mario Bros. 3: NES Walkthrough
 
 **Platform:** NES | **Year:** 1990 (US) | **Genre:** Platformer | **Players:** 1-2 alternating
 

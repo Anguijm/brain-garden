@@ -1,5 +1,5 @@
 ---
-title: "Donkey Kong Country 2: Diddy's Kong Quest — SNES Guide"
+title: "Donkey Kong Country 2: Diddy's Kong Quest: SNES Guide"
 type: game-guide
 category: games/snes
 tags: [snes, super-nintendo, donkey-kong, dkc2, rare, nintendo, platformer, walkthrough, guide]

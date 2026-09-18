@@ -1,5 +1,5 @@
 ---
-title: "The Legend of Zelda: The Minish Cap — Game Boy Advance Guide"
+title: "The Legend of Zelda: The Minish Cap: Game Boy Advance Guide"
 type: game-guide
 category: games/gba
 tags: [gba, gameboy-advance, zelda, minish-cap, capcom, action-adventure, walkthrough, guide]
@@ -54,11 +54,11 @@ Coloured half-medallions, found everywhere. Find someone holding the matching ha
 
 ## Items worth knowing
 
-- **Gust Jar** — vacuums; pulls objects, enemies and the fabric of certain puzzles
-- **Mole Mitts** — dig through soft walls and floors
-- **Cane of Pacci** — flips objects, and launches Link out of holes
-- **Roc's Cape** — a real jump, unusual for 2D Zelda
-- **Four Sword** — creates copies of Link for the multi-Link switch puzzles
+- **Gust Jar**: vacuums; pulls objects, enemies and the fabric of certain puzzles
+- **Mole Mitts**: dig through soft walls and floors
+- **Cane of Pacci**: flips objects, and launches Link out of holes
+- **Roc's Cape**: a real jump, unusual for 2D Zelda
+- **Four Sword**: creates copies of Link for the multi-Link switch puzzles
 
 ---
 

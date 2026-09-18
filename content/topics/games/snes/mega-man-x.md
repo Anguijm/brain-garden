@@ -1,5 +1,5 @@
 ---
-title: "Mega Man X — SNES Guide"
+title: "Mega Man X: SNES Guide"
 type: game-guide
 category: games/snes
 tags: [snes, super-nintendo, mega-man, mega-man-x, capcom, action-platformer, walkthrough, guide]

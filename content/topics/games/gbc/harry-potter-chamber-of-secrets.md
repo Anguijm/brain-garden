@@ -1,5 +1,5 @@
 ---
-title: "Harry Potter and the Chamber of Secrets — Game Boy Color Guide"
+title: "Harry Potter and the Chamber of Secrets: Game Boy Color Guide"
 type: game-guide
 category: games/gbc
 tags: [gbc, gameboy-color, harry-potter, ea, rpg, adventure, walkthrough, guide]
@@ -38,11 +38,11 @@ Spells are learned in class, and classes are **minigames**: trace a wand pattern
 
 In battle, spells are the move list. Each has a magic cost and a role:
 
-- **Flipendo** — knockback, and the general-purpose puzzle tool for pushing blocks and hitting switches
-- **Rictusempra** — the reliable damage spell
-- **Alohomora** — locked doors
-- **Lumos** — dark rooms
-- **Diffindo** — cuts vines and obstacles
+- **Flipendo**: knockback, and the general-purpose puzzle tool for pushing blocks and hitting switches
+- **Rictusempra**: the reliable damage spell
+- **Alohomora**: locked doors
+- **Lumos**: dark rooms
+- **Diffindo**: cuts vines and obstacles
 
 **Flipendo is the one you use for everything outside combat.** Most environmental puzzles reduce to pointing it at the correct object.
 

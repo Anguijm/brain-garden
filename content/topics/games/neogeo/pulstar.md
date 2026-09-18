@@ -1,5 +1,5 @@
 ---
-title: "Pulstar — Neo Geo Guide"
+title: "Pulstar: Neo Geo Guide"
 type: game-guide
 category: games/neogeo
 tags: [neogeo, snk, pulstar, shmup, arcade, walkthrough, guide]

@@ -1,5 +1,5 @@
 ---
-title: "Final Fantasy Tactics: The War of the Lions — PSP Guide"
+title: "Final Fantasy Tactics: The War of the Lions: PSP Guide"
 type: game-guide
 category: games/psp
 tags: [psp, final-fantasy-tactics, square-enix, strategy, srpg, walkthrough, guide]
@@ -51,10 +51,10 @@ The heart of the game. Every unit gains **job points** in their current job and 
 
 Crucially, **abilities learned in one job can be equipped in another**. A Knight with White Magic learned as a White Mage is a different unit entirely. The combinations are where the depth lives:
 
-- **Calculator/Arithmetician** — casts spells for free on every unit whose level, height or experience is divisible by a number. Broken, and famously so.
-- **Ninja** — two weapons, enormous speed.
-- **Monk** — no equipment cost, high damage, self-healing.
-- **Chemist with Auto-Potion** — the reliability backbone of many parties.
+- **Calculator/Arithmetician**: casts spells for free on every unit whose level, height or experience is divisible by a number. Broken, and famously so.
+- **Ninja**: two weapons, enormous speed.
+- **Monk**: no equipment cost, high damage, self-healing.
+- **Chemist with Auto-Potion**: the reliability backbone of many parties.
 
 **Move and Support abilities carry across jobs too**, and Move+2 or Ignore Height changes positioning more than most active skills.
 

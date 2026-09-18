@@ -1,5 +1,5 @@
 ---
-title: "The Last Blade 2 — Neo Geo Guide"
+title: "The Last Blade 2: Neo Geo Guide"
 type: game-guide
 category: games/neogeo
 tags: [neogeo, snk, last-blade, fighting, arcade, walkthrough, guide]

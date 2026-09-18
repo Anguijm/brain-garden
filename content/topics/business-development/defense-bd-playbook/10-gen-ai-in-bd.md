@@ -9,7 +9,7 @@ tags: [business-development, defense, capture-management, govcon, proposals, pla
 created: 2026-06-18
 ---
 
-# Chapter 10 — Using Gen AI in BD without fooling yourself
+# Chapter 10: Using Gen AI in BD without fooling yourself
 
 Generative AI is now in every BD shop, and it genuinely speeds the rote work. But
 BD lives on a handful of high-stakes judgment calls made under uncertainty (PWin,
@@ -168,5 +168,5 @@ Next: [Templates and checklists](11-templates-checklists.md).
 ## See also
 
 - **In this series:** [← Pipeline, metrics, and cadence](09-pipeline-metrics-cadence) · [Templates and checklists →](11-templates-checklists) · [Overview](topics/business-development/defense-bd-playbook/)
-- **[Using AI well](connections/using-ai-well)** — the garden's spine: assistant, not oracle.
-- **[The AI engineering course](topics/ai-engineering/)** — the plain-English AI course behind these ideas.
+- **[Using AI well](connections/using-ai-well)**: the garden's spine: assistant, not oracle.
+- **[The AI engineering course](topics/ai-engineering/)**: the plain-English AI course behind these ideas.

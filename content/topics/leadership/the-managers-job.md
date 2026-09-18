@@ -106,14 +106,14 @@ as the durable part.
 
 ## See also
 
-- **["The manager's job," 50 years later](managers-job-50-years)** — Mintzberg's own look back, and the four organizational forms.
-- **[Leadership that gets results](leadership-that-gets-results)** — a useful contrast: how
+- **["The manager's job," 50 years later](managers-job-50-years)**: Mintzberg's own look back, and the four organizational forms.
+- **[Leadership that gets results](leadership-that-gets-results)**: a useful contrast: how
   much of a real, chaotic manager's day actually looks like a chosen "style."
-- **[What makes a leader?](what-makes-a-leader)** — the human skills that carry you through a
+- **[What makes a leader?](what-makes-a-leader)**: the human skills that carry you through a
   fragmented, people-heavy job.
-- **[Who's got the monkey?](whos-got-the-monkey)** — how to protect the scarce time this note
+- **[Who's got the monkey?](whos-got-the-monkey)**: how to protect the scarce time this note
   says is your most precious resource: stop taking back your people's work.
-- **[Defense BD Playbook](topics/business-development/defense-bd-playbook/)** — the ten roles made
+- **[Defense BD Playbook](topics/business-development/defense-bd-playbook/)**: the ten roles made
   concrete in one real management job.
 
 ## Sources

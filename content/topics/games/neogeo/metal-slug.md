@@ -1,5 +1,5 @@
 ---
-title: "Metal Slug — Neo Geo Guide"
+title: "Metal Slug: Neo Geo Guide"
 type: game-guide
 category: games/neogeo
 tags: [neogeo, snk, metal-slug, run-and-gun, arcade, walkthrough, guide]

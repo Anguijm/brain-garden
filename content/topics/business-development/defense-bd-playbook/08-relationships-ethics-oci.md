@@ -8,7 +8,7 @@ tags: [business-development, defense, capture-management, govcon, proposals, pla
 created: 2026-06-18
 ---
 
-# Chapter 8 — Relationships, ethics, and OCI
+# Chapter 8: Relationships, ethics, and OCI
 
 In defense BD, integrity is not a constraint on winning, it is part of how you win,
 because the customer is choosing the contractor least likely to embarrass or fail

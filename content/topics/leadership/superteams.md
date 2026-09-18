@@ -66,11 +66,11 @@ author's framing of his own data, not proof.
 
 ## See also
 
-- **[Psychological safety](psychological-safety)** — the research foundation under practices 1,
+- **[Psychological safety](psychological-safety)**: the research foundation under practices 1,
   2, and 5.
-- **[The feedback fallacy](the-feedback-fallacy)** — how to make "feedback feel like support"
+- **[The feedback fallacy](the-feedback-fallacy)**: how to make "feedback feel like support"
   actually work.
-- **[The power of small wins](power-of-small-wins)** — the everyday engine of a team that keeps
+- **[The power of small wins](power-of-small-wins)**: the everyday engine of a team that keeps
   improving.
 
 ## Sources
