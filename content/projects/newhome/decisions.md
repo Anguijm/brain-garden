@@ -12,6 +12,21 @@ created: 2026-09-19
 Every call that shapes the remodel, dated, with the reasoning. New decisions go on
 top. Recorded so that six months from now the "why" is still on the record.
 
+**2026-09-19 — Downstairs finish floor is chocolate brown, run flat.** Chosen in the
+operator's planning conversations: chocolate brown ("shokora-buraun") flooring
+through the kitchen and middle living area, with the raised door thresholds
+eliminated for seamless transitions.
+
+**2026-09-19 — Stained plywood paneling where the kitchen walls open up.** Where the
+old tile and cabinetry come out, the walls get stained plywood for a natural Nordic
+look, rather than patching back to painted drywall.
+
+**2026-09-19 — Gas work goes to a licensed technician.** The meter cutoff and valve
+replacement for the old stove line is not DIY.
+
+**2026-09-19 — Bulk debris disposal through Bakuyasuya.** Scheduled pickup,
+coordinated by email; debris sorted by type beforehand.
+
 **2026-09-19 — Water closets wait until after move-in.** Both can be redone while
 living in the house; they don't block moving in.
 

@@ -19,3 +19,7 @@ from sessions or over Signal ("NewHome: ...").
 - **2026-09-19 — Stair lighting done properly.** Status: new. Steep, dark stairs.
   Candidates worth researching: wired fixtures on a switch or sensor, low-voltage
   step lights, handrail lighting. Should feel designed, not bolted on.
+- **2026-09-19 — Enclosure for the upstairs sink plumbing.** Status: researching.
+  The exposed pipes get boxed in after the drain line repair; candidates are a
+  custom-built wooden box or a 3D-printed enclosure. Needs measurements and a look
+  at heat/moisture near the drain before choosing.

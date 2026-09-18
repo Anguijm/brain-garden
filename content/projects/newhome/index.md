@@ -28,12 +28,14 @@ All state below is as reported by the operator, 2026-09-19.
 
 ## Now (before move-in)
 
-- Kitchen: paint and new floor, then install the ordered counters, stove, and IKEA pieces.
-- Middle living area (the old tatami room, mats already out): new floor, paint, finish out.
+- Kitchen and middle living area (the old tatami room, mats already out) as one flooring job: level and reinforce the framing, new subfloor across both, paint, chocolate brown finish floor with flat thresholds, then install the ordered IKEA kitchen and finish out the living area.
 - Small bedroom 1: finish the flooring edge, install trim, refinish the closet doors, clean the glass.
 - Master bedroom (traditional Japanese, two connected spaces): finish painting, refresh the shoji, lay the already-ordered flooring over the tatami.
 - Small bedroom 2: paint the ceiling; the wood paneling stays.
 - TV living area: take down the small wall (confirm it is not load-bearing first); otherwise left as is.
+- Upstairs sink: repair the drain line; box in the exposed plumbing (enclosure design is an open idea).
+- Wallpaper the two small bedrooms' doors.
+- Debris: sort (timber, metal, old counters, bath units) for the scheduled Bakuyasuya bulk pickup.
 
 ## Safety flags
 
@@ -51,7 +53,7 @@ All state below is as reported by the operator, 2026-09-19.
 - Redo both water closets, upstairs and downstairs.
 - Build a wood deck or balcony where the old balcony was.
 - Take down part of the front wall for a parking space at the front of the yard.
-- Request a service upgrade from 30-amp to 50-amp.
+- Request the electrical service upgrade from 30-amp (target 50 or 60 amp, to be confirmed).
 - Replace or refinish the roof.
 - Paint the whole house exterior.
 - Stair lighting.
