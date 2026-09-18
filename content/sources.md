@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-1032 citations across 130 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+1034 citations across 131 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -17,6 +17,11 @@ This page lists every external link cited anywhere in the garden, article by art
 2. [ilintar, trellis2-gguf weights](https://huggingface.co/ilintar/trellis2-gguf)
 3. [AMD, Strix Halo system optimization](https://rocm.docs.amd.com/en/docs-7.2.0/how-to/system-optimization/strixhalo.html)
 4. [capetron, MS-S1 Max BIOS update from Linux](https://github.com/capetron/minisforum-ms-s1-max-bios)
+
+### [NewHome: building the floor up to the threshold](projects/newhome/threshold-buildup)
+
+1. [the seller's KINO product page](https://www.a-yuka.com/floortile/kino.html)
+2. [the seller's strip page](https://www.a-yuka.com/floortile/kinom.html)
 
 ### [The Waterfront Brief, Vol. 1 No. 1 (week 29)](projects/waterfront-brief/2026-w29)
 
