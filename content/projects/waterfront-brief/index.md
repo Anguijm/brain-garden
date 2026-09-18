@@ -40,6 +40,12 @@ last checked.
 Each issue is readable on the web (with links into the rest of this garden) and
 downloadable as the print PDF (source links only).
 
+- **[Vol. 1, No. 10, Week 38, September 2026](2026-w38)**
+  ([download the PDF](pdf/2026-w38.dbf45a07.pdf)): Norfolk Naval Shipyard reorganised around single
+  owners, read against what the research says a reorganisation can and cannot do; the Ford
+  promised back in six months with the fire run as a second availability; two decisions that
+  moved a date by moving scope, at San Diego and Newport News; the Philippine pier that took
+  the Benfold; and two things to watch.
 - **[Vol. 1, No. 9, Week 37, September 2026](2026-w37)**
   ([download the PDF](pdf/2026-w37.2b7fa784.pdf)): why destroyer modernization periods are landing on
   time and what the answer costs; a tank inspection camera going to all seven regional

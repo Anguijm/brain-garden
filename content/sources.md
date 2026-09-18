@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-1012 citations across 129 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+1029 citations across 130 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -205,6 +205,26 @@ This page lists every external link cited anywhere in the garden, article by art
 31. [The Maritime Executive, Sep 7, 2026](https://maritime-executive.com/article/potential-u-s-bidder-emerges-to-challenge-hanwha-for-austal-usa)
 32. [The Maritime Executive, Sep 2026](https://maritime-executive.com/article/us-investors-top-hanwha-s-bid-for-austal-usa)
 33. [DoD News via GlobalSecurity, Sep 8, 2026](https://www.globalsecurity.org/military/library/news/2026/09/mil-260908-dodnews02.htm)
+
+### [The Waterfront Brief, Vol. 1 No. 10 (week 38)](projects/waterfront-brief/2026-w38)
+
+1. [Norfolk announced on September 2 that](https://www.dvidshub.net/news/573775/norfolk-naval-shipyard-launches-command-and-control-c2-reorganization)
+2. [the yard said on July 1 that](https://www.dvidshub.net/news/569156/focus-and-finish-mechanic-workshops-small-changes-lead-time-saving-results)
+3. [per its September 2 release](https://www.dvidshub.net/news/573808/norfolk-naval-shipyards-new-state-shipyard-forum-works-align-workforce-and-support-mission)
+4. [Norfolk said on April 24 that](https://www.dvidshub.net/news/563538/uss-dwight-d-eisenhower-completes-planned-incremental-availability-norfolk-naval-shipyard)
+5. [Harvard Business Review in 2019](https://hbr.org/2019/05/cross-silo-leadership)
+6. [U.S. Navy, Jul 8, 2026](https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4537840/norfolk-naval-shipyard-welcomes-uss-gerald-r-ford-for-its-first-planned-increme/)
+7. [USNI News reported on July 14](https://news.usni.org/2026/07/14/carrier-uss-gerald-r-ford-starts-first-major-post-deployment-maintenance-period)
+8. [Breaking Defense reported on September 14](https://breakingdefense.com/2026/09/despite-fire-lengthy-deployment-navy-expects-only-six-month-maintenance-for-uss-ford/)
+9. [Southwest Regional Maintenance Center said on September 15 that](https://www.navsea.navy.mil/Media/News/Article-View/Article/4601275/swrmc-undocks-uss-america-on-time/)
+10. [the Navy said on August 17 that](https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/4574915/uss-massachusetts-ssn-798-ready-for-fleet-t)
+11. [GAO reported in 2017 that](https://www.gao.gov/products/gao-17-418)
+12. [General Dynamics NASSCO, May 21, 2025](https://nassco.com/featured/general-dynamics-nassco-san-diego-awarded-fy26-docking-selected-restricted-availability-contract/)
+13. [GAO-20-370](https://www.gao.gov/products/gao-20-370)
+14. [USNI News reported on August 15 that](https://news.usni.org/2026/08/14/uss-benfold-was-stalled-in-the-south-china-sea-for-four-days-after-engineering-casualty)
+15. [USNI News, Sep 14, 2026](https://news.usni.org/2026/09/14/u-s-funding-subic-bay-shipyard-repair-expansion)
+16. [the department's contract list for September 3](https://www.war.gov/News/Contracts/Contract/Article/4590748/)
+17. [the commanding officers of SIMA San Diego and SIMA Norfolk said on September 3 that](https://www.dvidshub.net/news/574309/sima-commanding-officers-highlight-technical-proficiency-and-warfighting-readiness-surface-na)
 
 ### [The Waterfront Brief: reference shelf](projects/waterfront-brief/reference-shelf)
 
