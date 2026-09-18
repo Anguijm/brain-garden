@@ -90,6 +90,29 @@ permanently, and 1 mm shy disappears.
 5. Door casings: rather than scribing planks around them, cut the casing bottom
    with a hand saw laid flat on a flooring offcut and slide the plank under.
 
+## Rubber or sound-dampening under the layers?
+
+No, in either position (operator asked 2026-09-19). Assessment: acoustic
+underlays and rubber mats exist for apartment floors, where the requirement is
+footstep noise reaching the unit below; on the ground floor of a detached house
+there is nobody below to protect, and the soft layer costs real things. A
+compressible layer under nailed flooring lets the floor flex on every step, so
+staples and glue joints work loose and the floor squeaks within a year. It makes
+the floor feel spongy underfoot, the standard complaint even where the mats are
+mandatory. And it eats 3 to 10 mm of a roughly 20 mm height budget.
+
+What makes the floor quiet is the method above: old boards screwed into the
+joists first, then full adhesive between every layer, so the three layers bond
+into one stiff slab with nothing rubbing and no air cavity to drum. One
+exception: click-lock floating flooring (planks that snap together with no nails
+or glue to the subfloor) does take a thin 1 to 2 mm foam or felt sheet directly
+under the planks; that is a slip and leveling layer floating floors need. Tongue
+and groove that gets stapled through the tongue takes glue only, no sheet.
+
+A moisture film between the old floor and the plywood is also wrong here: the
+glue cannot bond through plastic, and over a normal dry crawlspace it is not
+needed. A damp crawlspace is fixed from below, not by changing this stack.
+
 ## If the floor is not flat
 
 If the mapping shows the floor dropping more than a few millimeters away from the
