@@ -40,6 +40,14 @@ last checked.
 Each issue is readable on the web (with links into the rest of this garden) and
 downloadable as the print PDF (source links only).
 
+- **[Vol. 1, No. 11, Week 39, September 2026](2026-w39)**
+  ([download the PDF](pdf/2026-w39.355e7867.pdf)): the Virginia-class design freeze, and why the
+  five-times man-hours number is a year's work for three hulls rather than one boat getting
+  harder; GAO putting the four-shipyard rebuild past \$200 billion and past 2080, with the
+  shops queued behind the docks; Keyport's metal printing approval covering one steel;
+  Mayport's sailor-led repair command carved out of its parent center's existing people; and
+  the foreign-build plans due in November, which have to hire trades from towns that are
+  already short.
 - **[Vol. 1, No. 10, Week 38, September 2026](2026-w38)**
   ([download the PDF](pdf/2026-w38.dbf45a07.pdf)): Norfolk Naval Shipyard reorganised around single
   owners, read against what the research says a reorganisation can and cannot do; the Ford
@@ -52,7 +60,7 @@ downloadable as the print PDF (source links only).
   maintenance centers; two Puget Sound submarine docks changing state in one month; the
   expeditionary repair container No. 2 said to watch; and six things to watch.
 - **[Vol. 1, No. 8 — Week 36, September 2026](2026-w36)**
-  ([download the PDF](pdf/2026-w36.60378fd3.pdf)) — who built each section of a new destroyer's hull
+  ([download the PDF](pdf/2026-w36.2f64d7b7.pdf)) — who built each section of a new destroyer's hull
   and where the production records live; what Portsmouth learned during the first Block III
   submarine maintenance cycle; why the \$14.3 billion FY27 ship maintenance request is the
   pre-Epic Fury number; and what happens to foundational trade skill when automation
@@ -115,7 +123,7 @@ downloadable as the print PDF (source links only).
   Deckplate item on Federal Wage System pay caps as a retention problem.
 
 - **[Vol. 1, No. 1 — Week 29, July 2026](2026-w29)**
-  ([download the PDF](pdf/2026-w29.35780a97.pdf)) — the Navy's first-ever Vessel
+  ([download the PDF](pdf/2026-w29.e8b6f971.pdf)) — the Navy's first-ever Vessel
   Construction Manager contract (\$2.2B to TOTE for the Landing Ship Medium); the May
   2026 shipbuilding plan decoded for the waterfront; the 250,000-worker hiring target;
   Korea's repair bench deepening to three yards; the Singapore lead-maintenance-activity
@@ -127,6 +135,7 @@ downloadable as the print PDF (source links only).
 - **[How The Waterfront Brief is made](projects/waterfront-brief/how-it-works)**: the method in
   plain language: the eighteen subject areas it watches, what gets screened out and why, and what
   is kept on file so any claim can be checked.
+- **[Corrections](projects/waterfront-brief/corrections)**: every correction ruled on a released issue since 2026-09-19, newest first, with what changed and why, and the two earlier unlogged changes.
 - **[Defense BD Playbook](topics/business-development/defense-bd-playbook/)**: the
   business side of the same industrial base: capture, teaming, and pricing.
 - **[Using AI well](connections/using-ai-well)**: why the brief labels its claims

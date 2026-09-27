@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-1034 citations across 131 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+1061 citations across 131 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -17,11 +17,6 @@ This page lists every external link cited anywhere in the garden, article by art
 2. [ilintar, trellis2-gguf weights](https://huggingface.co/ilintar/trellis2-gguf)
 3. [AMD, Strix Halo system optimization](https://rocm.docs.amd.com/en/docs-7.2.0/how-to/system-optimization/strixhalo.html)
 4. [capetron, MS-S1 Max BIOS update from Linux](https://github.com/capetron/minisforum-ms-s1-max-bios)
-
-### [NewHome: building the floor up to the threshold](projects/newhome/threshold-buildup)
-
-1. [the seller's KINO product page](https://www.a-yuka.com/floortile/kino.html)
-2. [the seller's strip page](https://www.a-yuka.com/floortile/kinom.html)
 
 ### [The Waterfront Brief, Vol. 1 No. 1 (week 29)](projects/waterfront-brief/2026-w29)
 
@@ -230,6 +225,38 @@ This page lists every external link cited anywhere in the garden, article by art
 15. [USNI News, Sep 14, 2026](https://news.usni.org/2026/09/14/u-s-funding-subic-bay-shipyard-repair-expansion)
 16. [the department's contract list for September 3](https://www.war.gov/News/Contracts/Contract/Article/4590748/)
 17. [the commanding officers of SIMA San Diego and SIMA Norfolk said on September 3 that](https://www.dvidshub.net/news/574309/sima-commanding-officers-highlight-technical-proficiency-and-warfighting-readiness-surface-na)
+
+### [The Waterfront Brief, Vol. 1 No. 11 (week 39)](projects/waterfront-brief/2026-w39)
+
+1. [Naval News reported on September 21](https://www.navalnews.com/naval-news/2026/09/usn-sub-tsar-four-pillar-plan-accelerate-submarines/)
+2. [The Navy's May 2026 shipbuilding plan](https://media.defense.gov/2026/May/11/2003928909/-1/-1/1/NAVY%20SHIPBUILDING%20PLAN%20MAY%202026.PDF)
+3. [Four Navy witnesses told a Senate Seapower subcommittee in April 2025](https://www.congress.gov/119/chrg/CHRG-119shrg62647/CHRG-119shrg62647.pdf)
+4. [The House Appropriations Committee reported on June 26](https://www.congress.gov/119/crpt/hrpt715/CRPT-119hrpt715.pdf)
+5. [GAO, Congress's audit agency, reported in July 2026](https://www.gao.gov/assets/gao-26-108457.pdf)
+6. [U.S. Naval Institute News reported on April 21](https://news.usni.org/2026/04/21/on-time-columbia-class-delivery-is-life-or-death-imperative-sub-czar-gaucher-says)
+7. [Gaucher gave the hours per hull in March](https://www.defenseone.com/defense-systems/2026/03/navy-bets-900m-automated-factories-boost-submarine-production/412290/)
+8. [The Congressional Research Service quotes the Navy's own workload arithmetic](https://www.congress.gov/crs_external_products/RL/PDF/RL32418/RL32418.295.pdf)
+9. [U.S. Naval Institute News reported on May 12](https://news.usni.org/2026/05/12/virginia-subs-will-hit-2-a-year-build-rate-in-2030s-cno-caudle-says)
+10. [GAO reported on September 25](https://files.gao.gov/reports/GAO-26-107830/index.html)
+11. [Naval Undersea Warfare Center Division, Keyport said in an August 5 release](https://www.dvidshub.net/news/571674/nuwc-division-keyport-receives-navsea-qualification-metal-additive-manufacturing)
+12. [The Navy said in a release on September 16](https://www.dvidshub.net/news/574837/navy-reestablishes-sima-mayport-accelerate-waterfront-ship-maintenance-and-sailor-self-sufficiency)
+13. [GAO reported in September 2024](https://www.gao.gov/products/gao-24-106525)
+14. [GAO reported in January 2025](https://www.gao.gov/assets/gao-25-106990.pdf)
+15. [The two SIMA commanding officers said on September 3](https://www.dvidshub.net/news/574309/sima-commanding-officers-highlight-technical-proficiency-and-warfighting-readiness-surface-navy-association-waterfront-symposium-west-2026)
+16. [The Navy's fiscal 2027 operations and maintenance justification](https://www.secnav.navy.mil/fmc/fmb/Documents/27pres/OMN_Book.pdf)
+17. [SIMA Norfolk via DVIDS, Jun 2, 2026](https://www.dvidshub.net/news/566693/sima-norfolk-reestablished-restoring-sailor-led-maintenance)
+18. [Navy via DVIDS, Jun 5, 2026](https://www.dvidshub.net/news/567018/shore-intermediate-maintenance-activities-norfolk-and-san-diego-re-established)
+19. [U.S. Navy on SIMA San Diego, Jun 5, 2026](https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/4510030/sima-san-diego-reestablished-to-drive-fleet-self-sufficiency-and-warfighter-rea/)
+20. [The President's memorandum of August 13](https://www.whitehouse.gov/presidential-actions/2026/08/rebuilding-the-united-states-navy-and-americas-shipbuilding-industrial-base/)
+21. [U.S. Naval Institute News reported on September 1](https://news.usni.org/2026/09/01/japanese-south-korean-turkish-warships-under-consideration-for-new-u-s-frigate-competition)
+22. [The Navy's Maritime Industrial Base program reported in January](https://www.secnav.navy.mil/rda/sib/Documents/2025%20Year%20in%20Review%20Report.pdf)
+23. [The Bureau of Labor Statistics wage file for May 2025](https://www.bls.gov/oes/special-requests/oesm25in4.zip)
+24. [GAO reported in February 2025](https://www.gao.gov/products/gao-25-106286)
+25. [The same program's metropolitan file](https://www.bls.gov/oes/special-requests/oesm25ma.zip)
+26. [The Bureau's quarterly census](https://data.bls.gov/cew/data/api/2025/a/industry/3366.csv)
+27. [it recorded for 2019](https://data.bls.gov/cew/data/api/2019/a/industry/3366.csv)
+28. [GAO reported in April 2026](https://files.gao.gov/reports/GAO-26-109068/index.html)
+29. [HII, Mar 12, 2026](https://www.hii.com/news/union-members-ratify-collective-bargaining-agreement-at-hiis-ingalls-shipbuilding)
 
 ### [The Waterfront Brief: reference shelf](projects/waterfront-brief/reference-shelf)
 
