@@ -40,6 +40,13 @@ last checked.
 Each issue is readable on the web (with links into the rest of this garden) and
 downloadable as the print PDF (source links only).
 
+- **[Vol. 1, No. 12, Week 40, October 2026](2026-w40)**
+  ([download the PDF](pdf/2026-w40.ab416b61.pdf)): three surface dockings pushed into 2027 and six or
+  more availabilities set to run at once, after one yard nearly laid off 400 in the gap; the
+  maintenance chief who took four months off a submarine availability by cutting repairs, and
+  where that work goes; what a ship repaired in a foreign port may bring home, and the asbestos
+  and lead presumptions that catch it; Pearl Harbor training the Australians who will maintain
+  US submarines near Perth; and Keyport's cold spray certification, starting with one valve.
 - **[Vol. 1, No. 11, Week 39, September 2026](2026-w39)**
   ([download the PDF](pdf/2026-w39.355e7867.pdf)): the Virginia-class design freeze, and why the
   five-times man-hours number is a year's work for three hulls rather than one boat getting

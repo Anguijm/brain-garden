@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-1061 citations across 131 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+1087 citations across 132 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -257,6 +257,35 @@ This page lists every external link cited anywhere in the garden, article by art
 27. [it recorded for 2019](https://data.bls.gov/cew/data/api/2019/a/industry/3366.csv)
 28. [GAO reported in April 2026](https://files.gao.gov/reports/GAO-26-109068/index.html)
 29. [HII, Mar 12, 2026](https://www.hii.com/news/union-members-ratify-collective-bargaining-agreement-at-hiis-ingalls-shipbuilding)
+
+### [The Waterfront Brief, Vol. 1 No. 12 (week 40)](projects/waterfront-brief/2026-w40)
+
+1. [Adm. Karl Thomas told a fleet maintenance symposium last month](https://news.usni.org/2026/09/23/3-years-of-middle-east-combat-altering-how-navy-supplies-maintains-fleet-leaders-say)
+2. [The Southeast Regional Maintenance Center's notice for Hudner](https://www.bidnetdirect.com/not-stated/solicitations/closed-bids/statewide/USS-THOMAS-HUDNER-DDG-116-Dry-Docking-Selected-Restricted-Availability-DSRA/2631302207)
+3. [NAVSEA's notice for St. Louis and Donald Cook](https://www.highergov.com/contract-opportunity/uss-st-louis-lcs-19-uss-donald-cook-ddg-75-f-n0002426r4405-o-a9c21/)
+4. [The Department of War's July 2 contract list](https://www.war.gov/News/Contracts/Contract/Article/4532515/contracts-for-july-2-2026/)
+5. [The Congressional Budget Office reported in December 2025](https://www.cbo.gov/publication/61507)
+6. [Rear Adm. Todd Weeks, the Portfolio Acquisition Executive for Industrial Operations, told](https://news.usni.org/2026/09/24/we-absolutely-need-to-change-says-new-navy-maintenance-head)
+7. [Capt. Dan Hemminger, who commands the Mid-Atlantic Regional Maintenance Center, told a](https://www.dvidshub.net/news/575876/mid-atlantic-regional-maintenance-center-commander-join-leaders-2026-fleet-maintenance-and-modernization-symposium)
+8. [GAO reported in May 2022](https://www.gao.gov/assets/gao-22-105032.pdf)
+9. [GAO reported in August](https://www.gao.gov/products/gao-26-109256)
+10. [The Navy said on September 18](https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4605345/forward-deployed-maintenance-completed-aboard-uss-ross-in-kenya/)
+11. [The Chief of Naval Operations, Adm. Daryl Caudle, named Kenya, Diego Garcia and India as](https://www.militarytimes.com/news/your-military/2026/08/26/us-navy-eyes-port-stops-in-africa-india-after-uss-abraham-lincolns-marathon-deployment/)
+12. [The Joint Fleet Maintenance Manual, Volume III, paragraph 3.4.1, says](https://www.navsea.navy.mil/Portals/103/Documents/SUBMEPP/JFMM/REV%20D%20CHG%205/Volume_III_D5.pdf?ver=WSY41KZ46n53m82NjucEeA%3D%3D)
+13. [A 2023 peer-reviewed analysis in Public Health Action](https://pubmed.ncbi.nlm.nih.gov/37359063/)
+14. [Australia's maritime safety regulator warns](https://www.amsa.gov.au/vessels-operators/seafarer-safety/asbestos-ships)
+15. [NAVSEA Standard Item 009-010, paragraph 3.1, states](https://www.navsea.navy.mil/Portals/103/Documents/SSRAC/NSI/FY27/009-010_FY27_PKG.pdf)
+16. [Standard Item 009-032, paragraph 3.1.1, states](https://www.navsea.navy.mil/Portals/103/Documents/SSRAC/NSI/FY27/009-032_FY27_01_PKG.pdf)
+17. [OSHA's shipyard asbestos rule](https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XVII/part-1915/subpart-Z/section-1915.1001)
+18. [The Navy said on September 22](https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4608534/royal-australian-navy-divers-train-at-pearl-harbor-for-us-virginia-class-submar/)
+19. [AUKUS defense ministers confirmed on May 30](https://www.minister.defence.gov.au/statements/2026-05-30/joint-statement-aukus-defence-ministers-meeting)
+20. [Australia's defense minister said on June 12](https://www.minister.defence.gov.au/media-releases/2026-06-12/aukus-partners-take-next-steps-towards-submarine-rotational-force-west)
+21. [USNI News reported on June 11](https://news.usni.org/2026/06/11/u-s-navy-stands-up-2-australian-commands-in-support-of-american-u-k-subs)
+22. [the Navy said then](https://www.navy.mil/Press-Office/News-Stories/Article/3482140/pearl-harbor-naval-shipyard-intermediate-maintenance-facility-named-naval-super/)
+23. [The Navy said in February](https://www.navy.mil/Press-Office/News-Stories/Article/4410356/)
+24. [Australia's defense department had said in October 2025](https://www.defence.gov.au/news-events/releases/2025-10-29/australia-getting-set-submarine-rotational-force-west)
+25. [Naval Undersea Warfare Center Division, Keyport said on September 28](https://www.dvidshub.net/news/575795/nuwc-division-keyport-receives-navsea-certification-cold-spray-facility)
+26. [USNI News reported](https://news.usni.org/2023/09/12/navy-expanding-cold-spray-welding-alternative-in-fleet-repair)
 
 ### [The Waterfront Brief: reference shelf](projects/waterfront-brief/reference-shelf)
 
