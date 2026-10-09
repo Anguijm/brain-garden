@@ -40,6 +40,13 @@ last checked.
 Each issue is readable on the web (with links into the rest of this garden) and
 downloadable as the print PDF (source links only).
 
+- **[Vol. 1, No. 13, Week 41, October 2026](2026-w41)**
+  ([download the PDF](pdf/2026-w41.df22922b.pdf)): the public shipyards at their smallest since 2018 while
+  private yards hire to a record, with public-yard trades facing a frozen raise; the \$1.5 billion
+  Congress labeled for shipyard maintenance that went to Army vehicles and Marine aircraft; the
+  washer with no stock number behind a lost \$60 million jet; the fiscal 2029 Standard Items that
+  drop the spark arrestor and put an engineer on hard lifts; and the Navy rehearsing wartime repair
+  in Japanese ports away from Yokosuka.
 - **[Vol. 1, No. 12, Week 40, October 2026](2026-w40)**
   ([download the PDF](pdf/2026-w40.ab416b61.pdf)): three surface dockings pushed into 2027 and six or
   more availabilities set to run at once, after one yard nearly laid off 400 in the gap; the

@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-1087 citations across 132 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+1121 citations across 133 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -286,6 +286,43 @@ This page lists every external link cited anywhere in the garden, article by art
 24. [Australia's defense department had said in October 2025](https://www.defence.gov.au/news-events/releases/2025-10-29/australia-getting-set-submarine-rotational-force-west)
 25. [Naval Undersea Warfare Center Division, Keyport said on September 28](https://www.dvidshub.net/news/575795/nuwc-division-keyport-receives-navsea-certification-cold-spray-facility)
 26. [USNI News reported](https://news.usni.org/2023/09/12/navy-expanding-cold-spray-welding-alternative-in-fleet-repair)
+
+### [The Waterfront Brief, Vol. 1 No. 13 (week 41)](projects/waterfront-brief/2026-w41)
+
+1. [Bureau of Labor Statistics data](https://data.bls.gov/cew/data/api/2025/4/industry/336611.csv)
+2. [June 2018](https://data.bls.gov/cew/data/api/2018/2/industry/336611.csv)
+3. [March, the latest month published](https://data.bls.gov/cew/data/api/2026/1/industry/336611.csv)
+4. [The Office of Personnel Management's guidance](https://www.opm.gov/fork/faq/)
+5. [The President's August 26 pay letter](https://www.govinfo.gov/content/pkg/CDOC-119hdoc189/pdf/CDOC-119hdoc189.pdf)
+6. [the personnel office held the trades' 2026 raise to 1 percent](https://www.opm.gov/chcoc/latest-memos/fiscal-year-2026-prevailing-rate-pay-adjustments.pdf)
+7. [The House-passed defense bill](https://www.congress.gov/bill/119th-congress/house-bill/8800/text)
+8. [The Senate committee's bill](https://www.govinfo.gov/content/pkg/BILLS-119s4784rs/html/BILLS-119s4784rs.htm)
+9. [The Steelworkers' contract](https://usw.org/press-release/usw-local-8888-ratifies-60-month-contract-with-huntington-ingalls-industries/)
+10. [the Galveston Daily News reported](https://www.galvnews.com/news/from-repair-yard-to-shipbuilder-galveston-project-aims-to-reshape-maritime-future/article_bed3dbea-63e4-430e-904a-f847dd73f47d.html)
+11. [3rd quarter 2025, released Mar 10, 2026](https://data.bls.gov/cew/data/api/2025/3/industry/336611.csv)
+12. [1st quarter 2025](https://data.bls.gov/cew/data/api/2025/1/industry/336611.csv)
+13. [BLS QCEW release calendar](https://www.bls.gov/cew/release-calendar.htm)
+14. [The reconciliation law Congress passed last year](https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm)
+15. [The Pentagon's allocation plan, dated May 2026](https://comptroller.war.gov/Portals/45/Documents/news/FY2026_Mandatory_Funding_Allocation_Plan.pdf)
+16. [USNI News reported in September](https://news.usni.org/2026/09/23/3-years-of-middle-east-combat-altering-how-navy-supplies-maintains-fleet-leaders-say)
+17. [USNI News had reported in August](https://news.usni.org/2026/08/26/navy-planning-for-extended-carrier-deployments-as-iran-conflict-continues-cno-mcpon-say)
+18. [The Pentagon comptroller's June 30 execution report](https://comptroller.war.gov/Portals/45/Documents/OM_Reports/FY2026/FY_2026_3rd_quarter_execution.pdf)
+19. [A year earlier](https://comptroller.war.gov/Portals/45/Documents/OM_Reports/FY2025/FY_2025_3rd_quarter_execution.pdf)
+20. [the comptroller's year-end report](https://comptroller.war.gov/Portals/45/Documents/OM_Reports/FY2025/FY_2025_4th_quarter_execution.pdf)
+21. [The Navy's investigation of the May 6, 2025 failure on USS Harry S. Truman](https://www.secnav.navy.mil/foia/readingroom/HotTopics/HST%20Investigation/Draft-HST%204%20Wire%20Failure%206%20May%2025%20w_Redacted.pdf)
+22. [USNI News reported](https://news.usni.org/2026/10/03/carrier-uss-dwight-d-eisenhower-to-return-to-port-after-growler-mishap)
+23. [Navy Times reported](https://www.navytimes.com/news/your-navy/2026/10/06/uss-dwight-d-eisenhower-returns-to-port-after-aircraft-mishap/)
+24. [The release letter says](https://www.navsea.navy.mil/Portals/103/Documents/SSRAC/262_4790_FY29%20NSI.pdf)
+25. [The fiscal 2028 item 009-008](https://www.navsea.navy.mil/Portals/103/Documents/SSRAC/NSI/FY28/009-008_FY28_PKG2.pdf)
+26. [The fiscal 2029 version](https://www.navsea.navy.mil/Portals/103/Documents/SSRAC/009-008_FY29.pdf)
+27. [A new item, 009-014](https://www.navsea.navy.mil/Portals/103/Documents/SSRAC/009-014_FY29.pdf)
+28. [The fiscal 2028 item 009-071](https://www.navsea.navy.mil/Portals/103/Documents/SSRAC/NSI/FY28/009-071_FY28.pdf)
+29. [The fiscal 2029 text](https://www.navsea.navy.mil/Portals/103/Documents/SSRAC/009-071_FY29.pdf)
+30. [USNI News reported in June](https://news.usni.org/2026/06/04/leaders-of-u-s-navys-ship-maintenance-facility-in-japan-removed-from-command)
+31. [U.S. 7th Fleet said on September 30](https://www.cpf.navy.mil/Newsroom/News/Article/4618470/uss-warrior-completes-ship-repair-and-maintenance-exercise-in-hakodate/)
+32. [GAO reported in June 2021](https://www.gao.gov/products/gao-21-246)
+33. [The Navy said in February](https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4403587/uss-pinckney-departs-singapore-after-ship-repair-and-maintenance-exercise/)
+34. [Naval News reported in April](https://www.navalnews.com/naval-news/2026/04/u-s-navy-rehearses-wartime-repairs-in-central-philippine-port/)
 
 ### [The Waterfront Brief: reference shelf](projects/waterfront-brief/reference-shelf)
 
