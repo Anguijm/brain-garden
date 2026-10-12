@@ -63,6 +63,10 @@ than raw research. Newest is first.
   [whether any of it beats the market](topics/finance/ai-stock-picking/does-it-actually-work) (the
   SPIVA base rates, skill-versus-luck, the Gu-Kelly-Xiu machine-learning evidence and what erodes
   it); and [how to emulate it without fooling yourself](topics/finance/ai-stock-picking/build-it-yourself).
+- **[Index funds, and borrowing against a portfolio](topics/finance/borrowing-against-a-portfolio/)**:
+  what VTI, VXUS and VT hold, how margin loans and portfolio lines of credit actually work (and
+  why the lender, not you, controls them), a fact check of a "buy, borrow, die" YouTube video, a
+  25-year backtest of a 20% loan on monthly deposits, and a playbook for what to do in a crash.
 - **[Mini forge](projects/mini-forge/)**: a local pipeline that turns a text prompt into a
   printable tabletop miniature with no cloud service in the loop: an AMD Strix Halo box with
   64 GB of unified memory, TRELLIS.2 running on Vulkan, and headless Blender for the print

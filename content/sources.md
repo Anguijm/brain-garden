@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-1121 citations across 133 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+1134 citations across 134 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -713,6 +713,22 @@ This page lists every external link cited anywhere in the garden, article by art
 14. [TipRanks Smart Score review: review](https://www.wallstreetzen.com/blog/tipranks-review/)
 15. [MarketBeat review: review](https://www.wallstreetzen.com/blog/marketbeat-review/)
 16. [Boosted.ai (institutional context): vendor](https://boosted.ai/)
+
+### [Index funds, and borrowing against a portfolio instead of real estate](topics/finance/borrowing-against-a-portfolio/)
+
+1. [8,800 views, 20 minutes) by Mike Wilson, The description](https://www.youtube.com/@RecycleYourMoney)
+2. [### One broker: Webull (FACT, fetched 2026-10-13, rates "as of March 31, 2026")](https://www.webull.com/margin)
+3. [SEC/FINRA investor alert on SBLOCs](https://www.sec.gov/oiea/investor-alerts-and-bulletins/sbloc)
+4. [FINRA, securities-backed lines of credit](https://www.finra.org/investors/insights/securities-backed-lines-credit)
+5. [Schwab, borrowing strategies](https://www.schwab.com/learn/story/borrowing-strategies-big-expenses)
+6. [Interactive Brokers margin](https://www.interactivebrokers.com/en/index.php?f=846)
+7. [M1 margin rates](https://help.m1.com/en/articles/9332230-what-are-the-m1-margin-loan-interest-rates)
+8. [Bernstein on margin and rates](https://bernstein.com/our-insights/insights/2023/articles/does-margin-still-work-amid-higher-rates.html)
+9. [VTI returns: and https://www.alphacubator.com/analysis/VTI](https://totalrealreturns.com/n/VTI,AGG)
+10. [VTI returns: https://totalrealreturns.com/n/VTI,AGG and](https://www.alphacubator.com/analysis/VTI)
+11. [VXUS vs VT](https://www.fool.com/coverage/etfs/2025/12/27/vxus-vs-vt-go-international-only-or-include-u-s-stocks)
+12. [The video](https://youtu.be/76PBycxHvac)
+13. [Price data: Yahoo Finance monthly adjusted closes for VTI; rates: FRED FEDFUNDS](https://fred.stlouisfed.org/series/FEDFUNDS)
 
 ## Games
 
