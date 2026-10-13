@@ -164,6 +164,136 @@ levered at market highs. He is now cutting his own loan to prepare for a downtur
 - His story about a hedge fund manager "Leopold" forced to sell is **Unverified** and garbled as
   told. Don't rely on it.
 
+## 6. The case against: what the critics say
+
+Borrowing against a portfolio has serious critics, and their main point is simple: the interest is
+a certain cost, while the extra return is only a hope.
+
+**Jim Dahle, White Coat Investor** (FACT, "Buy, Borrow, and Die" for physicians, July 22, 2025,
+https://www.whitecoatinvestor.com/buy-borrow-and-die-for-physicians/, read 2026-10-13). He grants
+the tax benefit: no capital gains tax while you hold, and heirs get the step-up in basis. His
+objections:
+- **Interest piles up.** In his example, \$500,000 borrowed at 5.33% builds up about \$800,000 of
+  interest over 30 years.
+- **Margin calls bring back the tax.** "Margin calls can happen, forcing you to pay interest AND pay
+  those taxes anyway if your shares are sold by the broker."
+- **Rates move and lives run long.** Borrow at 60 and live to 85, and the interest compounds for
+  25 years at rates you can't predict.
+- **At retail rates it rarely pays.** Borrowing at 10% to 12% (the posted rates at Vanguard and
+  Fidelity when he wrote) seldom beats long-run stock returns.
+
+**Allan Roth and William Bernstein**, "Buy, Borrow, Die: Why This Popular Tax Strategy for the Rich
+Doesn't Work," Advisor Perspectives, June 16, 2025 (**Unverified**: the site refused automated
+access on 2026-10-13, so only the title, authors and date are confirmed, from a search summary).
+Both are well-known advocates of low-cost index investing. The title gives their verdict.
+
+**The regulators** (FACT, the SEC and FINRA alerts in section 2) are critics too. Their alerts exist
+because investors lost money when portfolio loans were called in falling markets.
+
+**This note's own backtest** (Assessment, below) agrees with part of the critique. A 20% loan
+helped in most decades, but in the worst one (2001 to 2011) it added nothing. At an 8.74% rate, it
+lost money in about one decade in seven.
+
+**Who's on the other side.** The loudest supporters tend to be people who profit when you borrow.
+Brokers earn the interest; M1's own blog runs a first-person post titled "How I Taught Over 500
+Everyday Americans the 'Buy, Borrow, Die' Strategy on M1" (FACT, https://m1.com/blog/teaching-buy-borrow-die/,
+August 14, 2026, by Mark Quann, with no disclosure line). YouTubers earn from courses, Discords and
+referral links. That doesn't make them wrong, but it's the first thing to weigh.
+
+## 7. What return is realistic?
+
+The long-run answer is about **10% a year before inflation, or about 7% after it**. The next ten
+years may well be lower. A strategy claiming 20% a year is describing either a lucky stretch or
+borrowed money.
+
+**History** (Assessment, computed from Aswath Damodaran's S&P 500 returns with dividends,
+https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/histretSP.html, and the Consumer
+Price Index from FRED, https://fred.stlouisfed.org/series/CPIAUCNS, both fetched 2026-10-13):
+
+| Period | Per year, before inflation | Per year, after inflation |
+|---|---|---|
+| 1928 to 2025 (98 years) | 10.0% | 6.8% |
+| 1976 to 2025 (50 years) | 11.9% | 8.0% |
+| 1996 to 2025 (30 years) | 10.3% | 7.6% |
+| 2016 to 2025 (10 years) | 14.7% | 11.1% |
+
+**Ten-year stretches vary a lot.** Of the 89 ten-year windows from 1928 on, the typical one
+averaged about 11% a year. The worst lost 1.7% a year (1929 to 1938), and five lost money overall.
+Thirteen averaged under 5%. **Only one, 1949 to 1958, averaged 20% or more**, and it only just made
+it, at 20.1%.
+
+**Single years are wilder.** 36 of 98 years returned 20% or more, and 26 lost money. The S&P 500
+returned 26.1% in 2023, 24.9% in 2024 and 17.8% in 2025: **about 23% a year for three years, for
+anyone who simply held it.**
+
+**Forecasts are lower.** Vanguard's model (FACT, "Setting realistic expectations," model run June 30,
+2026, https://corporate.vanguard.com/content/corporatesite/us/en/corp/vemo/vemo-return-forecasts.html)
+expects US stocks to return **4.2% to 6.2% a year** over the next 10 years, and developed markets
+outside the US 4.5% to 6.5%. It cut the US range from 4.9% to 6.9% because prices rose, and it calls
+the figures hypothetical and no guarantee. Forecasts like this are often wrong. Still, high prices
+today have tended to mean lower returns later.
+
+**What that does to the plan** (Assessment, arithmetic: \$5,000 start, then monthly deposits, no loan,
+10 years):
+
+| Return per year | \$750 a month | \$1,000 a month |
+|---|---|---|
+| 5% (Vanguard's middle) | ~\$124,000 | ~\$163,000 |
+| 7% (long-run, after inflation) | ~\$138,000 | ~\$181,000 |
+| 10% (long-run, before inflation) | ~\$163,000 | ~\$213,000 |
+
+A sensible habit: plan on 5% to 7%, and treat anything better as a bonus. The backtests above ran
+on 2001 to 2026, a period that included a strong decade, so their typical figures are on the hopeful
+side.
+
+## 8. The math in the video, and how to spot it
+
+His numbers aren't necessarily false. They're framed so that the market's gains, borrowed money
+and fresh deposits all look like the strategy working.
+
+**What he actually claims** (FACT, transcript): his portfolio is "up 18% since January" and "up 26%
+[over one year], aka \$148,000." The title claims a salary "turned into \$762,447 in 5 years." The
+21% figure doesn't appear in this video. It may come from another video or the channel page,
+which weren't checked.
+
+**Compare it with doing nothing** (FACT, Yahoo Finance prices with dividends, to October 12, 2026):
+
+| Same period | His portfolio | VTI (whole US market) | VGT (his biggest holding, technology) |
+|---|---|---|---|
+| Since January 2026 | +18% | +14% | +34% |
+| Past year | +26% | +18% | +35% |
+
+So he did a little better than the whole market and a lot worse than simply holding his own biggest
+fund, even with borrowed money working for him. Over 2023 to 2025, anyone in a plain S&P 500 fund
+made about 23% a year. A "21% over the last couple of years" claim from that period means roughly
+matching a fund that costs 0.03% a year and takes no skill.
+
+**The tricks, and the question that exposes each one** (Assessment):
+
+1. **Portfolio value is not net worth.** \$762,447 is his total holdings, and he says himself it
+   includes "the margin that I was dumping in." *Ask: how much of that is borrowed?*
+2. **Deposits get counted as growth.** A balance that rises from savings looks like returns. Five
+   years of savings from a sales salary went in. *Ask: how much did you put in?*
+3. **The market gets credited to the strategy.** 2023 to 2025 averaged about 23% a year for the S&P 500,
+   and almost everything went up. *Ask: what did a plain index fund do over the same dates?*
+4. **The start date is chosen.** From VGT's April 2025 low to now it gained 117%; from January it
+   gained 34%. The same holding can be made to look like almost any number. *Ask: why that start
+   date, and what does a 10-year number look like?*
+5. **One sector, one boom.** His biggest holding is technology, during an AI boom. A concentrated
+   bet that worked isn't evidence it will work again. *Ask: what is it actually invested in?*
+6. **Costs left out.** Margin interest, taxes, and the \$1,300 to \$1,400 a month he's paying on an
+   empty house don't appear in "up 26%." *Ask: is that before or after interest and taxes?*
+7. **Percentages and dollars get swapped.** "26%, aka \$148,000" makes the strategy sound big, but
+   \$148,000 is 26% of about \$570,000, which includes borrowed money. *Ask: 26% of what?*
+8. **One survivor.** You see the person whose borrowing worked. The ones forced to sell in 2022
+   don't make "how I made \$762k" videos. *Ask: what happened to the people who tried this and lost?*
+9. **Paid incentives.** The description sells a Discord and carries a Robinhood referral link.
+   *Ask: how does this person get paid if I believe them?*
+
+**A quick test for any return claim:** turn it into one sentence, "I made X% a year, on my own
+money, after costs, from [date] to [date], versus Y% for an index fund." If the person can't, or
+won't, fill in those blanks, the number is marketing.
+
 ## Applied to the \$5,000, 10-year, \$1 million goal (Assessment, arithmetic)
 
 - With no additions, reaching \$1 million from \$5,000 in 10 years takes about **70% a year**.
@@ -329,6 +459,9 @@ the loan does its best work, buying while prices are still low.
 - Schwab, borrowing strategies: https://www.schwab.com/learn/story/borrowing-strategies-big-expenses
 - Interactive Brokers margin: https://www.interactivebrokers.com/en/index.php?f=846
 - M1 margin rates: https://help.m1.com/en/articles/9332230-what-are-the-m1-margin-loan-interest-rates
+- White Coat Investor on buy, borrow, die: https://www.whitecoatinvestor.com/buy-borrow-and-die-for-physicians/
+- Vanguard return forecasts: https://corporate.vanguard.com/content/corporatesite/us/en/corp/vemo/vemo-return-forecasts.html
+- Damodaran S&P 500 history: https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/histretSP.html
 - Bernstein on margin and rates: https://bernstein.com/our-insights/insights/2023/articles/does-margin-still-work-amid-higher-rates.html
 - VTI returns: https://totalrealreturns.com/n/VTI,AGG and https://www.alphacubator.com/analysis/VTI
 - VXUS vs VT: https://www.fool.com/coverage/etfs/2025/12/27/vxus-vs-vt-go-international-only-or-include-u-s-stocks

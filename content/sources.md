@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-1134 citations across 134 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+1139 citations across 134 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -717,18 +717,23 @@ This page lists every external link cited anywhere in the garden, article by art
 ### [Index funds, and borrowing against a portfolio instead of real estate](topics/finance/borrowing-against-a-portfolio/)
 
 1. [Salary turned into \$762,447 in 5 Years" by Mike Wilson](https://www.youtube.com/@RecycleYourMoney)
-2. [### One broker: Webull (FACT, fetched 2026-10-13, rates "as of March 31, 2026")](https://www.webull.com/margin)
-3. [SEC/FINRA investor alert on SBLOCs](https://www.sec.gov/oiea/investor-alerts-and-bulletins/sbloc)
-4. [FINRA, securities-backed lines of credit](https://www.finra.org/investors/insights/securities-backed-lines-credit)
-5. [Schwab, borrowing strategies](https://www.schwab.com/learn/story/borrowing-strategies-big-expenses)
-6. [Interactive Brokers margin](https://www.interactivebrokers.com/en/index.php?f=846)
-7. [M1 margin rates](https://help.m1.com/en/articles/9332230-what-are-the-m1-margin-loan-interest-rates)
-8. [Bernstein on margin and rates](https://bernstein.com/our-insights/insights/2023/articles/does-margin-still-work-amid-higher-rates.html)
-9. [VTI returns: and https://www.alphacubator.com/analysis/VTI](https://totalrealreturns.com/n/VTI,AGG)
-10. [VTI returns: https://totalrealreturns.com/n/VTI,AGG and](https://www.alphacubator.com/analysis/VTI)
-11. [VXUS vs VT](https://www.fool.com/coverage/etfs/2025/12/27/vxus-vs-vt-go-international-only-or-include-u-s-stocks)
-12. [The video](https://youtu.be/76PBycxHvac)
-13. [Price data: Yahoo Finance monthly adjusted closes for VTI; rates: FRED FEDFUNDS](https://fred.stlouisfed.org/series/FEDFUNDS)
+2. [read 2026-10-13). He grants](https://www.whitecoatinvestor.com/buy-borrow-and-die-for-physicians/)
+3. [Everyday Americans the 'Buy, Borrow, Die' Strategy on M1" (FACT](https://m1.com/blog/teaching-buy-borrow-die/)
+4. [and the Consumer](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/histretSP.html)
+5. [Price Index from FRED, both fetched 2026-10-13)](https://fred.stlouisfed.org/series/CPIAUCNS)
+6. [2026, )](https://corporate.vanguard.com/content/corporatesite/us/en/corp/vemo/vemo-return-forecasts.html)
+7. [### One broker: Webull (FACT, fetched 2026-10-13, rates "as of March 31, 2026")](https://www.webull.com/margin)
+8. [SEC/FINRA investor alert on SBLOCs](https://www.sec.gov/oiea/investor-alerts-and-bulletins/sbloc)
+9. [FINRA, securities-backed lines of credit](https://www.finra.org/investors/insights/securities-backed-lines-credit)
+10. [Schwab, borrowing strategies](https://www.schwab.com/learn/story/borrowing-strategies-big-expenses)
+11. [Interactive Brokers margin](https://www.interactivebrokers.com/en/index.php?f=846)
+12. [M1 margin rates](https://help.m1.com/en/articles/9332230-what-are-the-m1-margin-loan-interest-rates)
+13. [Bernstein on margin and rates](https://bernstein.com/our-insights/insights/2023/articles/does-margin-still-work-amid-higher-rates.html)
+14. [VTI returns: and https://www.alphacubator.com/analysis/VTI](https://totalrealreturns.com/n/VTI,AGG)
+15. [VTI returns: https://totalrealreturns.com/n/VTI,AGG and](https://www.alphacubator.com/analysis/VTI)
+16. [VXUS vs VT](https://www.fool.com/coverage/etfs/2025/12/27/vxus-vs-vt-go-international-only-or-include-u-s-stocks)
+17. [The video](https://youtu.be/76PBycxHvac)
+18. [Price data: Yahoo Finance monthly adjusted closes for VTI; rates: FRED FEDFUNDS](https://fred.stlouisfed.org/series/FEDFUNDS)
 
 ## Games
 
