@@ -182,10 +182,36 @@ objections:
 - **At retail rates it rarely pays.** Borrowing at 10% to 12% (the posted rates at Vanguard and
   Fidelity when he wrote) seldom beats long-run stock returns.
 
-**Allan Roth and William Bernstein**, "Buy, Borrow, Die: Why This Popular Tax Strategy for the Rich
-Doesn't Work," Advisor Perspectives, June 16, 2025 (**Unverified**: the site refused automated
-access on 2026-10-13, so only the title, authors and date are confirmed, from a search summary).
-Both are well-known advocates of low-cost index investing. The title gives their verdict.
+**William Bernstein and Allan Roth**, Advisor Perspectives (FACT, "Buy, Borrow, Die: Why This
+Popular Tax Strategy for the Rich Doesn't Work," June 16, 2025, read from a saved copy on
+2026-10-13). Bernstein is a neurologist, investment adviser and finance author; Roth runs
+a fee-only advisory firm. Both are long-time advocates of low-cost index investing. They start with
+the pitch at its best: stocks returned 10.16% a year from 1926 to 2023 (data from the University of Chicago's Center for Research in Security Prices), so borrowing at 6% looks like a free 4-point spread plus the tax break. Their own worked
+example, borrowing \$1 million a year for 30 years, peaks at a loan of 35.7% of the collateral,
+close to this note's backtest. Then they take it apart:
+- **The average hides the odds for a single stock.** Citing Hendrik Bessembinder's research, from
+  1926 to 2023 just 4% of US stocks produced all the market's gains above Treasury bills, and most
+  stocks lost money over their lifetimes. Borrowing against one concentrated holding (a company
+  stock, a sector bet) is likely to "fail spectacularly."
+- **Lenders control the terms.** On a concentrated position the limit may be 25% rather than 50%,
+  and the broker can raise its requirement at any time without notice. They quote the FINRA
+  disclosure, as section 2 here does.
+- **Big crashes are normal.** There were two bear markets of about 50% after 2000, and in 2020 the
+  market lost nearly 35% in 33 days.
+- **Rates float.** People who took out margin loans in 2021 saw their rates "skyrocket in 2022."
+- **For the truly rich, estate tax matters more** than capital gains: 40% federal above the
+  exemption, against 23.8% on gains. So the very wealthy tend to use trusts, not "buy, borrow,
+  die." This point doesn't apply to an ordinary investor.
+- **Their verdict:** the strategy is "expensive, dangerous, and liable to only make bankers and
+  brokerage firms rich." It's mostly used by people without enough cash flow, "who will, at some
+  point, likely be sorry they did." Citing Edward Fox and Zachary Liscow, they say the real habit
+  of the rich is "buy, save, die": they live on their income and don't need to borrow.
+
+**What it means for a small, diversified account** (Assessment): their strongest objections are
+about concentration and size. A broad index fund like VTI avoids the single-stock problem, and the
+step-up is worth little on a modest account. What's left is the core trade: a variable-rate loan,
+controlled by the lender, in exchange for an extra few percent a year. That's what the backtest
+measured.
 
 **The regulators** (FACT, the SEC and FINRA alerts in section 2) are critics too. Their alerts exist
 because investors lost money when portfolio loans were called in falling markets.
@@ -459,6 +485,7 @@ the loan does its best work, buying while prices are still low.
 - Schwab, borrowing strategies: https://www.schwab.com/learn/story/borrowing-strategies-big-expenses
 - Interactive Brokers margin: https://www.interactivebrokers.com/en/index.php?f=846
 - M1 margin rates: https://help.m1.com/en/articles/9332230-what-are-the-m1-margin-loan-interest-rates
+- Bernstein and Roth, Advisor Perspectives, June 16, 2025: https://www.advisorperspectives.com/articles/2025/06/16/buy-borrow-die-why-popular-tax-strategy-rich-doesnt-work
 - White Coat Investor on buy, borrow, die: https://www.whitecoatinvestor.com/buy-borrow-and-die-for-physicians/
 - Vanguard return forecasts: https://corporate.vanguard.com/content/corporatesite/us/en/corp/vemo/vemo-return-forecasts.html
 - Damodaran S&P 500 history: https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/histretSP.html
