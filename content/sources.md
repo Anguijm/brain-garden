@@ -716,7 +716,7 @@ This page lists every external link cited anywhere in the garden, article by art
 
 ### [Index funds, and borrowing against a portfolio instead of real estate](topics/finance/borrowing-against-a-portfolio/)
 
-1. [8,800 views, 20 minutes) by Mike Wilson, The description](https://www.youtube.com/@RecycleYourMoney)
+1. [Salary turned into \$762,447 in 5 Years" by Mike Wilson](https://www.youtube.com/@RecycleYourMoney)
 2. [### One broker: Webull (FACT, fetched 2026-10-13, rates "as of March 31, 2026")](https://www.webull.com/margin)
 3. [SEC/FINRA investor alert on SBLOCs](https://www.sec.gov/oiea/investor-alerts-and-bulletins/sbloc)
 4. [FINRA, securities-backed lines of credit](https://www.finra.org/investors/insights/securities-backed-lines-credit)

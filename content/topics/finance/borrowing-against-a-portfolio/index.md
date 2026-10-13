@@ -23,21 +23,24 @@ Labels follow the vault rules: **FACT** (read in a primary or cross-checked sour
 **Assessment** (reasoning or arithmetic), **Speculation**, **Unverified** (probably right, source not
 read here).
 
-## 1. The funds: VTI, VXUS, VT
+## 1. The funds
 
-- **VTI** (Vanguard Total Stock Market ETF, exchange-traded fund) holds the whole US stock market.
+All three are Vanguard exchange-traded funds (ETFs): baskets of stocks that trade like a single share.
+
+- **VTI** (Vanguard Total Stock Market ETF) holds the whole US stock market.
   **FACT** (totalrealreturns.com and alphacubator.com, cross-checked against Yahoo adjusted closes,
   fetched 2026-10-13): from 2003-09-26 to 2026-10-09, with dividends reinvested, it returned about
   **11.4% a year**, turning \$10,000 into about \$120,400. Its expense ratio was not checked against
   Vanguard this run (**Unverified**; commonly quoted as 0.03%).
-- **VXUS** (Vanguard Total International Stock ETF) is everything outside the US. "VTX" is assumed
-  to mean this fund. **FACT** (Motley Fool, Dec 2025; SEC N-PORT filing data via Chartrow, Apr 2026):
+- **VXUS** (Vanguard Total International Stock ETF) is everything outside the US. The ticker "VTX" in the
+  original question is assumed to mean this fund. **FACT** (Motley Fool, Dec 2025; Chartrow, from the
+  holdings reports funds file with the Securities and Exchange Commission (SEC), Apr 2026):
   about 8,500 to 8,700 stocks, 0.05% a year.
 - **VT** (Vanguard Total World Stock ETF) is roughly VTI plus VXUS weighted by size: about 62% US
   and 37% international, about 9,700 to 10,000 stocks, 0.06% a year (**FACT**, same sources).
 - **The drops (FACT, same sources as VTI's return):** VTI fell about **55%** from October 2007 to
   March 2009 and didn't fully recover until March 2012. It fell **35%** in February to March 2020
-  and **25%** in 2022. Any leverage plan has to survive these.
+  and **25%** in 2022. Any plan that borrows against the portfolio has to survive these.
 
 ## 2. How borrowing against a portfolio works
 
@@ -50,7 +53,8 @@ stock. Example rates: M1 about 5.90% (September 2026) and Schwab's base rate 10.
 accounts generally can't use margin.
 
 **Securities-based line of credit** (SBLOC, a "portfolio line of credit"; Schwab calls theirs a
-Pledged Asset Line). **FACT** (SEC/FINRA investor alert; Schwab): you can typically borrow 50% to 65%
+Pledged Asset Line). **FACT** (investor alert from the SEC and the Financial Industry Regulatory Authority (FINRA);
+Schwab): you can typically borrow 50% to 65%
 against stocks (Schwab says up to 70%) and 95% against US Treasuries. **Minimums are often
 \$100,000.** The money can be spent on almost anything, but you can't use it to buy securities.
 
@@ -94,8 +98,8 @@ spare cash on hand, is a very different thing (**Assessment**).
 - **No margin calls on a house.** The bank doesn't sell your house because house prices fell 30%.
   As long as you make the payment, you keep it. This is the biggest difference.
 - **Fixed rate.** US mortgages are usually fixed for 30 years. Margin and SBLOC rates float.
-- **Higher leverage, more stable asset.** A rental mortgage is typically 75% to 80% of the value, far
-  more than safe portfolio leverage. House prices are quoted rarely, so they feel calmer, but rentals
+- **More borrowed, more stable asset.** A rental mortgage is typically 75% to 80% of the value, far
+  more than is safe to borrow against a portfolio. House prices are quoted rarely, so they feel calmer, but rentals
   bring tenants, repairs, vacancy and selling costs. The video's creator made only about \$15,000 on
   a house bought for \$173,000 after counting those costs (his own account).
 - **Recourse.** Some US states don't let a lender come after you for more than the house is worth
@@ -119,9 +123,9 @@ usually beats the tax saved; their specific claims weren't verified (**Unverifie
 
 ## 5. The video: Mike Wilson, "RecycleYourMoney"
 
-**FACT** (YouTube metadata and a full transcript made with Whisper):
-the video is "How a \$64,960 Salary turned into \$762,447 in 5 Years" (uploaded 2026-10-07, about
-8,800 views, 20 minutes) by Mike Wilson, https://www.youtube.com/@RecycleYourMoney. The description
+**FACT** (YouTube metadata and a full transcript made with Whisper): the video is "How a \$64,960
+Salary turned into \$762,447 in 5 Years" by Mike Wilson, https://www.youtube.com/@RecycleYourMoney.
+It was uploaded 2026-10-07, runs 20 minutes and had about 8,800 views. The description
 links a paid Discord and a Robinhood referral link, and says it is "for educational and entertainment
 purposes only."
 
@@ -150,10 +154,10 @@ levered at market highs. He is now cutting his own loan to prepare for a downtur
   now, and borrowed money isn't income, but dividends are taxed every year, the gains are taxed
   whenever you sell (including a forced sale), and the step-up only happens at death.
 - **"With external leverage, you can't get margin called"** is half true. A home equity line of
-  credit (HELOC) or a 0% credit card won't sell your stocks, but banks froze and cut HELOCs in
-  2008 (**Unverified**), card rates jump when the promotion ends, and borrowing against your house
-  to buy stocks puts the house at risk.
-- **"Wait for a downturn, then deploy leverage"** is market timing, which he says he isn't doing.
+  credit (HELOC) or a 0% credit card won't sell your stocks. But banks froze and cut HELOCs in
+  2008 (**Unverified**), and card rates jump when the promotion ends. Borrowing against your house
+  to buy stocks also puts the house at risk.
+- **Waiting for a downturn, then borrowing to buy,** is market timing, which he says he isn't doing.
   It worked for him in 2025, the one V-shaped recovery he lived through. 2008 took four years to
   recover.
 - **Survivorship and concentration.** His result is one person, one strong tech run, five years.
@@ -163,11 +167,11 @@ levered at market highs. He is now cutting his own loan to prepare for a downtur
 ## Applied to the \$5,000, 10-year, \$1 million goal (Assessment, arithmetic)
 
 - With no additions, reaching \$1 million from \$5,000 in 10 years takes about **70% a year**.
-  No index fund, and no sane leverage, does that.
+  No index fund, and no sensible amount of borrowing, does that.
 - With monthly additions, the deposit needed is about **\$5,800** a month at 7%, **\$4,900** at 10%,
   and **\$4,000** at 14%.
 - \$5,000 plus \$500 a month at 10% reaches about **\$113,000**.
-- **Leverage isn't available at this size anyway.** SBLOCs usually start at \$100,000. Margin on
+- **Borrowing isn't really available at this size anyway.** SBLOCs usually start at \$100,000. Margin on
   \$5,000 means borrowing at most a few thousand at 6% to 13%: real risk for little extra money.
 - What moves the outcome is the monthly deposit, a low-cost broad fund, and not selling in a crash.
 
@@ -225,9 +229,9 @@ The loan column's lower figure adds the interest to the loan. The higher figure 
 from income, so more of the portfolio stays yours. That interest costs about \$40, \$70 or \$100 a month
 on average at the cheap rate, and about \$90, \$170 or \$250 at the expensive rate.
 
-**Paying the interest yourself does not make the loan more profitable.** Compared fairly, against
-someone with no loan who invests that same interest money instead, the gain from the loan is the
-same either way: about +12% typical at the cheap rate and about +5% at the expensive rate, with
+**Paying the interest yourself does not make the loan more profitable.** The fair comparison is
+against someone with no loan who invests that same interest money instead. On that basis, the gain
+from the loan is the same either way: about +12% typical at the cheap rate and about +5% at the expensive rate, with
 the worst case about −4% and −9%. What paying it yourself buys is **safety**:
 - The loan never grows on its own.
 - The 2008-style peak loan share drops from about 38% to 40%, to about 36%.
@@ -301,7 +305,7 @@ plan as if a call could come at a 60% fall instead of 71%.
    is under 25%.
 5. **Keep cash outside the account roughly equal to half the loan** (about \$8,000 in the example).
    It's the answer to a margin call that doesn't involve selling at the bottom. It's also the
-   protection the video calls "external leverage," without borrowing against a house or a truck.
+   protection the video gets from borrowing outside the account, without borrowing against a house or a truck.
 6. **Keep paying the interest.** If income drops (lost job, emergency), stop the deposits first
    and pay down the loan second. Never let unpaid interest pile onto the loan during a crash.
 7. **Turn on Webull's margin alerts, then stop checking daily.** Know your loan share. Don't
