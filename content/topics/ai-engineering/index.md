@@ -166,6 +166,19 @@ models sit one generation behind the frontier, not an era behind it.
   clustered machines lose to one big one, the memory shortage repricing the whole market,
   and a purchase decision on the M5 Ultra Mac Studio with a date on it.
 
+## The loop around the agent
+
+Assessment: two words dominate the 2026 talk about agents, "loop" and "graph", and both
+are answers to one question: what survives from one step, one crash, or one context
+window to the next.
+
+- **[Loops, graphs, and the state between them](23-loops-graphs-and-state)**: what an
+  outer loop is (a shell `while` around a whole agent run), what a graph adds (the allowed
+  moves drawn in advance, with a shared state object carried from node to node), where each
+  camp keeps its state, the five ways state fails (lost, doubled, misread, bloated, split),
+  and the widely quoted "60 percent of incidents are state failures" figure that is not in
+  the survey it is attributed to.
+
 ## See also
 
 - **[Using AI well](connections/using-ai-well)**: the discipline running under this whole wing: a fluent model is an assistant, not an oracle.

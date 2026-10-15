@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-1140 citations across 134 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+1155 citations across 135 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -519,6 +519,24 @@ This page lists every external link cited anywhere in the garden, article by art
 15. [AppleInsider's writeup, 2025-12-20](https://appleinsider.com/articles/25/12/20/ai-calculations-on-mac-cluster-gets-a-big-boost-from-new-rdma-support-on-thunderbolt-5)
 16. [Notebookcheck, 2026-01-13](https://www.notebookcheck.net/Framework-Desktop-now-cost-up-to-460-more-due-to-RAM-shortage.1203235.0.html)
 17. [PCGamesN, September 2026](https://www.pcgamesn.com/nvidia/rtx-5090-pricing-september-2026)
+
+### [Loops, graphs, and the state between them](topics/ai-engineering/23-loops-graphs-and-state)
+
+1. [Huntley, 2025](https://ghuntley.com/ralph/)
+2. [Claude Code docs, "Run prompts on a schedule," read 2026-10-15](https://code.claude.com/docs/en/scheduled-tasks)
+3. [LangGraph Graph API overview, read 2026-10-15](https://docs.langchain.com/oss/python/langgraph/graph-api)
+4. [Analytics Vidhya, 2026](https://www.analyticsvidhya.com/blog/2026/07/graph-engineering/)
+5. [Shakudo, read 2026-10-15](https://shakudo.io/blog/loop-engineering)
+6. [Requesty](https://www.requesty.ai/blog/loop-engineering-how-to-build-ai-agent-loops-that-run-themselves)
+7. [LangGraph persistence docs, read 2026-10-15](https://docs.langchain.com/oss/python/langgraph/persistence)
+8. [LangGraph checkpointers docs, read 2026-10-15](https://docs.langchain.com/oss/python/langgraph/checkpointers)
+9. [Temporal blog, Manetu, undated, read 2026-10-15](https://temporal.io/blog/manetu-the-thread-is-the-workflow)
+10. [Anthropic, "Effective harnesses for long-running agents"](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents)
+11. [Anthropic, "Effective context engineering for AI agents"](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
+12. [Anthropic, "How we built our multi-agent research system"](https://www.anthropic.com/engineering/multi-agent-research-system)
+13. [LangChain, State of Agent Engineering](https://www.langchain.com/state-of-agent-engineering)
+14. [UD blog](https://ud.hk/en/blogs/insight/article/2026-08-21-graph-engineering-ai-agents)
+15. [Anthropic, Building effective agents](https://www.anthropic.com/engineering/building-effective-agents)
 
 ## Business development
 

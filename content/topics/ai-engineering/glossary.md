@@ -23,6 +23,9 @@ again, until it is done or it is stopped. (See [Workflows vs agents](06-workflow
 **API.** An agreed way for one program to ask another program to do something. It is how a
 model's tools reach the outside world. (See [Tools and MCP](07-tools-and-mcp).)
 
+**Checkpoint.** A saved snapshot of an agent's state, taken after each step, that a run can
+resume or replay from. (See [Loops, graphs and state](23-loops-graphs-and-state).)
+
 **Compaction.** Summarizing a nearly-full context window and starting a fresh one from the
 summary, so the work can continue. (See [Context](09-context-engineering).)
 
@@ -61,6 +64,10 @@ tone, a format, or a way of working. It changes behavior, not facts. (See
 **Golden dataset.** A set of example questions, each paired with the ideal answer, used as
 the standard you grade against. (See [Testing](11-evaluation-and-testing).)
 
+**Graph (agent graph).** A flowchart for an agent: nodes do the work, edges say what runs
+next, and a shared state object carries the results from node to node. (See
+[Loops, graphs and state](23-loops-graphs-and-state).)
+
 **Grounding.** Tying a model's answer to real source material, usually by making it cite
 its sources, to cut down on made-up claims. (See [Retrieval and RAG](10-retrieval-and-rag)
 and [Safety](13-safety-and-best-practices).)
@@ -70,6 +77,9 @@ same confidence as a correct answer. (See [What is an AI model?](01-what-is-an-l
 
 **Hybrid search.** Finding documents by both meaning and exact keywords, which catches
 names and codes that meaning alone can miss. (See [Retrieval and RAG](10-retrieval-and-rag).)
+
+**Idempotent.** Safe to run twice: a step that leaves the same result whether it ran once or
+ran again after a crash. (See [Loops, graphs and state](23-loops-graphs-and-state).)
 
 **Latency.** The delay before you get an answer, the wait time. (See
 [Cost and speed](04-cost-and-speed).)
@@ -98,6 +108,10 @@ jobs, hands them to helper models, and combines the results. (See
 [Workflows vs agents](06-workflows-vs-agents) and
 [Many agents at once](12-multi-agent-systems).)
 
+**Outer loop.** A loop wrapped around a whole agent run that starts it again, in a fresh
+context, until a condition is met. The agent loop is the inner one. (See
+[Loops, graphs and state](23-loops-graphs-and-state).)
+
 **Procedural memory.** Memory of know-how: the rules and habits for doing a task, often
 kept in the prompt. "How you do it." (See [Memory](08-memory-for-agents).)
 
@@ -123,6 +137,9 @@ that type. (See [Workflows vs agents](06-workflows-vs-agents).)
 
 **Semantic memory.** Memory of facts: things the system knows about you or the world. "What
 you know." (See [Memory](08-memory-for-agents).)
+
+**State.** Whatever has to survive from one step, one crash, or one context window to the
+next. (See [Loops, graphs and state](23-loops-graphs-and-state).)
 
 **Stopping condition.** A rule that ends the agent loop: the task is done, a step limit is
 reached, or it pauses for a human. (See [Workflows vs agents](06-workflows-vs-agents).)
