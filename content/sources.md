@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-1178 citations across 136 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+1216 citations across 137 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -323,6 +323,47 @@ This page lists every external link cited anywhere in the garden, article by art
 32. [GAO reported in June 2021](https://www.gao.gov/products/gao-21-246)
 33. [The Navy said in February](https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4403587/uss-pinckney-departs-singapore-after-ship-repair-and-maintenance-exercise/)
 34. [Naval News reported in April](https://www.navalnews.com/naval-news/2026/04/u-s-navy-rehearses-wartime-repairs-in-central-philippine-port/)
+
+### [The Waterfront Brief, Vol. 1 No. 14 (week 42)](projects/waterfront-brief/2026-w42)
+
+1. [The Navy said on October 8](https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4622364/uss-arleigh-burke-enters-dry-dock-in-spain-expanding-the-us-navys-forward-deplo/)
+2. [The Yokosuka repair facility's own history page says](https://www.navsea.navy.mil/Home/RMC/SRF-JRMC/About-Us/Our-History/)
+3. [NAVSEA said in August 2021](https://www.navsea.navy.mil/Media/News/Article-View/Article/2720461/srf-jrmc-det-sasebo-completes-third-consecutive-docking-selected-restricted-ava/)
+4. [according to the company's Wikipedia entry](https://en.wikipedia.org/wiki/Sasebo_Heavy_Industries)
+5. [The Navy said on March 13, 2025](https://www.navy.mil/Press-Office/News-Stories/Article/4118860/usns-wally-schirra-completes-major-maintenance-at-south-korean-shipyard/)
+6. [NAVSEA said in March 2024](https://www.navsea.navy.mil/Media/News/Article/3724714/uss-roosevelt-completes-maintenance-period-in-spain/)
+7. [Navantia said in a January 2021 release carried by Naval News](https://www.navalnews.com/?p=19402)
+8. [The 6th Fleet said on October 14](https://www.c6f.navy.mil/Press-Room/News/Article/4625053/uss-john-basilone-arrives-at-new-homeport-in-rota-spain/)
+9. [The Navy's May 2026 shipbuilding plan](https://media.defense.gov/2026/May/11/2003928909/-1/-1/1/NAVY%20SHIPBUILDING%20PLAN%20MAY%202026.PDF)
+10. [Inside Defense reported in July](https://insidedefense.com/insider/navy-award-asx-sub-tender-production-nassco)
+11. [The continuing resolution, H.R. 6500](https://www.congress.gov/bill/119th-congress/house-bill/6500/text)
+12. [The House passed its authorization bill, H.R. 8800, on July 22](https://www.congress.gov/bill/119th-congress/house-bill/8800/text)
+13. [The Senate Armed Services Committee's bill, as reported June 15](https://www.govinfo.gov/content/pkg/BILLS-119s4784rs/html/BILLS-119s4784rs.htm)
+14. [House appropriators recommended \$2.2 billion of the \$4.4 billion in their June 26 report](https://www.govinfo.gov/content/pkg/CRPT-119hrpt715/html/CRPT-119hrpt715.htm)
+15. [The Pacific submarine force dates Emory S. Land's commissioning](https://www.csp.navy.mil/SUBPAC-Commands/Submarine-Tenders/USS-Emory-S-Land-AS-39/About-the-Ship/History/)
+16. [Frank Cable's](https://www.csp.navy.mil/frankcable/About/)
+17. [The Navy said in a December 2025 release](https://www.dvidshub.net/news/555284/emory-s-land-holds-change-command)
+18. [The Defense Department announced on February 13](https://www.war.gov/News/Contracts/Contract/Article/4406926/contracts-for-feb-13-2026/)
+19. [A Navy photo shows Frank Cable arriving at Mare Island on November 2, 2022](https://www.dvidshub.net/image/7497645/uss-frank-cable-arrives-vallejo)
+20. [the Navy said it returned to Guam on October 6, 2023](https://www.dvidshub.net/news/455686/frank-cable-returns-home-repairs)
+21. [The Department of War's contract list for August 11](https://www.war.gov/News/Contracts/Contract/Article/4568855/contracts-for-aug-11-2026/)
+22. [A NAVSEA spokeswoman told Breaking Defense in May 2024](https://breakingdefense.com/2024/05/amphib-boxer-soon-to-be-sidelined-again-for-18-months-of-maintenance/)
+23. [NAVSEA's synopsis of that solicitation, in an undated copy on BidNet](https://www.bidnetdirect.com/not-stated/solicitations/open-bids/statewide/USS-BOXER-LHD-4-FY25-Selected-Restricted-Availability/2520079002)
+24. [Stars and Stripes reported in April](https://www.stripes.com/branches/navy/2026-04-08/navy-ships-middle-east-21319028.html)
+25. [USNI News reported on September 23](https://news.usni.org/2026/09/23/3-years-of-middle-east-combat-altering-how-navy-supplies-maintains-fleet-leaders-say)
+26. [The Mid-Atlantic Regional Maintenance Center said on September 9](https://www.dvidshub.net/news/574189/mid-atlantic-regional-maintenance-center-technicians-use-augmented-reality-bring-real-time-support-fleet)
+27. [Port Hueneme reported in September 2025](https://www.dvidshub.net/news/547350/remote-maintenance-system-kits-track-fleet-deployment)
+28. [Port Hueneme's commanding officer said in May 2025](https://www.dvidshub.net/news/498000/first-augmented-reality-maintenance-systems-operational-five-ships)
+29. [Matthew Cole and Nicholas Bernstein of Port Hueneme wrote up the fielding for the Naval](https://dair.nps.edu/bitstream/123456789/5537/1/SYM-AM-26-100.pdf)
+30. [The memorandum of August 13](https://www.whitehouse.gov/presidential-actions/2026/08/rebuilding-the-united-states-navy-and-americas-shipbuilding-industrial-base/)
+31. [USNI News reported on August 24](https://news.usni.org/2026/08/24/uss-gerald-r-ford-sortie-test-exceeded-nimitz-class-performance-says-cno-caudle)
+32. [Janes reported on October 13](https://www.janes.com/defence-intelligence-insights/defence-news/air/hii-ceo-notes-hurdles-of-switching-from-emals-to-steam-catapults)
+33. [Stars and Stripes reported](https://www.stripes.com/branches/navy/2026-08-24/navy-magnet-steam-catapults-22646428.html)
+34. [told the President on August 17](https://capitolreleases.com/releases/9ed47eef-25f4-401f-91bd-7875b41f24fb)
+35. [per the Department of War's September 7, 2023 announcement](https://www.war.gov/News/Contracts/Contract/Article/3519441/)
+36. [The Department of War announced on September 18](https://www.war.gov/News/Contracts/Contract/Article/4605498/contracts-for-sept-18-2026/)
+37. [per Military & Aerospace Electronics](https://www.militaryaerospace.com/power/article/55407024/kato-engineering-wins-493-million-emals-sustainment-contract)
+38. [The White House press secretary said on October 13](https://rollcall.com/factbase/trump/transcript/donald-trump-press-conference-briefing-katie-zacharia-october-13-2026/)
 
 ### [The Waterfront Brief: reference shelf](projects/waterfront-brief/reference-shelf)
 

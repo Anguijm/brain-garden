@@ -40,6 +40,15 @@ last checked.
 Each issue is readable on the web (with links into the rest of this garden) and
 downloadable as the print PDF (source links only).
 
+- **[Vol. 1, No. 14, Week 42, October 2026](2026-w42)**
+  ([download the PDF](pdf/2026-w42.831801e4.pdf)): a Rota destroyer in a Spanish commercial dock, the
+  first for the Rota ships, set beside Yokosuka's own docks, Sasebo's shared one and the Korean
+  overhaul; Guam's two 1979 submarine tenders and the three answers Congress has given on
+  replacing them; Boxer's next period, awarded mid-deployment, running to October 2028; Norfolk
+  technicians fixing deployed ships over video with the sailor doing the hands-on work; and the
+  steam catapult plan that was due October 12 with nothing public saying it arrived, which scores
+  the August prediction.
+
 - **[Vol. 1, No. 13, Week 41, October 2026](2026-w41)**
   ([download the PDF](pdf/2026-w41.df22922b.pdf)): the public shipyards at their smallest since 2018 while
   private yards hire to a record, with public-yard trades facing a frozen raise; the \$1.5 billion
