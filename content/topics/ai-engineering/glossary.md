@@ -61,6 +61,10 @@ tone, a format, or a way of working. It changes behavior, not facts. (See
 
 **Function calling.** Another name for tool use. (See [Tools and MCP](07-tools-and-mcp).)
 
+**GenAI.mil.** The Department of War's generative AI portal, reachable with a Common Access
+Card from the unclassified network, carrying Gemini, ChatGPT Mil and Grok at Impact Level 5.
+(See [GenAI.mil: what it can automate](24-genai-mil-what-it-can-automate).)
+
 **Golden dataset.** A set of example questions, each paired with the ideal answer, used as
 the standard you grade against. (See [Testing](11-evaluation-and-testing).)
 
@@ -80,6 +84,11 @@ names and codes that meaning alone can miss. (See [Retrieval and RAG](10-retriev
 
 **Idempotent.** Safe to run twice: a step that leaves the same result whether it ran once or
 ran again after a crash. (See [Loops, graphs and state](23-loops-graphs-and-state).)
+
+**Impact Level 5 (IL5).** The Defense Information Systems Agency's cloud level for
+Controlled Unclassified Information that needs more protection than Level 4; still
+unclassified, one step below the SECRET level. (See
+[GenAI.mil: what it can automate](24-genai-mil-what-it-can-automate).)
 
 **Latency.** The delay before you get an answer, the wait time. (See
 [Cost and speed](04-cost-and-speed).)

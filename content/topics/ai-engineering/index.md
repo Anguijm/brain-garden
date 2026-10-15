@@ -178,6 +178,13 @@ window to the next.
   camp keeps its state, the five ways state fails (lost, doubled, misread, bloated, split),
   and the widely quoted "60 percent of incidents are state failures" figure that is not in
   the survey it is attributed to.
+- **[GenAI.mil: what it can automate, and what it cannot](24-genai-mil-what-it-can-automate)**:
+  a worked case of the chapter above. The Department's Impact Level 5 portal now gives
+  each of its three apps standing instructions and persistent projects, so the same
+  analysis can be run on each new document, but there is no API and no scheduler, so a
+  person starts every run. Who gets in, what may go in, what the vendors keep, ChatGPT
+  Mil's limits read inside the app (including a 60-day retention clock), the Navy memo,
+  and where Claude stands after the D.C. Circuit's ruling of 2026-09-25.
 
 ## See also
 

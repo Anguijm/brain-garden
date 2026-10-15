@@ -282,7 +282,10 @@ Stop on something that cannot lie.
 - Claude Code's Routines (the cloud scheduler) were not read; the chapter cites the
   scheduled-tasks page's pointer to them, nothing more.
 - GenAI.mil, the Department's IL5 portal with Gemini, Grok and ChatGPT: can it run a loop or
-  a graph at all, or only a chat? Being looked into separately (2026-10-15).
+  a graph at all, or only a chat? Answered the same day in
+  [GenAI.mil: what it can automate](24-genai-mil-what-it-can-automate): one node with its
+  state, no outer loop, and a 60-day retention clock that is the lost-state failure with a
+  number on it.
 
 ## Source ledger
 
@@ -311,6 +314,7 @@ Stop on something that cannot lie.
 - **[Context](09-context-engineering)**: compaction and note-taking, the loop camp's state tools.
 - **[Memory](08-memory-for-agents)**: the store side of the checkpointer-versus-store split.
 - **[Many agents at once](12-multi-agent-systems)**: the compounding-error arithmetic.
+- **[GenAI.mil: what it can automate](24-genai-mil-what-it-can-automate)**: a worked case, one node and its state with no outer loop.
 
 ## Sources
 

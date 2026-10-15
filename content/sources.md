@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-1155 citations across 135 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+1178 citations across 136 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -537,6 +537,32 @@ This page lists every external link cited anywhere in the garden, article by art
 13. [LangChain, State of Agent Engineering](https://www.langchain.com/state-of-agent-engineering)
 14. [UD blog](https://ud.hk/en/blogs/insight/article/2026-08-21-graph-engineering-ai-agents)
 15. [Anthropic, Building effective agents](https://www.anthropic.com/engineering/building-effective-agents)
+
+### [GenAI.mil: what it can automate, and what it cannot](topics/ai-engineering/24-genai-mil-what-it-can-automate)
+
+1. [War Department release, dated 2025-12-09 in the Department's release feed](https://www.war.gov/News/Releases/Release/Article/4354916/the-war-department-unleashes-ai-on-new-genaimil-platform/)
+2. [War Department release, 2025-12-22](https://www.war.gov/News/Releases/Release/Article/4366573/the-war-department-to-expand-ai-arsenal-on-genaimil-with-xai/)
+3. [War Department release, 2026-02-09](https://www.war.gov/News/Releases/Release/Article/4401775/genaimils-rapid-expansion-continues-with-openai-partnership/)
+4. [ChatGPT Mil release](https://www.war.gov/News/Releases/Release/Article/4586352/department-of-war-launches-openais-chatgpt-mil-on-genaimil/)
+5. [Grok for Government release](https://www.war.gov/News/Releases/Release/Article/4586482/department-of-war-launches-starshield-ais-grok-for-government-on-genaimil/)
+6. [DefenseScoop, 2026-08-31](https://defensescoop.com/?p=131114)
+7. [War Department story, 2026-09-30](https://www.war.gov/News/News-Stories/Article/Article/4615232/government-ai-models-advancing-increasing-productivity/)
+8. [Google Public Sector blog, undated in the captured text](https://cloud.google.com/blog/topics/public-sector/gemini-for-government-build-custom-ai-agents-for-unclassified-work-on-genaimil/)
+9. [Nextgov, 2026-04-27](https://www.nextgov.com/defense/2026/04/pentagon-adds-googles-latest-model-genaimil-usage-soars/413127/)
+10. [MARADMIN 018/26](https://www.marines.mil/News/Messages/Messages-Display/Article/4383324/enterprise-generative-artificial-intelligence-availability-and-governance/)
+11. [DON CIO, joint memo of 2026-01-28](https://www.doncio.navy.mil/ContentView.aspx?ID=20455)
+12. [DefenseScoop commentary, 2026-01-12](https://defensescoop.com/?p=123238)
+13. [portal's own FAQ at would say, and it is behind the CAC wall](https://genai.mil/resources/faq)
+14. [War Department story on the launch, undated on the page](https://www.war.gov/News/News-Stories/Article/Article/4355797/hegseth-introduces-department-to-new-ai-tool/)
+15. [DON CIO memo of 2026-03-16](https://www.doncio.navy.mil/ContentView.aspx?id=20459)
+16. [DISA Cloud Computing SRG, web page edition, undated on the page](https://dl.dod.cyber.mil/wp-content/uploads/cloud/SRG/index-old.html)
+17. [at and the staged copy is the older HTML edition.](https://public.cyber.mil/dccs/)
+18. [Google Cloud press release, 2025-12-09](https://www.googlecloudpresscorner.com/2025-12-09-Chief-Digital-and-Artificial-Intelligence-Office-Selects-Google-Clouds-AI-to-Power-GenAI-mil)
+19. [OpenAI, "Bringing ChatGPT to GenAI.mil"](https://openai.com/index/bringing-chatgpt-to-genaimil/)
+20. [Order on cross motions for summary judgment, docket 250, dated 2026-08-27](https://storage.courtlistener.com/recap/gov.uscourts.cand.465515/gov.uscourts.cand.465515.250.0_1.pdf)
+21. [TechCrunch, 2026-08-28](https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/)
+22. [D.C. Circuit opinion, argued 2026-05-19, decided 2026-09-25](https://www.courtlistener.com/opinion/10983481/anthropic-pbc-v-united-states-department-of-war/)
+23. [Nextgov, 2026-09-28](https://www.nextgov.com/acquisition/2026/09/anthropic-lawsuit-supply-chain-risk/416255/)
 
 ## Business development
 
