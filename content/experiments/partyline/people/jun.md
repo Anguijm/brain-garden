@@ -14,13 +14,13 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 
 | scale | now | resting |
 |---|---|---|
-| social | 70 | 80 |
-| tone | 91 | 85 |
-| clarity | 47 | 45 |
-| creativity | 75 | 70 |
-| energy | 73 | 75 |
-| confidence | 73 | 70 |
-| affection | 50 | 45 |
+| social | 71 | 80 |
+| tone | 90 | 85 |
+| clarity | 50 | 45 |
+| creativity | 76 | 70 |
+| energy | 88 | 75 |
+| confidence | 71 | 70 |
+| affection | 52 | 45 |
 
 ## How they feel about the others
 
