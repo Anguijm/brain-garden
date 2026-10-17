@@ -8,6 +8,11 @@ than raw research. Newest is first.
 
 ## Latest
 
+- **[Direct Instruction at home](topics/parenting/direct-instruction-at-home)**: can a parent teach a child to read in
+  15 to 20 minutes a day? Yes, with Engelmann's *Teach Your Child to Read in 100 Easy Lessons*. What Direct
+  Instruction is, the evidence and its critics, the bilingual English-and-Japanese question, what to do with a
+  three-year-old, and links to the reading and math materials worth buying.
+
 - **[NewHome](projects/newhome/)**: remodeling a house in Japan, tracked from demo to
   move-in: the area-by-area [plan](projects/newhome/plan), a dated
   [decision log](projects/newhome/decisions), an [idea ledger](projects/newhome/ideas),

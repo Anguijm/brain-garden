@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-1216 citations across 137 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+1274 citations across 138 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -1380,6 +1380,69 @@ This page lists every external link cited anywhere in the garden, article by art
 5. [Sound on Sound review](https://www.soundonsound.com/reviews/teenage-engineering-ep-133-ko-ii)
 6. [MusicRadar review and OS 2.0 coverage](https://www.musicradar.com)
 7. [SineSquares hands-on review](https://www.sinesquares.net/musicgear/teenage-engineering-ep-133-ko-ii-review)
+
+## Parenting
+
+### [Direct Instruction at home: teaching a child to read in 20 minutes a day](topics/parenting/direct-instruction-at-home)
+
+1. [S3](https://www.apmreports.org/episode/2026/10/15/sold-a-story-s2-e1-its-not-just-reading)
+2. [S4](https://www.apmreports.org/episode/2026/10/15/sold-a-story-s2-e2-the-remedy-is-always-teaching)
+3. [S10](https://www.mheducation.com/prek-12/resources/research/library/literacy/direct-instruction-methodology.html)
+4. [S38](https://mheducation.co.uk/schools/elementary/direct-instruction/connecting-math-concepts)
+5. [S39](https://info.mheducation.com/rs/128-SJW-347/images/2025-EURO-DI-Catalogue.pdf)
+6. [S1](https://www.apmreports.org/story/2026/10/15/what-is-direct-instruction)
+7. [S9](https://pmc.ncbi.nlm.nih.gov/articles/PMC8458552/)
+8. [S8](https://darkwing.uoregon.edu/~bgrossen/pubs/aftdi.htm)
+9. [S11](https://www.aft.org/sites/default/files/periodicals/Rosenshine.pdf)
+10. [S5](https://features.apmreports.org/sold-a-story/season-1/)
+11. [S2](https://features.apmreports.org/sold-a-story/season-2/)
+12. [S7](https://en.wikipedia.org/wiki/Sold_a_Story)
+13. [S14](https://en.wikipedia.org/wiki/Project_Follow_Through)
+14. [S15](https://psych.athabascau.ca/open/engelmann/direct-evid.php)
+15. [S16](https://doi.org/10.17763/haer.48.2.j2167r4594027x87)
+16. [S12](https://scholarsbank.uoregon.edu/items/9c5db747-52be-4bd8-8771-b05d0f7c0b01/full)
+17. [S13](https://scholarsbank.uoregon.edu/bitstreams/e2c9095f-b061-4d56-a3a4-b8f4d76970d1/download)
+18. [S17](https://ecrp.illinois.edu/v6n1/weikart.html)
+19. [doi:10.1016/s0885-2006(97)90009-0](https://doi.org/10.1016/s0885-2006(97)90009-0)
+20. [S20](https://doi.org/10.3102/00346543071003393)
+21. [S21](https://doi.org/10.1598/rrq.36.3.2)
+22. [S22](https://doi.org/10.14507/epaa.v11n15.2003)
+23. [S23](https://doi.org/10.1007/s10648-019-09515-y)
+24. [S25](https://www.startreading.com/)
+25. [S26](https://www.startreading.com/faq)
+26. [S19](https://fordhaminstitute.org/national/commentary/addressing-learning-loss-one-easy-lesson)
+27. [S29](https://avidreader.com.au/p/teach-your-child-to-read-in-100-easy-lessons)
+28. [S27](https://centralreach.com/wp-content/uploads/2019/04/2016-McConnell-and-Kubina.pdf)
+29. [S34](https://thecurriculumchoice.com/funnix-reading-program-review)
+30. [S31](https://www.funnix.com/)
+31. [S32](https://www.funnix.com/pricing)
+32. [S33](https://www.funnix.com/faq)
+33. [S35](https://hip2save.com/2012/12/12/free-funnix-beginning-math-download-100-narrated-lessons-teach-children-counting/)
+34. [S36](https://digitalcommons.longwood.edu/etd/95)
+35. [S37](https://www.mheducation.com/prek-12/product/9781264324491.html)
+36. [S40](https://ufli.education.ufl.edu/foundations-materials/)
+37. [S41](https://ufli.education.ufl.edu/foundations/home/)
+38. [S42](https://bobbooks.com/)
+39. [S30](https://www.amazon.co.jp/dp/0671631985)
+40. [S43](https://doi.org/10.1111/j.1467-9817.2010.01477.x)
+41. [S44](https://dash.harvard.edu/server/api/core/bitstreams/7312037d-0265-6bd4-e053-0100007fdf3b/content)
+42. [S45](https://www.bilingualism-matters.ppls.ed.ac.uk/?p=11061)
+43. [S46](https://eric.ed.gov/?id=EJ928516)
+44. [S47](https://pubmed.ncbi.nlm.nih.gov/17720344/)
+45. [S48](https://doi.org/10.1016/s0010-0277(99)00016-5)
+46. [S50](https://doi.org/10.1111/cdev.12745)
+47. [epub.uni-regensburg.de/62808](https://epub.uni-regensburg.de/62808/)
+48. [S24](https://www.nichd.nih.gov/publications/pubs/Documents/NELPEarlyBeginnings09.pdf)
+49. [S52](https://doi.org/10.1080/10409280701838603)
+50. [S53](https://doi.org/10.3102/0034654309332561)
+51. [S54](https://doi.org/10.1111/j.1467-8624.2007.01131.x)
+52. [S55](https://doi.org/10.1111/j.0956-7976.2004.00737.x)
+53. [S56](https://doi.org/10.3102/0013189x16633182)
+54. [S57](https://doi.org/10.1111/cdev.13232)
+55. [S58](https://doi.org/10.1002/acp.2997)
+56. [Give Your Child a Superior Mind](https://www.zigsite.com/nonDI/prologue_to_give_your_child_a_superior_mind.html)
+57. [https://hechingerreport.org/?p=118281](https://hechingerreport.org/?p=118281)
+58. [https://doi.org/10.1007/s41809-023-00126-2](https://doi.org/10.1007/s41809-023-00126-2)
 
 ## Pets
 

@@ -14,12 +14,12 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 
 | scale | now | resting |
 |---|---|---|
-| social | 48 | 65 |
-| tone | 88 | 70 |
-| clarity | 60 | 50 |
-| creativity | 82 | 65 |
-| energy | 88 | 70 |
-| confidence | 57 | 45 |
+| social | 44 | 65 |
+| tone | 92 | 70 |
+| clarity | 62 | 50 |
+| creativity | 87 | 65 |
+| energy | 89 | 70 |
+| confidence | 61 | 45 |
 | affection | 100 | 85 |
 
 ## How they feel about the others
@@ -30,7 +30,7 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 | Theo Lindqvist | 74 | 66 | 17 | 63 |
 | Jun Park | 75 | 10 | 15 | 67 |
 | Priya Nair | 74 | 10 | 19 | 67 |
-| Ezra Okafor | 80 | 10 | 11 | 74 |
+| Ezra Okafor | 83 | 10 | 11 | 76 |
 
 ## Memories they will keep forever
 
