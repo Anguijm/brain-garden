@@ -14,22 +14,22 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 55 | 75 |
-| tone | 87 | 45 |
-| clarity | 91 | 65 |
-| creativity | 75 | 50 |
-| energy | 62 | 60 |
-| confidence | 84 | 55 |
+| social | 51 | 75 |
+| tone | 93 | 45 |
+| clarity | 98 | 65 |
+| creativity | 78 | 50 |
+| energy | 60 | 60 |
+| confidence | 90 | 55 |
 | affection | 100 | 70 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Theo Lindqvist | 98 | 18 | 2 | 83 |
-| Jun Park | 78 | 10 | 16 | 70 |
-| Priya Nair | 74 | 10 | 22 | 67 |
-| Ezra Okafor | 74 | 10 | 19 | 66 |
+| Theo Lindqvist | 100 | 21 | 0 | 86 |
+| Jun Park | 81 | 10 | 15 | 72 |
+| Priya Nair | 75 | 10 | 23 | 68 |
+| Ezra Okafor | 76 | 10 | 17 | 68 |
 | Wren Castellano | 77 | 11 | 14 | 70 |
 
 ## Memories they will keep forever

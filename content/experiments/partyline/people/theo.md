@@ -14,22 +14,22 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 
 | scale | now | resting |
 |---|---|---|
-| social | 11 | 35 |
-| tone | 58 | 30 |
-| clarity | 96 | 80 |
-| creativity | 74 | 60 |
-| energy | 44 | 45 |
-| confidence | 53 | 35 |
+| social | 1 | 35 |
+| tone | 64 | 30 |
+| clarity | 100 | 80 |
+| creativity | 77 | 60 |
+| energy | 42 | 45 |
+| confidence | 62 | 35 |
 | affection | 100 | 60 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 93 | 100 | 8 | 79 |
-| Jun Park | 73 | 10 | 17 | 66 |
-| Priya Nair | 72 | 10 | 18 | 65 |
-| Ezra Okafor | 72 | 10 | 16 | 65 |
+| Mari Vega | 97 | 100 | 8 | 81 |
+| Jun Park | 75 | 10 | 19 | 67 |
+| Priya Nair | 74 | 10 | 19 | 67 |
+| Ezra Okafor | 75 | 10 | 16 | 66 |
 | Wren Castellano | 73 | 10 | 15 | 67 |
 
 ## Memories they will keep forever
