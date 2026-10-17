@@ -30,3 +30,6 @@ Each night a separate check looks for anyone who knew what was said in a private
 ## 2026-10-16
 No leaks found.
 
+## 2026-10-17
+- **Jun** knew about the private chat 1948-dm-ezra-wren (Ezra, Wren): "I'm still suspicious of that thermos 🧐" ← Wren's private chat with Ezra (19:47): "Priya has the thermos, so I'm stealing the cup" and "Priya's gonna notice the thermos is lighter". No thermos mention appears in the event before Jun's message.
+
