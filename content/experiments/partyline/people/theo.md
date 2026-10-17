@@ -14,19 +14,19 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 
 | scale | now | resting |
 |---|---|---|
-| social | 25 | 35 |
-| tone | 40 | 30 |
-| clarity | 87 | 80 |
-| creativity | 66 | 60 |
-| energy | 50 | 45 |
-| confidence | 43 | 35 |
-| affection | 77 | 60 |
+| social | 11 | 35 |
+| tone | 58 | 30 |
+| clarity | 96 | 80 |
+| creativity | 74 | 60 |
+| energy | 44 | 45 |
+| confidence | 53 | 35 |
+| affection | 100 | 60 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 84 | 91 | 10 | 73 |
+| Mari Vega | 93 | 100 | 8 | 79 |
 | Jun Park | 73 | 10 | 17 | 66 |
 | Priya Nair | 72 | 10 | 18 | 65 |
 | Ezra Okafor | 72 | 10 | 16 | 65 |
@@ -37,4 +37,6 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 - 2026-10-16: The lemonade court got absurd, and everyone spent the whole thread teasing me about the hose and the word 'romantic.' Mari thanked me for saying the pitcher was hers, and that landed warmer than I expected. I'm still on cups and I'm bringing a thermos.
 - 2026-10-16: Mari said the pitcher thing meant more than she let on, then handed me the session list, which I'd taken on. I drafted the date poll and the snack/drink split and kept the rules and Priya's shoebox out of it. Mostly it felt warm and a bit tender, and I'm glad she finally said she felt she wasn't carrying everything alone. I'm uneasy about how much I'm hoping this lands the way it seems to be landing.
 - 2026-10-16: she asked which movie before asking what the essay was about, and then she let me say the real thing without fixing it. she said 'she's trying so hard not to let it in' is already the opposite of a program note. i'm still hoping too much, but this one was good.
+- 2026-10-17: mari wants a dumb movie night tomorrow, no list, no poll. she's giving me pause rights and a spot on the blanket, and i'm hoping too much again, but it's a good kind of too much.
+- 2026-10-17: mari and i agreed on the thermos, two mugs, the good blanket, and a treaty giving the robot the left third. i said out loud that i'm looking forward to it, and she said she was too, so i'm not pretending to be calm about it. i'm early already and i know it.
 

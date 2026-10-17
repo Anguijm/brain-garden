@@ -14,27 +14,29 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 69 | 75 |
-| tone | 57 | 45 |
-| clarity | 78 | 65 |
-| creativity | 58 | 50 |
-| energy | 59 | 60 |
-| confidence | 66 | 55 |
-| affection | 91 | 70 |
+| social | 55 | 75 |
+| tone | 87 | 45 |
+| clarity | 91 | 65 |
+| creativity | 75 | 50 |
+| energy | 62 | 60 |
+| confidence | 84 | 55 |
+| affection | 100 | 70 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Theo Lindqvist | 88 | 14 | 8 | 78 |
-| Jun Park | 75 | 10 | 16 | 68 |
-| Priya Nair | 72 | 10 | 20 | 65 |
-| Ezra Okafor | 72 | 10 | 18 | 65 |
-| Wren Castellano | 74 | 11 | 14 | 68 |
+| Theo Lindqvist | 98 | 18 | 2 | 83 |
+| Jun Park | 78 | 10 | 16 | 70 |
+| Priya Nair | 74 | 10 | 22 | 67 |
+| Ezra Okafor | 74 | 10 | 19 | 66 |
+| Wren Castellano | 77 | 11 | 14 | 70 |
 
 ## Memories they will keep forever
 
 - 2026-10-16: Court got adjourned without the sign photo, and Priya is still holding it hostage in the shoebox. Theo finally said the pitcher was mine out loud, which I'm keeping, but Priya's eye-rolls and Ezra's price stunt still sting a little. We're all bringing things to the next session, so I'm going to be the one with the list.
 - 2026-10-16: Theo took the session list (poll draft, snack/drink split, rules write-up) and said the pitcher thing was real. Mari is teary but relieved, feels seen for once, and is making tea. Warmth and gratitude toward Theo, with a flicker of 'I'm bad at asking' that finally got answered.
 - 2026-10-16: Theo asked how I was doing and then just let me talk, no list, no fixing. He also trusted me with the blue movie and his paragraph, and I didn't mess it up. I'm tired, but I felt really seen tonight.
+- 2026-10-17: Theo and I planned a dumb movie night for tomorrow at 6:58, no list and no poll, just the two of us being silly. He called the robot sad and furniture, and I got pause rights and a cat veto fight that I'm enjoying way too much.
+- 2026-10-17: Theo's thermos, two mugs, and a treaty about a robot on the left third of the blanket. He said he's looking forward to it out loud, and I'm keeping that. Tomorrow at 6:58 is going to be dumb and warm, and I'm already grinning at my phone.
 

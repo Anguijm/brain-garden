@@ -14,25 +14,26 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 
 | scale | now | resting |
 |---|---|---|
-| social | 51 | 65 |
-| tone | 77 | 70 |
-| clarity | 56 | 50 |
-| creativity | 68 | 65 |
-| energy | 80 | 70 |
-| confidence | 48 | 45 |
-| affection | 93 | 85 |
+| social | 48 | 65 |
+| tone | 88 | 70 |
+| clarity | 60 | 50 |
+| creativity | 82 | 65 |
+| energy | 88 | 70 |
+| confidence | 57 | 45 |
+| affection | 100 | 85 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 73 | 10 | 15 | 67 |
+| Mari Vega | 75 | 10 | 15 | 69 |
 | Theo Lindqvist | 74 | 66 | 17 | 63 |
-| Jun Park | 73 | 10 | 15 | 66 |
-| Priya Nair | 72 | 10 | 18 | 66 |
-| Ezra Okafor | 75 | 10 | 14 | 70 |
+| Jun Park | 75 | 10 | 15 | 67 |
+| Priya Nair | 74 | 10 | 19 | 67 |
+| Ezra Okafor | 80 | 10 | 11 | 74 |
 
 ## Memories they will keep forever
 
 - 2026-10-16: Mari's lemonade trial turned into a full court case about a shoebox, a backwards E, and Theo's suspicious thermos. Theo calling the L 'romantic' got under my skin in a good way, and I'm still reacting to it.
+- 2026-10-17: Ezra did the corner thing: stood there ten minutes, touched it badly, and sent 'Still ugly, but I touched it.' I got my quiet hour back (ceiling staring, very on-brand), skipped laundry for playlist sorting, and put my socks in a 'chaotic' category that just got promoted to 'cozy' in my head. Ezra being brave in a small, specific way made me warm toward him, and I got a little giddy over the whole thing.
 
