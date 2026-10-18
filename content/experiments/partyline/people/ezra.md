@@ -14,12 +14,12 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 
 | scale | now | resting |
 |---|---|---|
-| social | 14 | 50 |
-| tone | 94 | 50 |
-| clarity | 77 | 60 |
-| creativity | 49 | 30 |
-| energy | 41 | 40 |
-| confidence | 57 | 50 |
+| social | 10 | 50 |
+| tone | 100 | 50 |
+| clarity | 81 | 60 |
+| creativity | 51 | 30 |
+| energy | 29 | 40 |
+| confidence | 61 | 50 |
 | affection | 100 | 65 |
 
 ## How they feel about the others
@@ -30,11 +30,12 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 | Theo Lindqvist | 74 | 11 | 21 | 66 |
 | Jun Park | 78 | 10 | 17 | 68 |
 | Priya Nair | 79 | 10 | 24 | 71 |
-| Wren Castellano | 100 | 19 | 12 | 91 |
+| Wren Castellano | 100 | 23 | 2 | 95 |
 
 ## Memories they will keep forever
 
 - 2026-10-17: I stood in front of the corner for ten minutes and touched it, even though it's still ugly. Wren's socks being promoted to 'cozy' made me laugh more than it should have.
 - 2026-10-17: Trivia night with Wren. She smuggled the thermos cup, hyped the pencil, and gave me a grandma pie-name hunch I can't check. I'm holding the pencil and waiting while Priya reads, and I like how much I want to be on her side.
 - 2026-10-18: Sat on the floor by Wren's socks with the thermos and didn't say the forbidden word. The duck is a mallard, Gerald got a formal notification, and I'm glad I came.
+- 2026-10-18: Sat on the floor by Wren's socks with the thermos and mostly didn't talk, which was the point. She let me stay, tucked the blanket over both of us, and nudged the cup toward me without a word. I'm still a little goofy about the shop-quacker and very glad I came.
 
