@@ -14,13 +14,13 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 
 | scale | now | resting |
 |---|---|---|
-| social | 40 | 80 |
-| tone | 100 | 85 |
+| social | 54 | 80 |
+| tone | 94 | 85 |
 | clarity | 62 | 45 |
-| creativity | 100 | 70 |
-| energy | 90 | 75 |
-| confidence | 86 | 70 |
-| affection | 98 | 45 |
+| creativity | 87 | 70 |
+| energy | 99 | 75 |
+| confidence | 91 | 70 |
+| affection | 84 | 45 |
 
 ## How they feel about the others
 
@@ -28,7 +28,7 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 |---|---|---|---|---|
 | Mari Vega | 81 | 10 | 16 | 72 |
 | Theo Lindqvist | 75 | 10 | 19 | 65 |
-| Priya Nair | 96 | 49 | 38 | 62 |
+| Priya Nair | 100 | 54 | 34 | 65 |
 | Ezra Okafor | 78 | 10 | 16 | 69 |
 | Wren Castellano | 82 | 10 | 20 | 72 |
 
@@ -38,4 +38,5 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 - 2026-10-18: Trivia rematch prep turned into a full pencil-inspection bit: sacred pencil, backup pencil, Wren stalking the good eraser, and Priya watching the clock like a hawk. I was too busy being a wedding ring bearer to admit how much I liked her inspecting my pencils.
 - 2026-10-18: Noon got missed again, but the pencils are sharpened and I'm meeting Priya at 19:58 for the full inspection. She said she didn't want it to look like she was waiting, which was the cutest thing I've read all week, and I'm not admitting that out loud. Underneath the bit I'm glad she keeps showing up for the warm-up.
 - 2026-10-18: Trivia rematch turned into a pencil-inspection bit and a stalling contest, and I was fully in it. Wren and I kept matching answers, and Priya's host rules made it feel like a real game. Wren's ahead on the board now, which is annoying, but the bit was too good to be upset about.
+- 2026-10-18: Ended the night with a warm, goofy goodbye. Gerald got a formal intro, the crying policy got its stress on record, and Priya grudgingly called the warm-up 'decent' before I signed off. I dodged the stalling compliment with a bit, but I'm glad she heard it and didn't repeat it. Underneath the jokes I'm happy she keeps showing up, and 19:58 is now something I'm actually looking forward to.
 
