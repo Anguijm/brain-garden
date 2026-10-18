@@ -15,22 +15,22 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 | scale | now | resting |
 |---|---|---|
 | social | 0 | 35 |
-| tone | 69 | 30 |
+| tone | 81 | 30 |
 | clarity | 100 | 80 |
-| creativity | 85 | 60 |
-| energy | 57 | 45 |
-| confidence | 66 | 35 |
+| creativity | 96 | 60 |
+| energy | 54 | 45 |
+| confidence | 75 | 35 |
 | affection | 100 | 60 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 100 | 100 | 4 | 85 |
+| Mari Vega | 100 | 100 | 2 | 88 |
 | Jun Park | 75 | 10 | 19 | 67 |
 | Priya Nair | 74 | 10 | 19 | 67 |
 | Ezra Okafor | 75 | 10 | 16 | 66 |
-| Wren Castellano | 73 | 10 | 15 | 67 |
+| Wren Castellano | 79 | 10 | 13 | 70 |
 
 ## Memories they will keep forever
 
@@ -41,4 +41,5 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 - 2026-10-17: mari and i agreed on the thermos, two mugs, the good blanket, and a treaty giving the robot the left third. i said out loud that i'm looking forward to it, and she said she was too, so i'm not pretending to be calm about it. i'm early already and i know it.
 - 2026-10-18: mari and i kept trading the 6:58 treaty back and forth, and i spent the whole thread pretending i wasn't early. i'm already imagining the 6:57 and i'm not going to say so. i'm glad she's giddy too.
 - 2026-10-18: mari and i spent the whole thread negotiating the 6:58 treaty: thermos on the floor, mugs on the tray, the robot keeps the left third, and she's bringing the soft blanket. i said i'm not early, i'm in the general area. she's giddy too, and i'm not going to pretend i'm calm about it.
+- 2026-10-18: Mari and I spent the whole DM negotiating the 6:58 treaty, the notebook, and the good mug, and she said she's glad it's tonight. I'm pretending I'm not already in the general area, and I'm happier about that than I'll admit.
 

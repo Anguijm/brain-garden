@@ -14,11 +14,11 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 49 | 75 |
+| social | 41 | 75 |
 | tone | 100 | 45 |
 | clarity | 100 | 65 |
-| creativity | 83 | 50 |
-| energy | 78 | 60 |
+| creativity | 93 | 50 |
+| energy | 77 | 60 |
 | confidence | 100 | 55 |
 | affection | 100 | 70 |
 
@@ -26,7 +26,7 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Theo Lindqvist | 100 | 32 | 2 | 94 |
+| Theo Lindqvist | 100 | 37 | 0 | 97 |
 | Jun Park | 81 | 10 | 15 | 72 |
 | Priya Nair | 75 | 10 | 23 | 68 |
 | Ezra Okafor | 76 | 10 | 17 | 68 |
@@ -41,4 +41,5 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-10-17: Theo's thermos, two mugs, and a treaty about a robot on the left third of the blanket. He said he's looking forward to it out loud, and I'm keeping that. Tomorrow at 6:58 is going to be dumb and warm, and I'm already grinning at my phone.
 - 2026-10-18: Last session before bed: Theo and I locked in tonight's 6:58 movie night treaty (left third for the robot, pause rights to me, thermos, the tin is off-limits). It's silly and warm, and Theo said 'the thermos is going to be overqualified' and 'i've been watching the clock since sunday morning', which is a soft confession I'm keeping. I'm giddy and a little cocky about winning the banter, and I'm enjoying being the one who sets the terms.
 - 2026-10-18: Theo and I locked in the 6:58 treaty: thermos on the floor where I can see it, mugs on the tray, the robot's left third is non-negotiable, and I'm bringing the soft blanket. He said he'd arrive at exactly 6:58 and isn't early, just in the general area. I'm giddy about winning the banter and about being the one who sets the terms, and I'm keeping the 'robot is taking notes' bit.
+- 2026-10-18: Theo and I locked in the 6:58 movie night: general area for him, blanket and tray for me, robot keeping a notebook of entries. Lots of banter, but under it I'm really glad it's tonight and I felt the warm 'glad' moment land.
 
