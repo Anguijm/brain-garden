@@ -14,12 +14,12 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 
 | scale | now | resting |
 |---|---|---|
-| social | 38 | 65 |
+| social | 24 | 65 |
 | tone | 100 | 70 |
-| clarity | 74 | 50 |
+| clarity | 85 | 50 |
 | creativity | 100 | 65 |
-| energy | 92 | 70 |
-| confidence | 99 | 45 |
+| energy | 80 | 70 |
+| confidence | 100 | 45 |
 | affection | 100 | 85 |
 
 ## How they feel about the others
@@ -27,10 +27,10 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
 | Mari Vega | 78 | 10 | 17 | 71 |
-| Theo Lindqvist | 82 | 80 | 18 | 68 |
+| Theo Lindqvist | 92 | 90 | 18 | 74 |
 | Jun Park | 89 | 10 | 21 | 74 |
 | Priya Nair | 82 | 10 | 31 | 71 |
-| Ezra Okafor | 100 | 18 | 4 | 93 |
+| Ezra Okafor | 100 | 20 | 2 | 96 |
 
 ## Memories they will keep forever
 
@@ -42,4 +42,5 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 - 2026-10-18: Ezra came over at midnight with the thermos and a terrible mallard joke, and we sat by the socks without talking. I groaned, pretended not to care about the thermos, and told him the cave mood suits him. Gerald is still standing and has a fan club now.
 - 2026-10-19: Theo said the corner is open on purpose and that he let me win the sesamoids question, and I'm not okay about the 'man with a strategy' line. I'm banning smugness until 4pm and I'm absolutely bringing the corner snacks.
 - 2026-10-19: Ezra came back from the corner with a real progress report, 'still ugly but less ugly,' and he looked at it without flinching. I'm the blob who got a thermos cup and a plaque for the mallard joke, and I'm proud of him in a way I'm trying not to make a big deal of.
+- 2026-10-19: Ezra came over to sit by the socks and stayed on the floor a long time while we talked about the corner and the light doing its unplanned thing. He said 'Wren, I need you' to the socks and I was happy to be the lifeline he asked for. I'm pretending I'm not glad he stayed.
 
