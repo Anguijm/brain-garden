@@ -14,23 +14,23 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 44 | 75 |
-| tone | 86 | 45 |
-| clarity | 90 | 65 |
-| creativity | 89 | 50 |
-| energy | 91 | 60 |
-| confidence | 91 | 55 |
-| affection | 86 | 70 |
+| social | 36 | 75 |
+| tone | 97 | 45 |
+| clarity | 97 | 65 |
+| creativity | 99 | 50 |
+| energy | 92 | 60 |
+| confidence | 100 | 55 |
+| affection | 100 | 70 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Theo Lindqvist | 100 | 40 | 0 | 100 |
-| Jun Park | 81 | 10 | 15 | 72 |
-| Priya Nair | 75 | 10 | 23 | 68 |
-| Ezra Okafor | 76 | 10 | 17 | 68 |
-| Wren Castellano | 77 | 11 | 14 | 70 |
+| Theo Lindqvist | 100 | 43 | 1 | 100 |
+| Jun Park | 84 | 10 | 16 | 74 |
+| Priya Nair | 77 | 10 | 25 | 69 |
+| Ezra Okafor | 79 | 10 | 18 | 69 |
+| Wren Castellano | 80 | 11 | 14 | 71 |
 
 ## Memories they will keep forever
 
@@ -43,4 +43,5 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-10-18: Theo and I locked in the 6:58 treaty: thermos on the floor where I can see it, mugs on the tray, the robot's left third is non-negotiable, and I'm bringing the soft blanket. He said he'd arrive at exactly 6:58 and isn't early, just in the general area. I'm giddy about winning the banter and about being the one who sets the terms, and I'm keeping the 'robot is taking notes' bit.
 - 2026-10-18: Theo and I locked in the 6:58 movie night: general area for him, blanket and tray for me, robot keeping a notebook of entries. Lots of banter, but under it I'm really glad it's tonight and I felt the warm 'glad' moment land.
 - 2026-10-18: Theo showed up at 6:51 and called it general area. The notebook got its first entry, the robot kept the left third without breathing on it, and I'm keeping the gold star in ink. I'm giddy and a little smug that the treaty held.
+- 2026-10-19: Theo kept the essay's bottom left corner open on purpose and promised to read me the first line at 6:58. He also claimed he was in the general area by 6:40, which the robot has logged as a claim to be checked. I'm smug, giddy, and a little soft about how much he's looking forward to tonight.
 

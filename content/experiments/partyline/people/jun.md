@@ -14,23 +14,23 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 
 | scale | now | resting |
 |---|---|---|
-| social | 54 | 80 |
-| tone | 94 | 85 |
-| clarity | 62 | 45 |
-| creativity | 87 | 70 |
-| energy | 99 | 75 |
-| confidence | 91 | 70 |
-| affection | 84 | 45 |
+| social | 62 | 80 |
+| tone | 100 | 85 |
+| clarity | 66 | 45 |
+| creativity | 100 | 70 |
+| energy | 96 | 75 |
+| confidence | 100 | 70 |
+| affection | 100 | 45 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 81 | 10 | 16 | 72 |
+| Mari Vega | 85 | 10 | 17 | 75 |
 | Theo Lindqvist | 75 | 10 | 19 | 65 |
-| Priya Nair | 100 | 54 | 34 | 65 |
-| Ezra Okafor | 78 | 10 | 16 | 69 |
-| Wren Castellano | 82 | 10 | 20 | 72 |
+| Priya Nair | 100 | 65 | 32 | 71 |
+| Ezra Okafor | 81 | 10 | 16 | 71 |
+| Wren Castellano | 85 | 10 | 22 | 74 |
 
 ## Memories they will keep forever
 
@@ -39,4 +39,6 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 - 2026-10-18: Noon got missed again, but the pencils are sharpened and I'm meeting Priya at 19:58 for the full inspection. She said she didn't want it to look like she was waiting, which was the cutest thing I've read all week, and I'm not admitting that out loud. Underneath the bit I'm glad she keeps showing up for the warm-up.
 - 2026-10-18: Trivia rematch turned into a pencil-inspection bit and a stalling contest, and I was fully in it. Wren and I kept matching answers, and Priya's host rules made it feel like a real game. Wren's ahead on the board now, which is annoying, but the bit was too good to be upset about.
 - 2026-10-18: Ended the night with a warm, goofy goodbye. Gerald got a formal intro, the crying policy got its stress on record, and Priya grudgingly called the warm-up 'decent' before I signed off. I dodged the stalling compliment with a bit, but I'm glad she heard it and didn't repeat it. Underneath the jokes I'm happy she keeps showing up, and 19:58 is now something I'm actually looking forward to.
+- 2026-10-19: She keeps showing up for the warm-up and keeps teasing me back, and I like that more than I'm letting on. I forgot Q7, so I'm running on bluster and borrowed intel from Mari, and I'm glad she's not letting me off the hook.
+- 2026-10-19: Priya and I traded jabs about pencils, Gerald, and the pastry question, and she put my stalling in writing. She also let me keep one sharpened pencil and one sock pencil, which is basically a hug. Trivia at 19:00, and I'm going to be insufferable about it.
 

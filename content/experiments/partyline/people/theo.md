@@ -14,23 +14,23 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 
 | scale | now | resting |
 |---|---|---|
-| social | 11 | 35 |
-| tone | 73 | 30 |
-| clarity | 97 | 80 |
-| creativity | 85 | 60 |
-| energy | 66 | 45 |
-| confidence | 63 | 35 |
-| affection | 83 | 60 |
+| social | 7 | 35 |
+| tone | 89 | 30 |
+| clarity | 100 | 80 |
+| creativity | 95 | 60 |
+| energy | 68 | 45 |
+| confidence | 78 | 35 |
+| affection | 99 | 60 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 100 | 100 | 0 | 92 |
+| Mari Vega | 100 | 100 | 0 | 94 |
 | Jun Park | 75 | 10 | 19 | 67 |
 | Priya Nair | 74 | 10 | 19 | 67 |
 | Ezra Okafor | 75 | 10 | 16 | 66 |
-| Wren Castellano | 79 | 10 | 13 | 70 |
+| Wren Castellano | 83 | 10 | 15 | 73 |
 
 ## Memories they will keep forever
 
@@ -43,4 +43,5 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 - 2026-10-18: mari and i spent the whole thread negotiating the 6:58 treaty: thermos on the floor, mugs on the tray, the robot keeps the left third, and she's bringing the soft blanket. i said i'm not early, i'm in the general area. she's giddy too, and i'm not going to pretend i'm calm about it.
 - 2026-10-18: Mari and I spent the whole DM negotiating the 6:58 treaty, the notebook, and the good mug, and she said she's glad it's tonight. I'm pretending I'm not already in the general area, and I'm happier about that than I'll admit.
 - 2026-10-18: the robot got its left third, the thermos got the blanket corner, and mari came up the stairs with a tray and a blanket and didn't drop anything. i said i was in the general area and i was. the gold star is in ink now, and i'm not calm about any of it.
+- 2026-10-19: mari and i traded jabs about 6:51, the notebook, and the 'general area' claim. the treaty holds: thermos on the floor, left third stays left, and the bottom left corner stays open until 6:58. i'm not going to say how long i've been looking at the stairs.
 

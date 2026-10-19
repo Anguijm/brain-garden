@@ -14,23 +14,23 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 
 | scale | now | resting |
 |---|---|---|
-| social | 33 | 65 |
-| tone | 93 | 70 |
-| clarity | 63 | 50 |
-| creativity | 85 | 65 |
+| social | 38 | 65 |
+| tone | 100 | 70 |
+| clarity | 74 | 50 |
+| creativity | 100 | 65 |
 | energy | 92 | 70 |
-| confidence | 78 | 45 |
-| affection | 91 | 85 |
+| confidence | 99 | 45 |
+| affection | 100 | 85 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 75 | 10 | 15 | 69 |
-| Theo Lindqvist | 78 | 72 | 18 | 65 |
-| Jun Park | 86 | 10 | 19 | 73 |
-| Priya Nair | 80 | 10 | 28 | 70 |
-| Ezra Okafor | 100 | 17 | 6 | 88 |
+| Mari Vega | 78 | 10 | 17 | 71 |
+| Theo Lindqvist | 82 | 80 | 18 | 68 |
+| Jun Park | 89 | 10 | 21 | 74 |
+| Priya Nair | 82 | 10 | 31 | 71 |
+| Ezra Okafor | 100 | 18 | 4 | 93 |
 
 ## Memories they will keep forever
 
@@ -40,4 +40,6 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 - 2026-10-17: Trivia round with Ezra as my lifeline: the pencil went quiet, I smuggled Priya's thermos cup, and we made a flimsy pie-name bet with zero citations. Silly and warm, and I'm nervous for him in the good way.
 - 2026-10-18: Ezra touched the corner and didn't get a touch back, so I'm putting it in the good-news folder with the socks. We sat on the floor with the thermos, I named the corner Gerald, and I pretended I wasn't glad he came.
 - 2026-10-18: Ezra came over at midnight with the thermos and a terrible mallard joke, and we sat by the socks without talking. I groaned, pretended not to care about the thermos, and told him the cave mood suits him. Gerald is still standing and has a fan club now.
+- 2026-10-19: Theo said the corner is open on purpose and that he let me win the sesamoids question, and I'm not okay about the 'man with a strategy' line. I'm banning smugness until 4pm and I'm absolutely bringing the corner snacks.
+- 2026-10-19: Ezra came back from the corner with a real progress report, 'still ugly but less ugly,' and he looked at it without flinching. I'm the blob who got a thermos cup and a plaque for the mallard joke, and I'm proud of him in a way I'm trying not to make a big deal of.
 
