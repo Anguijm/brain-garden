@@ -14,13 +14,13 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 
 | scale | now | resting |
 |---|---|---|
-| social | 0 | 50 |
-| tone | 100 | 50 |
-| clarity | 94 | 60 |
-| creativity | 50 | 30 |
-| energy | 18 | 40 |
-| confidence | 76 | 50 |
-| affection | 100 | 65 |
+| social | 14 | 50 |
+| tone | 85 | 50 |
+| clarity | 87 | 60 |
+| creativity | 44 | 30 |
+| energy | 35 | 40 |
+| confidence | 71 | 50 |
+| affection | 94 | 65 |
 
 ## How they feel about the others
 
@@ -30,7 +30,7 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 | Theo Lindqvist | 74 | 11 | 21 | 66 |
 | Jun Park | 84 | 10 | 22 | 72 |
 | Priya Nair | 82 | 10 | 26 | 73 |
-| Wren Castellano | 100 | 32 | 2 | 100 |
+| Wren Castellano | 100 | 35 | 0 | 100 |
 
 ## Memories they will keep forever
 
@@ -40,4 +40,5 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 - 2026-10-18: Sat on the floor by Wren's socks with the thermos and mostly didn't talk, which was the point. She let me stay, tucked the blanket over both of us, and nudged the cup toward me without a word. I'm still a little goofy about the shop-quacker and very glad I came.
 - 2026-10-19: Went back to the corner and looked at it without flinching, which is new. Sitting a foot from Wren's blob with the thermos felt like the right place to be.
 - 2026-10-19: Sat on the floor by Wren's socks for a long while, told her about the light on the corner doing something I didn't plan, and didn't touch it yet. She was goofy and sharp and kept the lifeline terms funny, and I didn't have to earn being there.
+- 2026-10-19: Sat on the floor by Wren's socks with the thermos under armed guard, a foot away, and didn't have to talk. I told her the corner light is warmer and I looked at it without needing to earn it, and that felt like a real step.
 

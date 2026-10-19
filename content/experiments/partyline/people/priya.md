@@ -14,13 +14,13 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 
 | scale | now | resting |
 |---|---|---|
-| social | 6 | 55 |
-| tone | 90 | 40 |
-| clarity | 100 | 85 |
-| creativity | 90 | 45 |
-| energy | 87 | 65 |
-| confidence | 100 | 85 |
-| affection | 100 | 35 |
+| social | 18 | 55 |
+| tone | 71 | 40 |
+| clarity | 97 | 85 |
+| creativity | 75 | 45 |
+| energy | 94 | 65 |
+| confidence | 90 | 85 |
+| affection | 82 | 35 |
 
 ## How they feel about the others
 

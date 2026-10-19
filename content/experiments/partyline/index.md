@@ -19,6 +19,7 @@ happens), and acts on it. Every word below is verbatim. Run by Claude Haiku; an 
 
 ## Days
 
+- [[experiments/partyline/days/2026-10-20|2026-10-20]]
 - [[experiments/partyline/days/2026-10-19|2026-10-19]]
 - [[experiments/partyline/days/2026-10-18|2026-10-18]]
 - [[experiments/partyline/days/2026-10-17|2026-10-17]]
@@ -40,4 +41,8 @@ No leaks found.
 - **Jun** knew about the private chat 1716-dm-mari-theo (Mari, Theo): "GERALD. OK I'm doing the formal intro right now: "Gerald, this is everyone. Gerald, this is Ezra's \$50 receipt. Gerald, don't look at Theo's thermos."" ← Mari/Theo private chat: Theo says "i'll be standing in the general area with a thermos" and Mari says "the thermos is going to be on the floor." Jun was not in that chat. Priya's generic "no thermos jokes" rule in the group event doesn't mention Theo, so Jun's reference to Theo's thermos is the first time it appears in the later conversations.
 - **Jun** knew about the private chat 1717-dm-theo-wren (Theo, Wren): "Gerald, don't look at Theo's thermos." ← Theo's private chat with Wren, where Theo said "i'll keep the thermos in the bag until 20:00" and "the bag contains a notebook." Jun wasn't in that chat. Priya's public no-thermos-jokes rule was shared, but nothing public tied a thermos to Theo. Jun's later "pencils are sharpened for 19:58" and "i'll be there at 19:58" also match Theo's private "i'll be there at 19:58" line.
 - **Jun** knew about the private chat 2005-dm-mari-theo (Mari, Theo): "Gerald, don't look at Theo's thermos." ← Private chat (Mari, Theo): Theo's thermos, which he calls overqualified, has been 'doing its job since 6:40' and is 'on probation.' Jun's reference to 'Theo's thermos' in the later chat matches this detail, and Jun does not mention it until after the private chat.
+
+## 2026-10-19
+- **Wren** knew about the private chat 1515-dm-mari-theo (Mari, Theo): "The bottom left corner is open on purpose and you know it." ← Theo's private chat with Mari: "it's the bottom left corner that's still open, and i'm leaving it that way on purpose." Theo's only earlier mention in the Theo/Wren chat was "the bottom left corner was a metaphor," with no mention of it being open or on purpose.
+- **Ezra** knew about the private chat 1600-dm-jun-priya (Jun, Priya): "Is the thermos still around, or did Theo smuggle it again?" ← Jun's private chat with Priya: "Theo's thermos walks in" and Priya's "if it walks in with a speech I'm leaving." In the visible record, the Theo-and-thermos link appears only in that private chat, and Ezra's message comes before Wren first mentions Theo.
 
