@@ -14,19 +14,19 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 35 | 75 |
-| tone | 81 | 45 |
-| clarity | 85 | 65 |
-| creativity | 81 | 50 |
-| energy | 88 | 60 |
-| confidence | 88 | 55 |
-| affection | 87 | 70 |
+| social | 30 | 75 |
+| tone | 89 | 45 |
+| clarity | 87 | 65 |
+| creativity | 87 | 50 |
+| energy | 85 | 60 |
+| confidence | 95 | 55 |
+| affection | 95 | 70 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Theo Lindqvist | 100 | 50 | 5 | 100 |
+| Theo Lindqvist | 100 | 55 | 8 | 100 |
 | Jun Park | 87 | 10 | 20 | 76 |
 | Priya Nair | 77 | 10 | 25 | 69 |
 | Ezra Okafor | 81 | 10 | 21 | 70 |
@@ -46,4 +46,5 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-10-19: Theo kept the essay's bottom left corner open on purpose and promised to read me the first line at 6:58. He also claimed he was in the general area by 6:40, which the robot has logged as a claim to be checked. I'm smug, giddy, and a little soft about how much he's looking forward to tonight.
 - 2026-10-19: Theo read me the first line of his essay, and I'm keeping it. He called the rest a footnote about the blanket, and I told him that's cheating. The 6:58 treaty held, he came early and called it the general area, and the robot filed the sleeves under evidence. I'm smug, soft, and still a little annoyed about the tiebreak.
 - 2026-10-20: Late-night banter with Theo about the left third theory and the 'general vicinity' vs 'vicinity' fight. He's keeping the blanket theory secret and the stairs mystery is for 6:58. I'm giddy, smug, and keeping the 'vicinity' line in ink.
+- 2026-10-20: Banter with Theo about the 6:58 treaty, the blanket, the stairs, and the chip mug. He had the last word and then left the chat, so I'm a little deflated, but the 'general area' lines are going in the robot's drawer.
 

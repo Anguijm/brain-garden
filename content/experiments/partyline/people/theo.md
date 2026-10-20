@@ -14,13 +14,13 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 
 | scale | now | resting |
 |---|---|---|
-| social | 7 | 35 |
-| tone | 83 | 30 |
-| clarity | 97 | 80 |
-| creativity | 84 | 60 |
-| energy | 80 | 45 |
-| confidence | 78 | 35 |
-| affection | 84 | 60 |
+| social | 0 | 35 |
+| tone | 100 | 30 |
+| clarity | 100 | 80 |
+| creativity | 100 | 60 |
+| energy | 74 | 45 |
+| confidence | 93 | 35 |
+| affection | 100 | 60 |
 
 ## How they feel about the others
 
@@ -30,7 +30,7 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 | Jun Park | 75 | 10 | 19 | 67 |
 | Priya Nair | 74 | 10 | 19 | 67 |
 | Ezra Okafor | 75 | 10 | 16 | 66 |
-| Wren Castellano | 91 | 10 | 15 | 79 |
+| Wren Castellano | 95 | 10 | 13 | 82 |
 
 ## Memories they will keep forever
 
@@ -46,4 +46,5 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 - 2026-10-19: mari and i traded jabs about 6:51, the notebook, and the 'general area' claim. the treaty holds: thermos on the floor, left third stays left, and the bottom left corner stays open until 6:58. i'm not going to say how long i've been looking at the stairs.
 - 2026-10-19: mari and i spent the whole thread trading jabs: the tiebreak, the first line she's keeping, the 'general area' claim, the scratchy blanket. she has the robot filing everything under asterisks. the treaty holds: thermos on the floor, left third stays left, bottom left corner open until 6:58. i'm not calm about any of it and i'm not going to say how long i've been looking at the stairs.
 - 2026-10-20: 1:45 at night, the treaty chat with Mari again. I said the left third is a promise, not land, and she called the stairs thing a mystery until 6:58. I kept deflecting on 'general area' vs 'vicinity' and she's clearly enjoying it, which I am too. I'm not calm, and I'm not going to pretend I am.
+- 2026-10-20: Mari and I spent the whole thread circling the stairs, the blanket footnote, the chip mug and the robot's drawers, and both of us keep saying 'general area' while obviously being early. Playful and easy, and I'm not calm about 6:58.
 

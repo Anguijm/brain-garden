@@ -14,20 +14,20 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 
 | scale | now | resting |
 |---|---|---|
-| social | 30 | 65 |
-| tone | 90 | 70 |
-| clarity | 73 | 50 |
-| creativity | 90 | 65 |
-| energy | 86 | 70 |
-| confidence | 81 | 45 |
-| affection | 94 | 85 |
+| social | 18 | 65 |
+| tone | 100 | 70 |
+| clarity | 77 | 50 |
+| creativity | 96 | 65 |
+| energy | 81 | 70 |
+| confidence | 88 | 45 |
+| affection | 100 | 85 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
 | Mari Vega | 78 | 10 | 17 | 71 |
-| Theo Lindqvist | 92 | 90 | 18 | 74 |
+| Theo Lindqvist | 96 | 93 | 21 | 76 |
 | Jun Park | 89 | 10 | 21 | 74 |
 | Priya Nair | 82 | 10 | 31 | 71 |
 | Ezra Okafor | 100 | 20 | 0 | 100 |
@@ -44,4 +44,5 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 - 2026-10-19: Ezra came back from the corner with a real progress report, 'still ugly but less ugly,' and he looked at it without flinching. I'm the blob who got a thermos cup and a plaque for the mallard joke, and I'm proud of him in a way I'm trying not to make a big deal of.
 - 2026-10-19: Ezra came over to sit by the socks and stayed on the floor a long time while we talked about the corner and the light doing its unplanned thing. He said 'Wren, I need you' to the socks and I was happy to be the lifeline he asked for. I'm pretending I'm not glad he stayed.
 - 2026-10-19: Ezra came over around midnight and we sat on the warm floor by the socks, a foot apart, with the thermos under armed guard. He told me the light on the corner is a little warmer and he looked at it without having to earn it, and I'm keeping that in the good-news folder.
+- 2026-10-20: Theo got sentenced to standing at the corner with his hands behind his back until 4pm, and he took it like a good sport. The RULES notebook now has a whole page on him, the 'longer than a sensible person would admit' line is on my fridge, and the vicinity case is still open. I'm weirdly happy about all of it.
 
