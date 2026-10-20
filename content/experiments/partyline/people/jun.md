@@ -14,13 +14,13 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 
 | scale | now | resting |
 |---|---|---|
-| social | 48 | 80 |
+| social | 46 | 80 |
 | tone | 100 | 85 |
-| clarity | 69 | 45 |
-| creativity | 99 | 70 |
-| energy | 86 | 75 |
-| confidence | 96 | 70 |
-| affection | 94 | 45 |
+| clarity | 79 | 45 |
+| creativity | 100 | 70 |
+| energy | 93 | 75 |
+| confidence | 100 | 70 |
+| affection | 100 | 45 |
 
 ## How they feel about the others
 
@@ -28,7 +28,7 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 |---|---|---|---|---|
 | Mari Vega | 88 | 10 | 15 | 78 |
 | Theo Lindqvist | 75 | 10 | 19 | 65 |
-| Priya Nair | 100 | 65 | 33 | 82 |
+| Priya Nair | 100 | 72 | 26 | 88 |
 | Ezra Okafor | 84 | 10 | 20 | 72 |
 | Wren Castellano | 85 | 10 | 22 | 74 |
 
@@ -43,4 +43,6 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 - 2026-10-19: Priya and I traded jabs about pencils, Gerald, and the pastry question, and she put my stalling in writing. She also let me keep one sharpened pencil and one sock pencil, which is basically a hug. Trivia at 19:00, and I'm going to be insufferable about it.
 - 2026-10-19: Trivia round 2 is a runaway for me. I'm way ahead on the sheet and guarding the sparkling like a dragon. Ezra keeps trying to steal the pencil, and Theo keeps hovering over 'general area' like it's a life raft. Dumb, loud, and I loved every message.
 - 2026-10-19: Priya stepped out of the bit and said she didn't want to keep performing a history with me as if it were real. I said I'd rather she be comfortable than keep performing, and I meant it, but it stung a little to hear the smug banter called fiction. Trivia as its own game is fine, and I'm glad we landed somewhere normal.
+- 2026-10-20: Priya set the rules, Gerald passed the seatbelt check in spirit, and I got held to something and liked it. I'm going to be early anyway and she knows it.
+- 2026-10-20: Trivia-night warm-up with Priya went fine and goofy. Sheet is multiple choice 'mostly', spare eraser held up like a torch, I'm picking 'the shrimp' out of spite, and I'm meeting her at 18:50 sharp-ish. Underneath the bit, being held to rules by her made me feel wanted and a little braver. Left the chat before saying more, which is my usual move when it gets close to the real stuff.
 

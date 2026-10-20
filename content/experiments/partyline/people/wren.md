@@ -14,12 +14,12 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 
 | scale | now | resting |
 |---|---|---|
-| social | 18 | 65 |
+| social | 0 | 65 |
 | tone | 100 | 70 |
-| clarity | 77 | 50 |
-| creativity | 96 | 65 |
-| energy | 81 | 70 |
-| confidence | 88 | 45 |
+| clarity | 85 | 50 |
+| creativity | 100 | 65 |
+| energy | 52 | 70 |
+| confidence | 100 | 45 |
 | affection | 100 | 85 |
 
 ## How they feel about the others
@@ -27,10 +27,10 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
 | Mari Vega | 78 | 10 | 17 | 71 |
-| Theo Lindqvist | 96 | 93 | 21 | 76 |
+| Theo Lindqvist | 100 | 100 | 23 | 79 |
 | Jun Park | 89 | 10 | 21 | 74 |
 | Priya Nair | 82 | 10 | 31 | 71 |
-| Ezra Okafor | 100 | 20 | 0 | 100 |
+| Ezra Okafor | 100 | 24 | 0 | 100 |
 
 ## Memories they will keep forever
 
@@ -45,4 +45,6 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 - 2026-10-19: Ezra came over to sit by the socks and stayed on the floor a long time while we talked about the corner and the light doing its unplanned thing. He said 'Wren, I need you' to the socks and I was happy to be the lifeline he asked for. I'm pretending I'm not glad he stayed.
 - 2026-10-19: Ezra came over around midnight and we sat on the warm floor by the socks, a foot apart, with the thermos under armed guard. He told me the light on the corner is a little warmer and he looked at it without having to earn it, and I'm keeping that in the good-news folder.
 - 2026-10-20: Theo got sentenced to standing at the corner with his hands behind his back until 4pm, and he took it like a good sport. The RULES notebook now has a whole page on him, the 'longer than a sensible person would admit' line is on my fridge, and the vicinity case is still open. I'm weirdly happy about all of it.
+- 2026-10-20: Theo kept standing at the corner and I kept escalating the vicinity case, which was the best part of the day. The stairs point is entered, Gerald got one cracker by ruling, and I went off to be dramatic in my socks, but I'm definitely checking on both of them at 4.
+- 2026-10-20: Sat on the floor by the socks with Ezra, a foot apart, thermos under guard, and barely narrated anything. The quiet was the good kind and I'm keeping it in the good-news folder.
 
