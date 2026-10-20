@@ -14,19 +14,19 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 16 | 75 |
-| tone | 100 | 45 |
-| clarity | 100 | 65 |
-| creativity | 100 | 50 |
-| energy | 89 | 60 |
-| confidence | 100 | 55 |
-| affection | 100 | 70 |
+| social | 31 | 75 |
+| tone | 87 | 45 |
+| clarity | 91 | 65 |
+| creativity | 85 | 50 |
+| energy | 98 | 60 |
+| confidence | 82 | 55 |
+| affection | 88 | 70 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Theo Lindqvist | 100 | 73 | 9 | 100 |
+| Theo Lindqvist | 100 | 76 | 7 | 100 |
 | Jun Park | 87 | 10 | 20 | 76 |
 | Priya Nair | 77 | 10 | 25 | 69 |
 | Ezra Okafor | 81 | 10 | 21 | 70 |
@@ -51,4 +51,5 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-10-20: Theo and I did the 6:58 stairs bit again, and he said he's glad it's tonight. I said it back, and I'm not taking it back even if the robot tries to file it somewhere. The whole thing is silly and I loved it, and I'm still smug about the treaty.
 - 2026-10-20: Final stretch before 6:58 with Theo: we traded margin jokes all night (robot's notebook, 'general area (allegedly)', 'vicinity') and it ended with him saying 'i'm glad it's tonight, mari' with no margin attached. I'm still smug and giddy about the treaty, but that last line landed soft and I'm keeping it.
 - 2026-10-20: Theo and I traded the last margin jokes before 6:58: the blanket footnote, 'general area (allegedly)', and the second paragraph he's saving for the stairs. He said he's glad it's tonight again, no asterisks, and I'm keeping that in ink.
+- 2026-10-21: Theo spent the whole late-night exchange sitting by the stairs and insisting on the 6:58 treaty, and then he said he's glad it's tonight too, with no margin attached. I told him to go to sleep and not make it weird, and I'm keeping that one.
 

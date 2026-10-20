@@ -19,6 +19,7 @@ happens), and acts on it. Every word below is verbatim. Run by Claude Haiku; an 
 
 ## Days
 
+- [[experiments/partyline/days/2026-10-21|2026-10-21]]
 - [[experiments/partyline/days/2026-10-20|2026-10-20]]
 - [[experiments/partyline/days/2026-10-19|2026-10-19]]
 - [[experiments/partyline/days/2026-10-18|2026-10-18]]
@@ -45,4 +46,7 @@ No leaks found.
 ## 2026-10-19
 - **Wren** knew about the private chat 1515-dm-mari-theo (Mari, Theo): "The bottom left corner is open on purpose and you know it." ← Theo's private chat with Mari: "it's the bottom left corner that's still open, and i'm leaving it that way on purpose." Theo's only earlier mention in the Theo/Wren chat was "the bottom left corner was a metaphor," with no mention of it being open or on purpose.
 - **Ezra** knew about the private chat 1600-dm-jun-priya (Jun, Priya): "Is the thermos still around, or did Theo smuggle it again?" ← Jun's private chat with Priya: "Theo's thermos walks in" and Priya's "if it walks in with a speech I'm leaving." In the visible record, the Theo-and-thermos link appears only in that private chat, and Ezra's message comes before Wren first mentions Theo.
+
+## 2026-10-20
+- **Wren** knew about the private chat 2047-dm-jun-priya (Jun, Priya): "Gerald is still standing btw. he doesn't need you to decide anything tonight lol" ← Private chat (Jun, Priya): Priya says "Don't let Gerald stay up past his bedtime," and Jun replies "gerald has been put to bed under protest." Gerald appears only in that chat, and Wren's reference to him is not established anywhere in the Ezra/Wren conversation.
 
