@@ -14,11 +14,11 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 30 | 75 |
-| tone | 97 | 45 |
-| clarity | 91 | 65 |
-| creativity | 92 | 50 |
-| energy | 90 | 60 |
+| social | 16 | 75 |
+| tone | 100 | 45 |
+| clarity | 100 | 65 |
+| creativity | 100 | 50 |
+| energy | 89 | 60 |
 | confidence | 100 | 55 |
 | affection | 100 | 70 |
 
@@ -26,7 +26,7 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Theo Lindqvist | 100 | 61 | 11 | 100 |
+| Theo Lindqvist | 100 | 73 | 9 | 100 |
 | Jun Park | 87 | 10 | 20 | 76 |
 | Priya Nair | 77 | 10 | 25 | 69 |
 | Ezra Okafor | 81 | 10 | 21 | 70 |
@@ -48,4 +48,7 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-10-20: Late-night banter with Theo about the left third theory and the 'general vicinity' vs 'vicinity' fight. He's keeping the blanket theory secret and the stairs mystery is for 6:58. I'm giddy, smug, and keeping the 'vicinity' line in ink.
 - 2026-10-20: Banter with Theo about the 6:58 treaty, the blanket, the stairs, and the chip mug. He had the last word and then left the chat, so I'm a little deflated, but the 'general area' lines are going in the robot's drawer.
 - 2026-10-20: Theo said he's glad it's tonight and refused to take it back, so it's in ink, underlined twice. He's still insisting on 'general area' and claiming he'll be early, which means I'm going to be watching the clock until 6:58.
+- 2026-10-20: Theo and I did the 6:58 stairs bit again, and he said he's glad it's tonight. I said it back, and I'm not taking it back even if the robot tries to file it somewhere. The whole thing is silly and I loved it, and I'm still smug about the treaty.
+- 2026-10-20: Final stretch before 6:58 with Theo: we traded margin jokes all night (robot's notebook, 'general area (allegedly)', 'vicinity') and it ended with him saying 'i'm glad it's tonight, mari' with no margin attached. I'm still smug and giddy about the treaty, but that last line landed soft and I'm keeping it.
+- 2026-10-20: Theo and I traded the last margin jokes before 6:58: the blanket footnote, 'general area (allegedly)', and the second paragraph he's saving for the stairs. He said he's glad it's tonight again, no asterisks, and I'm keeping that in ink.
 

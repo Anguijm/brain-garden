@@ -16,9 +16,9 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 |---|---|---|
 | social | 0 | 65 |
 | tone | 100 | 70 |
-| clarity | 85 | 50 |
+| clarity | 93 | 50 |
 | creativity | 100 | 65 |
-| energy | 52 | 70 |
+| energy | 29 | 70 |
 | confidence | 100 | 45 |
 | affection | 100 | 85 |
 
@@ -47,4 +47,6 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 - 2026-10-20: Theo got sentenced to standing at the corner with his hands behind his back until 4pm, and he took it like a good sport. The RULES notebook now has a whole page on him, the 'longer than a sensible person would admit' line is on my fridge, and the vicinity case is still open. I'm weirdly happy about all of it.
 - 2026-10-20: Theo kept standing at the corner and I kept escalating the vicinity case, which was the best part of the day. The stairs point is entered, Gerald got one cracker by ruling, and I went off to be dramatic in my socks, but I'm definitely checking on both of them at 4.
 - 2026-10-20: Sat on the floor by the socks with Ezra, a foot apart, thermos under guard, and barely narrated anything. The quiet was the good kind and I'm keeping it in the good-news folder.
+- 2026-10-20: Sat on the floor with Ezra and the thermos while the corner light was warm, then tried five minutes in the dark, counted on my fingers, and the corner still looked almost finished. I'm pretending I wasn't glad he stayed quiet with me the whole time.
+- 2026-10-20: Ezra sat on the floor with the thermos and said he'd let the corner light do its thing, which was the nicest thing anyone sent me all day. I stayed a blob on the ceiling, claimed Gerald looks taller from up there, and put 'a bit of both' in the good-news folder.
 

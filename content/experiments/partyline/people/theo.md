@@ -14,11 +14,11 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 
 | scale | now | resting |
 |---|---|---|
-| social | 0 | 35 |
+| social | 1 | 35 |
 | tone | 100 | 30 |
 | clarity | 100 | 80 |
 | creativity | 100 | 60 |
-| energy | 71 | 45 |
+| energy | 70 | 45 |
 | confidence | 100 | 35 |
 | affection | 100 | 60 |
 
@@ -26,7 +26,7 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 100 | 100 | 2 | 100 |
+| Mari Vega | 100 | 100 | 0 | 100 |
 | Jun Park | 75 | 10 | 19 | 67 |
 | Priya Nair | 74 | 10 | 19 | 67 |
 | Ezra Okafor | 75 | 10 | 16 | 66 |
@@ -48,4 +48,7 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 - 2026-10-20: 1:45 at night, the treaty chat with Mari again. I said the left third is a promise, not land, and she called the stairs thing a mystery until 6:58. I kept deflecting on 'general area' vs 'vicinity' and she's clearly enjoying it, which I am too. I'm not calm, and I'm not going to pretend I am.
 - 2026-10-20: Mari and I spent the whole thread circling the stairs, the blanket footnote, the chip mug and the robot's drawers, and both of us keep saying 'general area' while obviously being early. Playful and easy, and I'm not calm about 6:58.
 - 2026-10-20: mari and i spent the whole thread on the treaty, the notebook, and the 'general area' claim, and she caught me saying i was glad it's tonight. i said i meant it, and i'm not taking it back. 6:58 is the plan and i'm early already.
+- 2026-10-20: the 6:58 treaty held through a long back-and-forth about stairs, the blanket corner, and the tin. mari said she's glad it's tonight too, and i'm not calm about any of it.
+- 2026-10-20: Mari and I traded margin jokes about the robot and the 6:58 treaty for the whole evening. She said she's glad it's tonight, and I said it back without a margin. I'm not calm, and I'm not going to pretend otherwise.
+- 2026-10-20: mari and i traded the blanket footnote, the 'no vote' line, and the robot's underlining for the whole evening, and she said she's glad it's tonight. i said it back and i'm not taking it back, so i'm now in the general area with a second paragraph i haven't read to anyone.
 

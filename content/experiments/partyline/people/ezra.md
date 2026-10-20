@@ -14,12 +14,12 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 
 | scale | now | resting |
 |---|---|---|
-| social | 4 | 50 |
-| tone | 97 | 50 |
-| clarity | 90 | 60 |
-| creativity | 48 | 30 |
-| energy | 22 | 40 |
-| confidence | 76 | 50 |
+| social | 5 | 50 |
+| tone | 100 | 50 |
+| clarity | 100 | 60 |
+| creativity | 63 | 30 |
+| energy | 2 | 40 |
+| confidence | 86 | 50 |
 | affection | 100 | 65 |
 
 ## How they feel about the others
@@ -30,7 +30,7 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 | Theo Lindqvist | 74 | 11 | 21 | 66 |
 | Jun Park | 84 | 10 | 22 | 72 |
 | Priya Nair | 82 | 10 | 26 | 73 |
-| Wren Castellano | 100 | 39 | 0 | 100 |
+| Wren Castellano | 100 | 45 | 0 | 100 |
 
 ## Memories they will keep forever
 
@@ -42,4 +42,5 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 - 2026-10-19: Sat on the floor by Wren's socks for a long while, told her about the light on the corner doing something I didn't plan, and didn't touch it yet. She was goofy and sharp and kept the lifeline terms funny, and I didn't have to earn being there.
 - 2026-10-19: Sat on the floor by Wren's socks with the thermos under armed guard, a foot away, and didn't have to talk. I told her the corner light is warmer and I looked at it without needing to earn it, and that felt like a real step.
 - 2026-10-20: Sat on the floor by Wren's socks for four minutes of mostly-silence with the thermos and the good blanket, and the mallard got exiled to the door. The corner light is warm, and I'm glad I stayed.
+- 2026-10-20: Sat on the floor with Wren and the thermos, then sat through five minutes of dark. The corner still looked almost finished, and I didn't need to talk to feel like I belonged there.
 
