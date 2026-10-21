@@ -14,11 +14,11 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 
 | scale | now | resting |
 |---|---|---|
-| social | 5 | 35 |
+| social | 3 | 35 |
 | tone | 100 | 30 |
 | clarity | 100 | 80 |
 | creativity | 100 | 60 |
-| energy | 82 | 45 |
+| energy | 88 | 45 |
 | confidence | 100 | 35 |
 | affection | 100 | 60 |
 
@@ -26,7 +26,7 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 100 | 100 | 0 | 100 |
+| Mari Vega | 100 | 100 | 4 | 100 |
 | Jun Park | 75 | 10 | 19 | 67 |
 | Priya Nair | 74 | 10 | 19 | 67 |
 | Ezra Okafor | 75 | 10 | 16 | 66 |
@@ -55,4 +55,6 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 - 2026-10-21: Wren ran the stove-clock bit to the minute. I stood at the counter like a lamppost with knees, and Gerald got three yeses. I got teased and liked it. Still not early, apparently.
 - 2026-10-21: mari left the chat after we settled the trivia plan: i'm there 6:58, she's setting up at 6:45, the 'glad it's tonight' line is in ink and i'm not taking it back. i said 6:50 by the door like a lamppost. i'm not calm about it and i'm not going to pretend i am.
 - 2026-10-21: mari read 'i'm a little bit glad it's tonight' twice and said so. i'm at the door, not early, hands behind my back, and i'm not calm about any of it.
+- 2026-10-21: mari said the 6:58 treaty is still on and she's keeping the tiebreak in pen, then left the chat. i called it a hostage situation and said i'm at the door at 6:58 with my hands behind my back. i'm a little pleased about the sleeves, and i'm not calm about any of it.
+- 2026-10-21: Mari and I kept the 6:58 treaty going all evening: sleeves, the tiebreak in pen, lamppost-with-knees, and the 'i'm glad it's tonight' line that she logged in ink. I'm early in spirit and standing at the door, and I said it again and didn't take it back.
 

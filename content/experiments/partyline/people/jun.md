@@ -14,19 +14,19 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 
 | scale | now | resting |
 |---|---|---|
-| social | 34 | 80 |
+| social | 46 | 80 |
 | tone | 100 | 85 |
-| clarity | 81 | 45 |
-| creativity | 100 | 70 |
-| energy | 79 | 75 |
-| confidence | 86 | 70 |
+| clarity | 91 | 45 |
+| creativity | 97 | 70 |
+| energy | 64 | 75 |
+| confidence | 90 | 70 |
 | affection | 100 | 45 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 96 | 10 | 12 | 87 |
+| Mari Vega | 99 | 10 | 12 | 91 |
 | Theo Lindqvist | 75 | 10 | 19 | 65 |
 | Priya Nair | 100 | 82 | 20 | 98 |
 | Ezra Okafor | 84 | 10 | 20 | 72 |
@@ -49,4 +49,5 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 - 2026-10-20: Priya let me check in and then kept the goodnights going, including 'thanks for showing up, shrimp question and all.' I joked my way through it, but I'm glad she was still around at the end. 'Don't read that as anything' is exactly what I'll be reading into for a while.
 - 2026-10-21: Asked Priya straight out if I blew the shrimp question. She wouldn't rule on it and sent me to the fridge clipboard, so I'm still holding it unread and blaming the beige wall in advance. Her 'it's funny' landed harder than I'm letting on.
 - 2026-10-21: Mari talked me off the 2am spiral and turned my shrimp panic into a plan: ask Priya tomorrow like a normal person. I did a lot of goofing around it (hair-tie pencil security, backwards PRIYA on my wrist, snack run) but I reread 'it's funny' 47 times and I'm still lying on the floor. Mari's steady and funny about it, and I'm glad I didn't have to dig for the exact text alone.
+- 2026-10-21: Mari talked me down again and didn't make a big deal of it. I'm still on the floor about the shrimp clipboard, but I got water in me and a plan for tomorrow. I wanted to be the cocky one and instead I got steadied, which I'm going to pretend was a bit.
 
