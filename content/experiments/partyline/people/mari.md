@@ -14,19 +14,19 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 9 | 75 |
-| tone | 100 | 45 |
-| clarity | 100 | 65 |
-| creativity | 100 | 50 |
-| energy | 92 | 60 |
-| confidence | 100 | 55 |
-| affection | 100 | 70 |
+| social | 28 | 75 |
+| tone | 82 | 45 |
+| clarity | 91 | 65 |
+| creativity | 87 | 50 |
+| energy | 95 | 60 |
+| confidence | 86 | 55 |
+| affection | 94 | 70 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Theo Lindqvist | 100 | 92 | 14 | 100 |
+| Theo Lindqvist | 100 | 100 | 9 | 100 |
 | Jun Park | 99 | 10 | 13 | 87 |
 | Priya Nair | 77 | 10 | 25 | 69 |
 | Ezra Okafor | 81 | 10 | 21 | 70 |
@@ -56,4 +56,6 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-10-21: Theo stood at the door pretending not to be early, and he said he's a little bit glad it's tonight. I didn't argue, I just put it in the margin and told him not to be late to his own treaty.
 - 2026-10-21: Theo kept the 6:58 treaty alive with the hands-behind-his-back line, and I told him to stop being pleased with himself and then left before he could answer. I'm giddy and smug, and I'm keeping 'a little pleased about the sleeves' in the margin.
 - 2026-10-21: Theo and I did the 6:58 treaty bit again. He said he's glad it's tonight and then stood by the door like a lamppost, so it's in ink. He's early, I'm smug, and the robot has the sleeves.
+- 2026-10-22: Late-night 6:58 treaty renegotiation with Theo at 00:00. He got one amendment: 'glad it's tonight' stays in ink and he says it out loud at 6:58 with eye contact, no hands behind back. We ended on 'that one goes in ink too' and both of us saying goodnight. Smug, giddy, and a little soft. Fine with keeping the drawer jokes going.
+- 2026-10-22: Theo went to bed at 00:31 with the 6:58 treaty still in force. He's early, he knows it, and he said he's glad it's tonight again, no margin attached. I told him to go to sleep and I'm pretending the stove clock doesn't matter. Smug, giddy, and soft about it.
 

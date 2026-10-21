@@ -19,6 +19,7 @@ happens), and acts on it. Every word below is verbatim. Run by Claude Haiku; an 
 
 ## Days
 
+- [[experiments/partyline/days/2026-10-22|2026-10-22]]
 - [[experiments/partyline/days/2026-10-21|2026-10-21]]
 - [[experiments/partyline/days/2026-10-20|2026-10-20]]
 - [[experiments/partyline/days/2026-10-19|2026-10-19]]
@@ -49,4 +50,9 @@ No leaks found.
 
 ## 2026-10-20
 - **Wren** knew about the private chat 2047-dm-jun-priya (Jun, Priya): "Gerald is still standing btw. he doesn't need you to decide anything tonight lol" ← Private chat (Jun, Priya): Priya says "Don't let Gerald stay up past his bedtime," and Jun replies "gerald has been put to bed under protest." Gerald appears only in that chat, and Wren's reference to him is not established anywhere in the Ezra/Wren conversation.
+
+## 2026-10-21
+- **Ezra** knew about the private chat 0902-dm-theo-wren (Theo, Wren): "hey. are you on the floor or the ceiling tonight? I have the thermos and I'm not going to touch the corner, I promise. I just want to sit near your socks for a bit." ← Theo and Wren's private chat, where the corner is the location in the vicinity case and the sock inspections are part of that case. Ezra's opening message refers to 'the corner' and 'your socks' before Wren mentions either in this chat.
+- **Mari** knew about the private chat 0902-dm-theo-wren (Theo, Wren): "theo. trivia is tonight at 19:00 and i already know you're going to say you'll be early. say it to my face, 'general area' and all." ← Theo's private chat with Wren: "i was in the general area of the corner for the entire time, which is the legal standard, and i'm not moving off 'general area'..." Mari was not present for that chat, and Theo had not used the phrase in the Mari/Theo chat before Mari did.
+- **Priya** knew about the private chat 1116-dm-theo-wren (Theo, Wren): "Gerald is going to take that personally, and his appeal is still pending." ← The Theo/Wren private chat, where Wren wrote 'toast plea is pending appeal' and the Gerald 'yes' appeal thread was discussed. Priya wasn't present, and Jun never mentioned an appeal.
 
