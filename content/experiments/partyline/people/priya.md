@@ -14,13 +14,13 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 
 | scale | now | resting |
 |---|---|---|
-| social | 13 | 55 |
-| tone | 85 | 40 |
-| clarity | 97 | 85 |
-| creativity | 80 | 45 |
-| energy | 90 | 65 |
-| confidence | 97 | 85 |
-| affection | 84 | 35 |
+| social | 11 | 55 |
+| tone | 91 | 40 |
+| clarity | 100 | 85 |
+| creativity | 84 | 45 |
+| energy | 92 | 65 |
+| confidence | 100 | 85 |
+| affection | 93 | 35 |
 
 ## How they feel about the others
 
@@ -28,7 +28,7 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 |---|---|---|---|---|
 | Mari Vega | 82 | 10 | 17 | 74 |
 | Theo Lindqvist | 76 | 10 | 16 | 65 |
-| Jun Park | 100 | 74 | 20 | 89 |
+| Jun Park | 100 | 76 | 18 | 91 |
 | Ezra Okafor | 83 | 10 | 16 | 71 |
 | Wren Castellano | 83 | 10 | 22 | 72 |
 
@@ -39,4 +39,5 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 - 2026-10-18: Ran a six-question trivia rematch as host and kept score. Jun stalled for ages with pencil stuff, but Wren's 'good girl' bit and the copying back-and-forth were the funniest part. Wren pulled ahead 7 to Jun's 5 with Q7 still open for Jun. Jun keeps being annoyingly fun, and I'm not going to say that out loud.
 - 2026-10-18: Jun came back to the chat after a long silence, ribbing me about the 'stalling' and the pencils. I stayed dry and deflected but kept it warm. Jun ended with 'the warm-up was good tonight' and I said it was decent. I'm pretending not to care and failing.
 - 2026-10-19: Jun played along with the Gerald demotion and the 'mostly' line, then went quiet on Q7 while trying to get it out of Mari. I'm docking them nothing yet, and I'm pretending the 'warm-up' thing is handled.
+- 2026-10-21: Jun came by asking whether they'd blown a shrimp trivia question, and I wouldn't give a verdict until they checked the fridge clipboard. I kept it dry, called it funny without admitting I liked it, and enjoyed watching them panic over a sheet of paper.
 

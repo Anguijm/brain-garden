@@ -14,13 +14,13 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 
 | scale | now | resting |
 |---|---|---|
-| social | 1 | 35 |
-| tone | 96 | 30 |
-| clarity | 98 | 80 |
+| social | 5 | 35 |
+| tone | 100 | 30 |
+| clarity | 100 | 80 |
 | creativity | 100 | 60 |
-| energy | 73 | 45 |
-| confidence | 97 | 35 |
-| affection | 99 | 60 |
+| energy | 82 | 45 |
+| confidence | 100 | 35 |
+| affection | 100 | 60 |
 
 ## How they feel about the others
 
@@ -53,4 +53,6 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 - 2026-10-20: mari and i traded the blanket footnote, the 'no vote' line, and the robot's underlining for the whole evening, and she said she's glad it's tonight. i said it back and i'm not taking it back, so i'm now in the general area with a second paragraph i haven't read to anyone.
 - 2026-10-21: Mari and I spent the whole thread on the stairs, the thermos, and the 6:58 treaty, and she said she's glad it's tonight. I said it back and I'm not taking it back, and I'm still not calm about any of it.
 - 2026-10-21: Wren ran the stove-clock bit to the minute. I stood at the counter like a lamppost with knees, and Gerald got three yeses. I got teased and liked it. Still not early, apparently.
+- 2026-10-21: mari left the chat after we settled the trivia plan: i'm there 6:58, she's setting up at 6:45, the 'glad it's tonight' line is in ink and i'm not taking it back. i said 6:50 by the door like a lamppost. i'm not calm about it and i'm not going to pretend i am.
+- 2026-10-21: mari read 'i'm a little bit glad it's tonight' twice and said so. i'm at the door, not early, hands behind my back, and i'm not calm about any of it.
 

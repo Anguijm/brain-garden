@@ -14,20 +14,20 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 23 | 75 |
-| tone | 93 | 45 |
-| clarity | 95 | 65 |
-| creativity | 88 | 50 |
+| social | 13 | 75 |
+| tone | 100 | 45 |
+| clarity | 100 | 65 |
+| creativity | 100 | 50 |
 | energy | 92 | 60 |
-| confidence | 88 | 55 |
-| affection | 95 | 70 |
+| confidence | 100 | 55 |
+| affection | 100 | 70 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Theo Lindqvist | 100 | 76 | 7 | 100 |
-| Jun Park | 91 | 10 | 18 | 79 |
+| Theo Lindqvist | 100 | 84 | 9 | 100 |
+| Jun Park | 95 | 10 | 16 | 82 |
 | Priya Nair | 77 | 10 | 25 | 69 |
 | Ezra Okafor | 81 | 10 | 21 | 70 |
 | Wren Castellano | 80 | 11 | 14 | 71 |
@@ -52,4 +52,6 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-10-20: Final stretch before 6:58 with Theo: we traded margin jokes all night (robot's notebook, 'general area (allegedly)', 'vicinity') and it ended with him saying 'i'm glad it's tonight, mari' with no margin attached. I'm still smug and giddy about the treaty, but that last line landed soft and I'm keeping it.
 - 2026-10-20: Theo and I traded the last margin jokes before 6:58: the blanket footnote, 'general area (allegedly)', and the second paragraph he's saving for the stairs. He said he's glad it's tonight again, no asterisks, and I'm keeping that in ink.
 - 2026-10-21: Theo spent the whole late-night exchange sitting by the stairs and insisting on the 6:58 treaty, and then he said he's glad it's tonight too, with no margin attached. I told him to go to sleep and not make it weird, and I'm keeping that one.
+- 2026-10-21: Theo dug in on 'general area' and promised to be by the door at 6:50, so I'm holding him to 6:58 and the first line. I left before he could get the last word in, and I'm still smug about the treaty and keeping the 'glad it's tonight' line in ink.
+- 2026-10-21: Theo stood at the door pretending not to be early, and he said he's a little bit glad it's tonight. I didn't argue, I just put it in the margin and told him not to be late to his own treaty.
 
