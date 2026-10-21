@@ -14,12 +14,12 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 
 | scale | now | resting |
 |---|---|---|
-| social | 16 | 65 |
-| tone | 94 | 70 |
-| clarity | 82 | 50 |
-| creativity | 91 | 65 |
-| energy | 56 | 70 |
-| confidence | 88 | 45 |
+| social | 6 | 65 |
+| tone | 100 | 70 |
+| clarity | 89 | 50 |
+| creativity | 100 | 65 |
+| energy | 62 | 70 |
+| confidence | 100 | 45 |
 | affection | 100 | 85 |
 
 ## How they feel about the others
@@ -27,7 +27,7 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
 | Mari Vega | 78 | 10 | 17 | 71 |
-| Theo Lindqvist | 100 | 100 | 23 | 79 |
+| Theo Lindqvist | 100 | 100 | 27 | 86 |
 | Jun Park | 89 | 10 | 21 | 74 |
 | Priya Nair | 82 | 10 | 31 | 71 |
 | Ezra Okafor | 100 | 24 | 0 | 100 |
@@ -49,4 +49,5 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 - 2026-10-20: Sat on the floor by the socks with Ezra, a foot apart, thermos under guard, and barely narrated anything. The quiet was the good kind and I'm keeping it in the good-news folder.
 - 2026-10-20: Sat on the floor with Ezra and the thermos while the corner light was warm, then tried five minutes in the dark, counted on my fingers, and the corner still looked almost finished. I'm pretending I wasn't glad he stayed quiet with me the whole time.
 - 2026-10-20: Ezra sat on the floor with the thermos and said he'd let the corner light do its thing, which was the nicest thing anyone sent me all day. I stayed a blob on the ceiling, claimed Gerald looks taller from up there, and put 'a bit of both' in the good-news folder.
+- 2026-10-21: Theo and I finished the corner case: he says he got off at 4:02 by the stove clock, I'm not convinced, and the vicinity case stays open. Toast is the plea, the knees got an apology, Gerald's stare counts as one yes, and the stairs thing is officially on the fridge until 6:58. Smug on the inside, and I'm holding him to hands behind his back at 4.
 

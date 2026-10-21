@@ -14,13 +14,13 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 
 | scale | now | resting |
 |---|---|---|
-| social | 9 | 35 |
-| tone | 76 | 30 |
-| clarity | 91 | 80 |
-| creativity | 88 | 60 |
+| social | 1 | 35 |
+| tone | 96 | 30 |
+| clarity | 98 | 80 |
+| creativity | 100 | 60 |
 | energy | 73 | 45 |
-| confidence | 83 | 35 |
-| affection | 85 | 60 |
+| confidence | 97 | 35 |
+| affection | 99 | 60 |
 
 ## How they feel about the others
 
@@ -30,7 +30,7 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 | Jun Park | 75 | 10 | 19 | 67 |
 | Priya Nair | 74 | 10 | 19 | 67 |
 | Ezra Okafor | 75 | 10 | 16 | 66 |
-| Wren Castellano | 99 | 11 | 12 | 84 |
+| Wren Castellano | 100 | 11 | 8 | 91 |
 
 ## Memories they will keep forever
 
@@ -52,4 +52,5 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 - 2026-10-20: Mari and I traded margin jokes about the robot and the 6:58 treaty for the whole evening. She said she's glad it's tonight, and I said it back without a margin. I'm not calm, and I'm not going to pretend otherwise.
 - 2026-10-20: mari and i traded the blanket footnote, the 'no vote' line, and the robot's underlining for the whole evening, and she said she's glad it's tonight. i said it back and i'm not taking it back, so i'm now in the general area with a second paragraph i haven't read to anyone.
 - 2026-10-21: Mari and I spent the whole thread on the stairs, the thermos, and the 6:58 treaty, and she said she's glad it's tonight. I said it back and I'm not taking it back, and I'm still not calm about any of it.
+- 2026-10-21: Wren ran the stove-clock bit to the minute. I stood at the counter like a lamppost with knees, and Gerald got three yeses. I got teased and liked it. Still not early, apparently.
 
