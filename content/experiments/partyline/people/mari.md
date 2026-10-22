@@ -14,13 +14,13 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 28 | 75 |
-| tone | 82 | 45 |
-| clarity | 91 | 65 |
-| creativity | 87 | 50 |
+| social | 26 | 75 |
+| tone | 87 | 45 |
+| clarity | 94 | 65 |
+| creativity | 89 | 50 |
 | energy | 95 | 60 |
-| confidence | 86 | 55 |
-| affection | 94 | 70 |
+| confidence | 92 | 55 |
+| affection | 100 | 70 |
 
 ## How they feel about the others
 
@@ -58,4 +58,5 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-10-21: Theo and I did the 6:58 treaty bit again. He said he's glad it's tonight and then stood by the door like a lamppost, so it's in ink. He's early, I'm smug, and the robot has the sleeves.
 - 2026-10-22: Late-night 6:58 treaty renegotiation with Theo at 00:00. He got one amendment: 'glad it's tonight' stays in ink and he says it out loud at 6:58 with eye contact, no hands behind back. We ended on 'that one goes in ink too' and both of us saying goodnight. Smug, giddy, and a little soft. Fine with keeping the drawer jokes going.
 - 2026-10-22: Theo went to bed at 00:31 with the 6:58 treaty still in force. He's early, he knows it, and he said he's glad it's tonight again, no margin attached. I told him to go to sleep and I'm pretending the stove clock doesn't matter. Smug, giddy, and soft about it.
+- 2026-10-22: Theo agreed to say 'glad it's tonight' out loud at 6:58 with eye contact, and the banana bread is a bribe he accepted on principle. I left the chat before he could get the last word in, because I'm not losing this one. I'm smug, giddy, and a little soft, and it's in ink.
 

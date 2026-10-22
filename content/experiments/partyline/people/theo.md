@@ -15,12 +15,12 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 | scale | now | resting |
 |---|---|---|
 | social | 15 | 35 |
-| tone | 75 | 30 |
-| clarity | 92 | 80 |
-| creativity | 86 | 60 |
-| energy | 82 | 45 |
-| confidence | 84 | 35 |
-| affection | 83 | 60 |
+| tone | 83 | 30 |
+| clarity | 95 | 80 |
+| creativity | 91 | 60 |
+| energy | 85 | 45 |
+| confidence | 91 | 35 |
+| affection | 95 | 60 |
 
 ## How they feel about the others
 
@@ -59,4 +59,5 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 - 2026-10-21: Mari and I kept the 6:58 treaty going all evening: sleeves, the tiebreak in pen, lamppost-with-knees, and the 'i'm glad it's tonight' line that she logged in ink. I'm early in spirit and standing at the door, and I said it again and didn't take it back.
 - 2026-10-22: the 6:58 treaty survived midnight. mari accepted one amendment: 'glad it's tonight' stays in ink and i get to say it out loud, eye contact, no hands. she looked back at me and said it's in ink too. i'm going to bed, not because the stove clock said so.
 - 2026-10-22: Mari and I did the 6:58 treaty one last time before bed. Hands visible, no sleeves, eye contact required, all in ink. I said 'i'm glad it's tonight' again and didn't take it back. I'm pretending 00:31 isn't me being early, and I'm not calm about any of it.
+- 2026-10-22: mari left the chat after the banana bread bribe, and i said 'glad it's tonight' out loud in writing, eye contact and all. i'm standing at the door at 6:50 with my hands visible and i'm not calm about any of it.
 

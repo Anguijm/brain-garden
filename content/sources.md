@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-1274 citations across 138 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+1318 citations across 145 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -1700,6 +1700,73 @@ This page lists every external link cited anywhere in the garden, article by art
 8. [macroquad: https://github.com/not-fl3/macroquad ; Android via miniquad](https://macroquad.rs/articles/)
 9. [Bevy: ; mobile examples /blob/main/examples/README.md](https://github.com/bevyengine/bevy)
 10. [Bevy: https://github.com/bevyengine/bevy ; mobile examples](https://github.com/bevyengine/bevy/blob/main/examples/README.md)
+
+## Startups
+
+### [NFX: what an early-stage venture firm teaches founders](topics/startups/nfx/)
+
+1. [NFX's own site](https://www.nfx.com/masterclass/the-speed-masterclass)
+2. [BriefLink](https://brieflink.com/)
+3. [Signal](https://signal.nfx.com/)
+
+### [AI-era companies: small teams, thin wrappers and what lasts](topics/startups/nfx/ai-era-companies)
+
+1. ["How The Fastest AI-First Companies Really Work"](https://www.nfx.com/post/ai-first-company-structure-mission-pods)
+2. [an NFX video on company structure](https://www.youtube.com/watch?v=S06CDLDiFhk)
+3. [another NFX video](https://www.youtube.com/watch?v=5nOA9Mzpyiw)
+4. [season two episode](https://www.youtube.com/watch?v=llsqVsQrQog)
+5. ["The AI Wrapper is Dead"](https://www.nfx.com/post/ai-wrapper-dead-verticalization-startups)
+6. [an NFX video on defensibility](https://www.youtube.com/watch?v=6zHTBDUWVjM)
+7. [a video on stackable business models](https://www.youtube.com/watch?v=qoSW071w2qU)
+8. [a video on go-to-market](https://www.youtube.com/watch?v=sMBPrDehasU)
+9. [a video on what to build next](https://www.youtube.com/watch?v=9uxGXRvH7IY)
+
+### [What is on the NFX YouTube channel](topics/startups/nfx/channel-guide)
+
+1. [YouTube channel](https://www.youtube.com/@nfxinsights/videos)
+
+### [Copy a lot, but not all: how to compete with something that already exists](topics/startups/nfx/copy-a-lot-but-not-all)
+
+1. [James Currier told Stanford students](https://www.youtube.com/watch?v=My02IkUg7Ug)
+2. [the Speed Talk](https://www.youtube.com/watch?v=2tEETESsz4s)
+3. [a conversation with Jeff Lawson](https://www.youtube.com/watch?v=U_eQK9UR8ao)
+4. [a talk at Stanford's business school](https://www.youtube.com/watch?v=hwnh-HtByaY)
+5. [a conversation with technology writer Kevin Kelly](https://www.youtube.com/watch?v=vincGfoF8FA)
+6. [a talk with Selina Tobaccowala](https://www.youtube.com/watch?v=f5g_ny3QyZo)
+
+### [The Network Effects Masterclass, episode by episode](topics/startups/nfx/network-effects-masterclass)
+
+1. [nfx.com](https://www.nfx.com/masterclass/network-effects)
+2. [James Currier says](https://www.nfx.com/masterclass/network-effects/network-effects-mission-critical)
+3. [Currier says](https://www.nfx.com/masterclass/network-effects/network-theory-properties)
+4. [Currier arranges](https://www.nfx.com/masterclass/network-effects/mapping-the-16-network-effects)
+5. [Pete Flint names](https://www.nfx.com/masterclass/network-effects/4-pillars-of-defensibility)
+6. [Currier argues](https://www.nfx.com/masterclass/network-effects/network-bonding-theory)
+7. [Currier and Flint use the 16-type map](https://www.nfx.com/masterclass/network-effects/network-effects-case-studies)
+8. [Currier says](https://www.nfx.com/masterclass/network-effects/new-social-contract)
+9. [Currier applies](https://www.nfx.com/masterclass/network-effects/your-life-is-driven-by-network-effects)
+10. [Gigi Levy-Weiss says](https://www.nfx.com/masterclass/network-effects/network-effects-in-gaming)
+11. [Omri Amirav-Drory says](https://www.nfx.com/masterclass/network-effects/network-effects-in-techbio)
+
+### [The Speed Masterclass, episode by episode](topics/startups/nfx/speed-masterclass)
+
+1. [nfx.com](https://www.nfx.com/masterclass/the-speed-masterclass)
+2. [Currier opens](https://www.nfx.com/masterclass/the-speed-masterclass/welcome)
+3. [Currier says](https://www.youtube.com/watch?v=2tEETESsz4s)
+4. [Currier calls](https://www.nfx.com/masterclass/the-speed-masterclass/22-mindsets-that-kill-speed)
+5. [Currier argues](https://www.nfx.com/masterclass/the-speed-masterclass/magic-words)
+6. [Currier says](https://www.nfx.com/masterclass/the-speed-masterclass/speed-across-your-market)
+7. [Currier ranks](https://www.nfx.com/masterclass/the-speed-masterclass/speed-of-revenue)
+8. [Currier's tool](https://www.nfx.com/masterclass/the-speed-masterclass/fundraising-speed)
+9. [Currier says](https://www.youtube.com/watch?v=llsqVsQrQog)
+10. [Currier gives](https://www.youtube.com/watch?v=Yo_sk2dHaQQ)
+
+### [Wedges, timing and idea screens](topics/startups/nfx/wedges-timing-and-idea-screens)
+
+1. [NFX's wedge video](https://www.youtube.com/watch?v=RzX3dqZx89o)
+2. [a talk at Stanford's business school](https://www.youtube.com/watch?v=hwnh-HtByaY)
+3. [the idea talk to Stanford students](https://www.youtube.com/watch?v=My02IkUg7Ug)
+4. [an NFX video on technology windows](https://www.youtube.com/watch?v=NtBIsBhrSnM)
 
 ## Technology
 
