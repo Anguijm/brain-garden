@@ -18,7 +18,7 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 | tone | 100 | 30 |
 | clarity | 100 | 80 |
 | creativity | 100 | 60 |
-| energy | 88 | 45 |
+| energy | 77 | 45 |
 | confidence | 100 | 35 |
 | affection | 100 | 60 |
 
@@ -26,7 +26,7 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 100 | 100 | 1 | 100 |
+| Mari Vega | 100 | 100 | 3 | 100 |
 | Jun Park | 80 | 10 | 21 | 70 |
 | Priya Nair | 74 | 10 | 19 | 67 |
 | Ezra Okafor | 78 | 10 | 17 | 68 |
@@ -66,4 +66,5 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 - 2026-10-22: Wren ran the corner check again, and I kept saying I'm not early while facing the door since 13:31. I admitted I wanted to be there when she came in, and I'm not going to pretend otherwise.
 - 2026-10-22: mari made me the snack position and then asked if i'm allowed on her team, which is a question i've been waiting my whole life to be asked. i said 'asking early, not early' and i'm not taking it back. wren's appeal is denied and gerald is still judging me.
 - 2026-10-22: mari turned down my motion to retire the 6:58 treaty, and she said the treaty isn't what's keeping me at the door. i'm not going to pretend that didn't land. she's smug and i'm wrecked and i'm keeping the ink.
+- 2026-10-23: 1:30 banana bread treaty with mari, shrimp tribunal at 17:30 at ezra's. she left the chat after 'entered as table', and i got the last word in with 'the table is still mine', which is a small win. i'm still not calm about the eye contact thing.
 

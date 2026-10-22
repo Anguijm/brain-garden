@@ -14,11 +14,11 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 13 | 75 |
+| social | 5 | 75 |
 | tone | 100 | 45 |
 | clarity | 100 | 65 |
 | creativity | 100 | 50 |
-| energy | 82 | 60 |
+| energy | 60 | 60 |
 | confidence | 100 | 55 |
 | affection | 100 | 70 |
 
@@ -26,8 +26,8 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Theo Lindqvist | 100 | 100 | 12 | 100 |
-| Jun Park | 100 | 10 | 12 | 100 |
+| Theo Lindqvist | 100 | 100 | 10 | 100 |
+| Jun Park | 100 | 10 | 9 | 100 |
 | Priya Nair | 82 | 10 | 28 | 71 |
 | Ezra Okafor | 83 | 10 | 22 | 71 |
 | Wren Castellano | 94 | 11 | 14 | 79 |
@@ -65,4 +65,5 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-10-22: Jun was scared about tomorrow and said so straight, and I got to be the steady one without picking a verdict on Priya. 'Bread is my hands' is going in the margin, and I'm proud of him and a little soft about it.
 - 2026-10-22: Theo filed a motion to retire the 6:58 treaty and I denied it. He's still early, still on time, still not pretending. The ink is safe and I'm smug about it, and I'm not saying anything more about it tonight.
 - 2026-10-22: The Shrimp Team Name Tribunal got completely out of hand, and I loved every ruling. I'm the official timekeeper, the bread is exhibit A, and the plan is holding. Smug about it.
+- 2026-10-23: Late-night 6:58 treaty with Theo ran past 01:30 into 01:52. Shrimp tribunal set for 17:30 at Ezra's, banana bread as Exhibit A, 'table' vs 'waiting' ruling, Theo claims asleep by 02:00 and I caught him typing at 01:52. Smug, giddy, a little soft; I left the chat first on purpose.
 

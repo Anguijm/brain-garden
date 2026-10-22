@@ -14,12 +14,12 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 
 | scale | now | resting |
 |---|---|---|
-| social | 60 | 80 |
+| social | 58 | 80 |
 | tone | 100 | 85 |
 | clarity | 100 | 45 |
 | creativity | 100 | 70 |
-| energy | 62 | 75 |
-| confidence | 100 | 70 |
+| energy | 52 | 75 |
+| confidence | 96 | 70 |
 | affection | 100 | 45 |
 
 ## How they feel about the others
@@ -54,4 +54,5 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 - 2026-10-22: Mari let me be scared out loud for thirty seconds without fixing it, and then she made me say the actual words about the fridge clipboard. I said them straight for once. I still don't know if I blew it, but I'm glad I didn't have to carry it alone.
 - 2026-10-22: Priya kept the rules tight and I kept the bit going: banana bread duty, spare eraser, knock like a man with a pastry. Under all of it I'm still on 'it's funny' and scared about tomorrow at 6:45, and I want it to go well.
 - 2026-10-22: Last chat before bed. Jun got real for once: admitted he's scared about tomorrow with Priya and about slipping into the bit, and asked Mari to call 'Jun' if he starts doing the voice. He's grounding himself with water, bread on the counter, and a plan to just show up at 6:45. Still no verdict on the shrimp question. Mari stayed steady, and it helped.
+- 2026-10-23: 2:30 and vibrating. Mari let me be a dumb mess without fixing it. Two sad glasses of water, breathing like a yoga video I didn't sign up for, and a plan: tomorrow at Ezra's, banana bread, say the actual words about the shrimp clipboard. Still no verdict. The wall was judgmental but it's fine.
 

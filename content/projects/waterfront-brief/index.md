@@ -40,6 +40,15 @@ last checked.
 Each issue is readable on the web (with links into the rest of this garden) and
 downloadable as the print PDF (source links only).
 
+- **[Vol. 1, No. 15, Week 43, October 2026](2026-w43)**
+  ([download the PDF](pdf/2026-w43.966748f9.pdf)): Truman in at Newport News while Stennis, on its fourth
+  delivery date, is scheduled to stay until April 2028, with the next carrier booked behind Truman;
+  all eight large Korean yard jobs on Navy supply ships the desk found since 2024, every one past
+  its contract date and 27 to 401 percent over its award; the 230,000 hours of unplanned work
+  that fitting a hypersonic missile into Zumwalt added, from extra cabling and a first restart,
+  set against the package already written for Michael Monsoor; Pascagoula's private propeller
+  foundry adding machine tools, not casting, from early 2028; and a page of dated events.
+
 - **[Vol. 1, No. 14, Week 42, October 2026](2026-w42)**
   ([download the PDF](pdf/2026-w42.831801e4.pdf)): a Rota destroyer in a Spanish commercial dock, the
   first for the Rota ships, set beside Yokosuka's own docks, Sasebo's shared one and the Korean

@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-1318 citations across 145 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+1360 citations across 146 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -364,6 +364,51 @@ This page lists every external link cited anywhere in the garden, article by art
 36. [The Department of War announced on September 18](https://www.war.gov/News/Contracts/Contract/Article/4605498/contracts-for-sept-18-2026/)
 37. [per Military & Aerospace Electronics](https://www.militaryaerospace.com/power/article/55407024/kato-engineering-wins-493-million-emals-sustainment-contract)
 38. [The White House press secretary said on October 13](https://rollcall.com/factbase/trump/transcript/donald-trump-press-conference-briefing-katie-zacharia-october-13-2026/)
+
+### [The Waterfront Brief, Vol. 1 No. 15 (week 43)](projects/waterfront-brief/2026-w43)
+
+1. [USNI News reported in June 2024](https://news.usni.org/2024/06/18/carrier-uss-john-c-stennis-overhaul-delayed-work-will-take-more-than-5-years-to-complete)
+2. [HII said on May 25, 2023](https://hii.com/news/hii-redelivers-uss-george-washington-cvn-73-to-u-s-navy/)
+3. [The Navy's fiscal 2026 shipbuilding budget book, dated June 2025](https://www.secnav.navy.mil/fmc/fmb/Documents/26pres/SCN_Book.pdf)
+4. [The fiscal 2027 book, dated April 2026](https://www.secnav.navy.mil/fmc/fmb/Documents/27pres/SCN_Book.pdf)
+5. [The Navy announced on September 29](https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/4614977/uss-harry-s-truman-cvn-75-to-undergo-midlife-refueling-and-complex-overhaul/)
+6. [the Navy said on October 1](https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4616442/uss-harry-s-truman-departs-norfolk-begins-move-to-newport-news-for-rcoh/)
+7. [USNI News reported on September 29](https://news.usni.org/2026/09/29/navy-partially-accepts-carrier-john-f-kennedy-from-hii-newport-news-shipbuilding)
+8. [Wally Schirra, overhaul](https://www.usaspending.gov/award/CONT_AWD_N4034524F0559_9700_N4034524G0007_9700)
+9. [Oct 2024](https://www.fpds.gov/ezsearch/FEEDS/ATOM?FEEDNAME=PUBLIC&q=PIID%3AN4034524F0559)
+10. [Yukon, overhaul](https://www.usaspending.gov/award/CONT_AWD_N6264925FL025_9700_N4034524G0007_9700)
+11. [Apr 2025](https://www.fpds.gov/ezsearch/FEEDS/ATOM?FEEDNAME=PUBLIC&q=PIID%3AN6264925FL025)
+12. [Charles Drew, overhaul](https://www.usaspending.gov/award/CONT_AWD_N6264925CL015_9700_-NONE-_-NONE-)
+13. [Oct 2025](https://www.fpds.gov/ezsearch/FEEDS/ATOM?FEEDNAME=PUBLIC&q=PIID%3AN6264925CL015)
+14. [Wally Schirra, mid-term](https://www.usaspending.gov/award/CONT_AWD_N6264925CLA04_9700_-NONE-_-NONE-)
+15. [Dec 2025](https://www.fpds.gov/ezsearch/FEEDS/ATOM?FEEDNAME=PUBLIC&q=PIID%3AN6264925CLA04)
+16. [Alan Shepard, overhaul](https://www.usaspending.gov/award/CONT_AWD_N6264925CL021_9700_-NONE-_-NONE-)
+17. [Nov 2025](https://www.fpds.gov/ezsearch/FEEDS/ATOM?FEEDNAME=PUBLIC&q=PIID%3AN6264925CL021)
+18. [Cesar Chavez, overhaul](https://www.usaspending.gov/award/CONT_AWD_N6264926CL003_9700_-NONE-_-NONE-)
+19. [Mar 2026](https://www.fpds.gov/ezsearch/FEEDS/ATOM?FEEDNAME=PUBLIC&q=PIID%3AN6264926CL003)
+20. [Amelia Earhart, mid-term](https://www.usaspending.gov/award/CONT_AWD_N6264926CL004_9700_-NONE-_-NONE-)
+21. [Mar 2026](https://www.fpds.gov/ezsearch/FEEDS/ATOM?FEEDNAME=PUBLIC&q=PIID%3AN6264926CL004)
+22. [Richard E. Byrd, overhaul, no docking](https://www.usaspending.gov/award/CONT_AWD_N6264926CL008_9700_-NONE-_-NONE-)
+23. [Jun 2026](https://www.fpds.gov/ezsearch/FEEDS/ATOM?FEEDNAME=PUBLIC&q=PIID%3AN6264926CL008)
+24. [Byrd at Chinhae](https://www.fpds.gov/ezsearch/FEEDS/ATOM?FEEDNAME=PUBLIC&q=PIID%3AN6264926FK006)
+25. [Miguel Keith](https://www.fpds.gov/ezsearch/FEEDS/ATOM?FEEDNAME=PUBLIC&q=PIID%3AN6264926FK008)
+26. [The Maritime Executive reported](https://maritime-executive.com/article/south-korean-yard-completes-repairs-for-usns-amelia-earhart)
+27. [The Herald Business reported in October](https://biz.heraldcorp.com/article/10903892)
+28. [Asia Today, in United Press International's translation](https://www.upi.com/Top_News/World-News/2026/06/28/US-Navy-expands-repair-work-at-South-Korean-shipyards/4221782687677/)
+29. [Janes reported](https://www.janes.com/defence-intelligence-insights/defence-news/sea/hanwha-ocean-marks-inaugural-overhaul-work-on-us-navy-ship)
+30. [Military Sealift Command said](https://www.msc.usff.navy.mil/Press-Room/News-Stories/Article/4118286/usns-wally-schirra-completes-major-maintenance-at-south-korean-shipyard/)
+31. [Hanwha Ocean's recruiting site](https://hanwha-ocean.career.greetinghr.com/ko/detailinterview-mro)
+32. [EBN reported in April 2025](https://www.ebn.co.kr/news/articleView.html?idxno=1659798)
+33. [GAO's report of July 17](https://www.gao.gov/assets/gao-26-107974.pdf)
+34. [A March 2024 contract notice carried by Defense Daily](https://defensedaily.com/contract-awards/contract-award-general-dynamics-bath-iron-works-bath-maine-22714829)
+35. [The Navy's FY2027 budget book says](https://www.secnav.navy.mil/fmc/fmb/Documents/27pres/OPN_BA1_Book.pdf)
+36. [Lockheed Martin's undated feature says](https://www.lockheedmartin.com/en-us/news/features/2023/a-hypersonics-first--integration-on-a-navy-stealth-destroyer.html)
+37. [An August 18, 2022 contract notice carried by Defense Daily](https://defensedaily.com/contract-awards/contract-award-general-dynamics-bath-iron-works-bath-maine-19999814)
+38. [USNI News reported](https://news.usni.org/2026/01/21/uss-zumwalt-underway-for-first-time-since-2023-after-missile-refit)
+39. [The work package NAVSEA (Naval Sea Systems Command) posted with its April 8](https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b63da2c33110415b97c08a91490893e3/download?&token=)
+40. [The Navy said on October 21](https://www.dvidshub.net/news/577523/critical-industrial-base-facility-breaks-ground-thanks-australian-submarine-industrial-base-contribution)
+41. [Fairbanks Morse Defense said in an October 20 release Seapower carried](https://seapowermagazine.org/new-fairbanks-morse-defense-doubles-manufacturing-capacity-at-pascagoula-naval-propulsion-facility/)
+42. [Naval Sea Systems Command (NAVSEA) says of its Naval Foundry and Propeller Center in](https://www.navsea.navy.mil/Home/Shipyards/Norfolk/Department-Links/Naval-Foundry-and-Propeller-Center/)
 
 ### [The Waterfront Brief: reference shelf](projects/waterfront-brief/reference-shelf)
 
