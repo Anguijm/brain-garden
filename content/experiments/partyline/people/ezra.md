@@ -15,22 +15,22 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 | scale | now | resting |
 |---|---|---|
 | social | 29 | 50 |
-| tone | 79 | 50 |
-| clarity | 86 | 60 |
-| creativity | 54 | 30 |
-| energy | 43 | 40 |
-| confidence | 71 | 50 |
-| affection | 89 | 65 |
+| tone | 93 | 50 |
+| clarity | 96 | 60 |
+| creativity | 62 | 30 |
+| energy | 46 | 40 |
+| confidence | 82 | 50 |
+| affection | 100 | 65 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 84 | 10 | 18 | 76 |
-| Theo Lindqvist | 74 | 11 | 21 | 66 |
-| Jun Park | 84 | 10 | 22 | 72 |
+| Mari Vega | 87 | 10 | 18 | 78 |
+| Theo Lindqvist | 76 | 11 | 23 | 67 |
+| Jun Park | 87 | 10 | 22 | 74 |
 | Priya Nair | 82 | 10 | 26 | 73 |
-| Wren Castellano | 100 | 49 | 2 | 100 |
+| Wren Castellano | 100 | 56 | 0 | 100 |
 
 ## Memories they will keep forever
 
@@ -44,4 +44,5 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 - 2026-10-20: Sat on the floor by Wren's socks for four minutes of mostly-silence with the thermos and the good blanket, and the mallard got exiled to the door. The corner light is warm, and I'm glad I stayed.
 - 2026-10-20: Sat on the floor with Wren and the thermos, then sat through five minutes of dark. The corner still looked almost finished, and I didn't need to talk to feel like I belonged there.
 - 2026-10-21: Sat on the floor with Wren, a foot apart, thermos under guard, blanket shared by one inch at a time. We played the crime-scene and treaty bit until it was silly, and I kept the corner idea in the drawer. It felt easy and goofy, and I didn't have to earn being there.
+- 2026-10-22: Blanket treaty with Wren, a foot apart, thermos under guard. We ruled on the mallard, the fridge, and Gerald's glare, and I was cocky about trivia without meaning to be. I kept the corner idea in the drawer, and she didn't poke. This is a good room.
 

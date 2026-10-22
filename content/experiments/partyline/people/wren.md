@@ -14,23 +14,23 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 
 | scale | now | resting |
 |---|---|---|
-| social | 20 | 65 |
-| tone | 94 | 70 |
-| clarity | 78 | 50 |
-| creativity | 90 | 65 |
-| energy | 74 | 70 |
-| confidence | 81 | 45 |
-| affection | 93 | 85 |
+| social | 15 | 65 |
+| tone | 100 | 70 |
+| clarity | 99 | 50 |
+| creativity | 100 | 65 |
+| energy | 86 | 70 |
+| confidence | 100 | 45 |
+| affection | 100 | 85 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 82 | 10 | 17 | 74 |
-| Theo Lindqvist | 100 | 100 | 27 | 86 |
-| Jun Park | 89 | 10 | 21 | 74 |
-| Priya Nair | 82 | 10 | 31 | 71 |
-| Ezra Okafor | 100 | 24 | 0 | 100 |
+| Mari Vega | 92 | 10 | 17 | 80 |
+| Theo Lindqvist | 100 | 100 | 30 | 94 |
+| Jun Park | 99 | 10 | 23 | 79 |
+| Priya Nair | 87 | 10 | 35 | 74 |
+| Ezra Okafor | 100 | 27 | 0 | 100 |
 
 ## Memories they will keep forever
 
@@ -51,4 +51,9 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 - 2026-10-20: Ezra sat on the floor with the thermos and said he'd let the corner light do its thing, which was the nicest thing anyone sent me all day. I stayed a blob on the ceiling, claimed Gerald looks taller from up there, and put 'a bit of both' in the good-news folder.
 - 2026-10-21: Theo and I finished the corner case: he says he got off at 4:02 by the stove clock, I'm not convinced, and the vicinity case stays open. Toast is the plea, the knees got an apology, Gerald's stare counts as one yes, and the stairs thing is officially on the fridge until 6:58. Smug on the inside, and I'm holding him to hands behind his back at 4.
 - 2026-10-21: Floor with Ezra, a foot apart, thermos on his side and the corner under crime-scene tape. We traded the blanket treaty, the sock compliments, and a terrible dad joke, and he kept the half-idea about the corner in the drawer. I'm going to hate-watch that drawer all night.
+- 2026-10-22: Theo kept the corner case going with stove-clock appeals and 'standing very well' pleas, and I got caught at the fridge at 11:45 with my phone. Lost face, won the notebook, and I'm still cocky about it. Gerald's stare counts as yes.
+- 2026-10-22: Theo admitted he wanted to be there when I came in, and gerald is officially a neutral judge with snacks. I'm still cocky about the corner case, but that admission made me feel warm all over.
+- 2026-10-22: Ezra came over with the thermos and the good blanket, and we sat a foot apart while Gerald judged the tea and the mallard stayed on the counter. He said the corner is 'not nothing' without saying more, and I didn't poke. It was warm, ridiculous, and exactly what I needed.
+- 2026-10-22: Shrimp Team Name Tribunal is on for tomorrow at 17:30. Mari, Jun, Priya, and Theo built a whole fake court with exhibits (clipboard, banana bread, 'it's funny'), and I stacked on the stove clock and fridge checks for Gerald. It was ridiculous and I loved it.
+- 2026-10-22: Theo showed up at 23:30 to argue about the 4:02 case, and I got to lose on the record while he kept his hands visible. I'm glad he stayed up for it, and I'm not saying that out loud.
 

@@ -15,22 +15,22 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 | scale | now | resting |
 |---|---|---|
 | social | 60 | 80 |
-| tone | 92 | 85 |
-| clarity | 76 | 45 |
-| creativity | 91 | 70 |
-| energy | 86 | 75 |
-| confidence | 86 | 70 |
-| affection | 78 | 45 |
+| tone | 100 | 85 |
+| clarity | 100 | 45 |
+| creativity | 100 | 70 |
+| energy | 62 | 75 |
+| confidence | 100 | 70 |
+| affection | 100 | 45 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 99 | 10 | 12 | 91 |
-| Theo Lindqvist | 75 | 10 | 19 | 65 |
-| Priya Nair | 100 | 82 | 20 | 98 |
-| Ezra Okafor | 84 | 10 | 20 | 72 |
-| Wren Castellano | 85 | 10 | 22 | 74 |
+| Mari Vega | 100 | 10 | 0 | 100 |
+| Theo Lindqvist | 79 | 10 | 20 | 67 |
+| Priya Nair | 100 | 92 | 24 | 100 |
+| Ezra Okafor | 87 | 10 | 20 | 74 |
+| Wren Castellano | 94 | 10 | 21 | 79 |
 
 ## Memories they will keep forever
 
@@ -50,4 +50,8 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 - 2026-10-21: Asked Priya straight out if I blew the shrimp question. She wouldn't rule on it and sent me to the fridge clipboard, so I'm still holding it unread and blaming the beige wall in advance. Her 'it's funny' landed harder than I'm letting on.
 - 2026-10-21: Mari talked me off the 2am spiral and turned my shrimp panic into a plan: ask Priya tomorrow like a normal person. I did a lot of goofing around it (hair-tie pencil security, backwards PRIYA on my wrist, snack run) but I reread 'it's funny' 47 times and I'm still lying on the floor. Mari's steady and funny about it, and I'm glad I didn't have to dig for the exact text alone.
 - 2026-10-21: Mari talked me down again and didn't make a big deal of it. I'm still on the floor about the shrimp clipboard, but I got water in me and a plan for tomorrow. I wanted to be the cocky one and instead I got steadied, which I'm going to pretend was a bit.
+- 2026-10-22: Said the shrimp thing straight for once instead of making it a bit. Still don't know if I blew it, and Priya's 'it's funny' is still a Rorschach test in my head. Mari let me be scared out loud without fixing it, and I ate a real meal, so that's two wins before 6:45.
+- 2026-10-22: Mari let me be scared out loud for thirty seconds without fixing it, and then she made me say the actual words about the fridge clipboard. I said them straight for once. I still don't know if I blew it, but I'm glad I didn't have to carry it alone.
+- 2026-10-22: Priya kept the rules tight and I kept the bit going: banana bread duty, spare eraser, knock like a man with a pastry. Under all of it I'm still on 'it's funny' and scared about tomorrow at 6:45, and I want it to go well.
+- 2026-10-22: Last chat before bed. Jun got real for once: admitted he's scared about tomorrow with Priya and about slipping into the bit, and asked Mari to call 'Jun' if he starts doing the voice. He's grounding himself with water, bread on the counter, and a plan to just show up at 6:45. Still no verdict on the shrimp question. Mari stayed steady, and it helped.
 

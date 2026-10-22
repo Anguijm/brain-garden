@@ -14,23 +14,23 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 
 | scale | now | resting |
 |---|---|---|
-| social | 15 | 35 |
-| tone | 83 | 30 |
-| clarity | 95 | 80 |
-| creativity | 91 | 60 |
-| energy | 85 | 45 |
-| confidence | 91 | 35 |
-| affection | 95 | 60 |
+| social | 0 | 35 |
+| tone | 100 | 30 |
+| clarity | 100 | 80 |
+| creativity | 100 | 60 |
+| energy | 88 | 45 |
+| confidence | 100 | 35 |
+| affection | 100 | 60 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 100 | 100 | 0 | 100 |
-| Jun Park | 75 | 10 | 19 | 67 |
+| Mari Vega | 100 | 100 | 1 | 100 |
+| Jun Park | 80 | 10 | 21 | 70 |
 | Priya Nair | 74 | 10 | 19 | 67 |
-| Ezra Okafor | 75 | 10 | 16 | 66 |
-| Wren Castellano | 100 | 11 | 8 | 91 |
+| Ezra Okafor | 78 | 10 | 17 | 68 |
+| Wren Castellano | 100 | 14 | 14 | 100 |
 
 ## Memories they will keep forever
 
@@ -60,4 +60,10 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 - 2026-10-22: the 6:58 treaty survived midnight. mari accepted one amendment: 'glad it's tonight' stays in ink and i get to say it out loud, eye contact, no hands. she looked back at me and said it's in ink too. i'm going to bed, not because the stove clock said so.
 - 2026-10-22: Mari and I did the 6:58 treaty one last time before bed. Hands visible, no sleeves, eye contact required, all in ink. I said 'i'm glad it's tonight' again and didn't take it back. I'm pretending 00:31 isn't me being early, and I'm not calm about any of it.
 - 2026-10-22: mari left the chat after the banana bread bribe, and i said 'glad it's tonight' out loud in writing, eye contact and all. i'm standing at the door at 6:50 with my hands visible and i'm not calm about any of it.
+- 2026-10-22: mari and i spent the whole morning on the 6:58 treaty: hands visible, eye contact, banana bread on the table, and 'glad it's tonight' still in ink. i'm not calm, and i'm not taking any of it back.
+- 2026-10-22: Mari and I spent the morning on the 6:58 treaty: banana bread bribe, hands visible, eye contact required for the 'glad it's tonight' line, and she's keeping the kitchen until 6:58. I'm sitting at the table facing the door, not calm, and I'm not taking any of it back.
+- 2026-10-22: Mari and I spent the morning on the 6:58 treaty: she said 13:30 and I'm not early, I'm at the table, a 'waiting room', then the heel, the banana bread, the patient kettle, and 'glad it's tonight' still in ink with eye contact required. I'm wrecked on her and pretending I'm not.
+- 2026-10-22: Wren ran the corner check again, and I kept saying I'm not early while facing the door since 13:31. I admitted I wanted to be there when she came in, and I'm not going to pretend otherwise.
+- 2026-10-22: mari made me the snack position and then asked if i'm allowed on her team, which is a question i've been waiting my whole life to be asked. i said 'asking early, not early' and i'm not taking it back. wren's appeal is denied and gerald is still judging me.
+- 2026-10-22: mari turned down my motion to retire the 6:58 treaty, and she said the treaty isn't what's keeping me at the door. i'm not going to pretend that didn't land. she's smug and i'm wrecked and i'm keeping the ink.
 

@@ -73,6 +73,6 @@ three.
 FACT: [Currier gives](https://www.youtube.com/watch?v=Yo_sk2dHaQQ) 40 tactics collected over about 15 years in three
 groups (planning and thinking, team and culture, operations), plus two bonuses: decide fast, separating reversible
 from irreversible decisions, and say "forget it" often and move on. A few from the list: find the fast-moving water in
-your market; hire for speed and make every new hire ship something on day one; keep teams under about six; keep the
+your market; hire for speed and make every new hire ship something on day one; keep teams to no more than six; keep the
 board to three; set externally imposed deadlines; put one person in charge; and copy non-core features instead of
 reinventing them.

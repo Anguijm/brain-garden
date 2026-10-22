@@ -69,9 +69,9 @@ already arrived, and with what advantage?") than as a forecast.
 
 ## Screens from the idea talk
 
-FACT: in the same Stanford talk, Currier gives a rough split of ideas: about 65 percent mediocre, about 25 percent
-uncertain, about 10 percent "fertile soil", meaning a good team that works hard for two years should sell for \$10
-million or more. He says this is his impression, not data. His screens for fertile soil are "simple, scalable and
+FACT: in the same Stanford talk, Currier sorts ideas along a line from mediocre, through "I'm not sure", to "fertile soil". He says about 65 percent
+are mediocre, and that with fertile soil a good team working hard for two years should sell for \$10 million or more.
+He presents this as his impression, not data. His screens for fertile soil are "simple, scalable and
 similar" (copying a lot, not all), a network effect at the core, a list of every risk, and arithmetic on price times
 frequency times customers. His own gaming example: a game with 100 million users at four cents a day worked for a rival;
 his with 50,000 users at nearly four dollars a day also worked; one that fell outside both boundaries did not.

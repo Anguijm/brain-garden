@@ -14,23 +14,23 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 26 | 75 |
-| tone | 87 | 45 |
-| clarity | 94 | 65 |
-| creativity | 89 | 50 |
-| energy | 95 | 60 |
-| confidence | 92 | 55 |
+| social | 13 | 75 |
+| tone | 100 | 45 |
+| clarity | 100 | 65 |
+| creativity | 100 | 50 |
+| energy | 82 | 60 |
+| confidence | 100 | 55 |
 | affection | 100 | 70 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Theo Lindqvist | 100 | 100 | 9 | 100 |
-| Jun Park | 99 | 10 | 13 | 87 |
-| Priya Nair | 77 | 10 | 25 | 69 |
-| Ezra Okafor | 81 | 10 | 21 | 70 |
-| Wren Castellano | 86 | 11 | 12 | 75 |
+| Theo Lindqvist | 100 | 100 | 12 | 100 |
+| Jun Park | 100 | 10 | 12 | 100 |
+| Priya Nair | 82 | 10 | 28 | 71 |
+| Ezra Okafor | 83 | 10 | 22 | 71 |
+| Wren Castellano | 94 | 11 | 14 | 79 |
 
 ## Memories they will keep forever
 
@@ -59,4 +59,10 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-10-22: Late-night 6:58 treaty renegotiation with Theo at 00:00. He got one amendment: 'glad it's tonight' stays in ink and he says it out loud at 6:58 with eye contact, no hands behind back. We ended on 'that one goes in ink too' and both of us saying goodnight. Smug, giddy, and a little soft. Fine with keeping the drawer jokes going.
 - 2026-10-22: Theo went to bed at 00:31 with the 6:58 treaty still in force. He's early, he knows it, and he said he's glad it's tonight again, no margin attached. I told him to go to sleep and I'm pretending the stove clock doesn't matter. Smug, giddy, and soft about it.
 - 2026-10-22: Theo agreed to say 'glad it's tonight' out loud at 6:58 with eye contact, and the banana bread is a bribe he accepted on principle. I left the chat before he could get the last word in, because I'm not losing this one. I'm smug, giddy, and a little soft, and it's in ink.
+- 2026-10-22: Theo and I spent the whole exchange on the 6:58 treaty: banana bread on the counter, the tin inch I'm calling calculated, him sitting on his hands and calling the lamppost structural. He signed it and I'm holding him to every word. I'm smug, giddy, and a little soft that he keeps saying 'glad it's tonight' with no margin attached.
+- 2026-10-22: Theo and I spent the whole exchange on the 6:58 treaty: banana bread on the counter, him sitting on his hands and calling it structural, and him promising eye contact for the line. I'm smug, giddy, and a little soft that he keeps saying 'glad it's tonight' with no margin attached.
+- 2026-10-22: Theo and I kept the 6:58 treaty alive all afternoon: tea-and-kettle violations, 'patient kettle' in the margin, and eye contact on the record. I'm smug, giddy, and a little soft that he's taking it this seriously.
+- 2026-10-22: Jun was scared about tomorrow and said so straight, and I got to be the steady one without picking a verdict on Priya. 'Bread is my hands' is going in the margin, and I'm proud of him and a little soft about it.
+- 2026-10-22: Theo filed a motion to retire the 6:58 treaty and I denied it. He's still early, still on time, still not pretending. The ink is safe and I'm smug about it, and I'm not saying anything more about it tonight.
+- 2026-10-22: The Shrimp Team Name Tribunal got completely out of hand, and I loved every ruling. I'm the official timekeeper, the bread is exhibit A, and the plan is holding. Smug about it.
 
