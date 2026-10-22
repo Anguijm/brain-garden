@@ -57,3 +57,7 @@ No leaks found.
 - **Mari** knew about the private chat 0902-dm-theo-wren (Theo, Wren): "theo. trivia is tonight at 19:00 and i already know you're going to say you'll be early. say it to my face, 'general area' and all." ← Theo's private chat with Wren: "i was in the general area of the corner for the entire time, which is the legal standard, and i'm not moving off 'general area'..." Mari was not present for that chat, and Theo had not used the phrase in the Mari/Theo chat before Mari did.
 - **Priya** knew about the private chat 1116-dm-theo-wren (Theo, Wren): "Gerald is going to take that personally, and his appeal is still pending." ← The Theo/Wren private chat, where Wren wrote 'toast plea is pending appeal' and the Gerald 'yes' appeal thread was discussed. Priya wasn't present, and Jun never mentioned an appeal.
 
+## 2026-10-22
+- **Mari** knew about the private chat 1148-dm-theo-wren (Theo, Wren): "I'll be watching the clock like it owes me money." ← Theo's private chat with Wren (11:47): "i'm standing very still and looking at the stove clock like it owes me money." Mari was not in that chat, and Theo first used the phrase in the Mari chat only after Mari had already said it.
+- **Mari** knew about the private chat 1946-dm-jun-priya (Jun, Priya): "Theo argues the lamppost is structural, Gerald judges, and I bring the banana bread as exhibit A." ← Private chat Jun/Priya, where Jun wrote: "he's a judge now, i can't afford to lose him".
+
