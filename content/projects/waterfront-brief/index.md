@@ -59,7 +59,7 @@ downloadable as the print PDF (source links only).
   the August prediction.
 
 - **[Vol. 1, No. 13, Week 41, October 2026](2026-w41)**
-  ([download the PDF](pdf/2026-w41.df22922b.pdf)): the public shipyards at their smallest since 2018 while
+  ([download the PDF](pdf/2026-w41.c58f0b51.pdf)): the public shipyards at their smallest since 2018 while
   private yards hire to a record, with public-yard trades facing a frozen raise; the \$1.5 billion
   Congress labeled for shipyard maintenance that went to Army vehicles and Marine aircraft; the
   washer with no stock number behind a lost \$60 million jet; the fiscal 2029 Standard Items that
@@ -73,7 +73,7 @@ downloadable as the print PDF (source links only).
   and lead presumptions that catch it; Pearl Harbor training the Australians who will maintain
   US submarines near Perth; and Keyport's cold spray certification, starting with one valve.
 - **[Vol. 1, No. 11, Week 39, September 2026](2026-w39)**
-  ([download the PDF](pdf/2026-w39.355e7867.pdf)): the Virginia-class design freeze, and why the
+  ([download the PDF](pdf/2026-w39.fc766ba7.pdf)): the Virginia-class design freeze, and why the
   five-times man-hours number is a year's work for three hulls rather than one boat getting
   harder; GAO putting the four-shipyard rebuild past \$200 billion and past 2080, with the
   shops queued behind the docks; Keyport's metal printing approval covering one steel;

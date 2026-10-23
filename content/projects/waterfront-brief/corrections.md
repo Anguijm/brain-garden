@@ -26,6 +26,33 @@ three claim changes; they are the three entries dated 2026-09-19 below, each wit
 dated note in the issue. The re-rendered print editions of the other eight issues had no
 ruling, and this paragraph is their record.
 
+## 2026-10-24, No. 11 (week 39): what the federal shipbuilding headcount covers
+
+- **Issue:** [Vol. 1, No. 11, week 39](projects/waterfront-brief/2026-w39)
+- **What changed:** In the article on the foreign-build plans, the 2025 census figure of 38,845 is now labeled federal ship and boat building employment, the four public naval shipyards and the Navy's other federal sites, instead of employment at the four public naval shipyards.
+- **Before:** puts 2025 employment at the four public naval shipyards at 38,845
+- **After:** puts 2025 federal ship and boat building employment, the four public naval shipyards and the Navy's other federal sites, at 38,845
+- **Why:** The census row counts every federal ship and boat building establishment, 13 in 2025, as the desk's own staged copy of the data noted; the four public yards are among them, not all of it.
+- **Ruled by:** the editor, 2026-10-24.
+
+## 2026-10-24, No. 11 (week 39): who owns intermediate maintenance
+
+- **Issue:** [Vol. 1, No. 11, week 39](projects/waterfront-brief/2026-w39)
+- **What changed:** In the Mayport SIMA article, the Assessment no longer says seven recommendations are unstarted and nobody is designated to own intermediate maintenance periods; it now says GAO's September 2024 count had seven recommendations still open and no single owner designated.
+- **Before:** Nothing that would move it is in place: seven recommendations unstarted, and nobody designated to own how these periods perform.
+- **After:** GAO's September 2024 count, the one this article relied on, had seven recommendations still open and no single owner designated for these periods.
+- **Why:** The present tense was out of date when the issue ran, and "unstarted" overstated GAO's "not implemented". GAO's recommendation page (https://www.gao.gov/products/gao-22-104510) lists the 2022 single-owner recommendation as closed: in December 2025 the Navy issued OPNAVINST 4700.7N, with NAVSEA as lead, though GAO notes "it still appears that multiple entities share responsibility". GAO's page for the sailor-maintenance report (https://www.gao.gov/products/gao-24-106525) shows one of its seven recommendations closed on Navy documentation from September 2025.
+- **Ruled by:** the editor, 2026-10-24.
+
+## 2026-10-24, No. 13 (week 41): the Newport News union contract date
+
+- **Issue:** [Vol. 1, No. 13, week 41](projects/waterfront-brief/2026-w41)
+- **What changed:** In the article on public shipyards losing people, the sentence saying the Steelworkers' contract for nearly 10,000 Newport News shipbuilders expires February 7 is removed, and the bottom line no longer says Newport News bargains a new contract this winter.
+- **Before:** The Steelworkers' contract for nearly 10,000 Newport News shipbuilders expires February 7. ... expect a tighter market this winter, when Newport News bargains a new contract and Congress settles federal pay.
+- **After:** (sentence removed) ... expect a tighter market this winter, when Congress settles federal pay.
+- **Why:** The date came from the union's 2022 release of a 60-month contract. HII's annual report for 2025, filed with the SEC in February 2026 (https://www.sec.gov/Archives/edgar/data/1501585/000150158526000006/hii-20251231.htm), says its three Newport News agreements expire in February 2030, December 2030 and April 2031, so no Newport News contract expires this winter.
+- **Ruled by:** the editor, 2026-10-24.
+
 ## 2026-09-19, No. 8 (week 36): the Block III boat count credited to Navy documentation
 
 - **Issue:** [Vol. 1, No. 8, week 36](projects/waterfront-brief/2026-w36)
