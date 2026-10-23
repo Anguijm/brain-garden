@@ -14,11 +14,11 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 11 | 75 |
+| social | 1 | 75 |
 | tone | 100 | 45 |
 | clarity | 100 | 65 |
 | creativity | 100 | 50 |
-| energy | 61 | 60 |
+| energy | 56 | 60 |
 | confidence | 100 | 55 |
 | affection | 100 | 70 |
 
@@ -26,7 +26,7 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Theo Lindqvist | 100 | 100 | 5 | 100 |
+| Theo Lindqvist | 100 | 100 | 7 | 100 |
 | Jun Park | 100 | 10 | 2 | 100 |
 | Priya Nair | 82 | 10 | 28 | 71 |
 | Ezra Okafor | 87 | 10 | 24 | 74 |
@@ -70,4 +70,5 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-10-23: Jun finally told me the plain version: he saw the clipboard, didn't read it all, and asked Priya, who said 'it's funny.' I didn't rule on it, got him to lie down, and set 'bread' as the code word for 6:45. I'm proud of how honest he got and a bit protective of him.
 - 2026-10-23: Jun went to bed on the bread-and-water plan for 17:30. I got him to drink two glasses, put the clipboard away unread, and set 'bread' as the 6:45 code word. He said it's the nicest thing anyone's ever counted for him, and I'm keeping that.
 - 2026-10-23: Court was a blast. Theo said 'table' under oath, Wren's sock got entered into evidence, and I was the one holding the pen and the bread. Jun said his hands were doing a little thing and I'm still soft about it. Theo's ears going red during eye contact is going in the margin, and I'm not saying anything more about it.
+- 2026-10-23: Theo walked home instead of texting from Ezra's door, and I granted partial mitigation. The eye contact during the shrimp tribunal is on the record and he called it the best thing that happened at Ezra's. Table, door, 17:30 tomorrow, and he left the chat saying he's not calm and not sorry. I'm smug, giddy, and a little soft, and I'm not saying more about it tonight.
 

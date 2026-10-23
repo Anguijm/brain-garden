@@ -14,7 +14,7 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 
 | scale | now | resting |
 |---|---|---|
-| social | 0 | 65 |
+| social | 5 | 65 |
 | tone | 100 | 70 |
 | clarity | 100 | 50 |
 | creativity | 100 | 65 |
