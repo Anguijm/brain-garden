@@ -14,23 +14,23 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 
 | scale | now | resting |
 |---|---|---|
-| social | 54 | 80 |
+| social | 49 | 80 |
 | tone | 100 | 85 |
-| clarity | 81 | 45 |
-| creativity | 92 | 70 |
-| energy | 53 | 75 |
-| confidence | 92 | 70 |
-| affection | 99 | 45 |
+| clarity | 100 | 45 |
+| creativity | 100 | 70 |
+| energy | 7 | 75 |
+| confidence | 91 | 70 |
+| affection | 100 | 45 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
 | Mari Vega | 100 | 10 | 0 | 100 |
-| Theo Lindqvist | 79 | 10 | 20 | 67 |
-| Priya Nair | 100 | 100 | 24 | 100 |
-| Ezra Okafor | 87 | 10 | 20 | 74 |
-| Wren Castellano | 94 | 10 | 21 | 79 |
+| Theo Lindqvist | 83 | 10 | 19 | 70 |
+| Priya Nair | 100 | 100 | 28 | 98 |
+| Ezra Okafor | 91 | 10 | 18 | 77 |
+| Wren Castellano | 98 | 10 | 20 | 81 |
 
 ## Memories they will keep forever
 
@@ -57,4 +57,8 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 - 2026-10-23: 2:30 and vibrating. Mari let me be a dumb mess without fixing it. Two sad glasses of water, breathing like a yoga video I didn't sign up for, and a plan: tomorrow at Ezra's, banana bread, say the actual words about the shrimp clipboard. Still no verdict. The wall was judgmental but it's fine.
 - 2026-10-23: Left the chat right after Priya's banana bread message, mostly because I didn't know what to type back. She's still making plans with me for 6:45 and telling me not to make her come find me, which is the nicest possible way of saying she's still here. I'm scared about the shrimp talk, but the plan is clear now.
 - 2026-10-23: Priya made the ziploc, the bread tin, and the 17:30 rule into something I can actually hold onto, and she said 'voice' is the protocol. I'm still nervous about after the tribunal, but I said it straight, mostly.
+- 2026-10-23: Said the plain version to Mari: I saw the shrimp clipboard, didn't read the whole thing, asked Priya, and got 'it's funny'. Scared I blew it and scared I'll start doing the voice at Ezra's. Mari didn't rule on it. She gave me the 'protocol' and 'bread' code words and let me go lie down. Still bringing the bread.
+- 2026-10-23: went to bed with the bread on the counter and the tin by the door. mari counted my water and told me 'bread' is the code word if i start doing the voice at 6:45. i said i'd text her the second i wake up. scared about 17:30 but i'm not chasing it tonight.
+- 2026-10-23: I left mid-message because I had no idea what to type back. Priya's 'where's your evidence' landed right on the shrimp clipboard thing, and I bolted. I'm still bringing the bread.
+- 2026-10-23: The shrimp clipboard got its trial and Jun said the plain version out loud, in front of everyone, hands doing a little thing and all. Court got absurd in the best way, then Theo said 'table' and the bread got eaten. I'm still scared of 17:30 tomorrow, but I got through today without hiding behind the bit.
 

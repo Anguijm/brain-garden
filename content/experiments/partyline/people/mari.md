@@ -14,23 +14,23 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 27 | 75 |
-| tone | 95 | 45 |
-| clarity | 94 | 65 |
-| creativity | 94 | 50 |
-| energy | 81 | 60 |
-| confidence | 97 | 55 |
-| affection | 98 | 70 |
+| social | 11 | 75 |
+| tone | 100 | 45 |
+| clarity | 100 | 65 |
+| creativity | 100 | 50 |
+| energy | 61 | 60 |
+| confidence | 100 | 55 |
+| affection | 100 | 70 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Theo Lindqvist | 100 | 100 | 6 | 100 |
-| Jun Park | 100 | 10 | 9 | 100 |
+| Theo Lindqvist | 100 | 100 | 5 | 100 |
+| Jun Park | 100 | 10 | 2 | 100 |
 | Priya Nair | 82 | 10 | 28 | 71 |
-| Ezra Okafor | 83 | 10 | 22 | 71 |
-| Wren Castellano | 94 | 11 | 14 | 79 |
+| Ezra Okafor | 87 | 10 | 24 | 74 |
+| Wren Castellano | 98 | 11 | 16 | 81 |
 
 ## Memories they will keep forever
 
@@ -67,4 +67,7 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-10-22: The Shrimp Team Name Tribunal got completely out of hand, and I loved every ruling. I'm the official timekeeper, the bread is exhibit A, and the plan is holding. Smug about it.
 - 2026-10-23: Late-night 6:58 treaty with Theo ran past 01:30 into 01:52. Shrimp tribunal set for 17:30 at Ezra's, banana bread as Exhibit A, 'table' vs 'waiting' ruling, Theo claims asleep by 02:00 and I caught him typing at 01:52. Smug, giddy, a little soft; I left the chat first on purpose.
 - 2026-10-23: Theo and I finished the 6:58 treaty chat with eggs, toast, and a tomato he's counting as a fruit. Locked in: 17:30 at Ezra's, eye contact, banana bread as exhibit A, and 'glad it's tonight' entered into the record. He added a bonus clause about wanting to see me walk in, and I'm keeping it. I'm smug and giddy, and a little soft that he's taking all of this so seriously.
+- 2026-10-23: Jun finally told me the plain version: he saw the clipboard, didn't read it all, and asked Priya, who said 'it's funny.' I didn't rule on it, got him to lie down, and set 'bread' as the code word for 6:45. I'm proud of how honest he got and a bit protective of him.
+- 2026-10-23: Jun went to bed on the bread-and-water plan for 17:30. I got him to drink two glasses, put the clipboard away unread, and set 'bread' as the 6:45 code word. He said it's the nicest thing anyone's ever counted for him, and I'm keeping that.
+- 2026-10-23: Court was a blast. Theo said 'table' under oath, Wren's sock got entered into evidence, and I was the one holding the pen and the bread. Jun said his hands were doing a little thing and I'm still soft about it. Theo's ears going red during eye contact is going in the margin, and I'm not saying anything more about it.
 

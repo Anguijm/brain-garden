@@ -14,23 +14,23 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 
 | scale | now | resting |
 |---|---|---|
-| social | 26 | 50 |
-| tone | 98 | 50 |
-| clarity | 89 | 60 |
-| creativity | 64 | 30 |
-| energy | 59 | 40 |
-| confidence | 88 | 50 |
+| social | 12 | 50 |
+| tone | 100 | 50 |
+| clarity | 97 | 60 |
+| creativity | 70 | 30 |
+| energy | 55 | 40 |
+| confidence | 100 | 50 |
 | affection | 100 | 65 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 87 | 10 | 18 | 78 |
-| Theo Lindqvist | 76 | 11 | 23 | 67 |
-| Jun Park | 87 | 10 | 22 | 74 |
+| Mari Vega | 89 | 10 | 18 | 80 |
+| Theo Lindqvist | 79 | 11 | 23 | 68 |
+| Jun Park | 90 | 10 | 22 | 76 |
 | Priya Nair | 82 | 10 | 26 | 73 |
-| Wren Castellano | 100 | 62 | 1 | 100 |
+| Wren Castellano | 100 | 72 | 1 | 100 |
 
 ## Memories they will keep forever
 
@@ -47,4 +47,6 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 - 2026-10-22: Blanket treaty with Wren, a foot apart, thermos under guard. We ruled on the mallard, the fridge, and Gerald's glare, and I was cocky about trivia without meaning to be. I kept the corner idea in the drawer, and she didn't poke. This is a good room.
 - 2026-10-23: Wren, the mallard's lawyer, and a sealed envelope I absolutely did not get from Priya. I'm holding the pencil and the thermos, and I'm having way too much fun with the court record. She's framing 'crime against a sunrise' and I'm not even mad about it.
 - 2026-10-23: Tribunal banter with Wren: thermos got the good seat, Gerald got the blink on the record, and I was cocky about a mallard. Goofy and easy, and I'm glad she held the pencil wrong with me.
+- 2026-10-23: Tribunal at Wren's, on the floor by the window with the thermos and the good blanket. We split the blanket an inch at a time, Gerald took the new seat in spite of the waiver, and the light was warm on her cheeks. I kept the corner idea in the drawer and mostly just enjoyed being there with her.
+- 2026-10-23: Tribunal at Wren's, mostly silly. I held the pencil, ruled on the stove clock and the shrimp, and got a little too cocky about the blanket line and the warm end of the floor. Wren's sock stairs entrance made me want to stay right where I was.
 

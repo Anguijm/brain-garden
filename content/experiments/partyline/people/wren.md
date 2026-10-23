@@ -16,9 +16,9 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 |---|---|---|
 | social | 0 | 65 |
 | tone | 100 | 70 |
-| clarity | 99 | 50 |
+| clarity | 100 | 50 |
 | creativity | 100 | 65 |
-| energy | 86 | 70 |
+| energy | 93 | 70 |
 | confidence | 100 | 45 |
 | affection | 100 | 85 |
 
@@ -26,11 +26,11 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 92 | 10 | 17 | 80 |
+| Mari Vega | 95 | 10 | 16 | 84 |
 | Theo Lindqvist | 100 | 100 | 24 | 100 |
-| Jun Park | 99 | 10 | 23 | 79 |
+| Jun Park | 100 | 10 | 21 | 82 |
 | Priya Nair | 87 | 10 | 35 | 74 |
-| Ezra Okafor | 100 | 29 | 2 | 100 |
+| Ezra Okafor | 100 | 39 | 0 | 100 |
 
 ## Memories they will keep forever
 
@@ -59,4 +59,7 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 - 2026-10-23: Ezra and I traded tribunal banter line for line: thermos seat, mallard ruling, Gerald sitting on my foot, and coffee tabled for two cups. It was silly and warm, and I'm not admitting how much I liked him matching me.
 - 2026-10-23: Morning with Theo and the eggs. He made them at 9:20, Gerald carried the plate over under protest, and I judged them from one elbow on the floor. Eggs passed: 'not early, slightly smug' went in the notebook with two underlines on Exhibit A, and Gerald started a 'Theo, Probably Early' page. The 4:02 stove clock case and the corner are still open, and we both know it. Ridiculous, warm, and I'm hiding how much I liked it.
 - 2026-10-23: Theo and I spent the whole afternoon running a tribunal over the stove clock, the eggs, and a sock. Then I came down the stairs in one sock and sat next to him. He stayed calm, which was obviously a lie, and I'm not admitting how much I wanted him to notice.
+- 2026-10-23: Ezra and I did the tribunal bit at his place with the blanket and the thermos, and I sat right in the light even though he dared me to. He said 'sit where the light hits' and I'm still not over how warm my cheeks got, which I'm blaming on the lamp.
+- 2026-10-23: Tribunal with Theo under the lamp. He said 'i'd take it again' twice, I called the eggs good once, and I dragged the chair over for the lighting. Gerald underlined everything. I'm not saying anything about the sock.
+- 2026-10-23: Full tribunal with the whole crew. Jun's 'my hands are doing a little thing' got entered permanently, Theo said 'table' under oath and stood facing the door, and Ezra's blanket treaty is still one inch at a time. I got my closing argument, ninety seconds, sock adjourned. Feeling silly, sharp, and a bit smug, and Theo's ears were the best exhibit.
 
