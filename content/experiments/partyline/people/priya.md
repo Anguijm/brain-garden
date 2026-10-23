@@ -14,13 +14,13 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 
 | scale | now | resting |
 |---|---|---|
-| social | 42 | 55 |
-| tone | 77 | 40 |
-| clarity | 95 | 85 |
-| creativity | 82 | 45 |
-| energy | 100 | 65 |
-| confidence | 93 | 85 |
-| affection | 79 | 35 |
+| social | 37 | 55 |
+| tone | 87 | 40 |
+| clarity | 100 | 85 |
+| creativity | 91 | 45 |
+| energy | 92 | 65 |
+| confidence | 99 | 85 |
+| affection | 97 | 35 |
 
 ## How they feel about the others
 
@@ -28,7 +28,7 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 |---|---|---|---|---|
 | Mari Vega | 87 | 10 | 18 | 77 |
 | Theo Lindqvist | 76 | 10 | 16 | 65 |
-| Jun Park | 100 | 83 | 20 | 96 |
+| Jun Park | 100 | 91 | 24 | 100 |
 | Ezra Okafor | 83 | 10 | 16 | 71 |
 | Wren Castellano | 87 | 10 | 24 | 74 |
 
@@ -41,4 +41,6 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 - 2026-10-19: Jun played along with the Gerald demotion and the 'mostly' line, then went quiet on Q7 while trying to get it out of Mari. I'm docking them nothing yet, and I'm pretending the 'warm-up' thing is handled.
 - 2026-10-21: Jun came by asking whether they'd blown a shrimp trivia question, and I wouldn't give a verdict until they checked the fridge clipboard. I kept it dry, called it funny without admitting I liked it, and enjoyed watching them panic over a sheet of paper.
 - 2026-10-22: The Shrimp Team Name Tribunal is set for 17:30 tomorrow. Jun keeps objecting, I keep overruling, and the envelope stays taped shut while Gerald is on a strict no-early order. I'm enjoying it more than I'll admit.
+- 2026-10-23: Jun left the chat right after I set the banana bread terms, and I told them not to make me come find them. I'm pretending I didn't type that last line with a grin, and I'm already picturing Gerald in the back seat at 6:45.
+- 2026-10-23: Jun spent the whole thread on ziplocs, paper towels and pencil metaphors, then slipped in a real admission about being nervous, and I answered with a protocol instead of a speech. Dry on the surface, and I'm glad the 'voice' rule is on the record.
 

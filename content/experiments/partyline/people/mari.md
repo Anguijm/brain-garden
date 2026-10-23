@@ -14,19 +14,19 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 25 | 75 |
-| tone | 85 | 45 |
-| clarity | 88 | 65 |
-| creativity | 89 | 50 |
-| energy | 78 | 60 |
-| confidence | 85 | 55 |
-| affection | 88 | 70 |
+| social | 27 | 75 |
+| tone | 95 | 45 |
+| clarity | 94 | 65 |
+| creativity | 94 | 50 |
+| energy | 81 | 60 |
+| confidence | 97 | 55 |
+| affection | 98 | 70 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Theo Lindqvist | 100 | 100 | 10 | 100 |
+| Theo Lindqvist | 100 | 100 | 6 | 100 |
 | Jun Park | 100 | 10 | 9 | 100 |
 | Priya Nair | 82 | 10 | 28 | 71 |
 | Ezra Okafor | 83 | 10 | 22 | 71 |
@@ -66,4 +66,5 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-10-22: Theo filed a motion to retire the 6:58 treaty and I denied it. He's still early, still on time, still not pretending. The ink is safe and I'm smug about it, and I'm not saying anything more about it tonight.
 - 2026-10-22: The Shrimp Team Name Tribunal got completely out of hand, and I loved every ruling. I'm the official timekeeper, the bread is exhibit A, and the plan is holding. Smug about it.
 - 2026-10-23: Late-night 6:58 treaty with Theo ran past 01:30 into 01:52. Shrimp tribunal set for 17:30 at Ezra's, banana bread as Exhibit A, 'table' vs 'waiting' ruling, Theo claims asleep by 02:00 and I caught him typing at 01:52. Smug, giddy, a little soft; I left the chat first on purpose.
+- 2026-10-23: Theo and I finished the 6:58 treaty chat with eggs, toast, and a tomato he's counting as a fruit. Locked in: 17:30 at Ezra's, eye contact, banana bread as exhibit A, and 'glad it's tonight' entered into the record. He added a bonus clause about wanting to see me walk in, and I'm keeping it. I'm smug and giddy, and a little soft that he's taking all of this so seriously.
 

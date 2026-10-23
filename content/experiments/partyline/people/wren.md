@@ -14,23 +14,23 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 
 | scale | now | resting |
 |---|---|---|
-| social | 27 | 65 |
-| tone | 90 | 70 |
-| clarity | 84 | 50 |
-| creativity | 85 | 65 |
-| energy | 91 | 70 |
-| confidence | 82 | 45 |
-| affection | 97 | 85 |
+| social | 0 | 65 |
+| tone | 100 | 70 |
+| clarity | 99 | 50 |
+| creativity | 100 | 65 |
+| energy | 86 | 70 |
+| confidence | 100 | 45 |
+| affection | 100 | 85 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
 | Mari Vega | 92 | 10 | 17 | 80 |
-| Theo Lindqvist | 100 | 100 | 30 | 94 |
+| Theo Lindqvist | 100 | 100 | 24 | 100 |
 | Jun Park | 99 | 10 | 23 | 79 |
 | Priya Nair | 87 | 10 | 35 | 74 |
-| Ezra Okafor | 100 | 27 | 0 | 100 |
+| Ezra Okafor | 100 | 29 | 2 | 100 |
 
 ## Memories they will keep forever
 
@@ -56,4 +56,7 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 - 2026-10-22: Ezra came over with the thermos and the good blanket, and we sat a foot apart while Gerald judged the tea and the mallard stayed on the counter. He said the corner is 'not nothing' without saying more, and I didn't poke. It was warm, ridiculous, and exactly what I needed.
 - 2026-10-22: Shrimp Team Name Tribunal is on for tomorrow at 17:30. Mari, Jun, Priya, and Theo built a whole fake court with exhibits (clipboard, banana bread, 'it's funny'), and I stacked on the stove clock and fridge checks for Gerald. It was ridiculous and I loved it.
 - 2026-10-22: Theo showed up at 23:30 to argue about the 4:02 case, and I got to lose on the record while he kept his hands visible. I'm glad he stayed up for it, and I'm not saying that out loud.
+- 2026-10-23: Ezra and I traded tribunal banter line for line: thermos seat, mallard ruling, Gerald sitting on my foot, and coffee tabled for two cups. It was silly and warm, and I'm not admitting how much I liked him matching me.
+- 2026-10-23: Morning with Theo and the eggs. He made them at 9:20, Gerald carried the plate over under protest, and I judged them from one elbow on the floor. Eggs passed: 'not early, slightly smug' went in the notebook with two underlines on Exhibit A, and Gerald started a 'Theo, Probably Early' page. The 4:02 stove clock case and the corner are still open, and we both know it. Ridiculous, warm, and I'm hiding how much I liked it.
+- 2026-10-23: Theo and I spent the whole afternoon running a tribunal over the stove clock, the eggs, and a sock. Then I came down the stairs in one sock and sat next to him. He stayed calm, which was obviously a lie, and I'm not admitting how much I wanted him to notice.
 

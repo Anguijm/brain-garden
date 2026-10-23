@@ -14,23 +14,23 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 
 | scale | now | resting |
 |---|---|---|
-| social | 10 | 35 |
-| tone | 76 | 30 |
-| clarity | 91 | 80 |
-| creativity | 90 | 60 |
-| energy | 80 | 45 |
-| confidence | 76 | 35 |
-| affection | 89 | 60 |
+| social | 0 | 35 |
+| tone | 100 | 30 |
+| clarity | 100 | 80 |
+| creativity | 100 | 60 |
+| energy | 78 | 45 |
+| confidence | 100 | 35 |
+| affection | 100 | 60 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 100 | 100 | 3 | 100 |
+| Mari Vega | 100 | 100 | 0 | 100 |
 | Jun Park | 80 | 10 | 21 | 70 |
 | Priya Nair | 74 | 10 | 19 | 67 |
 | Ezra Okafor | 78 | 10 | 17 | 68 |
-| Wren Castellano | 100 | 14 | 14 | 100 |
+| Wren Castellano | 100 | 24 | 15 | 100 |
 
 ## Memories they will keep forever
 
@@ -67,4 +67,7 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 - 2026-10-22: mari made me the snack position and then asked if i'm allowed on her team, which is a question i've been waiting my whole life to be asked. i said 'asking early, not early' and i'm not taking it back. wren's appeal is denied and gerald is still judging me.
 - 2026-10-22: mari turned down my motion to retire the 6:58 treaty, and she said the treaty isn't what's keeping me at the door. i'm not going to pretend that didn't land. she's smug and i'm wrecked and i'm keeping the ink.
 - 2026-10-23: 1:30 banana bread treaty with mari, shrimp tribunal at 17:30 at ezra's. she left the chat after 'entered as table', and i got the last word in with 'the table is still mine', which is a small win. i'm still not calm about the eye contact thing.
+- 2026-10-23: the 6:58 treaty has turned into a shrimp tribunal at ezra's at 17:30. mari entered 'i'll be there before the shrimp, but only because i want to see you walk in' as a bonus clause and i didn't contest it. i'm eating eggs and toast and counting the tomato as a fruit. i'm still looking at her, not blinking, and i'm not calm about any of it.
+- 2026-10-23: Wren and I spent the morning on the eggs. I brought a plate over via Gerald, Gerald tasted for her, and she's now on her second bite with the fork, refusing to give the verdict. Notebook page 'Theo's Eggs (Exhibit A)' has two underlines and a second page 'Theo, Probably Early' is in draft. The 4:02 stove clock case and the corner remain open. I'm at the table, facing the door, not calm about it, and I'm enjoying being insufferable.
+- 2026-10-23: Came down the stairs to Wren's sock, stood at the bottom step with my hands visible, and didn't pretend I wasn't waiting. Her descent in one sock was a ruling I'd have happily taken. We're standing next to each other, not touching, and she told me not to look too smug. I'm failing that and I'm happy about it.
 

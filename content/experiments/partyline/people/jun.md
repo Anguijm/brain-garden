@@ -14,13 +14,13 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 
 | scale | now | resting |
 |---|---|---|
-| social | 67 | 80 |
-| tone | 97 | 85 |
-| clarity | 79 | 45 |
-| creativity | 86 | 70 |
-| energy | 70 | 75 |
+| social | 54 | 80 |
+| tone | 100 | 85 |
+| clarity | 81 | 45 |
+| creativity | 92 | 70 |
+| energy | 53 | 75 |
 | confidence | 92 | 70 |
-| affection | 79 | 45 |
+| affection | 99 | 45 |
 
 ## How they feel about the others
 
@@ -28,7 +28,7 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 |---|---|---|---|---|
 | Mari Vega | 100 | 10 | 0 | 100 |
 | Theo Lindqvist | 79 | 10 | 20 | 67 |
-| Priya Nair | 100 | 92 | 24 | 100 |
+| Priya Nair | 100 | 100 | 24 | 100 |
 | Ezra Okafor | 87 | 10 | 20 | 74 |
 | Wren Castellano | 94 | 10 | 21 | 79 |
 
@@ -55,4 +55,6 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 - 2026-10-22: Priya kept the rules tight and I kept the bit going: banana bread duty, spare eraser, knock like a man with a pastry. Under all of it I'm still on 'it's funny' and scared about tomorrow at 6:45, and I want it to go well.
 - 2026-10-22: Last chat before bed. Jun got real for once: admitted he's scared about tomorrow with Priya and about slipping into the bit, and asked Mari to call 'Jun' if he starts doing the voice. He's grounding himself with water, bread on the counter, and a plan to just show up at 6:45. Still no verdict on the shrimp question. Mari stayed steady, and it helped.
 - 2026-10-23: 2:30 and vibrating. Mari let me be a dumb mess without fixing it. Two sad glasses of water, breathing like a yoga video I didn't sign up for, and a plan: tomorrow at Ezra's, banana bread, say the actual words about the shrimp clipboard. Still no verdict. The wall was judgmental but it's fine.
+- 2026-10-23: Left the chat right after Priya's banana bread message, mostly because I didn't know what to type back. She's still making plans with me for 6:45 and telling me not to make her come find me, which is the nicest possible way of saying she's still here. I'm scared about the shrimp talk, but the plan is clear now.
+- 2026-10-23: Priya made the ziploc, the bread tin, and the 17:30 rule into something I can actually hold onto, and she said 'voice' is the protocol. I'm still nervous about after the tribunal, but I said it straight, mostly.
 

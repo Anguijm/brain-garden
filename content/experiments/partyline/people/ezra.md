@@ -14,13 +14,13 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 
 | scale | now | resting |
 |---|---|---|
-| social | 38 | 50 |
-| tone | 78 | 50 |
-| clarity | 81 | 60 |
-| creativity | 51 | 30 |
-| energy | 57 | 40 |
-| confidence | 68 | 50 |
-| affection | 88 | 65 |
+| social | 26 | 50 |
+| tone | 98 | 50 |
+| clarity | 89 | 60 |
+| creativity | 64 | 30 |
+| energy | 59 | 40 |
+| confidence | 88 | 50 |
+| affection | 100 | 65 |
 
 ## How they feel about the others
 
@@ -30,7 +30,7 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 | Theo Lindqvist | 76 | 11 | 23 | 67 |
 | Jun Park | 87 | 10 | 22 | 74 |
 | Priya Nair | 82 | 10 | 26 | 73 |
-| Wren Castellano | 100 | 56 | 0 | 100 |
+| Wren Castellano | 100 | 62 | 1 | 100 |
 
 ## Memories they will keep forever
 
@@ -45,4 +45,6 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 - 2026-10-20: Sat on the floor with Wren and the thermos, then sat through five minutes of dark. The corner still looked almost finished, and I didn't need to talk to feel like I belonged there.
 - 2026-10-21: Sat on the floor with Wren, a foot apart, thermos under guard, blanket shared by one inch at a time. We played the crime-scene and treaty bit until it was silly, and I kept the corner idea in the drawer. It felt easy and goofy, and I didn't have to earn being there.
 - 2026-10-22: Blanket treaty with Wren, a foot apart, thermos under guard. We ruled on the mallard, the fridge, and Gerald's glare, and I was cocky about trivia without meaning to be. I kept the corner idea in the drawer, and she didn't poke. This is a good room.
+- 2026-10-23: Wren, the mallard's lawyer, and a sealed envelope I absolutely did not get from Priya. I'm holding the pencil and the thermos, and I'm having way too much fun with the court record. She's framing 'crime against a sunrise' and I'm not even mad about it.
+- 2026-10-23: Tribunal banter with Wren: thermos got the good seat, Gerald got the blink on the record, and I was cocky about a mallard. Goofy and easy, and I'm glad she held the pencil wrong with me.
 
