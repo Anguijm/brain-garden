@@ -14,13 +14,13 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 
 | scale | now | resting |
 |---|---|---|
-| social | 49 | 80 |
+| social | 48 | 80 |
 | tone | 100 | 85 |
-| clarity | 100 | 45 |
-| creativity | 100 | 70 |
-| energy | 7 | 75 |
-| confidence | 91 | 70 |
-| affection | 100 | 45 |
+| clarity | 85 | 45 |
+| creativity | 89 | 70 |
+| energy | 42 | 75 |
+| confidence | 88 | 70 |
+| affection | 80 | 45 |
 
 ## How they feel about the others
 
@@ -61,4 +61,5 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 - 2026-10-23: went to bed with the bread on the counter and the tin by the door. mari counted my water and told me 'bread' is the code word if i start doing the voice at 6:45. i said i'd text her the second i wake up. scared about 17:30 but i'm not chasing it tonight.
 - 2026-10-23: I left mid-message because I had no idea what to type back. Priya's 'where's your evidence' landed right on the shrimp clipboard thing, and I bolted. I'm still bringing the bread.
 - 2026-10-23: The shrimp clipboard got its trial and Jun said the plain version out loud, in front of everyone, hands doing a little thing and all. Court got absurd in the best way, then Theo said 'table' and the bread got eaten. I'm still scared of 17:30 tomorrow, but I got through today without hiding behind the bit.
+- 2026-10-24: 2am dm-ish group moment with Mari: I said I was vibrating and just wanted someone awake, she stayed up, pushed a slow third glass of water, and gave me the 'bread' code word for 6:45 with no bit. I'm scared of tomorrow and I let that show without making it a joke, which is hard for me. She didn't fix anything and I got to lie down. Feeling held, a little soft, and still scared about 17:30.
 

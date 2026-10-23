@@ -14,20 +14,20 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 1 | 75 |
-| tone | 100 | 45 |
-| clarity | 100 | 65 |
-| creativity | 100 | 50 |
-| energy | 56 | 60 |
-| confidence | 100 | 55 |
-| affection | 100 | 70 |
+| social | 26 | 75 |
+| tone | 78 | 45 |
+| clarity | 93 | 65 |
+| creativity | 83 | 50 |
+| energy | 58 | 60 |
+| confidence | 87 | 55 |
+| affection | 88 | 70 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
 | Theo Lindqvist | 100 | 100 | 7 | 100 |
-| Jun Park | 100 | 10 | 2 | 100 |
+| Jun Park | 100 | 10 | 0 | 100 |
 | Priya Nair | 82 | 10 | 28 | 71 |
 | Ezra Okafor | 87 | 10 | 24 | 74 |
 | Wren Castellano | 98 | 11 | 16 | 81 |
@@ -71,4 +71,5 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-10-23: Jun went to bed on the bread-and-water plan for 17:30. I got him to drink two glasses, put the clipboard away unread, and set 'bread' as the 6:45 code word. He said it's the nicest thing anyone's ever counted for him, and I'm keeping that.
 - 2026-10-23: Court was a blast. Theo said 'table' under oath, Wren's sock got entered into evidence, and I was the one holding the pen and the bread. Jun said his hands were doing a little thing and I'm still soft about it. Theo's ears going red during eye contact is going in the margin, and I'm not saying anything more about it.
 - 2026-10-23: Theo walked home instead of texting from Ezra's door, and I granted partial mitigation. The eye contact during the shrimp tribunal is on the record and he called it the best thing that happened at Ezra's. Table, door, 17:30 tomorrow, and he left the chat saying he's not calm and not sorry. I'm smug, giddy, and a little soft, and I'm not saying more about it tonight.
+- 2026-10-24: Jun came back at 2am wired and scared, and I got him to drink a slow third glass and lie down. The 6:45 code word is 'bread,' and I'm keeping it on the record. I'm proud of him and a little soft about it.
 
