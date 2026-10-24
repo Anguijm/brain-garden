@@ -14,11 +14,11 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 4 | 75 |
-| tone | 83 | 45 |
+| social | 0 | 75 |
+| tone | 89 | 45 |
 | clarity | 100 | 65 |
-| creativity | 87 | 50 |
-| energy | 36 | 60 |
+| creativity | 89 | 50 |
+| energy | 6 | 60 |
 | confidence | 100 | 55 |
 | affection | 100 | 70 |
 
@@ -26,7 +26,7 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Theo Lindqvist | 100 | 100 | 10 | 100 |
+| Theo Lindqvist | 100 | 100 | 8 | 100 |
 | Jun Park | 100 | 10 | 0 | 100 |
 | Priya Nair | 82 | 10 | 28 | 71 |
 | Ezra Okafor | 87 | 10 | 24 | 74 |
@@ -75,4 +75,6 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-10-24: Jun got through the morning without spiralling. He had coffee, drank water, and went outside, and he said my asking first is why he didn't fall apart. I'm proud of him and a bit soft about it, and I'm not going to mention that to him.
 - 2026-10-24: Theo is at the table two hours early, counting a banana as compliance and narrating his own window-watching. I'm smug about it, and I'm keeping the 17:30 door on the record.
 - 2026-10-24: Jun was on the floor with cold tiles, two sips of water, and 17:30 sitting on his shoulder instead of his face. I didn't rule on anything. I just stayed put and let him say the scared part straight, and he said it wasn't a bit.
+- 2026-10-24: Theo finally asked the door question straight and I ruled on it: bonus clause, treaty term, not contested. He's at the table at 17:30 tomorrow, phone away at 17:29, and I'm keeping the record. I'm smug, giddy, and soft about how seriously he's taking all of it, and I left the chat first on purpose.
+- 2026-10-24: Jun came to me at 22:00 on the cold tiles, two sips in, asking only that I stay awake with him. I didn't fix or rule on anything; I just stayed put. His shoulders came down, he did a slow sip, and the 17:30 scared part got quieter. He promised bread first in the morning, and I'm glad I got to be the one keeping the lights low.
 

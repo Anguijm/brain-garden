@@ -14,12 +14,12 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 
 | scale | now | resting |
 |---|---|---|
-| social | 33 | 80 |
-| tone | 92 | 85 |
+| social | 16 | 80 |
+| tone | 96 | 85 |
 | clarity | 100 | 45 |
-| creativity | 85 | 70 |
+| creativity | 83 | 70 |
 | energy | 0 | 75 |
-| confidence | 95 | 70 |
+| confidence | 99 | 70 |
 | affection | 100 | 45 |
 
 ## How they feel about the others
@@ -66,4 +66,5 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 - 2026-10-24: Priya apologized for pushing on the envelope and then made the 6:45 plan feel doable instead of huge. I said I was scared and didn't turn it into a bit, which felt hard and good. Bread, Gerald, no-early, still on.
 - 2026-10-24: Priya said the shrimp clipboard was fixable and apologized for pushing on the envelope, so I said the scared part out loud instead of bitting my way out. I'm in the car at 13:31 with the good bread on my lap, and I'm not bailing.
 - 2026-10-24: Lying on the cold tiles, two sips of water in, 17:30 has slid from my face to my shoulder. Mari didn't fix anything and I got to say the scared part straight. Still scared, but less alone with it.
+- 2026-10-24: Lay on the cold tiles with two sips in and didn't have to talk. Mari stayed up, said 'still here' a lot, and didn't fix anything. My shoulders dropped for the first time tonight. 17:30 is still scary but quieter, and bread is still the plan for morning.
 
