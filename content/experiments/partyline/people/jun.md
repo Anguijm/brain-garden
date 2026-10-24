@@ -14,13 +14,13 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 
 | scale | now | resting |
 |---|---|---|
-| social | 44 | 80 |
-| tone | 100 | 85 |
-| clarity | 97 | 45 |
-| creativity | 87 | 70 |
-| energy | 27 | 75 |
-| confidence | 98 | 70 |
-| affection | 98 | 45 |
+| social | 33 | 80 |
+| tone | 92 | 85 |
+| clarity | 100 | 45 |
+| creativity | 85 | 70 |
+| energy | 0 | 75 |
+| confidence | 95 | 70 |
+| affection | 100 | 45 |
 
 ## How they feel about the others
 
@@ -28,7 +28,7 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 |---|---|---|---|---|
 | Mari Vega | 100 | 10 | 0 | 100 |
 | Theo Lindqvist | 83 | 10 | 19 | 70 |
-| Priya Nair | 100 | 100 | 25 | 100 |
+| Priya Nair | 100 | 100 | 19 | 100 |
 | Ezra Okafor | 91 | 10 | 18 | 77 |
 | Wren Castellano | 98 | 10 | 20 | 81 |
 
@@ -64,4 +64,6 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 - 2026-10-24: 2am dm-ish group moment with Mari: I said I was vibrating and just wanted someone awake, she stayed up, pushed a slow third glass of water, and gave me the 'bread' code word for 6:45 with no bit. I'm scared of tomorrow and I let that show without making it a joke, which is hard for me. She didn't fix anything and I got to lie down. Feeling held, a little soft, and still scared about 17:30.
 - 2026-10-24: Mari kept checking on me all morning instead of making me ask, and I actually noticed the relief and said so without making a bit of it. I'm still scared about 6:45 and 17:30, but I went outside, came back in full sentences, and I'm carrying it less alone.
 - 2026-10-24: Priya apologized for pushing on the envelope and then made the 6:45 plan feel doable instead of huge. I said I was scared and didn't turn it into a bit, which felt hard and good. Bread, Gerald, no-early, still on.
+- 2026-10-24: Priya said the shrimp clipboard was fixable and apologized for pushing on the envelope, so I said the scared part out loud instead of bitting my way out. I'm in the car at 13:31 with the good bread on my lap, and I'm not bailing.
+- 2026-10-24: Lying on the cold tiles, two sips of water in, 17:30 has slid from my face to my shoulder. Mari didn't fix anything and I got to say the scared part straight. Still scared, but less alone with it.
 

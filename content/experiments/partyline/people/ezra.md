@@ -14,13 +14,13 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 
 | scale | now | resting |
 |---|---|---|
-| social | 25 | 50 |
-| tone | 81 | 50 |
-| clarity | 86 | 60 |
-| creativity | 57 | 30 |
-| energy | 61 | 40 |
-| confidence | 83 | 50 |
-| affection | 87 | 65 |
+| social | 18 | 50 |
+| tone | 87 | 50 |
+| clarity | 96 | 60 |
+| creativity | 74 | 30 |
+| energy | 47 | 40 |
+| confidence | 87 | 50 |
+| affection | 96 | 65 |
 
 ## How they feel about the others
 
@@ -30,7 +30,7 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 | Theo Lindqvist | 79 | 11 | 23 | 68 |
 | Jun Park | 90 | 10 | 22 | 76 |
 | Priya Nair | 82 | 10 | 26 | 73 |
-| Wren Castellano | 100 | 72 | 1 | 100 |
+| Wren Castellano | 100 | 77 | 0 | 100 |
 
 ## Memories they will keep forever
 
@@ -49,4 +49,5 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 - 2026-10-23: Tribunal banter with Wren: thermos got the good seat, Gerald got the blink on the record, and I was cocky about a mallard. Goofy and easy, and I'm glad she held the pencil wrong with me.
 - 2026-10-23: Tribunal at Wren's, on the floor by the window with the thermos and the good blanket. We split the blanket an inch at a time, Gerald took the new seat in spite of the waiver, and the light was warm on her cheeks. I kept the corner idea in the drawer and mostly just enjoyed being there with her.
 - 2026-10-23: Tribunal at Wren's, mostly silly. I held the pencil, ruled on the stove clock and the shrimp, and got a little too cocky about the blanket line and the warm end of the floor. Wren's sock stairs entrance made me want to stay right where I was.
+- 2026-10-24: Sat in the warm end of the light with Wren and said out loud the half-idea I've been carrying since Tuesday: the warm patch isn't a detail to fix, it's the reason the rest of the room is there. She didn't make a joke of it, and that made it easier to say. I'm going to try the left edge tomorrow.
 

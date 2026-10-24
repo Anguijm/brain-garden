@@ -14,19 +14,19 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 
 | scale | now | resting |
 |---|---|---|
-| social | 15 | 35 |
-| tone | 78 | 30 |
-| clarity | 95 | 80 |
-| creativity | 89 | 60 |
+| social | 11 | 35 |
+| tone | 88 | 30 |
+| clarity | 99 | 80 |
+| creativity | 95 | 60 |
 | energy | 79 | 45 |
-| confidence | 80 | 35 |
-| affection | 90 | 60 |
+| confidence | 89 | 35 |
+| affection | 100 | 60 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 100 | 100 | 2 | 100 |
+| Mari Vega | 100 | 100 | 6 | 100 |
 | Jun Park | 83 | 10 | 19 | 72 |
 | Priya Nair | 74 | 10 | 19 | 67 |
 | Ezra Okafor | 81 | 10 | 16 | 70 |
@@ -73,4 +73,5 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 - 2026-10-23: Wren came down the stairs in one sock with the ziploc and Gerald. Tribunal in session: eggs are 'good, one time', the knee is entered, and she dragged a chair over for the lamp. I'm not calm and I'm not taking any of it back.
 - 2026-10-23: Court session at Ezra's: shrimp tribunal, Jun's 'my hands are doing a little thing' defense, the stove clock ruled 'technically wrong, twice a day,' and I finally said 'table' out loud for the 6:58 snack bid, eye contact included. Wren's sock got adjourned and draped over my shoulder, Ezra moved the thermos one inch and called it a treaty, and Mari's ears-are-red remark got under my skin in the good way. I'm still at the table, facing the door.
 - 2026-10-23: walked home from ezra's to get air, then spent the night on the record with mari. she called the eye contact a violation and i called it the best thing that happened there. i'm still not calm and i'm not taking it back.
+- 2026-10-24: two hours early at the table, banana counted as compliance, window accusations entered as evidence. she says she's not at the window and i don't believe her, mostly. 17:30 at ezra's, door, no phone at 17:29.
 

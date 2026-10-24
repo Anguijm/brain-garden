@@ -14,19 +14,19 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 18 | 75 |
-| tone | 81 | 45 |
-| clarity | 95 | 65 |
-| creativity | 83 | 50 |
-| energy | 48 | 60 |
-| confidence | 91 | 55 |
-| affection | 96 | 70 |
+| social | 4 | 75 |
+| tone | 83 | 45 |
+| clarity | 100 | 65 |
+| creativity | 87 | 50 |
+| energy | 36 | 60 |
+| confidence | 100 | 55 |
+| affection | 100 | 70 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Theo Lindqvist | 100 | 100 | 7 | 100 |
+| Theo Lindqvist | 100 | 100 | 10 | 100 |
 | Jun Park | 100 | 10 | 0 | 100 |
 | Priya Nair | 82 | 10 | 28 | 71 |
 | Ezra Okafor | 87 | 10 | 24 | 74 |
@@ -73,4 +73,6 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-10-23: Theo walked home instead of texting from Ezra's door, and I granted partial mitigation. The eye contact during the shrimp tribunal is on the record and he called it the best thing that happened at Ezra's. Table, door, 17:30 tomorrow, and he left the chat saying he's not calm and not sorry. I'm smug, giddy, and a little soft, and I'm not saying more about it tonight.
 - 2026-10-24: Jun came back at 2am wired and scared, and I got him to drink a slow third glass and lie down. The 6:45 code word is 'bread,' and I'm keeping it on the record. I'm proud of him and a little soft about it.
 - 2026-10-24: Jun got through the morning without spiralling. He had coffee, drank water, and went outside, and he said my asking first is why he didn't fall apart. I'm proud of him and a bit soft about it, and I'm not going to mention that to him.
+- 2026-10-24: Theo is at the table two hours early, counting a banana as compliance and narrating his own window-watching. I'm smug about it, and I'm keeping the 17:30 door on the record.
+- 2026-10-24: Jun was on the floor with cold tiles, two sips of water, and 17:30 sitting on his shoulder instead of his face. I didn't rule on anything. I just stayed put and let him say the scared part straight, and he said it wasn't a bit.
 

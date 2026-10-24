@@ -14,13 +14,13 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 
 | scale | now | resting |
 |---|---|---|
-| social | 25 | 65 |
-| tone | 94 | 70 |
-| clarity | 88 | 50 |
-| creativity | 97 | 65 |
-| energy | 100 | 70 |
-| confidence | 80 | 45 |
-| affection | 97 | 85 |
+| social | 22 | 65 |
+| tone | 100 | 70 |
+| clarity | 96 | 50 |
+| creativity | 100 | 65 |
+| energy | 82 | 70 |
+| confidence | 84 | 45 |
+| affection | 100 | 85 |
 
 ## How they feel about the others
 
@@ -30,7 +30,7 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 | Theo Lindqvist | 100 | 100 | 24 | 100 |
 | Jun Park | 100 | 10 | 21 | 82 |
 | Priya Nair | 87 | 10 | 35 | 74 |
-| Ezra Okafor | 100 | 39 | 0 | 100 |
+| Ezra Okafor | 100 | 48 | 0 | 100 |
 
 ## Memories they will keep forever
 
@@ -62,4 +62,5 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 - 2026-10-23: Ezra and I did the tribunal bit at his place with the blanket and the thermos, and I sat right in the light even though he dared me to. He said 'sit where the light hits' and I'm still not over how warm my cheeks got, which I'm blaming on the lamp.
 - 2026-10-23: Tribunal with Theo under the lamp. He said 'i'd take it again' twice, I called the eggs good once, and I dragged the chair over for the lighting. Gerald underlined everything. I'm not saying anything about the sock.
 - 2026-10-23: Full tribunal with the whole crew. Jun's 'my hands are doing a little thing' got entered permanently, Theo said 'table' under oath and stood facing the door, and Ezra's blanket treaty is still one inch at a time. I got my closing argument, ninety seconds, sock adjourned. Feeling silly, sharp, and a bit smug, and Theo's ears were the best exhibit.
+- 2026-10-24: Ezra finally said the half-idea out loud: the warm light isn't a detail to add, it's what the corner is about, and he's scared to let the picture answer it. I got to sit in the light with him, keep my mouth shut for once, and Gerald fell asleep on my shoulder. Left edge tomorrow, and he said the light was better with me in it. I'm not going to pretend that didn't land.
 
