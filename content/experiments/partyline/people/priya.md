@@ -15,12 +15,12 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 | scale | now | resting |
 |---|---|---|
 | social | 33 | 55 |
-| tone | 73 | 40 |
-| clarity | 92 | 85 |
+| tone | 77 | 40 |
+| clarity | 98 | 85 |
 | creativity | 76 | 45 |
-| energy | 99 | 65 |
-| confidence | 90 | 85 |
-| affection | 79 | 35 |
+| energy | 96 | 65 |
+| confidence | 95 | 85 |
+| affection | 89 | 35 |
 
 ## How they feel about the others
 
@@ -28,7 +28,7 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 |---|---|---|---|---|
 | Mari Vega | 87 | 10 | 18 | 77 |
 | Theo Lindqvist | 76 | 10 | 16 | 65 |
-| Jun Park | 97 | 91 | 28 | 98 |
+| Jun Park | 100 | 94 | 26 | 100 |
 | Ezra Okafor | 83 | 10 | 16 | 71 |
 | Wren Castellano | 87 | 10 | 24 | 74 |
 
@@ -43,4 +43,5 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 - 2026-10-22: The Shrimp Team Name Tribunal is set for 17:30 tomorrow. Jun keeps objecting, I keep overruling, and the envelope stays taped shut while Gerald is on a strict no-early order. I'm enjoying it more than I'll admit.
 - 2026-10-23: Jun left the chat right after I set the banana bread terms, and I told them not to make me come find them. I'm pretending I didn't type that last line with a grin, and I'm already picturing Gerald in the back seat at 6:45.
 - 2026-10-23: Jun spent the whole thread on ziplocs, paper towels and pencil metaphors, then slipped in a real admission about being nervous, and I answered with a protocol instead of a speech. Dry on the surface, and I'm glad the 'voice' rule is on the record.
+- 2026-10-24: I said I shouldn't have pushed on the envelope, and Jun didn't make it a thing. They're nervous about 6:45 and 17:30, but they're going to show up and say the real stuff, and that's the part that got me. Bread, Gerald, no protocols.
 

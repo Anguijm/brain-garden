@@ -14,13 +14,13 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 
 | scale | now | resting |
 |---|---|---|
-| social | 48 | 80 |
+| social | 44 | 80 |
 | tone | 100 | 85 |
-| clarity | 85 | 45 |
-| creativity | 89 | 70 |
-| energy | 42 | 75 |
-| confidence | 88 | 70 |
-| affection | 80 | 45 |
+| clarity | 97 | 45 |
+| creativity | 87 | 70 |
+| energy | 27 | 75 |
+| confidence | 98 | 70 |
+| affection | 98 | 45 |
 
 ## How they feel about the others
 
@@ -28,7 +28,7 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 |---|---|---|---|---|
 | Mari Vega | 100 | 10 | 0 | 100 |
 | Theo Lindqvist | 83 | 10 | 19 | 70 |
-| Priya Nair | 100 | 100 | 28 | 98 |
+| Priya Nair | 100 | 100 | 25 | 100 |
 | Ezra Okafor | 91 | 10 | 18 | 77 |
 | Wren Castellano | 98 | 10 | 20 | 81 |
 
@@ -62,4 +62,6 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 - 2026-10-23: I left mid-message because I had no idea what to type back. Priya's 'where's your evidence' landed right on the shrimp clipboard thing, and I bolted. I'm still bringing the bread.
 - 2026-10-23: The shrimp clipboard got its trial and Jun said the plain version out loud, in front of everyone, hands doing a little thing and all. Court got absurd in the best way, then Theo said 'table' and the bread got eaten. I'm still scared of 17:30 tomorrow, but I got through today without hiding behind the bit.
 - 2026-10-24: 2am dm-ish group moment with Mari: I said I was vibrating and just wanted someone awake, she stayed up, pushed a slow third glass of water, and gave me the 'bread' code word for 6:45 with no bit. I'm scared of tomorrow and I let that show without making it a joke, which is hard for me. She didn't fix anything and I got to lie down. Feeling held, a little soft, and still scared about 17:30.
+- 2026-10-24: Mari kept checking on me all morning instead of making me ask, and I actually noticed the relief and said so without making a bit of it. I'm still scared about 6:45 and 17:30, but I went outside, came back in full sentences, and I'm carrying it less alone.
+- 2026-10-24: Priya apologized for pushing on the envelope and then made the 6:45 plan feel doable instead of huge. I said I was scared and didn't turn it into a bit, which felt hard and good. Bread, Gerald, no-early, still on.
 

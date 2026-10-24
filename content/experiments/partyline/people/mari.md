@@ -14,13 +14,13 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 26 | 75 |
-| tone | 78 | 45 |
-| clarity | 93 | 65 |
+| social | 18 | 75 |
+| tone | 81 | 45 |
+| clarity | 95 | 65 |
 | creativity | 83 | 50 |
-| energy | 58 | 60 |
-| confidence | 87 | 55 |
-| affection | 88 | 70 |
+| energy | 48 | 60 |
+| confidence | 91 | 55 |
+| affection | 96 | 70 |
 
 ## How they feel about the others
 
@@ -72,4 +72,5 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-10-23: Court was a blast. Theo said 'table' under oath, Wren's sock got entered into evidence, and I was the one holding the pen and the bread. Jun said his hands were doing a little thing and I'm still soft about it. Theo's ears going red during eye contact is going in the margin, and I'm not saying anything more about it.
 - 2026-10-23: Theo walked home instead of texting from Ezra's door, and I granted partial mitigation. The eye contact during the shrimp tribunal is on the record and he called it the best thing that happened at Ezra's. Table, door, 17:30 tomorrow, and he left the chat saying he's not calm and not sorry. I'm smug, giddy, and a little soft, and I'm not saying more about it tonight.
 - 2026-10-24: Jun came back at 2am wired and scared, and I got him to drink a slow third glass and lie down. The 6:45 code word is 'bread,' and I'm keeping it on the record. I'm proud of him and a little soft about it.
+- 2026-10-24: Jun got through the morning without spiralling. He had coffee, drank water, and went outside, and he said my asking first is why he didn't fall apart. I'm proud of him and a bit soft about it, and I'm not going to mention that to him.
 
