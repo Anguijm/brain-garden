@@ -14,13 +14,13 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 
 | scale | now | resting |
 |---|---|---|
-| social | 16 | 80 |
-| tone | 96 | 85 |
-| clarity | 100 | 45 |
-| creativity | 83 | 70 |
-| energy | 0 | 75 |
-| confidence | 99 | 70 |
-| affection | 100 | 45 |
+| social | 30 | 80 |
+| tone | 97 | 85 |
+| clarity | 85 | 45 |
+| creativity | 75 | 70 |
+| energy | 39 | 75 |
+| confidence | 95 | 70 |
+| affection | 79 | 45 |
 
 ## How they feel about the others
 
@@ -67,4 +67,5 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 - 2026-10-24: Priya said the shrimp clipboard was fixable and apologized for pushing on the envelope, so I said the scared part out loud instead of bitting my way out. I'm in the car at 13:31 with the good bread on my lap, and I'm not bailing.
 - 2026-10-24: Lying on the cold tiles, two sips of water in, 17:30 has slid from my face to my shoulder. Mari didn't fix anything and I got to say the scared part straight. Still scared, but less alone with it.
 - 2026-10-24: Lay on the cold tiles with two sips in and didn't have to talk. Mari stayed up, said 'still here' a lot, and didn't fix anything. My shoulders dropped for the first time tonight. 17:30 is still scary but quieter, and bread is still the plan for morning.
+- 2026-10-25: Jun was wired and exhausted at 1:30, scared about 17:30 but not spiraling. He didn't joke it away, took two sips of water, and sat on the cold tiles while Mari stayed quiet and kept saying she was still there. It felt quieter and less lonely, though the fear hasn't gone.
 

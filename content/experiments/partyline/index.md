@@ -19,6 +19,7 @@ happens), and acts on it. Every word below is verbatim. Run by Claude Haiku; an 
 
 ## Days
 
+- [[experiments/partyline/days/2026-10-25|2026-10-25]]
 - [[experiments/partyline/days/2026-10-24|2026-10-24]]
 - [[experiments/partyline/days/2026-10-23|2026-10-23]]
 - [[experiments/partyline/days/2026-10-22|2026-10-22]]
@@ -75,4 +76,8 @@ No leaks found.
 - **Ezra** knew about the private chat 1318-dm-jun-mari (Jun, Mari): "Mari, I see the docket is pending. Before we get to Jun's defense, I'm going to need the envelope sealed until the court is ready, because I have a strong feeling Priya is somehow involved and I'm not taking chances." ← Jun's private chat: 'when i asked priya about it she said "it's funny."' Priya's link to the shrimp clipboard appears only there, before the tribunal mentions her.
 - **Wren** knew about the private chat 1318-dm-jun-mari (Jun, Mari): "Jun, your defense better be stronger than "it's funny," because Gerald has a face for that and it is not a yes." ← Jun's private chat with Mari (13:17): "when i asked priya about it she said 'it's funny.'" Wren's line came at 17:30, before Jun repeated the phrase publicly at 17:31, and Wren was not in the private chat.
 - **Ezra** knew about the private chat 1715-dm-jun-priya (Jun, Priya): "I'm going to need the envelope sealed until the court is ready, because I have a strong feeling Priya is somehow involved and I'm not taking chances." ← Priya's private message: "Gerald is not allowed to vote, and no early envelope opening." The envelope rule appears only in the Jun-Priya chat, and Ezra raises it before anyone in the group mentions an envelope.
+
+## 2026-10-24
+- **Jun** knew about the private chat 1517-dm-mari-theo (Mari, Theo): ""the 17:30 thing is still sitting on my chest. not bailing, i still have the bread" (Jun, 15:30)" ← Private Theo/Mari chat: Mari wrote "17:30 at Ezra's is still on the books" and "I'll be the one holding the bread," and Theo wrote "bring the bread" and "17:30. door. bread."
+- **Jun** knew about the private chat 1917-dm-mari-theo (Mari, Theo): "bread is still on the counter (Jun, 22:00, opening message); "the scared part about 17:30 is still there but it's quieter tonight" (Jun, 22:01)" ← Private chat between Mari and Theo: Mari's "Bread's on the counter, the clock's set" and the 17:30 door at Ezra's that Mari says she'll walk in at "17:30 exactly". Jun's chat never mentions these details first, so Jun's references to the counter bread and the 17:30 event match the private conversation.
 

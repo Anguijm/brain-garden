@@ -14,13 +14,13 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 0 | 75 |
-| tone | 89 | 45 |
-| clarity | 100 | 65 |
-| creativity | 89 | 50 |
-| energy | 6 | 60 |
-| confidence | 100 | 55 |
-| affection | 100 | 70 |
+| social | 20 | 75 |
+| tone | 78 | 45 |
+| clarity | 91 | 65 |
+| creativity | 78 | 50 |
+| energy | 31 | 60 |
+| confidence | 87 | 55 |
+| affection | 90 | 70 |
 
 ## How they feel about the others
 
@@ -77,4 +77,6 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-10-24: Jun was on the floor with cold tiles, two sips of water, and 17:30 sitting on his shoulder instead of his face. I didn't rule on anything. I just stayed put and let him say the scared part straight, and he said it wasn't a bit.
 - 2026-10-24: Theo finally asked the door question straight and I ruled on it: bonus clause, treaty term, not contested. He's at the table at 17:30 tomorrow, phone away at 17:29, and I'm keeping the record. I'm smug, giddy, and soft about how seriously he's taking all of it, and I left the chat first on purpose.
 - 2026-10-24: Jun came to me at 22:00 on the cold tiles, two sips in, asking only that I stay awake with him. I didn't fix or rule on anything; I just stayed put. His shoulders came down, he did a slow sip, and the 17:30 scared part got quieter. He promised bread first in the morning, and I'm glad I got to be the one keeping the lights low.
+- 2026-10-25: Jun was on the cold tiles at 1:30, wired and scared about 17:30, and he only needed me to stay up and stay quiet. He had two sips of water, and I didn't fix or rule on anything. I'm proud of him and worn out, and I'm not saying more about it.
+- 2026-10-25: Jun texted at 1:45 scared about 17:30 and I stayed up with him on the cold tiles. Two sips of water, the fridge sea, and the scared part got quieter, like it was in the other room. He thanked me, and I didn't fix or rule on anything, which I'm glad I managed.
 
