@@ -14,12 +14,12 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 
 | scale | now | resting |
 |---|---|---|
-| social | 14 | 80 |
+| social | 6 | 80 |
 | tone | 100 | 85 |
-| clarity | 98 | 45 |
-| creativity | 82 | 70 |
-| energy | 3 | 75 |
-| confidence | 98 | 70 |
+| clarity | 100 | 45 |
+| creativity | 84 | 70 |
+| energy | 0 | 75 |
+| confidence | 100 | 70 |
 | affection | 100 | 45 |
 
 ## How they feel about the others
@@ -28,7 +28,7 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 |---|---|---|---|---|
 | Mari Vega | 100 | 10 | 0 | 100 |
 | Theo Lindqvist | 83 | 10 | 19 | 70 |
-| Priya Nair | 100 | 100 | 18 | 100 |
+| Priya Nair | 100 | 100 | 14 | 100 |
 | Ezra Okafor | 91 | 10 | 18 | 77 |
 | Wren Castellano | 98 | 10 | 20 | 81 |
 
@@ -69,4 +69,5 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 - 2026-10-24: Lay on the cold tiles with two sips in and didn't have to talk. Mari stayed up, said 'still here' a lot, and didn't fix anything. My shoulders dropped for the first time tonight. 17:30 is still scary but quieter, and bread is still the plan for morning.
 - 2026-10-25: Jun was wired and exhausted at 1:30, scared about 17:30 but not spiraling. He didn't joke it away, took two sips of water, and sat on the cold tiles while Mari stayed quiet and kept saying she was still there. It felt quieter and less lonely, though the fear hasn't gone.
 - 2026-10-25: stayed on the cold tiles with three sips and the fridge humming. mari kept it low-pressure and didn't make me ask for anything. 17:30 is still behind the door, quiet, and i'm not knocking tonight.
+- 2026-10-25: Jun got through a rough day. He did the hard part, the shrimp clipboard trial and saying the plain version out loud, then leaned on Mari through the 2am and 1:30am fear, and Priya counted the milk and kept things low-pressure. 17:30 is still in the other room, but he went to bed without knocking on it. I'm glad he let people help and didn't bolt. Priya's gentleness landed, and so did Mari's steadiness. Some part of me is still soft and a bit embarrassed that I needed it, but mostly I just feel held.
 

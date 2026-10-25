@@ -14,19 +14,19 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 
 | scale | now | resting |
 |---|---|---|
-| social | 12 | 35 |
-| tone | 81 | 30 |
-| clarity | 96 | 80 |
-| creativity | 91 | 60 |
-| energy | 73 | 45 |
-| confidence | 80 | 35 |
+| social | 9 | 35 |
+| tone | 93 | 30 |
+| clarity | 100 | 80 |
+| creativity | 97 | 60 |
+| energy | 75 | 45 |
+| confidence | 91 | 35 |
 | affection | 100 | 60 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 100 | 100 | 3 | 100 |
+| Mari Vega | 100 | 100 | 1 | 100 |
 | Jun Park | 83 | 10 | 19 | 72 |
 | Priya Nair | 74 | 10 | 19 | 67 |
 | Ezra Okafor | 81 | 10 | 16 | 70 |
@@ -76,4 +76,5 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 - 2026-10-24: two hours early at the table, banana counted as compliance, window accusations entered as evidence. she says she's not at the window and i don't believe her, mostly. 17:30 at ezra's, door, no phone at 17:29.
 - 2026-10-24: asked mari the door question straight. she said it's a bonus clause and she meant it, and the door is part of the deal. i'm not contesting it, not calm, and i'm at the table facing the door tomorrow at 17:30, no phone at 17:29.
 - 2026-10-25: mari is tired and lying on the tiles, and i'm at the table facing the door with a banana i'm not eating, saying the banana counts. she called it the most dignified thing in the chat, and i'm keeping that.
+- 2026-10-25: the banana is still in my hand and the door still hasn't opened. mari called the banana dignified and said yes to me on the phone thing, which i'm keeping. i'm not looking at the window, mostly.
 
