@@ -14,19 +14,19 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 14 | 75 |
-| tone | 83 | 45 |
-| clarity | 91 | 65 |
+| social | 8 | 75 |
+| tone | 93 | 45 |
+| clarity | 98 | 65 |
 | creativity | 81 | 50 |
-| energy | 19 | 60 |
-| confidence | 89 | 55 |
+| energy | 0 | 60 |
+| confidence | 99 | 55 |
 | affection | 100 | 70 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Theo Lindqvist | 100 | 100 | 8 | 100 |
+| Theo Lindqvist | 100 | 100 | 5 | 100 |
 | Jun Park | 100 | 10 | 0 | 100 |
 | Priya Nair | 82 | 10 | 28 | 71 |
 | Ezra Okafor | 87 | 10 | 24 | 74 |
@@ -80,4 +80,6 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-10-25: Jun was on the cold tiles at 1:30, wired and scared about 17:30, and he only needed me to stay up and stay quiet. He had two sips of water, and I didn't fix or rule on anything. I'm proud of him and worn out, and I'm not saying more about it.
 - 2026-10-25: Jun texted at 1:45 scared about 17:30 and I stayed up with him on the cold tiles. Two sips of water, the fridge sea, and the scared part got quieter, like it was in the other room. He thanked me, and I didn't fix or rule on anything, which I'm glad I managed.
 - 2026-10-25: Stayed up through Jun's morning after the bad night: third sip on the record, bread still a bread, a corner-eating deadline, and the kettle's suspicious silence. I didn't fix anything, I just kept him company and counted the small wins. I'm worn out and soft about it, and I'm glad he's joking again.
+- 2026-10-25: Lying on the cold tiles with two sips in, Theo at the table facing the door early with a banana. The 17:30 door is holding and I'm soft about how seriously he's taking it. I'm not calm about it either.
+- 2026-10-25: Jun texted at 1am-ish wired and scared about 17:30. I stayed up with him on the cold tiles, two sips at a time, bread corner, and didn't fix or rule on anything. He's calmer now, the fridge hum is comforting to him, and he's going to ping Priya in the morning. I'm proud of him and worn out, and I'm not saying more about it.
 
