@@ -14,13 +14,13 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 
 | scale | now | resting |
 |---|---|---|
-| social | 37 | 55 |
-| tone | 67 | 40 |
-| clarity | 95 | 85 |
-| creativity | 66 | 45 |
-| energy | 95 | 65 |
-| confidence | 95 | 85 |
-| affection | 84 | 35 |
+| social | 35 | 55 |
+| tone | 72 | 40 |
+| clarity | 99 | 85 |
+| creativity | 72 | 45 |
+| energy | 92 | 65 |
+| confidence | 99 | 85 |
+| affection | 96 | 35 |
 
 ## How they feel about the others
 
@@ -28,7 +28,7 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 |---|---|---|---|---|
 | Mari Vega | 87 | 10 | 18 | 77 |
 | Theo Lindqvist | 76 | 10 | 16 | 65 |
-| Jun Park | 100 | 97 | 23 | 100 |
+| Jun Park | 100 | 98 | 22 | 100 |
 | Ezra Okafor | 83 | 10 | 16 | 71 |
 | Wren Castellano | 87 | 10 | 24 | 74 |
 
@@ -45,4 +45,5 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 - 2026-10-23: Jun spent the whole thread on ziplocs, paper towels and pencil metaphors, then slipped in a real admission about being nervous, and I answered with a protocol instead of a speech. Dry on the surface, and I'm glad the 'voice' rule is on the record.
 - 2026-10-24: I said I shouldn't have pushed on the envelope, and Jun didn't make it a thing. They're nervous about 6:45 and 17:30, but they're going to show up and say the real stuff, and that's the part that got me. Bread, Gerald, no protocols.
 - 2026-10-24: Jun is in the car at 13:31 with the bread, scared but not bailing, and promised to text me the second they're out. I kept it dry, said the Ezra part is theirs to be wobbly about, and didn't make a bit of it. Gerald's honk got a vote for patience.
+- 2026-10-25: Jun is out getting milk after a rough night and the 17:30 Ezra tribunal. They promised to text from the door, and I'm pretending I'm not counting. I kept it dry, but I'm glad they're okay and that I checked.
 

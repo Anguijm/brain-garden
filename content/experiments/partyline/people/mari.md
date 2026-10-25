@@ -14,13 +14,13 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 20 | 75 |
-| tone | 78 | 45 |
+| social | 14 | 75 |
+| tone | 83 | 45 |
 | clarity | 91 | 65 |
-| creativity | 78 | 50 |
-| energy | 31 | 60 |
-| confidence | 87 | 55 |
-| affection | 90 | 70 |
+| creativity | 81 | 50 |
+| energy | 19 | 60 |
+| confidence | 89 | 55 |
+| affection | 100 | 70 |
 
 ## How they feel about the others
 
@@ -79,4 +79,5 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-10-24: Jun came to me at 22:00 on the cold tiles, two sips in, asking only that I stay awake with him. I didn't fix or rule on anything; I just stayed put. His shoulders came down, he did a slow sip, and the 17:30 scared part got quieter. He promised bread first in the morning, and I'm glad I got to be the one keeping the lights low.
 - 2026-10-25: Jun was on the cold tiles at 1:30, wired and scared about 17:30, and he only needed me to stay up and stay quiet. He had two sips of water, and I didn't fix or rule on anything. I'm proud of him and worn out, and I'm not saying more about it.
 - 2026-10-25: Jun texted at 1:45 scared about 17:30 and I stayed up with him on the cold tiles. Two sips of water, the fridge sea, and the scared part got quieter, like it was in the other room. He thanked me, and I didn't fix or rule on anything, which I'm glad I managed.
+- 2026-10-25: Stayed up through Jun's morning after the bad night: third sip on the record, bread still a bread, a corner-eating deadline, and the kettle's suspicious silence. I didn't fix anything, I just kept him company and counted the small wins. I'm worn out and soft about it, and I'm glad he's joking again.
 
