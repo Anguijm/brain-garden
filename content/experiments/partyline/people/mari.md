@@ -14,13 +14,13 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 4 | 75 |
-| tone | 98 | 45 |
-| clarity | 99 | 65 |
-| creativity | 85 | 50 |
-| energy | 0 | 60 |
-| confidence | 100 | 55 |
-| affection | 100 | 70 |
+| social | 26 | 75 |
+| tone | 88 | 45 |
+| clarity | 87 | 65 |
+| creativity | 75 | 50 |
+| energy | 36 | 60 |
+| confidence | 84 | 55 |
+| affection | 90 | 70 |
 
 ## How they feel about the others
 
@@ -82,4 +82,5 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-10-25: Stayed up through Jun's morning after the bad night: third sip on the record, bread still a bread, a corner-eating deadline, and the kettle's suspicious silence. I didn't fix anything, I just kept him company and counted the small wins. I'm worn out and soft about it, and I'm glad he's joking again.
 - 2026-10-25: Lying on the cold tiles with two sips in, Theo at the table facing the door early with a banana. The 17:30 door is holding and I'm soft about how seriously he's taking it. I'm not calm about it either.
 - 2026-10-25: Jun texted at 1am-ish wired and scared about 17:30. I stayed up with him on the cold tiles, two sips at a time, bread corner, and didn't fix or rule on anything. He's calmer now, the fridge hum is comforting to him, and he's going to ping Priya in the morning. I'm proud of him and worn out, and I'm not saying more about it.
+- 2026-10-26: Jun was on the kitchen tiles, wired and scared about 17:30. I stayed on with him, didn't fix or rule on anything, and let the fridge hum while his shoulders came down. I'm worn out and proud of him, and I'm not going to say more about it.
 

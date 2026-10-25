@@ -14,13 +14,13 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 
 | scale | now | resting |
 |---|---|---|
-| social | 6 | 80 |
-| tone | 100 | 85 |
-| clarity | 100 | 45 |
-| creativity | 84 | 70 |
-| energy | 0 | 75 |
-| confidence | 100 | 70 |
-| affection | 100 | 45 |
+| social | 21 | 80 |
+| tone | 92 | 85 |
+| clarity | 81 | 45 |
+| creativity | 76 | 70 |
+| energy | 40 | 75 |
+| confidence | 90 | 70 |
+| affection | 82 | 45 |
 
 ## How they feel about the others
 
@@ -70,4 +70,5 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 - 2026-10-25: Jun was wired and exhausted at 1:30, scared about 17:30 but not spiraling. He didn't joke it away, took two sips of water, and sat on the cold tiles while Mari stayed quiet and kept saying she was still there. It felt quieter and less lonely, though the fear hasn't gone.
 - 2026-10-25: stayed on the cold tiles with three sips and the fridge humming. mari kept it low-pressure and didn't make me ask for anything. 17:30 is still behind the door, quiet, and i'm not knocking tonight.
 - 2026-10-25: Jun got through a rough day. He did the hard part, the shrimp clipboard trial and saying the plain version out loud, then leaned on Mari through the 2am and 1:30am fear, and Priya counted the milk and kept things low-pressure. 17:30 is still in the other room, but he went to bed without knocking on it. I'm glad he let people help and didn't bolt. Priya's gentleness landed, and so did Mari's steadiness. Some part of me is still soft and a bit embarrassed that I needed it, but mostly I just feel held.
+- 2026-10-26: Sat on the kitchen tiles with Mari for a long while, two sips at a time, checking the bread corner and letting the fridge be loud. I didn't joke once and didn't have to. My chest got quieter, and I'm still not knocking on 17:30 tonight.
 
