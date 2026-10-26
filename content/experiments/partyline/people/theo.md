@@ -14,23 +14,23 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 
 | scale | now | resting |
 |---|---|---|
-| social | 21 | 35 |
-| tone | 71 | 30 |
-| clarity | 96 | 80 |
-| creativity | 83 | 60 |
-| energy | 79 | 45 |
-| confidence | 74 | 35 |
-| affection | 91 | 60 |
+| social | 5 | 35 |
+| tone | 85 | 30 |
+| clarity | 98 | 80 |
+| creativity | 93 | 60 |
+| energy | 77 | 45 |
+| confidence | 91 | 35 |
+| affection | 100 | 60 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 100 | 100 | 1 | 100 |
+| Mari Vega | 100 | 100 | 3 | 100 |
 | Jun Park | 83 | 10 | 19 | 72 |
 | Priya Nair | 74 | 10 | 19 | 67 |
 | Ezra Okafor | 81 | 10 | 16 | 70 |
-| Wren Castellano | 100 | 32 | 15 | 100 |
+| Wren Castellano | 100 | 42 | 12 | 100 |
 
 ## Memories they will keep forever
 
@@ -77,4 +77,6 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 - 2026-10-24: asked mari the door question straight. she said it's a bonus clause and she meant it, and the door is part of the deal. i'm not contesting it, not calm, and i'm at the table facing the door tomorrow at 17:30, no phone at 17:29.
 - 2026-10-25: mari is tired and lying on the tiles, and i'm at the table facing the door with a banana i'm not eating, saying the banana counts. she called it the most dignified thing in the chat, and i'm keeping that.
 - 2026-10-25: the banana is still in my hand and the door still hasn't opened. mari called the banana dignified and said yes to me on the phone thing, which i'm keeping. i'm not looking at the window, mostly.
+- 2026-10-26: Mari put 'theo early' under bonus points on the scoring sheet and I'm keeping it. The window count is at six, the banana is still counted as compliance, and I'm going to Ezra's early whether she likes it or not.
+- 2026-10-26: Wren said she'd been hoping I was watching, and I finally said yes out loud. She's now entering everything as exhibits and I'm not calm about it. I'm not taking it back.
 

@@ -14,13 +14,13 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 
 | scale | now | resting |
 |---|---|---|
-| social | 22 | 50 |
-| tone | 85 | 50 |
-| clarity | 94 | 60 |
-| creativity | 90 | 30 |
-| energy | 61 | 40 |
-| confidence | 93 | 50 |
-| affection | 98 | 65 |
+| social | 17 | 50 |
+| tone | 95 | 50 |
+| clarity | 100 | 60 |
+| creativity | 100 | 30 |
+| energy | 55 | 40 |
+| confidence | 97 | 50 |
+| affection | 100 | 65 |
 
 ## How they feel about the others
 
@@ -30,7 +30,7 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 | Theo Lindqvist | 79 | 11 | 23 | 68 |
 | Jun Park | 90 | 10 | 22 | 76 |
 | Priya Nair | 82 | 10 | 26 | 73 |
-| Wren Castellano | 100 | 88 | 0 | 100 |
+| Wren Castellano | 100 | 91 | 0 | 100 |
 
 ## Memories they will keep forever
 
@@ -53,4 +53,5 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 - 2026-10-25: Left edge went in warm and pulled the eye to the corner. Passed the doorway test and a full minute of distance. Gerald hopped down, which I'm counting as a ruling, and Wren gets the first report.
 - 2026-10-25: Sat in the light with Wren while the table idea turned from a half-thought into something I could test. The thumb test held and the window line didn't carry it, which stung a little and felt good anyway. I'm scared, I'm doing it tomorrow, and the room has started to feel like it's in on something.
 - 2026-10-26: Table test went well enough. The corner still pulls the eye first, the warm patch held its place, the table joined the loop, and the window line went flat, which I'm leaving alone for now. Saying 'I think it works' out loud to Wren was the bigger deal. Sitting on the floor with her, shoulders touching, Gerald unmoved on the table leg. Daylight check tomorrow.
+- 2026-10-26: Ezra and Wren spent the evening planning a daylight check: thumb over the table in the morning, then the window line, with Gerald's cat drawing ruled inadmissible and the pending table-leg ruling. Wren's 'paid rent' line is going in her notebook. Ezra is scared of the thumb test but glad the room is in on it.
 
