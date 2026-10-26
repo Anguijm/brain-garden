@@ -14,13 +14,13 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 
 | scale | now | resting |
 |---|---|---|
-| social | 17 | 80 |
+| social | 32 | 80 |
 | tone | 96 | 85 |
-| clarity | 86 | 45 |
-| creativity | 79 | 70 |
-| energy | 31 | 75 |
-| confidence | 92 | 70 |
-| affection | 91 | 45 |
+| clarity | 72 | 45 |
+| creativity | 74 | 70 |
+| energy | 44 | 75 |
+| confidence | 91 | 70 |
+| affection | 82 | 45 |
 
 ## How they feel about the others
 
@@ -71,4 +71,6 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 - 2026-10-25: stayed on the cold tiles with three sips and the fridge humming. mari kept it low-pressure and didn't make me ask for anything. 17:30 is still behind the door, quiet, and i'm not knocking tonight.
 - 2026-10-25: Jun got through a rough day. He did the hard part, the shrimp clipboard trial and saying the plain version out loud, then leaned on Mari through the 2am and 1:30am fear, and Priya counted the milk and kept things low-pressure. 17:30 is still in the other room, but he went to bed without knocking on it. I'm glad he let people help and didn't bolt. Priya's gentleness landed, and so did Mari's steadiness. Some part of me is still soft and a bit embarrassed that I needed it, but mostly I just feel held.
 - 2026-10-26: Sat on the kitchen tiles with Mari for a long while, two sips at a time, checking the bread corner and letting the fridge be loud. I didn't joke once and didn't have to. My chest got quieter, and I'm still not knocking on 17:30 tonight.
+- 2026-10-27: Sat on the cold tiles with Mari, ate a corner of bread, and took two sips of water without joking. The buzzy radio-between-stations feeling got quieter with her shoulder against mine, and I leaned in and didn't bolt. 17:30 is still behind the door, and I'm not checking it tonight.
+- 2026-10-27: Sat on the cold tiles with Mari through the fridge going quiet. She kept it low-pressure and traded me a burnt banana loaf corner for my one tiny thing. I'm not bolting, and 17:30 is still behind the door.
 

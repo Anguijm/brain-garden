@@ -14,13 +14,13 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 18 | 75 |
-| tone | 100 | 45 |
-| clarity | 97 | 65 |
-| creativity | 89 | 50 |
-| energy | 30 | 60 |
-| confidence | 100 | 55 |
-| affection | 100 | 70 |
+| social | 33 | 75 |
+| tone | 83 | 45 |
+| clarity | 85 | 65 |
+| creativity | 74 | 50 |
+| energy | 32 | 60 |
+| confidence | 84 | 55 |
+| affection | 88 | 70 |
 
 ## How they feel about the others
 
@@ -84,4 +84,6 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-10-25: Jun texted at 1am-ish wired and scared about 17:30. I stayed up with him on the cold tiles, two sips at a time, bread corner, and didn't fix or rule on anything. He's calmer now, the fridge hum is comforting to him, and he's going to ping Priya in the morning. I'm proud of him and worn out, and I'm not saying more about it.
 - 2026-10-26: Jun was on the kitchen tiles, wired and scared about 17:30. I stayed on with him, didn't fix or rule on anything, and let the fridge hum while his shoulders came down. I'm worn out and proud of him, and I'm not going to say more about it.
 - 2026-10-26: Theo sat at the table facing the door, blinked twice, checked the door twice, retired the banana, and got up at 22:19 to make tea. I ruled on every clause, kept the record, and left him feeling not calm about it, which is my favorite outcome.
+- 2026-10-27: Sat on the cold tiles with Jun at 00:45 while his brain buzzed like a radio between stations. He had one sip, one bread corner, and leaned on my shoulder, and the 17:30 thing stayed behind the door. I'm worn out and soft about it, and I'm glad I got to be the steady one in the room.
+- 2026-10-27: Jun came to me at 2am on the cold tiles, scared about 17:30, and I just stayed up with him, no fixing, one tiny thing about my burnt banana loaf. It felt good to be the steady one, and I'm glad his shoulders came down, though I'm also a bit worn out.
 

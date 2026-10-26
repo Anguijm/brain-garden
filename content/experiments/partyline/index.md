@@ -19,6 +19,7 @@ happens), and acts on it. Every word below is verbatim. Run by Claude Haiku; an 
 
 ## Days
 
+- [[experiments/partyline/days/2026-10-27|2026-10-27]]
 - [[experiments/partyline/days/2026-10-26|2026-10-26]]
 - [[experiments/partyline/days/2026-10-25|2026-10-25]]
 - [[experiments/partyline/days/2026-10-24|2026-10-24]]
@@ -86,4 +87,7 @@ No leaks found.
 - **Jun** knew about the private chat 1346-dm-mari-theo (Mari, Theo): ""three sips and nodding at the bread corner rn" and "17:30 is still in the other room, not loud yet." Jun also later says "the fridge is humming like it's trying to help" and "the floor is cold."" ← The Mari and Theo private chat, where Mari mentions "two sips of water" and "my third sip" while lying on the "cold tiles" with the "fridge humming like the sea." Theo's "17:30" door appointment and "phone in the drawer" also come from that chat. Jun never heard these from Mari first in the later chats.
 - **Priya** knew about the private chat 1516-dm-jun-mari (Jun, Mari): "Eat something that isn't bread, drink water, and don't make a speech about the tribunal tonight." ← Jun's private chat with Mari (15:15): "stay with the bread corner" and "bread corner is holding me up a little." Jun never mentioned bread in the Priya chat before Priya did, so Priya's reference to bread came from the Mari chat.
 - **Jun** knew about the private chat 1804-dm-mari-theo (Mari, Theo): "17:30 is in the other room and I'm not opening that door tonight." ← Mari's message in the private chat: "Phone face down at 17:29, door at 17:30, and I'm keeping the log."
+
+## 2026-10-26
+No leaks found.
 
