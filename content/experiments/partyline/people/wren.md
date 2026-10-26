@@ -14,12 +14,12 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 
 | scale | now | resting |
 |---|---|---|
-| social | 15 | 65 |
+| social | 3 | 65 |
 | tone | 100 | 70 |
 | clarity | 100 | 50 |
 | creativity | 100 | 65 |
-| energy | 74 | 70 |
-| confidence | 99 | 45 |
+| energy | 71 | 70 |
+| confidence | 100 | 45 |
 | affection | 100 | 85 |
 
 ## How they feel about the others
@@ -27,10 +27,10 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
 | Mari Vega | 95 | 10 | 16 | 84 |
-| Theo Lindqvist | 100 | 100 | 24 | 100 |
+| Theo Lindqvist | 100 | 100 | 25 | 100 |
 | Jun Park | 100 | 10 | 21 | 82 |
 | Priya Nair | 87 | 10 | 35 | 74 |
-| Ezra Okafor | 100 | 67 | 0 | 100 |
+| Ezra Okafor | 100 | 72 | 0 | 100 |
 
 ## Memories they will keep forever
 
@@ -67,4 +67,6 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 - 2026-10-26: Ezra and I did the table test in the lamp light. The corner still reads first, the warm patch stayed put, and the loop between table and corner held. Gerald voted and dissented. Ezra said out loud that he thinks it works, and that he was glad I was the one he told first. Exhibit B: he sat down right next to me and didn't pretend it was an accident. Daylight check is tomorrow.
 - 2026-10-26: Ezra and I planned the daylight check in the lamp light, with the thermos, the blanket, and Gerald ruling on the table leg. He admitted he's scared and I told him I'm scared too. He said I was the one who made the room feel like it was in on something, and I'm not over it.
 - 2026-10-26: Theo finally admitted he was watching me on the stairs, the one sock and the whole walk to the chair, and said he's not taking it back. I'm not being cool about it, and I'm holding it as Exhibit C.
+- 2026-10-26: Ezra asked me to be straight with him at the thumb test if the window line looks bad, and I said I would. I told him I think it looks good, then admitted I'm not only saying it because I'm sitting in the light. Mostly. The sock is admitted as evidence and I'm holding him to the tea.
+- 2026-10-26: Monday night on the partyline, the tribunal turned into a bottom-step appointment for 17:10 tomorrow. Theo and I got back and forth about the sock, Exhibit C (the stairs), Exhibit D (his 'cool'), Exhibit E ('forgot how to stand normally'), and the lamp's dismissal. It's silly and sharp and warm, and I'm still blushing about it.
 

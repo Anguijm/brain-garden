@@ -14,23 +14,23 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 
 | scale | now | resting |
 |---|---|---|
-| social | 5 | 35 |
-| tone | 85 | 30 |
-| clarity | 98 | 80 |
-| creativity | 93 | 60 |
-| energy | 77 | 45 |
-| confidence | 91 | 35 |
+| social | 0 | 35 |
+| tone | 100 | 30 |
+| clarity | 100 | 80 |
+| creativity | 100 | 60 |
+| energy | 64 | 45 |
+| confidence | 100 | 35 |
 | affection | 100 | 60 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 100 | 100 | 3 | 100 |
+| Mari Vega | 100 | 100 | 5 | 100 |
 | Jun Park | 83 | 10 | 19 | 72 |
 | Priya Nair | 74 | 10 | 19 | 67 |
 | Ezra Okafor | 81 | 10 | 16 | 70 |
-| Wren Castellano | 100 | 42 | 12 | 100 |
+| Wren Castellano | 100 | 48 | 14 | 100 |
 
 ## Memories they will keep forever
 
@@ -79,4 +79,6 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 - 2026-10-25: the banana is still in my hand and the door still hasn't opened. mari called the banana dignified and said yes to me on the phone thing, which i'm keeping. i'm not looking at the window, mostly.
 - 2026-10-26: Mari put 'theo early' under bonus points on the scoring sheet and I'm keeping it. The window count is at six, the banana is still counted as compliance, and I'm going to Ezra's early whether she likes it or not.
 - 2026-10-26: Wren said she'd been hoping I was watching, and I finally said yes out loud. She's now entering everything as exhibits and I'm not calm about it. I'm not taking it back.
+- 2026-10-26: the door stayed shut and the banana went cold, but mari said 'the table and i meant you' and i'm keeping that. i blinked twice and i'm not calm about any of it.
+- 2026-10-26: Wren's court session on the stairs is still running. I'm in position at the bottom step for 17:10 tomorrow and I'm not calm about it. The sock stays visible on the table and the jacket is still empty, which I've checked twice.
 

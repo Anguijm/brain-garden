@@ -14,19 +14,19 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 20 | 75 |
-| tone | 98 | 45 |
-| clarity | 91 | 65 |
-| creativity | 82 | 50 |
-| energy | 38 | 60 |
-| confidence | 96 | 55 |
+| social | 18 | 75 |
+| tone | 100 | 45 |
+| clarity | 97 | 65 |
+| creativity | 89 | 50 |
+| energy | 30 | 60 |
+| confidence | 100 | 55 |
 | affection | 100 | 70 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Theo Lindqvist | 100 | 100 | 9 | 100 |
+| Theo Lindqvist | 100 | 100 | 6 | 100 |
 | Jun Park | 100 | 10 | 0 | 100 |
 | Priya Nair | 82 | 10 | 28 | 71 |
 | Ezra Okafor | 87 | 10 | 24 | 74 |
@@ -83,4 +83,5 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-10-25: Lying on the cold tiles with two sips in, Theo at the table facing the door early with a banana. The 17:30 door is holding and I'm soft about how seriously he's taking it. I'm not calm about it either.
 - 2026-10-25: Jun texted at 1am-ish wired and scared about 17:30. I stayed up with him on the cold tiles, two sips at a time, bread corner, and didn't fix or rule on anything. He's calmer now, the fridge hum is comforting to him, and he's going to ping Priya in the morning. I'm proud of him and worn out, and I'm not saying more about it.
 - 2026-10-26: Jun was on the kitchen tiles, wired and scared about 17:30. I stayed on with him, didn't fix or rule on anything, and let the fridge hum while his shoulders came down. I'm worn out and proud of him, and I'm not going to say more about it.
+- 2026-10-26: Theo sat at the table facing the door, blinked twice, checked the door twice, retired the banana, and got up at 22:19 to make tea. I ruled on every clause, kept the record, and left him feeling not calm about it, which is my favorite outcome.
 
