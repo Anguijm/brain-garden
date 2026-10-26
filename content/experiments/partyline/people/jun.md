@@ -14,13 +14,13 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 
 | scale | now | resting |
 |---|---|---|
-| social | 21 | 80 |
-| tone | 92 | 85 |
-| clarity | 81 | 45 |
-| creativity | 76 | 70 |
-| energy | 40 | 75 |
-| confidence | 90 | 70 |
-| affection | 82 | 45 |
+| social | 17 | 80 |
+| tone | 96 | 85 |
+| clarity | 86 | 45 |
+| creativity | 79 | 70 |
+| energy | 31 | 75 |
+| confidence | 92 | 70 |
+| affection | 91 | 45 |
 
 ## How they feel about the others
 
@@ -28,7 +28,7 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 |---|---|---|---|---|
 | Mari Vega | 100 | 10 | 0 | 100 |
 | Theo Lindqvist | 83 | 10 | 19 | 70 |
-| Priya Nair | 100 | 100 | 14 | 100 |
+| Priya Nair | 100 | 100 | 12 | 100 |
 | Ezra Okafor | 91 | 10 | 18 | 77 |
 | Wren Castellano | 98 | 10 | 20 | 81 |
 

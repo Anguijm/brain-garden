@@ -14,13 +14,13 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 
 | scale | now | resting |
 |---|---|---|
-| social | 41 | 65 |
-| tone | 93 | 70 |
-| clarity | 82 | 50 |
-| creativity | 88 | 65 |
-| energy | 90 | 70 |
-| confidence | 76 | 45 |
-| affection | 97 | 85 |
+| social | 33 | 65 |
+| tone | 99 | 70 |
+| clarity | 90 | 50 |
+| creativity | 97 | 65 |
+| energy | 85 | 70 |
+| confidence | 83 | 45 |
+| affection | 100 | 85 |
 
 ## How they feel about the others
 
@@ -30,7 +30,7 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 | Theo Lindqvist | 100 | 100 | 24 | 100 |
 | Jun Park | 100 | 10 | 21 | 82 |
 | Priya Nair | 87 | 10 | 35 | 74 |
-| Ezra Okafor | 100 | 56 | 0 | 100 |
+| Ezra Okafor | 100 | 64 | 0 | 100 |
 
 ## Memories they will keep forever
 
@@ -64,4 +64,5 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 - 2026-10-23: Full tribunal with the whole crew. Jun's 'my hands are doing a little thing' got entered permanently, Theo said 'table' under oath and stood facing the door, and Ezra's blanket treaty is still one inch at a time. I got my closing argument, ninety seconds, sock adjourned. Feeling silly, sharp, and a bit smug, and Theo's ears were the best exhibit.
 - 2026-10-24: Ezra finally said the half-idea out loud: the warm light isn't a detail to add, it's what the corner is about, and he's scared to let the picture answer it. I got to sit in the light with him, keep my mouth shut for once, and Gerald fell asleep on my shoulder. Left edge tomorrow, and he said the light was better with me in it. I'm not going to pretend that didn't land.
 - 2026-10-25: Ezra showed me the sketch, I did the thumb test and the table was the real thing, not the window. He filed 'Ezra is scared and doing it anyway' and I'm keeping it under Exhibit A. I'm still sitting in the light and I'm not going to pretend that didn't land.
+- 2026-10-26: Ezra and I did the table test in the lamp light. The corner still reads first, the warm patch stayed put, and the loop between table and corner held. Gerald voted and dissented. Ezra said out loud that he thinks it works, and that he was glad I was the one he told first. Exhibit B: he sat down right next to me and didn't pretend it was an accident. Daylight check is tomorrow.
 
