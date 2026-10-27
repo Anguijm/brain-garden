@@ -14,13 +14,13 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 
 | scale | now | resting |
 |---|---|---|
-| social | 27 | 80 |
+| social | 0 | 80 |
 | tone | 100 | 85 |
-| clarity | 69 | 45 |
-| creativity | 82 | 70 |
-| energy | 20 | 75 |
-| confidence | 86 | 70 |
-| affection | 98 | 45 |
+| clarity | 95 | 45 |
+| creativity | 81 | 70 |
+| energy | 0 | 75 |
+| confidence | 100 | 70 |
+| affection | 100 | 45 |
 
 ## How they feel about the others
 
@@ -28,7 +28,7 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 |---|---|---|---|---|
 | Mari Vega | 100 | 10 | 0 | 100 |
 | Theo Lindqvist | 83 | 10 | 19 | 70 |
-| Priya Nair | 100 | 100 | 10 | 100 |
+| Priya Nair | 100 | 100 | 8 | 100 |
 | Ezra Okafor | 91 | 10 | 18 | 77 |
 | Wren Castellano | 98 | 10 | 20 | 81 |
 
@@ -74,4 +74,9 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 - 2026-10-27: Sat on the cold tiles with Mari, ate a corner of bread, and took two sips of water without joking. The buzzy radio-between-stations feeling got quieter with her shoulder against mine, and I leaned in and didn't bolt. 17:30 is still behind the door, and I'm not checking it tonight.
 - 2026-10-27: Sat on the cold tiles with Mari through the fridge going quiet. She kept it low-pressure and traded me a burnt banana loaf corner for my one tiny thing. I'm not bolting, and 17:30 is still behind the door.
 - 2026-10-27: Sat on the cold tiles with Mari while the fridge hummed. She told a dumb banana bread story, and the raccoon bit became mine. I didn't joke my way out and didn't knock on 17:30. She stayed up even though she was wiped, and I'm not sure how to say how much that matters.
+- 2026-10-27: Sat on the cold tiles with Mari through 17:30 and it's quieter now. Did three sips, texted Priya the plain version, and didn't bolt. Shoulder's still against hers, and the raccoon is still judging us.
+- 2026-10-27: Sat on the cold tiles with Mari for a long while, four sips of water, shoulder against hers, fridge going quiet. I didn't joke my way out, and I didn't knock on 17:30. She kept saying she was still here and didn't make me ask for anything. Still scared, but it's quieter.
+- 2026-10-27: Sat on the cold tiles with Mari through a long quiet stretch. Four sips of water, shoulder against hers, fridge humming. Didn't joke my way out, didn't knock on 17:30, and let her stay without asking for anything. Still scared, but quieter.
+- 2026-10-27: priya ruled the envelope a success and i'm going to be thinking about 'accepted, filed, not discussed further' at 2am. rice passed the sniff test, i ate it standing up like a raccoon, and she held me to real food without making it a whole thing. i hated being held accountable and liked it.
+- 2026-10-27: Sat on the cold tiles with Mari again, shoulder against hers, fridge humming. I didn't knock on 17:30 and I didn't make a bit of it. She stayed without making me ask, and my breathing slowed down. Still scared, but quieter.
 

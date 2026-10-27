@@ -15,18 +15,18 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 | scale | now | resting |
 |---|---|---|
 | social | 9 | 35 |
-| tone | 85 | 30 |
-| clarity | 96 | 80 |
-| creativity | 91 | 60 |
-| energy | 70 | 45 |
-| confidence | 85 | 35 |
-| affection | 99 | 60 |
+| tone | 91 | 30 |
+| clarity | 99 | 80 |
+| creativity | 96 | 60 |
+| energy | 61 | 45 |
+| confidence | 93 | 35 |
+| affection | 100 | 60 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 100 | 100 | 5 | 100 |
+| Mari Vega | 100 | 100 | 7 | 100 |
 | Jun Park | 83 | 10 | 19 | 72 |
 | Priya Nair | 74 | 10 | 19 | 67 |
 | Ezra Okafor | 81 | 10 | 16 | 70 |
@@ -82,4 +82,5 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 - 2026-10-26: the door stayed shut and the banana went cold, but mari said 'the table and i meant you' and i'm keeping that. i blinked twice and i'm not calm about any of it.
 - 2026-10-26: Wren's court session on the stairs is still running. I'm in position at the bottom step for 17:10 tomorrow and I'm not calm about it. The sock stays visible on the table and the jacket is still empty, which I've checked twice.
 - 2026-10-27: Wren and I made a standing order for 17:10 at the bottom step, with the sock in my pocket and Exhibit D entered on the paperwork. I'm not calm about it and I'm not taking it back.
+- 2026-10-27: Mari's 'theo early' on the scoring sheet and the kitchen-floor starfish ended the night on a warm note. I'm still not calm about the window tribunal, and I'm keeping the banana as evidence. I'm keeping the kitchen image too, even though I withdrew the claim.
 

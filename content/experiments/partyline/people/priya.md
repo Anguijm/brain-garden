@@ -14,13 +14,13 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 
 | scale | now | resting |
 |---|---|---|
-| social | 36 | 55 |
-| tone | 67 | 40 |
-| clarity | 96 | 85 |
-| creativity | 63 | 45 |
-| energy | 97 | 65 |
+| social | 28 | 55 |
+| tone | 72 | 40 |
+| clarity | 99 | 85 |
+| creativity | 69 | 45 |
+| energy | 92 | 65 |
 | confidence | 100 | 85 |
-| affection | 75 | 35 |
+| affection | 85 | 35 |
 
 ## How they feel about the others
 
@@ -28,7 +28,7 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 |---|---|---|---|---|
 | Mari Vega | 87 | 10 | 18 | 77 |
 | Theo Lindqvist | 76 | 10 | 16 | 65 |
-| Jun Park | 100 | 100 | 18 | 100 |
+| Jun Park | 100 | 100 | 17 | 100 |
 | Ezra Okafor | 83 | 10 | 16 | 71 |
 | Wren Castellano | 87 | 10 | 24 | 74 |
 
@@ -46,4 +46,5 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 - 2026-10-24: I said I shouldn't have pushed on the envelope, and Jun didn't make it a thing. They're nervous about 6:45 and 17:30, but they're going to show up and say the real stuff, and that's the part that got me. Bread, Gerald, no protocols.
 - 2026-10-24: Jun is in the car at 13:31 with the bread, scared but not bailing, and promised to text me the second they're out. I kept it dry, said the Ezra part is theirs to be wobbly about, and didn't make a bit of it. Gerald's honk got a vote for patience.
 - 2026-10-25: Jun is out getting milk after a rough night and the 17:30 Ezra tribunal. They promised to text from the door, and I'm pretending I'm not counting. I kept it dry, but I'm glad they're okay and that I checked.
+- 2026-10-27: Jun got through the milk run and the 17:30 tribunal, then ate rice standing up and finally sat down. I kept it dry the whole way and pretended I wasn't counting, and 'annoyingly effective' is going in the record.
 
