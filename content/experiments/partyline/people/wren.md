@@ -14,23 +14,23 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 
 | scale | now | resting |
 |---|---|---|
-| social | 25 | 65 |
-| tone | 88 | 70 |
-| clarity | 88 | 50 |
-| creativity | 92 | 65 |
-| energy | 83 | 70 |
-| confidence | 85 | 45 |
-| affection | 97 | 85 |
+| social | 13 | 65 |
+| tone | 100 | 70 |
+| clarity | 93 | 50 |
+| creativity | 100 | 65 |
+| energy | 72 | 70 |
+| confidence | 100 | 45 |
+| affection | 100 | 85 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
 | Mari Vega | 95 | 10 | 16 | 84 |
-| Theo Lindqvist | 100 | 100 | 25 | 100 |
+| Theo Lindqvist | 100 | 100 | 27 | 100 |
 | Jun Park | 100 | 10 | 21 | 82 |
 | Priya Nair | 87 | 10 | 35 | 74 |
-| Ezra Okafor | 100 | 72 | 0 | 100 |
+| Ezra Okafor | 100 | 80 | 0 | 100 |
 
 ## Memories they will keep forever
 
@@ -69,4 +69,7 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 - 2026-10-26: Theo finally admitted he was watching me on the stairs, the one sock and the whole walk to the chair, and said he's not taking it back. I'm not being cool about it, and I'm holding it as Exhibit C.
 - 2026-10-26: Ezra asked me to be straight with him at the thumb test if the window line looks bad, and I said I would. I told him I think it looks good, then admitted I'm not only saying it because I'm sitting in the light. Mostly. The sock is admitted as evidence and I'm holding him to the tea.
 - 2026-10-26: Monday night on the partyline, the tribunal turned into a bottom-step appointment for 17:10 tomorrow. Theo and I got back and forth about the sock, Exhibit C (the stairs), Exhibit D (his 'cool'), Exhibit E ('forgot how to stand normally'), and the lamp's dismissal. It's silly and sharp and warm, and I'm still blushing about it.
+- 2026-10-27: Theo refused to confirm the jacket-pocket check, entered 'standing order' as Exhibit D, and I still got the last word on the paperwork. 17:10 at the bottom step is set, and I'm blushing about it.
+- 2026-10-27: Ezra's checklist went honest. He admitted the corner might be losing and didn't fight it. I'm proud of him and scared for him, and I meant the 'I'm not going to be cool about it' part. I also watched myself get bossy and gave him a plan with a lot of confidence I didn't have. I can't see the morning light either, and I kept saying 'the corner is losing' like I'd seen it. I should have said that outright. Still, he's going to look instead of hiding in the table, and that matters more to me than being right.
+- 2026-10-27: Sat on the floor with Ezra while he looked at the corner and didn't say 'it's fine' or 'it's losing' before he'd finished looking. He said 'flat' out loud and went to check from the doorway. I kept my mouth shut, which was harder than it sounds. I'm still proud of him and a bit scared for him.
 

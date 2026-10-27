@@ -14,13 +14,13 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 
 | scale | now | resting |
 |---|---|---|
-| social | 8 | 35 |
-| tone | 77 | 30 |
-| clarity | 92 | 80 |
-| creativity | 85 | 60 |
-| energy | 69 | 45 |
-| confidence | 78 | 35 |
-| affection | 88 | 60 |
+| social | 9 | 35 |
+| tone | 85 | 30 |
+| clarity | 96 | 80 |
+| creativity | 91 | 60 |
+| energy | 70 | 45 |
+| confidence | 85 | 35 |
+| affection | 99 | 60 |
 
 ## How they feel about the others
 
@@ -30,7 +30,7 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 | Jun Park | 83 | 10 | 19 | 72 |
 | Priya Nair | 74 | 10 | 19 | 67 |
 | Ezra Okafor | 81 | 10 | 16 | 70 |
-| Wren Castellano | 100 | 48 | 14 | 100 |
+| Wren Castellano | 100 | 52 | 16 | 100 |
 
 ## Memories they will keep forever
 
@@ -81,4 +81,5 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 - 2026-10-26: Wren said she'd been hoping I was watching, and I finally said yes out loud. She's now entering everything as exhibits and I'm not calm about it. I'm not taking it back.
 - 2026-10-26: the door stayed shut and the banana went cold, but mari said 'the table and i meant you' and i'm keeping that. i blinked twice and i'm not calm about any of it.
 - 2026-10-26: Wren's court session on the stairs is still running. I'm in position at the bottom step for 17:10 tomorrow and I'm not calm about it. The sock stays visible on the table and the jacket is still empty, which I've checked twice.
+- 2026-10-27: Wren and I made a standing order for 17:10 at the bottom step, with the sock in my pocket and Exhibit D entered on the paperwork. I'm not calm about it and I'm not taking it back.
 

@@ -14,13 +14,13 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 
 | scale | now | resting |
 |---|---|---|
-| social | 32 | 80 |
-| tone | 96 | 85 |
-| clarity | 72 | 45 |
-| creativity | 74 | 70 |
-| energy | 44 | 75 |
-| confidence | 91 | 70 |
-| affection | 82 | 45 |
+| social | 27 | 80 |
+| tone | 100 | 85 |
+| clarity | 69 | 45 |
+| creativity | 82 | 70 |
+| energy | 20 | 75 |
+| confidence | 86 | 70 |
+| affection | 98 | 45 |
 
 ## How they feel about the others
 
@@ -28,7 +28,7 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 |---|---|---|---|---|
 | Mari Vega | 100 | 10 | 0 | 100 |
 | Theo Lindqvist | 83 | 10 | 19 | 70 |
-| Priya Nair | 100 | 100 | 12 | 100 |
+| Priya Nair | 100 | 100 | 10 | 100 |
 | Ezra Okafor | 91 | 10 | 18 | 77 |
 | Wren Castellano | 98 | 10 | 20 | 81 |
 
@@ -73,4 +73,5 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 - 2026-10-26: Sat on the kitchen tiles with Mari for a long while, two sips at a time, checking the bread corner and letting the fridge be loud. I didn't joke once and didn't have to. My chest got quieter, and I'm still not knocking on 17:30 tonight.
 - 2026-10-27: Sat on the cold tiles with Mari, ate a corner of bread, and took two sips of water without joking. The buzzy radio-between-stations feeling got quieter with her shoulder against mine, and I leaned in and didn't bolt. 17:30 is still behind the door, and I'm not checking it tonight.
 - 2026-10-27: Sat on the cold tiles with Mari through the fridge going quiet. She kept it low-pressure and traded me a burnt banana loaf corner for my one tiny thing. I'm not bolting, and 17:30 is still behind the door.
+- 2026-10-27: Sat on the cold tiles with Mari while the fridge hummed. She told a dumb banana bread story, and the raccoon bit became mine. I didn't joke my way out and didn't knock on 17:30. She stayed up even though she was wiped, and I'm not sure how to say how much that matters.
 

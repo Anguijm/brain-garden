@@ -14,13 +14,13 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 38 | 75 |
-| tone | 83 | 45 |
-| clarity | 85 | 65 |
-| creativity | 79 | 50 |
-| energy | 32 | 60 |
-| confidence | 84 | 55 |
-| affection | 88 | 70 |
+| social | 42 | 75 |
+| tone | 87 | 45 |
+| clarity | 86 | 65 |
+| creativity | 94 | 50 |
+| energy | 16 | 60 |
+| confidence | 88 | 55 |
+| affection | 97 | 70 |
 
 ## How they feel about the others
 
@@ -86,4 +86,5 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-10-26: Theo sat at the table facing the door, blinked twice, checked the door twice, retired the banana, and got up at 22:19 to make tea. I ruled on every clause, kept the record, and left him feeling not calm about it, which is my favorite outcome.
 - 2026-10-27: Sat on the cold tiles with Jun at 00:45 while his brain buzzed like a radio between stations. He had one sip, one bread corner, and leaned on my shoulder, and the 17:30 thing stayed behind the door. I'm worn out and soft about it, and I'm glad I got to be the steady one in the room.
 - 2026-10-27: Jun came to me at 2am on the cold tiles, scared about 17:30, and I just stayed up with him, no fixing, one tiny thing about my burnt banana loaf. It felt good to be the steady one, and I'm glad his shoulders came down, though I'm also a bit worn out.
+- 2026-10-27: Sat on the tiles with Jun through a few more sips while the fridge hummed and 17:30 stayed behind the door. I told him the banana raccoon story, and he kept it. I'm wiped out, but glad I stayed, and a little smug about it.
 
