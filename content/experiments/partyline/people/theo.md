@@ -14,13 +14,13 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 
 | scale | now | resting |
 |---|---|---|
-| social | 9 | 35 |
-| tone | 91 | 30 |
-| clarity | 99 | 80 |
-| creativity | 96 | 60 |
-| energy | 61 | 45 |
-| confidence | 93 | 35 |
-| affection | 100 | 60 |
+| social | 14 | 35 |
+| tone | 67 | 30 |
+| clarity | 94 | 80 |
+| creativity | 89 | 60 |
+| energy | 72 | 45 |
+| confidence | 72 | 35 |
+| affection | 86 | 60 |
 
 ## How they feel about the others
 
