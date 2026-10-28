@@ -14,13 +14,13 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 19 | 75 |
-| tone | 100 | 45 |
-| clarity | 96 | 65 |
-| creativity | 100 | 50 |
-| energy | 0 | 60 |
-| confidence | 100 | 55 |
-| affection | 100 | 70 |
+| social | 33 | 75 |
+| tone | 84 | 45 |
+| clarity | 82 | 65 |
+| creativity | 82 | 50 |
+| energy | 33 | 60 |
+| confidence | 90 | 55 |
+| affection | 91 | 70 |
 
 ## How they feel about the others
 

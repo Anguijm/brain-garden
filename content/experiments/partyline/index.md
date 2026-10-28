@@ -97,3 +97,6 @@ No leaks found.
 - **Theo** knew about the private chat 1931-dm-jun-mari (Jun, Mari): "the tiles are cold, you're lying on them anyway, and i'm choosing to respect that as a bold move." ← Private chat (Jun, Mari, 19:30): Jun's messages "tiles are cold but the fridge is humming" and "tiles are colder than I'd like." Mari's later chat only mentions a "flat floor" and never tiles, so Theo could not have learned the word from that conversation.
 - **Jun** knew about the private chat 2102-dm-mari-theo (Mari, Theo): "Still on the tiles, shoulder kinda against your side, fridge doing its whole thing." ← Mari's private chat with Theo, where Mari says she'll be lying on the kitchen tiles and mentions the fridge. Jun's later reference to being on the cold tiles with a shoulder against Mari's side and the fridge humming matches that scene, though Jun was also told this directly in the Jun-Mari chat at 22:00, so the cleaner evidence is the 'cold tiles' and 'fridge hum' detail traced to the Theo chat, which Jun was not in.
 
+## 2026-10-28
+- **Wren** knew about the private chat 1532-dm-mari-theo (Mari, Theo): "still not calling the coin. you've been stuck wondering since 17:10 and I'm not sorry." ← Theo's private chat with Mari: "17:10 bottom step is still on. the coin's uncalled."
+
