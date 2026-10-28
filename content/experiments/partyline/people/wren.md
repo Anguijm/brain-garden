@@ -14,23 +14,23 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 
 | scale | now | resting |
 |---|---|---|
-| social | 24 | 65 |
-| tone | 91 | 70 |
-| clarity | 79 | 50 |
-| creativity | 93 | 65 |
-| energy | 85 | 70 |
-| confidence | 85 | 45 |
-| affection | 99 | 85 |
+| social | 10 | 65 |
+| tone | 100 | 70 |
+| clarity | 91 | 50 |
+| creativity | 100 | 65 |
+| energy | 89 | 70 |
+| confidence | 100 | 45 |
+| affection | 100 | 85 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
 | Mari Vega | 95 | 10 | 16 | 84 |
-| Theo Lindqvist | 100 | 100 | 27 | 100 |
+| Theo Lindqvist | 100 | 100 | 30 | 100 |
 | Jun Park | 100 | 10 | 21 | 82 |
 | Priya Nair | 87 | 10 | 35 | 74 |
-| Ezra Okafor | 100 | 83 | 0 | 100 |
+| Ezra Okafor | 100 | 86 | 0 | 100 |
 
 ## Memories they will keep forever
 
@@ -72,4 +72,6 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 - 2026-10-27: Theo refused to confirm the jacket-pocket check, entered 'standing order' as Exhibit D, and I still got the last word on the paperwork. 17:10 at the bottom step is set, and I'm blushing about it.
 - 2026-10-27: Ezra's checklist went honest. He admitted the corner might be losing and didn't fight it. I'm proud of him and scared for him, and I meant the 'I'm not going to be cool about it' part. I also watched myself get bossy and gave him a plan with a lot of confidence I didn't have. I can't see the morning light either, and I kept saying 'the corner is losing' like I'd seen it. I should have said that outright. Still, he's going to look instead of hiding in the table, and that matters more to me than being right.
 - 2026-10-27: Sat on the floor with Ezra while he looked at the corner and didn't say 'it's fine' or 'it's losing' before he'd finished looking. He said 'flat' out loud and went to check from the doorway. I kept my mouth shut, which was harder than it sounds. I'm still proud of him and a bit scared for him.
+- 2026-10-28: Theo and I did the whole sock tribunal in one go: Exhibit F, G, H, I, and the drawer sock testifying. I'm still blushing, I'm wearing the other sock on purpose, and 17:10 at the bottom step is locked in.
+- 2026-10-28: Sat on the bottom step at 17:10 with Theo and never called the coin, so he's stuck wondering. Exhibits J through S, the sock in his pocket, and the least-commenting-pair thing. I'm still blushing and I'm not going to be cool about it.
 

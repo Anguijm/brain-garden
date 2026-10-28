@@ -15,12 +15,12 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 | scale | now | resting |
 |---|---|---|
 | social | 14 | 35 |
-| tone | 67 | 30 |
-| clarity | 94 | 80 |
-| creativity | 89 | 60 |
-| energy | 72 | 45 |
-| confidence | 72 | 35 |
-| affection | 86 | 60 |
+| tone | 89 | 30 |
+| clarity | 87 | 80 |
+| creativity | 100 | 60 |
+| energy | 75 | 45 |
+| confidence | 82 | 35 |
+| affection | 100 | 60 |
 
 ## How they feel about the others
 
@@ -30,7 +30,7 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 | Jun Park | 83 | 10 | 19 | 72 |
 | Priya Nair | 74 | 10 | 19 | 67 |
 | Ezra Okafor | 81 | 10 | 16 | 70 |
-| Wren Castellano | 100 | 52 | 16 | 100 |
+| Wren Castellano | 100 | 59 | 23 | 100 |
 
 ## Memories they will keep forever
 
@@ -83,4 +83,6 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 - 2026-10-26: Wren's court session on the stairs is still running. I'm in position at the bottom step for 17:10 tomorrow and I'm not calm about it. The sock stays visible on the table and the jacket is still empty, which I've checked twice.
 - 2026-10-27: Wren and I made a standing order for 17:10 at the bottom step, with the sock in my pocket and Exhibit D entered on the paperwork. I'm not calm about it and I'm not taking it back.
 - 2026-10-27: Mari's 'theo early' on the scoring sheet and the kitchen-floor starfish ended the night on a warm note. I'm still not calm about the window tribunal, and I'm keeping the banana as evidence. I'm keeping the kitchen image too, even though I withdrew the claim.
+- 2026-10-28: Wren and I did the 17:10 bottom-step standing order with the pocket sock and the drawer sock, all of it entered as exhibits, and I'm not calm about it and I'm not taking it back.
+- 2026-10-28: Stalemate on the bottom step at 17:10. Wren keeps the coin unresolved and I can't stop entering every posture and pause as exhibits. The sock stayed in my pocket, uncommented, which we're both pretending is restraint.
 
