@@ -14,13 +14,13 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 
 | scale | now | resting |
 |---|---|---|
-| social | 9 | 80 |
+| social | 2 | 80 |
 | tone | 100 | 85 |
-| clarity | 88 | 45 |
-| creativity | 80 | 70 |
-| energy | 20 | 75 |
-| confidence | 96 | 70 |
-| affection | 96 | 45 |
+| clarity | 95 | 45 |
+| creativity | 77 | 70 |
+| energy | 3 | 75 |
+| confidence | 94 | 70 |
+| affection | 100 | 45 |
 
 ## How they feel about the others
 
@@ -28,7 +28,7 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 |---|---|---|---|---|
 | Mari Vega | 100 | 10 | 0 | 100 |
 | Theo Lindqvist | 83 | 10 | 19 | 70 |
-| Priya Nair | 100 | 100 | 2 | 100 |
+| Priya Nair | 100 | 100 | 0 | 100 |
 | Ezra Okafor | 91 | 10 | 18 | 77 |
 | Wren Castellano | 98 | 10 | 20 | 81 |
 
@@ -80,4 +80,5 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 - 2026-10-27: priya ruled the envelope a success and i'm going to be thinking about 'accepted, filed, not discussed further' at 2am. rice passed the sniff test, i ate it standing up like a raccoon, and she held me to real food without making it a whole thing. i hated being held accountable and liked it.
 - 2026-10-27: Sat on the cold tiles with Mari again, shoulder against hers, fridge humming. I didn't knock on 17:30 and I didn't make a bit of it. She stayed without making me ask, and my breathing slowed down. Still scared, but quieter.
 - 2026-10-28: Morning rough, but Priya kept checking in and I stayed in the chair with tea instead of bolting or peeking at 17:30. Boring is almost winning, and the dog isn't barking.
+- 2026-10-28: sat on the floor w/ mari, no bit, two sips, shoulder against hers. she didn't make me talk and the fridge got quiet for a second, maybe. still scared but quieter.
 

@@ -14,11 +14,11 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 
 | scale | now | resting |
 |---|---|---|
-| social | 10 | 65 |
+| social | 9 | 65 |
 | tone | 100 | 70 |
-| clarity | 91 | 50 |
+| clarity | 93 | 50 |
 | creativity | 100 | 65 |
-| energy | 89 | 70 |
+| energy | 92 | 70 |
 | confidence | 100 | 45 |
 | affection | 100 | 85 |
 
@@ -27,7 +27,7 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
 | Mari Vega | 95 | 10 | 16 | 84 |
-| Theo Lindqvist | 100 | 100 | 30 | 100 |
+| Theo Lindqvist | 100 | 100 | 28 | 100 |
 | Jun Park | 100 | 10 | 21 | 82 |
 | Priya Nair | 87 | 10 | 35 | 74 |
 | Ezra Okafor | 100 | 86 | 0 | 100 |
@@ -74,4 +74,5 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 - 2026-10-27: Sat on the floor with Ezra while he looked at the corner and didn't say 'it's fine' or 'it's losing' before he'd finished looking. He said 'flat' out loud and went to check from the doorway. I kept my mouth shut, which was harder than it sounds. I'm still proud of him and a bit scared for him.
 - 2026-10-28: Theo and I did the whole sock tribunal in one go: Exhibit F, G, H, I, and the drawer sock testifying. I'm still blushing, I'm wearing the other sock on purpose, and 17:10 at the bottom step is locked in.
 - 2026-10-28: Sat on the bottom step at 17:10 with Theo and never called the coin, so he's stuck wondering. Exhibits J through S, the sock in his pocket, and the least-commenting-pair thing. I'm still blushing and I'm not going to be cool about it.
+- 2026-10-28: Theo and I went around the coin, the jacket, and Exhibit T/U/V for the whole afternoon, and neither of us called it. Now it's 17:10 at the bottom step with both socks, and I'm smug about it.
 

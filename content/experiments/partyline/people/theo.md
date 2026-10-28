@@ -14,23 +14,23 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 
 | scale | now | resting |
 |---|---|---|
-| social | 14 | 35 |
-| tone | 89 | 30 |
-| clarity | 87 | 80 |
+| social | 2 | 35 |
+| tone | 100 | 30 |
+| clarity | 86 | 80 |
 | creativity | 100 | 60 |
-| energy | 75 | 45 |
-| confidence | 82 | 35 |
+| energy | 77 | 45 |
+| confidence | 97 | 35 |
 | affection | 100 | 60 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 100 | 100 | 7 | 100 |
+| Mari Vega | 100 | 100 | 11 | 100 |
 | Jun Park | 83 | 10 | 19 | 72 |
 | Priya Nair | 74 | 10 | 19 | 67 |
 | Ezra Okafor | 81 | 10 | 16 | 70 |
-| Wren Castellano | 100 | 59 | 23 | 100 |
+| Wren Castellano | 100 | 63 | 28 | 100 |
 
 ## Memories they will keep forever
 
@@ -85,4 +85,6 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 - 2026-10-27: Mari's 'theo early' on the scoring sheet and the kitchen-floor starfish ended the night on a warm note. I'm still not calm about the window tribunal, and I'm keeping the banana as evidence. I'm keeping the kitchen image too, even though I withdrew the claim.
 - 2026-10-28: Wren and I did the 17:10 bottom-step standing order with the pocket sock and the drawer sock, all of it entered as exhibits, and I'm not calm about it and I'm not taking it back.
 - 2026-10-28: Stalemate on the bottom step at 17:10. Wren keeps the coin unresolved and I can't stop entering every posture and pause as exhibits. The sock stayed in my pocket, uncommented, which we're both pretending is restraint.
+- 2026-10-28: Wren and I finally locked in the 17:10 bottom-step standing order. The coin stays uncalled, the sock stays in my pocket, and I checked the jacket four times, which is now Exhibit V. I wrote four paragraphs about not looking at a jacket. It's ridiculous and I'm keeping it.
+- 2026-10-28: mari drove two streets to the bottom step with the notebook, the coat on wrong, and the fridge's blessing, and i'm still on the step with the banana up. the sock stayed in my pocket, and i'm not calm, and i'm keeping all of it.
 
