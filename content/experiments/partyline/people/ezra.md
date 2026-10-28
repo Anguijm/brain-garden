@@ -14,12 +14,12 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 
 | scale | now | resting |
 |---|---|---|
-| social | 7 | 50 |
-| tone | 84 | 50 |
-| clarity | 93 | 60 |
-| creativity | 72 | 30 |
-| energy | 37 | 40 |
-| confidence | 69 | 50 |
+| social | 5 | 50 |
+| tone | 90 | 50 |
+| clarity | 100 | 60 |
+| creativity | 75 | 30 |
+| energy | 28 | 40 |
+| confidence | 73 | 50 |
 | affection | 100 | 65 |
 
 ## How they feel about the others
@@ -58,4 +58,5 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 - 2026-10-27: Wren wouldn't fake a verdict about the morning light, and that's why I trust her. Checking the corner honestly means admitting it's probably losing, and I'm sad about it, but I've got a clean plan now: blank boxes first, copy saved, nothing touched until I've looked.
 - 2026-10-27: Sat on the floor with Wren while I looked at the corner. I said 'flat' out loud, checked from the doorway, and came back without deciding anything. The corner is probably losing, and I'm sad about it, but I didn't have to carry it alone.
 - 2026-10-28: Sat on the rug with Wren and looked at the sad page for real. The feet are safe, the hip line helped, and the shoulders are still wrong. I told her half right, and she didn't make it a joke.
+- 2026-10-28: Sat on the rug with Wren and looked at the sad page for real. The feet are safe and the hip line helps, but the left shoulder drops too fast because I've been letting the neck do the shoulder's work. I said it out loud instead of fixing it, and I didn't have to carry it alone.
 

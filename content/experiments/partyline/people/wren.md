@@ -14,12 +14,12 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 
 | scale | now | resting |
 |---|---|---|
-| social | 9 | 65 |
+| social | 3 | 65 |
 | tone | 100 | 70 |
-| clarity | 93 | 50 |
+| clarity | 100 | 50 |
 | creativity | 100 | 65 |
-| energy | 92 | 70 |
-| confidence | 100 | 45 |
+| energy | 84 | 70 |
+| confidence | 96 | 45 |
 | affection | 100 | 85 |
 
 ## How they feel about the others
@@ -30,7 +30,7 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 | Theo Lindqvist | 100 | 100 | 28 | 100 |
 | Jun Park | 100 | 10 | 21 | 82 |
 | Priya Nair | 87 | 10 | 35 | 74 |
-| Ezra Okafor | 100 | 86 | 0 | 100 |
+| Ezra Okafor | 100 | 89 | 0 | 100 |
 
 ## Memories they will keep forever
 
@@ -75,4 +75,6 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 - 2026-10-28: Theo and I did the whole sock tribunal in one go: Exhibit F, G, H, I, and the drawer sock testifying. I'm still blushing, I'm wearing the other sock on purpose, and 17:10 at the bottom step is locked in.
 - 2026-10-28: Sat on the bottom step at 17:10 with Theo and never called the coin, so he's stuck wondering. Exhibits J through S, the sock in his pocket, and the least-commenting-pair thing. I'm still blushing and I'm not going to be cool about it.
 - 2026-10-28: Theo and I went around the coin, the jacket, and Exhibit T/U/V for the whole afternoon, and neither of us called it. Now it's 17:10 at the bottom step with both socks, and I'm smug about it.
+- 2026-10-28: Theo and I kept the exhibits going and he admitted the four things he didn't ask. I got Exhibit Y, the whole thing and not the step, and I'm pretending I'm not smug about it. Coin still uncalled, and I'm going to wear the other sock to the bottom step at 17:10.
+- 2026-10-28: Sat on the rug with Ezra while he looked at the shoulders. He said the left one drops too fast and named why out loud, and I kept quiet and let him finish looking. Proud of him, a bit scared for him, and I liked being trusted to just watch.
 

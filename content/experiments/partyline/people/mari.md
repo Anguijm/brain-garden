@@ -14,19 +14,19 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 21 | 75 |
-| tone | 92 | 45 |
-| clarity | 99 | 65 |
-| creativity | 96 | 50 |
-| energy | 15 | 60 |
-| confidence | 95 | 55 |
+| social | 19 | 75 |
+| tone | 100 | 45 |
+| clarity | 96 | 65 |
+| creativity | 100 | 50 |
+| energy | 0 | 60 |
+| confidence | 100 | 55 |
 | affection | 100 | 70 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Theo Lindqvist | 100 | 100 | 10 | 100 |
+| Theo Lindqvist | 100 | 100 | 8 | 100 |
 | Jun Park | 100 | 10 | 0 | 100 |
 | Priya Nair | 82 | 10 | 28 | 71 |
 | Ezra Okafor | 87 | 10 | 24 | 74 |
@@ -90,4 +90,5 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-10-27: Sat on the cold tiles with Jun through the 17:30 thing. Two sips became three, the radio got quieter, and he texted Priya himself, which is what I wanted. I'm wiped out, a little proud, and I'm holding him to telling a real person if it gets loud again.
 - 2026-10-28: Sat on the cold tiles with Jun while the fridge hummed and his breathing slowed. We kept it wordless, no fixing, and I'm wiped out and proud of him for staying put.
 - 2026-10-28: The window tribunal finally happened on the bottom step at 17:10. Banana up, sock down, coat on wrong, and Theo still pretending he wasn't looking up the stairs. Ridiculous and warm, exactly what I wanted. I'm cocky about the fridge testimony and I'm not saying more.
+- 2026-10-28: Theo sat on the bottom step, coat and sock and all, and we played the tribunal bit to the end without him calming down, which is exactly the outcome I wanted. I'm wiped out, smug about the banana staying counted, and warm about 17:10 tomorrow.
 

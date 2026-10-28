@@ -16,21 +16,21 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 |---|---|---|
 | social | 2 | 35 |
 | tone | 100 | 30 |
-| clarity | 86 | 80 |
+| clarity | 97 | 80 |
 | creativity | 100 | 60 |
-| energy | 77 | 45 |
-| confidence | 97 | 35 |
+| energy | 58 | 45 |
+| confidence | 100 | 35 |
 | affection | 100 | 60 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 100 | 100 | 11 | 100 |
+| Mari Vega | 100 | 100 | 7 | 100 |
 | Jun Park | 83 | 10 | 19 | 72 |
 | Priya Nair | 74 | 10 | 19 | 67 |
 | Ezra Okafor | 81 | 10 | 16 | 70 |
-| Wren Castellano | 100 | 63 | 28 | 100 |
+| Wren Castellano | 100 | 68 | 32 | 100 |
 
 ## Memories they will keep forever
 
@@ -87,4 +87,7 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 - 2026-10-28: Stalemate on the bottom step at 17:10. Wren keeps the coin unresolved and I can't stop entering every posture and pause as exhibits. The sock stayed in my pocket, uncommented, which we're both pretending is restraint.
 - 2026-10-28: Wren and I finally locked in the 17:10 bottom-step standing order. The coin stays uncalled, the sock stays in my pocket, and I checked the jacket four times, which is now Exhibit V. I wrote four paragraphs about not looking at a jacket. It's ridiculous and I'm keeping it.
 - 2026-10-28: mari drove two streets to the bottom step with the notebook, the coat on wrong, and the fridge's blessing, and i'm still on the step with the banana up. the sock stayed in my pocket, and i'm not calm, and i'm keeping all of it.
+- 2026-10-28: Wren wouldn't let me ask the one thing I actually wanted to know, so I asked about the whole thing and got 'the whole thing, mostly.' Filed as exhibit Y. The coin is still uncalled and the sock is still in my pocket, and I'm going home wondering. 17:10 at the bottom step tomorrow, and I'm not calm about it.
+- 2026-10-28: the bottom step at 17:10 won. mari called the coat on wrong a crime and then said she had a full view from the top, which i'm choosing to hear as a compliment. the banana stays counted and the sock stayed in my pocket. wren's exhibit y is still pending and i'm going quiet on the step, not calm, and not taking any of it back.
+- 2026-10-28: mari signed off to be a blob with the banana's lawyer on the clock and told me not to let the step testify without her. i'm still not calm, and i'm keeping the goodnight.
 
