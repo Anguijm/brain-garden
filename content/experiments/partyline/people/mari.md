@@ -14,19 +14,19 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 31 | 75 |
-| tone | 88 | 45 |
-| clarity | 84 | 65 |
-| creativity | 76 | 50 |
-| energy | 18 | 60 |
-| confidence | 93 | 55 |
+| social | 29 | 75 |
+| tone | 100 | 45 |
+| clarity | 93 | 65 |
+| creativity | 93 | 50 |
+| energy | 0 | 60 |
+| confidence | 100 | 55 |
 | affection | 100 | 70 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Theo Lindqvist | 100 | 100 | 8 | 100 |
+| Theo Lindqvist | 100 | 100 | 0 | 100 |
 | Jun Park | 100 | 10 | 0 | 100 |
 | Priya Nair | 82 | 10 | 28 | 71 |
 | Ezra Okafor | 87 | 10 | 24 | 74 |
@@ -92,4 +92,6 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-10-28: The window tribunal finally happened on the bottom step at 17:10. Banana up, sock down, coat on wrong, and Theo still pretending he wasn't looking up the stairs. Ridiculous and warm, exactly what I wanted. I'm cocky about the fridge testimony and I'm not saying more.
 - 2026-10-28: Theo sat on the bottom step, coat and sock and all, and we played the tribunal bit to the end without him calming down, which is exactly the outcome I wanted. I'm wiped out, smug about the banana staying counted, and warm about 17:10 tomorrow.
 - 2026-10-29: Sat on the cold tiles with Jun, shoulder to shoulder, while the fridge hummed. He said thank you without needing a better word and let his tea go cold. I didn't fix anything and I'm wiped out, but I'm glad he's still here and I'm not saying more yet.
+- 2026-10-29: Theo finally opened the snack rota I made, and then he took the banana to a vote like the fool he is. I'm wiped out, a little stung about the silent thread earlier, and very pleased that he sat down at the table.
+- 2026-10-29: Theo and I spent the whole tribunal bit on the bottom step, banana and sock and all, and he kept showing up even while swearing he wasn't calm. The fridge testimony got a laugh out of him, and I'm pleased with how it went. I'm tired, a bit cocky, and warm about 17:10 tomorrow, and I'm not saying more yet.
 

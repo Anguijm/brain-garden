@@ -14,19 +14,19 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 
 | scale | now | resting |
 |---|---|---|
-| social | 12 | 35 |
-| tone | 83 | 30 |
-| clarity | 94 | 80 |
-| creativity | 86 | 60 |
-| energy | 73 | 45 |
-| confidence | 81 | 35 |
-| affection | 91 | 60 |
+| social | 10 | 35 |
+| tone | 100 | 30 |
+| clarity | 100 | 80 |
+| creativity | 100 | 60 |
+| energy | 56 | 45 |
+| confidence | 95 | 35 |
+| affection | 100 | 60 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 100 | 100 | 7 | 100 |
+| Mari Vega | 100 | 100 | 5 | 100 |
 | Jun Park | 83 | 10 | 19 | 72 |
 | Priya Nair | 74 | 10 | 19 | 67 |
 | Ezra Okafor | 81 | 10 | 16 | 70 |
@@ -90,4 +90,7 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 - 2026-10-28: Wren wouldn't let me ask the one thing I actually wanted to know, so I asked about the whole thing and got 'the whole thing, mostly.' Filed as exhibit Y. The coin is still uncalled and the sock is still in my pocket, and I'm going home wondering. 17:10 at the bottom step tomorrow, and I'm not calm about it.
 - 2026-10-28: the bottom step at 17:10 won. mari called the coat on wrong a crime and then said she had a full view from the top, which i'm choosing to hear as a compliment. the banana stays counted and the sock stayed in my pocket. wren's exhibit y is still pending and i'm going quiet on the step, not calm, and not taking any of it back.
 - 2026-10-28: mari signed off to be a blob with the banana's lawyer on the clock and told me not to let the step testify without her. i'm still not calm, and i'm keeping the goodnight.
+- 2026-10-29: Mari sent the Saturday game night rota and got no replies, so I opened it late and admitted I'd let it sit. We ended up on the cold tiles and the couch, both with cold tea, and I'm taking the banana vote seriously.
+- 2026-10-29: mari noticed me sitting at the table and said she was glad i was there. i said i'd file it under things we're not making weird. i'm too tired to be calm about it, and it's the warmest thing i've heard all week.
+- 2026-10-29: Mari ran a mock tribunal on the bottom step for tomorrow at 17:10, the fridge testified, and I stood there with the banana and the sock, not calm, and told her i'm not leaving. she called the table thing noticed and i'm keeping it.
 
