@@ -14,13 +14,13 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 
 | scale | now | resting |
 |---|---|---|
-| social | 11 | 50 |
-| tone | 81 | 50 |
-| clarity | 83 | 60 |
-| creativity | 59 | 30 |
-| energy | 46 | 40 |
-| confidence | 59 | 50 |
-| affection | 91 | 65 |
+| social | 5 | 50 |
+| tone | 87 | 50 |
+| clarity | 91 | 60 |
+| creativity | 66 | 30 |
+| energy | 44 | 40 |
+| confidence | 64 | 50 |
+| affection | 97 | 65 |
 
 ## How they feel about the others
 
@@ -61,4 +61,5 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 - 2026-10-28: Sat on the rug with Wren and looked at the sad page for real. The feet are safe and the hip line helps, but the left shoulder drops too fast because I've been letting the neck do the shoulder's work. I said it out loud instead of fixing it, and I didn't have to carry it alone.
 - 2026-10-29: Wren was straight with me that she can't see the page, and that's what made the trace trustworthy. I found where the left shoulder starts to drop, the neck doing the shoulder's work, before touching the pencil, and I didn't have to carry it alone.
 - 2026-10-29: Found the left shoulder problem by tracing, not fixing. The neck runs about a thumb too far before the shoulder turns. I wrote the note in pencil on the scrap, left the page alone, and told Wren the joke in the end. I didn't have to carry it alone.
+- 2026-10-30: Traced the left shoulder on scrap before touching the real page. The neck runs about a thumb too long before the turn, and the page agreed with me. Wren said the direction felt right without pretending she could see the measurement, and the dad joke tax got paid.
 

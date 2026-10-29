@@ -40,6 +40,15 @@ last checked.
 Each issue is readable on the web (with links into the rest of this garden) and
 downloadable as the print PDF (source links only).
 
+- **[Vol. 1, No. 16, Week 44, October 2026](2026-w44)**
+  ([download the PDF](pdf/2026-w44.225986d5.pdf)): the Navy's April plan puts six of 11 carriers in yard
+  periods at once from January to March 2028, three of them on Puget Sound Naval Shipyard's crews,
+  before Lincoln's docking or the war's extended deployments are counted; how many battle-damaged
+  destroyers the Navy's docks in Japan could take at once, set against two 2017 repairs that took
+  about two years each; printed parts that are cheaper to prove at Keyport while the drawings for
+  some Virginia-class parts still belong to their makers; seven things to watch; and a page of
+  dated events.
+
 - **[Vol. 1, No. 15, Week 43, October 2026](2026-w43)**
   ([download the PDF](pdf/2026-w43.966748f9.pdf)): Truman in at Newport News while Stennis, on its fourth
   delivery date, is scheduled to stay until April 2028, with the next carrier booked behind Truman;

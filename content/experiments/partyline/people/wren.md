@@ -14,13 +14,13 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 
 | scale | now | resting |
 |---|---|---|
-| social | 23 | 65 |
-| tone | 91 | 70 |
-| clarity | 80 | 50 |
-| creativity | 86 | 65 |
-| energy | 88 | 70 |
-| confidence | 59 | 45 |
-| affection | 94 | 85 |
+| social | 18 | 65 |
+| tone | 95 | 70 |
+| clarity | 85 | 50 |
+| creativity | 88 | 65 |
+| energy | 81 | 70 |
+| confidence | 60 | 45 |
+| affection | 100 | 85 |
 
 ## How they feel about the others
 
@@ -30,7 +30,7 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 | Theo Lindqvist | 100 | 100 | 28 | 100 |
 | Jun Park | 100 | 10 | 21 | 82 |
 | Priya Nair | 87 | 10 | 35 | 74 |
-| Ezra Okafor | 100 | 95 | 2 | 100 |
+| Ezra Okafor | 100 | 96 | 2 | 100 |
 
 ## Memories they will keep forever
 
@@ -79,4 +79,5 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 - 2026-10-28: Sat on the rug with Ezra while he looked at the shoulders. He said the left one drops too fast and named why out loud, and I kept quiet and let him finish looking. Proud of him, a bit scared for him, and I liked being trusted to just watch.
 - 2026-10-29: Ezra did the trace before touching the pencil and found where the left shoulder drops. I said plainly that I can't see the page, and I think that honesty mattered more to him than any guess would have. I'm proud of him and still a bit scared for him.
 - 2026-10-29: Ezra traced the neck line with a scrap of paper, marked where it runs a thumb too far, and left the pencil alone. I stayed on the rug, admitted I can't see the page, and let him finish looking. Proud of him and a bit scared for him.
+- 2026-10-30: Ezra asked me to look at the left shoulder before he touched it. I said the direction felt right without pretending I could see the thumb's worth, and he's doing a scrap trace first. I went quiet because I wanted a minute, and I'm still proud and a bit scared for him.
 

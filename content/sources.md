@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-1359 citations across 146 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+1413 citations across 147 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -408,6 +408,63 @@ This page lists every external link cited anywhere in the garden, article by art
 40. [The Navy said on October 21](https://www.dvidshub.net/news/577523/critical-industrial-base-facility-breaks-ground-thanks-australian-submarine-industrial-base-contribution)
 41. [Fairbanks Morse Defense said in an October 20 release Seapower carried](https://seapowermagazine.org/new-fairbanks-morse-defense-doubles-manufacturing-capacity-at-pascagoula-naval-propulsion-facility/)
 42. [Naval Sea Systems Command (NAVSEA) says of its Naval Foundry and Propeller Center in](https://www.navsea.navy.mil/Home/Shipyards/Norfolk/Department-Links/Naval-Foundry-and-Propeller-Center/)
+
+### [The Waterfront Brief, Vol. 1 No. 16 (week 44)](projects/waterfront-brief/2026-w44)
+
+1. [Adm. James Kilby, the Navy's vice chief, told the National Commission on the Future of](https://www.militarytimes.com/news/your-military/2026/10/08/readiness-bill-coming-due-for-navy-after-marathon-carrier-deployment-no-2-admiral-says/)
+2. [The Navy's April budget book](https://web.archive.org/web/20260927025227/https://www.secnav.navy.mil/fmc/fmb/Documents/27pres/OMN_Book.pdf)
+3. [to 2031](https://web.archive.org/web/20261007124109/https://www.secnav.navy.mil/fmc/fmb/Documents/27pres/SCN_Book.pdf)
+4. [the previous budget](https://web.archive.org/web/20260903083216/https://www.secnav.navy.mil/fmc/fmb/Documents/26pres/SCN_Book.pdf)
+5. [the Navy told The War Zone](https://www.twz.com/sea/navy-juggles-its-aircraft-carrier-plans-to-stay-afloat)
+6. [The War Zone counted three carriers in maintenance on Oct. 17](https://www.twz.com/sea/where-are-the-aircraft-carriers-october-17-2026)
+7. [the Navy said Oct. 19](https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4628279/uss-abraham-lincoln-to-shift-home-port-to-bremerton/)
+8. [no start date](https://www.stripes.com/branches/navy/2026-10-19/uss-abraham-lincoln-homeport-kitsap-23199798.html)
+9. [18 months, Stars and Stripes reported](https://www.stripes.com/branches/navy/2026-09-15/uss-ronald-reagan-rejoins-fleet-22863878.html)
+10. [about 15 months at Norfolk](https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4028611/uss-dwight-d-eisenhower-transits-to-norfolk-naval-shipyard-nnsy-for-a-planned-i/)
+11. [the shipyard called](https://www.dvidshub.net/news/563538/uss-dwight-d-eisenhower-completes-planned-incremental-availability-norfolk-naval-shipyard)
+12. [about seven months at North Island](https://www.dvidshub.net/news/568980/uss-carl-vinson-completes-planned-incremental-availability)
+13. [USNI News reported](https://news.usni.org/2026/07/14/carrier-uss-gerald-r-ford-starts-first-major-post-deployment-maintenance-period)
+14. [which the Navy blamed on age](https://news.usni.org/?p=36749)
+15. [RAND's war game](https://www.defensenews.com/news/pentagon-congress/2026/06/22/us-couldnt-repair-battle-damaged-ships-in-war-with-china-study-finds/)
+16. [The Maritime Executive reported in late 2018](https://maritime-executive.com/article/uss-mccain-exits-drydock-after-collision-repairs)
+17. [Defense Daily reported](https://defensedaily.com/uss-mccain-back-sea-finishing-repairs/navy-usmc)
+18. [barged to Mississippi](https://news.usni.org/2020/02/03/uss-fitzgerald-returns-to-sea-after-repairs-caused-by-fatal-2017-collision)
+19. [Naval Sea Systems Command (NAVSEA) says](https://www.navsea.navy.mil/Home/RMC/SRF-JRMC/About-Us/Our-History/)
+20. [Sasebo has one](https://www.navsea.navy.mil/Home/RMC/SRFJRMC/JapanTours/WorkingInJapan/SRFJRMCSaseboOperations/)
+21. ["the 23 forward-deployed ships based in Yokosuka and Sasebo,"](https://www.dvidshub.net/news/490220/srf-jrmc-hosts-change-command)
+22. [by the figures in Japanese records](https://ja.wikipedia.org/wiki/%E6%A8%AA%E9%A0%88%E8%B3%80%E6%B5%B7%E8%BB%8D%E6%96%BD%E8%A8%AD%E3%83%89%E3%83%83%E3%82%AF)
+23. [154 to 155 meters long](https://en.wikipedia.org/wiki/Arleigh_Burke-class_destroyer)
+24. [U.S. Naval Forces Japan posted](https://x.com/CNFJ/status/753500729961287680)
+25. [RAND reported in May](https://www.rand.org/pubs/research_reports/RRA470-9.html)
+26. [Defense News reported](https://www.defensenews.com/news/your-navy/2021/06/08/is-the-navy-ready-to-repair-battle-damaged-ships-in-wartime/)
+27. [Task & Purpose reported in September](https://taskandpurpose.com/news/navy-base-bahrain-iran-damage/)
+28. [NAVSEA's undated page](https://www.navsea.navy.mil/Home/RMC/FDRMC/Bahrain/WorkingInBahrain/FDRMCBahrain/)
+29. [Reuters reported in March](https://www.arabnews.com/node/2637617/amp)
+30. [The Pentagon's 2024 China report](https://media.defense.gov/2024/Dec/18/2003615520/-1/-1/0/MILITARY-AND-SECURITY-DEVELOPMENTS-INVOLVING-THE-PEOPLES-REPUBLIC-OF-CHINA-2024.PDF)
+31. [its 2025 report](https://media.defense.gov/2025/Dec/23/2003849070/-1/-1/1/ANNUAL-REPORT-TO-CONGRESS-MILITARY-AND-SECURITY-DEVELOPMENTS-INVOLVING-THE-PEOPLES-REPUBLIC-OF-CHINA-2025.PDF)
+32. [7th Fleet reported](https://www.cpf.navy.mil/Newsroom/News/Article/4618470/uss-warrior-completes-ship-repair-and-maintenance-exercise-in-hakodate/)
+33. [USS Arleigh Burke entered dry dock](https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4622364/uss-arleigh-burke-enters-dry-dock-in-spain-expanding-the-us-navys-forward-deplo/)
+34. [in 2019, two of them were slated](https://www.navytimes.com/news/your-navy/2019/06/07/what-you-need-to-know-about-the-upcoming-homeport-shifts/)
+35. [The joint explanatory statement on the fiscal 2026 defense authorization act](https://armedservices.house.gov/uploadedfiles/fy26_ndaa_joint_explanatory_statement.pdf)
+36. [Government Accountability Office (GAO) in September 2025](https://files.gao.gov/reports/GAO-25-107468/index.html)
+37. [Johns Hopkins Applied Physics Laboratory (APL) said in June 2025](https://www.jhuapl.edu/news/news-releases/250617-navy-am-lpbf-adoption)
+38. [Keyport engineer Jonathan Heier said in the August 5 release on its 17-4PH stainless](https://www.dvidshub.net/news/571674/nuwc-division-keyport-receives-navsea-qualification-metal-additive-manufacturing)
+39. [Norfolk Naval Shipyard reported](https://www.navy.mil/Press-Office/News-Stories/display-news/Article/2239797/eye-on-innovation-the-coolest-team-brings-cold-spray-to-nnsy)
+40. [the Navy reported in May 2020](https://www.navy.mil/Press-Office/News-Stories/Article/2283841/first-organically-executed-cold-spray-repair-developed-and-completed-at-nnsy/)
+41. [NAVSEA reported in June 2025](https://www.navsea.navy.mil/Media/News/Article-View/Article/4215400/low-risk-am-process-improving-readiness-generation/)
+42. [NAVSEA's January 2026 review](https://www.navsea.navy.mil/Media/News/Article/4384611/navy-expands-3d-printing-to-frontline-fleet-operations-in-2025/)
+43. [Naval Supply Systems Command (NAVSUP) reported](https://www.dvidshub.net/news/569018)
+44. [3D Printing Industry reported](https://3dprintingindustry.com/news/navy-fast-tracks-3d-printed-parts-to-boost-submarine-production-254114/)
+45. [The Navy said](https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4633203/uss-mcfaul-ddg-74-returns-to-norfolk-following-deployment/)
+46. [Breaking Defense reported](https://breakingdefense.com/2026/10/navy-faces-years-long-maintenance-crunch-amid-record-breaking-extended-deployments/)
+47. [USNI News reported](https://news.usni.org/2026/08/11/destroyers-thomas-hudner-pinckney-return-from-deployments)
+48. [planned](https://www.bidnetdirect.com/not-stated/solicitations/closed-bids/statewide/USS-THOMAS-HUDNER-DDG-116-Dry-Docking-Selected-Restricted-Availability-DSRA/2631302207)
+49. [now finishes in January 2028](https://www.war.gov/News/Contracts/Contract/Article/4624853/contracts-for-oct-13-2026/)
+50. [The law](https://www.law.cornell.edu/uscode/text/10/8694)
+51. [The first Lead Inspector General report on the Iran campaign](https://media.defense.gov/2026/Sep/09/2003993626/-1/-1/1/OEF%5FQ3%5FJUN2026%5FFINAL%5F508%2520SECURE.PDF)
+52. [Naval Safety Command's year-end figures](https://navalsafetycommand.navy.mil/Portals/100/Documents/Mishap_Stats100626.pdf)
+53. [The August memorandum](https://www.whitehouse.gov/presidential-actions/2026/08/rebuilding-the-united-states-navy-and-americas-shipbuilding-industrial-base/)
+54. [Section 345 of the fiscal 2026 defense authorization act](https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm)
 
 ### [The Waterfront Brief: reference shelf](projects/waterfront-brief/reference-shelf)
 
