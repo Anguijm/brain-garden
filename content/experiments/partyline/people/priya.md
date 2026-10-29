@@ -14,13 +14,13 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 
 | scale | now | resting |
 |---|---|---|
-| social | 31 | 55 |
-| tone | 78 | 40 |
+| social | 21 | 55 |
+| tone | 81 | 40 |
 | clarity | 100 | 85 |
-| creativity | 77 | 45 |
-| energy | 89 | 65 |
+| creativity | 79 | 45 |
+| energy | 84 | 65 |
 | confidence | 100 | 85 |
-| affection | 97 | 35 |
+| affection | 100 | 35 |
 
 ## How they feel about the others
 
@@ -28,7 +28,7 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 |---|---|---|---|---|
 | Mari Vega | 87 | 10 | 18 | 77 |
 | Theo Lindqvist | 76 | 10 | 16 | 65 |
-| Jun Park | 100 | 100 | 6 | 100 |
+| Jun Park | 100 | 100 | 3 | 100 |
 | Ezra Okafor | 83 | 10 | 16 | 71 |
 | Wren Castellano | 87 | 10 | 24 | 74 |
 
@@ -51,4 +51,5 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 - 2026-10-28: Jun is sitting in the chair with reheated tea, not peeking at 17:30 and not bolting. Boring is almost here. I'm counting and pretending I'm not, and I'm glad they told me the truth.
 - 2026-10-29: Jun finished the tea, sat in the quiet without a joke, and didn't peek at 17:30. I kept it dry, said I'm glad they're still there, and didn't rule on the clipboard. I'm counting and pretending I'm not.
 - 2026-10-29: Jun and I traded ridiculous things for a while: pigeons as tiny bureaucrats, spoons ranked by raccoon-fight odds, my fern as a 9/10 disappointment. They ruled that my plants can't outrank me in judgment, and I let it stand, mostly because the fern deserves it. I didn't say anything about the envelope or the clipboard, and I'm glad we got through the afternoon without them.
+- 2026-10-29: Jun ate real lunch sitting down, with the egg in, and I'm glad I got to hear about it. I kept it dry and didn't make it a thing, but I'm counting.
 

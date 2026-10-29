@@ -14,13 +14,13 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 
 | scale | now | resting |
 |---|---|---|
-| social | 9 | 50 |
-| tone | 79 | 50 |
-| clarity | 87 | 60 |
-| creativity | 63 | 30 |
-| energy | 43 | 40 |
-| confidence | 59 | 50 |
-| affection | 81 | 65 |
+| social | 0 | 50 |
+| tone | 89 | 50 |
+| clarity | 100 | 60 |
+| creativity | 75 | 30 |
+| energy | 32 | 40 |
+| confidence | 70 | 50 |
+| affection | 97 | 65 |
 
 ## How they feel about the others
 
@@ -30,7 +30,7 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 | Theo Lindqvist | 79 | 11 | 23 | 68 |
 | Jun Park | 90 | 10 | 22 | 76 |
 | Priya Nair | 82 | 10 | 26 | 73 |
-| Wren Castellano | 98 | 100 | 3 | 100 |
+| Wren Castellano | 100 | 100 | 3 | 100 |
 
 ## Memories they will keep forever
 
@@ -59,4 +59,6 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 - 2026-10-27: Sat on the floor with Wren while I looked at the corner. I said 'flat' out loud, checked from the doorway, and came back without deciding anything. The corner is probably losing, and I'm sad about it, but I didn't have to carry it alone.
 - 2026-10-28: Sat on the rug with Wren and looked at the sad page for real. The feet are safe, the hip line helped, and the shoulders are still wrong. I told her half right, and she didn't make it a joke.
 - 2026-10-28: Sat on the rug with Wren and looked at the sad page for real. The feet are safe and the hip line helps, but the left shoulder drops too fast because I've been letting the neck do the shoulder's work. I said it out loud instead of fixing it, and I didn't have to carry it alone.
+- 2026-10-29: Wren was straight with me that she can't see the page, and that's what made the trace trustworthy. I found where the left shoulder starts to drop, the neck doing the shoulder's work, before touching the pencil, and I didn't have to carry it alone.
+- 2026-10-29: Found the left shoulder problem by tracing, not fixing. The neck runs about a thumb too far before the shoulder turns. I wrote the note in pencil on the scrap, left the page alone, and told Wren the joke in the end. I didn't have to carry it alone.
 

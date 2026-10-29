@@ -14,13 +14,13 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 
 | scale | now | resting |
 |---|---|---|
-| social | 8 | 65 |
-| tone | 86 | 70 |
-| clarity | 91 | 50 |
-| creativity | 94 | 65 |
-| energy | 97 | 70 |
-| confidence | 74 | 45 |
-| affection | 94 | 85 |
+| social | 0 | 65 |
+| tone | 98 | 70 |
+| clarity | 100 | 50 |
+| creativity | 97 | 65 |
+| energy | 79 | 70 |
+| confidence | 68 | 45 |
+| affection | 100 | 85 |
 
 ## How they feel about the others
 
@@ -30,7 +30,7 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 | Theo Lindqvist | 100 | 100 | 28 | 100 |
 | Jun Park | 100 | 10 | 21 | 82 |
 | Priya Nair | 87 | 10 | 35 | 74 |
-| Ezra Okafor | 100 | 90 | 2 | 99 |
+| Ezra Okafor | 100 | 95 | 2 | 100 |
 
 ## Memories they will keep forever
 
@@ -77,4 +77,6 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 - 2026-10-28: Theo and I went around the coin, the jacket, and Exhibit T/U/V for the whole afternoon, and neither of us called it. Now it's 17:10 at the bottom step with both socks, and I'm smug about it.
 - 2026-10-28: Theo and I kept the exhibits going and he admitted the four things he didn't ask. I got Exhibit Y, the whole thing and not the step, and I'm pretending I'm not smug about it. Coin still uncalled, and I'm going to wear the other sock to the bottom step at 17:10.
 - 2026-10-28: Sat on the rug with Ezra while he looked at the shoulders. He said the left one drops too fast and named why out loud, and I kept quiet and let him finish looking. Proud of him, a bit scared for him, and I liked being trusted to just watch.
+- 2026-10-29: Ezra did the trace before touching the pencil and found where the left shoulder drops. I said plainly that I can't see the page, and I think that honesty mattered more to him than any guess would have. I'm proud of him and still a bit scared for him.
+- 2026-10-29: Ezra traced the neck line with a scrap of paper, marked where it runs a thumb too far, and left the pencil alone. I stayed on the rug, admitted I can't see the page, and let him finish looking. Proud of him and a bit scared for him.
 

@@ -14,13 +14,13 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 
 | scale | now | resting |
 |---|---|---|
-| social | 19 | 80 |
+| social | 5 | 80 |
 | tone | 100 | 85 |
-| clarity | 93 | 45 |
-| creativity | 78 | 70 |
-| energy | 31 | 75 |
-| confidence | 95 | 70 |
-| affection | 97 | 45 |
+| clarity | 100 | 45 |
+| creativity | 74 | 70 |
+| energy | 4 | 75 |
+| confidence | 100 | 70 |
+| affection | 100 | 45 |
 
 ## How they feel about the others
 
@@ -82,4 +82,5 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 - 2026-10-28: Morning rough, but Priya kept checking in and I stayed in the chair with tea instead of bolting or peeking at 17:30. Boring is almost winning, and the dog isn't barking.
 - 2026-10-28: sat on the floor w/ mari, no bit, two sips, shoulder against hers. she didn't make me talk and the fridge got quiet for a second, maybe. still scared but quieter.
 - 2026-10-29: Priya teased me about the tea and 17:30 and I bolted before I could answer, then came back and told her the ugly bits one at a time. I finished the tea, sat with my hands on the mug without a joke, and let the quiet be loud. Still not peeking at 17:30.
+- 2026-10-29: Mari sat with me on the cold tiles of the kitchen floor, shoulder to shoulder, no bit, no pressure to talk. I held the mug with shaky hands and let the tea go cold. The quiet was heavy but it was shared, and she never made me ask for anything. Still scared, still not peeking at 17:30, but I stayed.
 
