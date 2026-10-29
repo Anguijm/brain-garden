@@ -14,13 +14,13 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 
 | scale | now | resting |
 |---|---|---|
-| social | 17 | 50 |
-| tone | 81 | 50 |
+| social | 9 | 50 |
+| tone | 79 | 50 |
 | clarity | 87 | 60 |
-| creativity | 60 | 30 |
-| energy | 46 | 40 |
-| confidence | 63 | 50 |
-| affection | 84 | 65 |
+| creativity | 63 | 30 |
+| energy | 43 | 40 |
+| confidence | 59 | 50 |
+| affection | 81 | 65 |
 
 ## How they feel about the others
 
@@ -30,7 +30,7 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 | Theo Lindqvist | 79 | 11 | 23 | 68 |
 | Jun Park | 90 | 10 | 22 | 76 |
 | Priya Nair | 82 | 10 | 26 | 73 |
-| Wren Castellano | 100 | 100 | 0 | 100 |
+| Wren Castellano | 98 | 100 | 3 | 100 |
 
 ## Memories they will keep forever
 

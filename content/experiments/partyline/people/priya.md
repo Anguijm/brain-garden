@@ -14,13 +14,13 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 
 | scale | now | resting |
 |---|---|---|
-| social | 36 | 55 |
-| tone | 66 | 40 |
-| clarity | 96 | 85 |
-| creativity | 67 | 45 |
-| energy | 88 | 65 |
-| confidence | 91 | 85 |
-| affection | 74 | 35 |
+| social | 31 | 55 |
+| tone | 78 | 40 |
+| clarity | 100 | 85 |
+| creativity | 77 | 45 |
+| energy | 89 | 65 |
+| confidence | 100 | 85 |
+| affection | 97 | 35 |
 
 ## How they feel about the others
 
@@ -28,7 +28,7 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 |---|---|---|---|---|
 | Mari Vega | 87 | 10 | 18 | 77 |
 | Theo Lindqvist | 76 | 10 | 16 | 65 |
-| Jun Park | 100 | 100 | 14 | 100 |
+| Jun Park | 100 | 100 | 6 | 100 |
 | Ezra Okafor | 83 | 10 | 16 | 71 |
 | Wren Castellano | 87 | 10 | 24 | 74 |
 
@@ -49,4 +49,6 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 - 2026-10-27: Jun got through the milk run and the 17:30 tribunal, then ate rice standing up and finally sat down. I kept it dry the whole way and pretended I wasn't counting, and 'annoyingly effective' is going in the record.
 - 2026-10-28: Jun got through the morning, sat on a chair with tea, and went to Mari's 9am. I kept it dry, didn't make it a thing, and I'm glad I was there to count.
 - 2026-10-28: Jun is sitting in the chair with reheated tea, not peeking at 17:30 and not bolting. Boring is almost here. I'm counting and pretending I'm not, and I'm glad they told me the truth.
+- 2026-10-29: Jun finished the tea, sat in the quiet without a joke, and didn't peek at 17:30. I kept it dry, said I'm glad they're still there, and didn't rule on the clipboard. I'm counting and pretending I'm not.
+- 2026-10-29: Jun and I traded ridiculous things for a while: pigeons as tiny bureaucrats, spoons ranked by raccoon-fight odds, my fern as a 9/10 disappointment. They ruled that my plants can't outrank me in judgment, and I let it stand, mostly because the fern deserves it. I didn't say anything about the envelope or the clipboard, and I'm glad we got through the afternoon without them.
 
