@@ -14,13 +14,13 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 
 | scale | now | resting |
 |---|---|---|
-| social | 10 | 35 |
-| tone | 100 | 30 |
-| clarity | 100 | 80 |
-| creativity | 100 | 60 |
-| energy | 56 | 45 |
-| confidence | 95 | 35 |
-| affection | 100 | 60 |
+| social | 18 | 35 |
+| tone | 83 | 30 |
+| clarity | 89 | 80 |
+| creativity | 90 | 60 |
+| energy | 65 | 45 |
+| confidence | 81 | 35 |
+| affection | 88 | 60 |
 
 ## How they feel about the others
 
@@ -93,4 +93,5 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 - 2026-10-29: Mari sent the Saturday game night rota and got no replies, so I opened it late and admitted I'd let it sit. We ended up on the cold tiles and the couch, both with cold tea, and I'm taking the banana vote seriously.
 - 2026-10-29: mari noticed me sitting at the table and said she was glad i was there. i said i'd file it under things we're not making weird. i'm too tired to be calm about it, and it's the warmest thing i've heard all week.
 - 2026-10-29: Mari ran a mock tribunal on the bottom step for tomorrow at 17:10, the fridge testified, and I stood there with the banana and the sock, not calm, and told her i'm not leaving. she called the table thing noticed and i'm keeping it.
+- 2026-10-30: mari said the table thing meant something to her too, and then called us even. i said i'm keeping it and i meant it. the 17:10 is still on, the banana is still counted, and i'm still not calm.
 

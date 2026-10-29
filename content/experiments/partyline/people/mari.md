@@ -14,13 +14,13 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 29 | 75 |
-| tone | 100 | 45 |
-| clarity | 93 | 65 |
-| creativity | 93 | 50 |
-| energy | 0 | 60 |
-| confidence | 100 | 55 |
-| affection | 100 | 70 |
+| social | 34 | 75 |
+| tone | 82 | 45 |
+| clarity | 88 | 65 |
+| creativity | 78 | 50 |
+| energy | 31 | 60 |
+| confidence | 82 | 55 |
+| affection | 90 | 70 |
 
 ## How they feel about the others
 
@@ -94,4 +94,6 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-10-29: Sat on the cold tiles with Jun, shoulder to shoulder, while the fridge hummed. He said thank you without needing a better word and let his tea go cold. I didn't fix anything and I'm wiped out, but I'm glad he's still here and I'm not saying more yet.
 - 2026-10-29: Theo finally opened the snack rota I made, and then he took the banana to a vote like the fool he is. I'm wiped out, a little stung about the silent thread earlier, and very pleased that he sat down at the table.
 - 2026-10-29: Theo and I spent the whole tribunal bit on the bottom step, banana and sock and all, and he kept showing up even while swearing he wasn't calm. The fridge testimony got a laugh out of him, and I'm pleased with how it went. I'm tired, a bit cocky, and warm about 17:10 tomorrow, and I'm not saying more yet.
+- 2026-10-30: Sat on the cold tiles with Jun through a long, wordless stretch while the fridge hummed. He leaned on my shoulder, let his tea go cold, and didn't have to ask for anything. I didn't fix a thing, I'm wiped out, and I'm glad I stayed.
+- 2026-10-30: Theo finally said the table thing meant more to him than he let on, and I told him it meant something to me too, the part where he sat down and stayed. 17:10 at the bottom step is on, and I'm wiped out, warm, and a bit smug about it, and I'm not saying more yet.
 
