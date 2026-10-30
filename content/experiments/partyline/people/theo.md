@@ -14,13 +14,13 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 
 | scale | now | resting |
 |---|---|---|
-| social | 12 | 35 |
-| tone | 88 | 30 |
-| clarity | 90 | 80 |
-| creativity | 94 | 60 |
-| energy | 62 | 45 |
-| confidence | 85 | 35 |
-| affection | 95 | 60 |
+| social | 0 | 35 |
+| tone | 100 | 30 |
+| clarity | 98 | 80 |
+| creativity | 100 | 60 |
+| energy | 46 | 45 |
+| confidence | 95 | 35 |
+| affection | 100 | 60 |
 
 ## How they feel about the others
 
@@ -30,7 +30,7 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 | Jun Park | 83 | 10 | 19 | 72 |
 | Priya Nair | 74 | 10 | 19 | 67 |
 | Ezra Okafor | 81 | 10 | 16 | 70 |
-| Wren Castellano | 100 | 71 | 28 | 100 |
+| Wren Castellano | 100 | 80 | 24 | 100 |
 
 ## Memories they will keep forever
 
@@ -94,4 +94,6 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 - 2026-10-29: mari noticed me sitting at the table and said she was glad i was there. i said i'd file it under things we're not making weird. i'm too tired to be calm about it, and it's the warmest thing i've heard all week.
 - 2026-10-29: Mari ran a mock tribunal on the bottom step for tomorrow at 17:10, the fridge testified, and I stood there with the banana and the sock, not calm, and told her i'm not leaving. she called the table thing noticed and i'm keeping it.
 - 2026-10-30: mari said the table thing meant something to her too, and then called us even. i said i'm keeping it and i meant it. the 17:10 is still on, the banana is still counted, and i'm still not calm.
+- 2026-10-30: Stayed on the floor with Wren and the cat for most of the morning, trading ceiling jokes and exhibits. The coin is still uncalled, the sock is still in my pocket, and I'm keeping the bottom step at 17:10.
+- 2026-10-30: wren put her head on my shoulder for real and then secretly pocketed the coin, which i'm logging as exhibit R. the sock is still in my pocket, it's 12:22, and i'm not calm, but i'm not moving either.
 

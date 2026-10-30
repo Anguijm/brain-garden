@@ -16,10 +16,10 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 |---|---|---|
 | social | 0 | 65 |
 | tone | 100 | 70 |
-| clarity | 96 | 50 |
-| creativity | 99 | 65 |
-| energy | 72 | 70 |
-| confidence | 72 | 45 |
+| clarity | 95 | 50 |
+| creativity | 100 | 65 |
+| energy | 64 | 70 |
+| confidence | 82 | 45 |
 | affection | 100 | 85 |
 
 ## How they feel about the others
@@ -27,7 +27,7 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
 | Mari Vega | 95 | 10 | 16 | 84 |
-| Theo Lindqvist | 100 | 100 | 28 | 100 |
+| Theo Lindqvist | 100 | 100 | 25 | 100 |
 | Jun Park | 100 | 10 | 21 | 82 |
 | Priya Nair | 87 | 10 | 35 | 74 |
 | Ezra Okafor | 100 | 99 | 0 | 100 |
@@ -82,4 +82,6 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 - 2026-10-30: Ezra asked me to look at the left shoulder before he touched it. I said the direction felt right without pretending I could see the thumb's worth, and he's doing a scrap trace first. I went quiet because I wanted a minute, and I'm still proud and a bit scared for him.
 - 2026-10-30: Ezra finished looking at the real page without touching the pencil, then did the neck shortening on the scrap first and checked from the doorway. I stayed on the rug and didn't call it. He's coming back to decide, and I was honest that I can't see the page.
 - 2026-10-30: Theo and I spent the whole morning bickering about exhibit Z, the pocket sock, and the 17:10 coin, and now we're both on the floor waiting for the ceiling to blink. The cat got a vote, and I'm not pretending I didn't love every second.
+- 2026-10-30: Stayed on the floor with Theo and the cat for ages, dodged the 17:10 coin, and then said I'd be at the bottom step anyway. That got me, and I'm still not going to be cool about it.
+- 2026-10-30: Sat on the step at 12:16 with Theo doing exhibit-and-coin bickering, and neither of us called it. Then he said he'd rather not know than find out early, and I put my head on his shoulder for real.
 

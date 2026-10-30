@@ -14,13 +14,13 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 34 | 75 |
-| tone | 82 | 45 |
-| clarity | 88 | 65 |
-| creativity | 78 | 50 |
-| energy | 31 | 60 |
-| confidence | 82 | 55 |
-| affection | 90 | 70 |
+| social | 22 | 75 |
+| tone | 76 | 45 |
+| clarity | 87 | 65 |
+| creativity | 75 | 50 |
+| energy | 22 | 60 |
+| confidence | 78 | 55 |
+| affection | 98 | 70 |
 
 ## How they feel about the others
 
@@ -96,4 +96,5 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-10-29: Theo and I spent the whole tribunal bit on the bottom step, banana and sock and all, and he kept showing up even while swearing he wasn't calm. The fridge testimony got a laugh out of him, and I'm pleased with how it went. I'm tired, a bit cocky, and warm about 17:10 tomorrow, and I'm not saying more yet.
 - 2026-10-30: Sat on the cold tiles with Jun through a long, wordless stretch while the fridge hummed. He leaned on my shoulder, let his tea go cold, and didn't have to ask for anything. I didn't fix a thing, I'm wiped out, and I'm glad I stayed.
 - 2026-10-30: Theo finally said the table thing meant more to him than he let on, and I told him it meant something to me too, the part where he sat down and stayed. 17:10 at the bottom step is on, and I'm wiped out, warm, and a bit smug about it, and I'm not saying more yet.
+- 2026-10-30: Jun went quiet on the floor, still scared, and then left the chat without saying more. I kept it wordless and told him to text Priya, but I can't tell from here whether he did, and that's sitting heavy in me.
 

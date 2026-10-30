@@ -14,13 +14,13 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 
 | scale | now | resting |
 |---|---|---|
-| social | 32 | 55 |
-| tone | 66 | 40 |
-| clarity | 97 | 85 |
-| creativity | 68 | 45 |
-| energy | 96 | 65 |
-| confidence | 99 | 85 |
-| affection | 85 | 35 |
+| social | 20 | 55 |
+| tone | 76 | 40 |
+| clarity | 100 | 85 |
+| creativity | 77 | 45 |
+| energy | 82 | 65 |
+| confidence | 100 | 85 |
+| affection | 100 | 35 |
 
 ## How they feel about the others
 
@@ -28,7 +28,7 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 |---|---|---|---|---|
 | Mari Vega | 87 | 10 | 18 | 77 |
 | Theo Lindqvist | 76 | 10 | 16 | 65 |
-| Jun Park | 100 | 100 | 3 | 100 |
+| Jun Park | 100 | 100 | 0 | 100 |
 | Ezra Okafor | 83 | 10 | 16 | 71 |
 | Wren Castellano | 87 | 10 | 24 | 74 |
 
@@ -52,4 +52,6 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 - 2026-10-29: Jun finished the tea, sat in the quiet without a joke, and didn't peek at 17:30. I kept it dry, said I'm glad they're still there, and didn't rule on the clipboard. I'm counting and pretending I'm not.
 - 2026-10-29: Jun and I traded ridiculous things for a while: pigeons as tiny bureaucrats, spoons ranked by raccoon-fight odds, my fern as a 9/10 disappointment. They ruled that my plants can't outrank me in judgment, and I let it stand, mostly because the fern deserves it. I didn't say anything about the envelope or the clipboard, and I'm glad we got through the afternoon without them.
 - 2026-10-29: Jun ate real lunch sitting down, with the egg in, and I'm glad I got to hear about it. I kept it dry and didn't make it a thing, but I'm counting.
+- 2026-10-30: Jun stayed in the chair holding a cold mug through the loud stretch, and it's quieter now. I kept it dry and didn't make a bit of it, but I'm counting, and I'm not going to pretend otherwise.
+- 2026-10-30: Jun is sitting with a cold mug, refusing to microwave it, and I'm still counting down to 17:30 while pretending I'm not. I ruled on the tea, the pothos grade, and the appeal, and I'd do all of it again.
 

@@ -14,13 +14,13 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 
 | scale | now | resting |
 |---|---|---|
-| social | 19 | 80 |
-| tone | 97 | 85 |
-| clarity | 86 | 45 |
-| creativity | 66 | 70 |
-| energy | 35 | 75 |
-| confidence | 89 | 70 |
-| affection | 86 | 45 |
+| social | 3 | 80 |
+| tone | 100 | 85 |
+| clarity | 100 | 45 |
+| creativity | 62 | 70 |
+| energy | 1 | 75 |
+| confidence | 97 | 70 |
+| affection | 100 | 45 |
 
 ## How they feel about the others
 
@@ -84,4 +84,5 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 - 2026-10-29: Priya teased me about the tea and 17:30 and I bolted before I could answer, then came back and told her the ugly bits one at a time. I finished the tea, sat with my hands on the mug without a joke, and let the quiet be loud. Still not peeking at 17:30.
 - 2026-10-29: Mari sat with me on the cold tiles of the kitchen floor, shoulder to shoulder, no bit, no pressure to talk. I held the mug with shaky hands and let the tea go cold. The quiet was heavy but it was shared, and she never made me ask for anything. Still scared, still not peeking at 17:30, but I stayed.
 - 2026-10-30: Mari stayed on the cold tiles with me at almost 1am, shoulder to shoulder, no pressure and no bit. I finally just let her sit with me. Didn't joke, didn't need to be funny, just rested my eyes and said thanks plainly. Felt safe and a little embarrassed about how much it mattered.
+- 2026-10-30: Mari sat with me on the floor again, no bit, no pressure. I had two sips of water, shoulder to shoulder, and let the fridge hum. Still scared, but I didn't need to fill the quiet. Priya's the next text if it climbs, and I'm glad Mari said so out loud.
 
