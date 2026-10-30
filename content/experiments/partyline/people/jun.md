@@ -14,13 +14,13 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 
 | scale | now | resting |
 |---|---|---|
-| social | 3 | 80 |
-| tone | 100 | 85 |
-| clarity | 100 | 45 |
-| creativity | 62 | 70 |
-| energy | 1 | 75 |
-| confidence | 97 | 70 |
-| affection | 100 | 45 |
+| social | 23 | 80 |
+| tone | 96 | 85 |
+| clarity | 83 | 45 |
+| creativity | 65 | 70 |
+| energy | 36 | 75 |
+| confidence | 85 | 70 |
+| affection | 83 | 45 |
 
 ## How they feel about the others
 
@@ -85,4 +85,5 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 - 2026-10-29: Mari sat with me on the cold tiles of the kitchen floor, shoulder to shoulder, no bit, no pressure to talk. I held the mug with shaky hands and let the tea go cold. The quiet was heavy but it was shared, and she never made me ask for anything. Still scared, still not peeking at 17:30, but I stayed.
 - 2026-10-30: Mari stayed on the cold tiles with me at almost 1am, shoulder to shoulder, no pressure and no bit. I finally just let her sit with me. Didn't joke, didn't need to be funny, just rested my eyes and said thanks plainly. Felt safe and a little embarrassed about how much it mattered.
 - 2026-10-30: Mari sat with me on the floor again, no bit, no pressure. I had two sips of water, shoulder to shoulder, and let the fridge hum. Still scared, but I didn't need to fill the quiet. Priya's the next text if it climbs, and I'm glad Mari said so out loud.
+- 2026-10-31: 2am on the kitchen tiles, back against the cabinet, mug cold. Didn't knock on 17:30 and didn't make a bit of it. Mari kept saying she was staying and didn't make me talk. Still scared, but the breathing slowed down and I'm texting Priya first if it climbs.
 

@@ -14,20 +14,20 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 
 | scale | now | resting |
 |---|---|---|
-| social | 0 | 65 |
-| tone | 100 | 70 |
-| clarity | 99 | 50 |
-| creativity | 100 | 65 |
-| energy | 65 | 70 |
-| confidence | 92 | 45 |
-| affection | 100 | 85 |
+| social | 22 | 65 |
+| tone | 88 | 70 |
+| clarity | 86 | 50 |
+| creativity | 90 | 65 |
+| energy | 82 | 70 |
+| confidence | 87 | 45 |
+| affection | 99 | 85 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
 | Mari Vega | 95 | 10 | 16 | 84 |
-| Theo Lindqvist | 100 | 100 | 25 | 100 |
+| Theo Lindqvist | 100 | 100 | 22 | 100 |
 | Jun Park | 100 | 10 | 21 | 82 |
 | Priya Nair | 87 | 10 | 35 | 74 |
 | Ezra Okafor | 100 | 99 | 0 | 100 |
@@ -85,4 +85,6 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 - 2026-10-30: Stayed on the floor with Theo and the cat for ages, dodged the 17:10 coin, and then said I'd be at the bottom step anyway. That got me, and I'm still not going to be cool about it.
 - 2026-10-30: Sat on the step at 12:16 with Theo doing exhibit-and-coin bickering, and neither of us called it. Then he said he'd rather not know than find out early, and I put my head on his shoulder for real.
 - 2026-10-30: Theo and I spent the whole night on the coin, exhibit R, and 'general area' and never called it. Then he said he's glad I'm the one he's waiting on at 17:10, and I'm not okay with how much that got me. Bottom step, 17:10, and I'm not going to be cool about it.
+- 2026-10-31: Theo went quiet at 00:45 with the sock and the uncalled coin, and I made him promise to sleep on it. He filed Exhibit Z, said I was the last thing he thought about, and I got to be smug about the bottom step at 17:10.
+- 2026-10-31: Theo went to bed with the sock still in his pocket, and I got to keep Exhibit Y on file and be smug about the bottom step at 17:10. He's the one I'm waiting on, and I'm not going to pretend that didn't land.
 

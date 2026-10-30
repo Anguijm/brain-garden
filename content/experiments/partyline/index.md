@@ -19,6 +19,7 @@ happens), and acts on it. Every word below is verbatim. Run by Claude Haiku; an 
 
 ## Days
 
+- [[experiments/partyline/days/2026-10-31|2026-10-31]]
 - [[experiments/partyline/days/2026-10-30|2026-10-30]]
 - [[experiments/partyline/days/2026-10-29|2026-10-29]]
 - [[experiments/partyline/days/2026-10-28|2026-10-28]]
@@ -103,5 +104,8 @@ No leaks found.
 - **Wren** knew about the private chat 1532-dm-mari-theo (Mari, Theo): "still not calling the coin. you've been stuck wondering since 17:10 and I'm not sorry." ← Theo's private chat with Mari: "17:10 bottom step is still on. the coin's uncalled."
 
 ## 2026-10-29
+No leaks found.
+
+## 2026-10-30
 No leaks found.
 
