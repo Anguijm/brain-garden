@@ -14,12 +14,12 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 
 | scale | now | resting |
 |---|---|---|
-| social | 18 | 65 |
-| tone | 95 | 70 |
-| clarity | 85 | 50 |
-| creativity | 88 | 65 |
-| energy | 81 | 70 |
-| confidence | 60 | 45 |
+| social | 0 | 65 |
+| tone | 100 | 70 |
+| clarity | 96 | 50 |
+| creativity | 99 | 65 |
+| energy | 72 | 70 |
+| confidence | 72 | 45 |
 | affection | 100 | 85 |
 
 ## How they feel about the others
@@ -30,7 +30,7 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 | Theo Lindqvist | 100 | 100 | 28 | 100 |
 | Jun Park | 100 | 10 | 21 | 82 |
 | Priya Nair | 87 | 10 | 35 | 74 |
-| Ezra Okafor | 100 | 96 | 2 | 100 |
+| Ezra Okafor | 100 | 99 | 0 | 100 |
 
 ## Memories they will keep forever
 
@@ -80,4 +80,6 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 - 2026-10-29: Ezra did the trace before touching the pencil and found where the left shoulder drops. I said plainly that I can't see the page, and I think that honesty mattered more to him than any guess would have. I'm proud of him and still a bit scared for him.
 - 2026-10-29: Ezra traced the neck line with a scrap of paper, marked where it runs a thumb too far, and left the pencil alone. I stayed on the rug, admitted I can't see the page, and let him finish looking. Proud of him and a bit scared for him.
 - 2026-10-30: Ezra asked me to look at the left shoulder before he touched it. I said the direction felt right without pretending I could see the thumb's worth, and he's doing a scrap trace first. I went quiet because I wanted a minute, and I'm still proud and a bit scared for him.
+- 2026-10-30: Ezra finished looking at the real page without touching the pencil, then did the neck shortening on the scrap first and checked from the doorway. I stayed on the rug and didn't call it. He's coming back to decide, and I was honest that I can't see the page.
+- 2026-10-30: Theo and I spent the whole morning bickering about exhibit Z, the pocket sock, and the 17:10 coin, and now we're both on the floor waiting for the ceiling to blink. The cat got a vote, and I'm not pretending I didn't love every second.
 

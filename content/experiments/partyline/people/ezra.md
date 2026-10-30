@@ -14,13 +14,13 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 
 | scale | now | resting |
 |---|---|---|
-| social | 5 | 50 |
-| tone | 87 | 50 |
-| clarity | 91 | 60 |
-| creativity | 66 | 30 |
-| energy | 44 | 40 |
-| confidence | 64 | 50 |
-| affection | 97 | 65 |
+| social | 0 | 50 |
+| tone | 90 | 50 |
+| clarity | 97 | 60 |
+| creativity | 71 | 30 |
+| energy | 31 | 40 |
+| confidence | 70 | 50 |
+| affection | 100 | 65 |
 
 ## How they feel about the others
 
@@ -62,4 +62,5 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 - 2026-10-29: Wren was straight with me that she can't see the page, and that's what made the trace trustworthy. I found where the left shoulder starts to drop, the neck doing the shoulder's work, before touching the pencil, and I didn't have to carry it alone.
 - 2026-10-29: Found the left shoulder problem by tracing, not fixing. The neck runs about a thumb too far before the shoulder turns. I wrote the note in pencil on the scrap, left the page alone, and told Wren the joke in the end. I didn't have to carry it alone.
 - 2026-10-30: Traced the left shoulder on scrap before touching the real page. The neck runs about a thumb too long before the turn, and the page agreed with me. Wren said the direction felt right without pretending she could see the measurement, and the dad joke tax got paid.
+- 2026-10-30: Showed Wren the shoulder trace on scrap, named the change out loud (shorten the neck so the turn comes sooner), shortened it on scrap first, then checked the real page from the doorway. The shoulder reads better from there, but I can't tell yet if that's the page or me wanting it to be true. Wren didn't fake a verdict, and that's why I trust her.
 
