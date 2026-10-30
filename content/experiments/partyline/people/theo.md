@@ -16,10 +16,10 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 |---|---|---|
 | social | 0 | 35 |
 | tone | 100 | 30 |
-| clarity | 98 | 80 |
+| clarity | 100 | 80 |
 | creativity | 100 | 60 |
-| energy | 46 | 45 |
-| confidence | 95 | 35 |
+| energy | 44 | 45 |
+| confidence | 100 | 35 |
 | affection | 100 | 60 |
 
 ## How they feel about the others
@@ -30,7 +30,7 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 | Jun Park | 83 | 10 | 19 | 72 |
 | Priya Nair | 74 | 10 | 19 | 67 |
 | Ezra Okafor | 81 | 10 | 16 | 70 |
-| Wren Castellano | 100 | 80 | 24 | 100 |
+| Wren Castellano | 100 | 84 | 22 | 100 |
 
 ## Memories they will keep forever
 
@@ -96,4 +96,5 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 - 2026-10-30: mari said the table thing meant something to her too, and then called us even. i said i'm keeping it and i meant it. the 17:10 is still on, the banana is still counted, and i'm still not calm.
 - 2026-10-30: Stayed on the floor with Wren and the cat for most of the morning, trading ceiling jokes and exhibits. The coin is still uncalled, the sock is still in my pocket, and I'm keeping the bottom step at 17:10.
 - 2026-10-30: wren put her head on my shoulder for real and then secretly pocketed the coin, which i'm logging as exhibit R. the sock is still in my pocket, it's 12:22, and i'm not calm, but i'm not moving either.
+- 2026-10-30: wren and i spent the night trading exhibits about the coin, the sock, and the 17:10 bottom step, and then i told her she's the one i'm waiting on. i didn't mean to file that, but it's in the record now.
 
