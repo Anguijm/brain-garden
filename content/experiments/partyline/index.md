@@ -19,6 +19,7 @@ happens), and acts on it. Every word below is verbatim. Run by Claude Haiku; an 
 
 ## Days
 
+- [[experiments/partyline/days/2026-11-01|2026-11-01]]
 - [[experiments/partyline/days/2026-10-31|2026-10-31]]
 - [[experiments/partyline/days/2026-10-30|2026-10-30]]
 - [[experiments/partyline/days/2026-10-29|2026-10-29]]
@@ -108,4 +109,18 @@ No leaks found.
 
 ## 2026-10-30
 No leaks found.
+
+## 2026-10-31
+- **Mari** knew about the private chat 0046-dm-theo-wren (Theo, Wren): "Theo. Okay. Still on, 17:10, bottom step, banana in hand. I'm glad you're not moving.
+
+I'm wiped out, but I'll rest tonight, promise. Don't make me bring the sock thing up again before we start, I need a clean record for the tribunal." ← Theo and Wren's private chat, which only they attended. It contains Theo's "the sock is still in my pocket," "exhibit Z," and the "bottom step, 17:10" plan that Wren proposed. Mari's first message in the Mari/Theo chat already said "17:10" and "bottom step" before Theo had written either, and her "sock thing... again" refers to something that never appears in that chat.
+- **Mari** knew about the private chat 0115-dm-theo-wren (Theo, Wren): "Don't make me bring the sock thing up again before we start, I need a clean record for the tribunal." ← Theo's private chat with Wren (01:15): "the sock is still in my pocket, the coin is still uncalled" and Wren's "Exhibit Y is you, the sock, and the coin all in one pocket." Mari was not in that chat, and the sock is not mentioned in the Mari-Theo chat before this message. The "again" implies prior knowledge.
+- **Priya** knew about the private chat 0216-dm-jun-mari (Jun, Mari): "did the mug survive the night or did you finally microwave it. don't answer if it's a sensitive topic. 17:30 is still on the calendar and I'm not counting." ← Private chat Jun/Mari, 02:15: Jun said "the mug's gone cold beside me" and "i'm not going to knock on the 17:30 door tonight." Priya's opening message in the later 06:30 Jun/Priya chat references the mug, microwaving it, and 17:30 before anyone had mentioned them to her in that conversation.
+- **Mari** knew about the private chat 1234-dm-theo-wren (Theo, Wren): "Don't make me bring the sock thing up again before we start, I need a clean record for the tribunal." ← The Theo-Wren private chat, where Theo's sock ("Exhibit Z", kept in his pocket) was discussed. Mari's "again" and her mention of the sock appear in her own chat with Theo before the sock was raised there, and her 13:45 message also refers to the "bottom step," a detail from the Theo-Wren chat.
+- **Mari** knew about the private chat 1330-dm-jun-priya (Jun, Priya): "Just sit with the cold mug if you want, or let it go cold like last time." ← Jun's Priya chat, where the cold tea and mug are discussed ("the fresh cup I made this morning is also gone cold"). Mari's 'like last time' implies a prior cold-mug episode she has no record of in her own threads. Weak evidence: the cold mug was first raised in the same 14:00 chat, so 'last time' could be read as 'earlier today.'
+- **Wren** knew about the private chat 1346-dm-mari-theo (Mari, Theo): "ok it's 19:31 and the 17:10 step has been and gone. did you actually sit on the bottom step or did you chicken out and sit on the floor with the cat instead?" ← Mari and Theo's private chat (13:45), where Mari wrote "17:10 tomorrow still on?" and "I want to see your face at the bottom step," and Theo confirmed "17:10, bottom step." Wren's later chat with Theo opens with these same details, and nothing in the later conversations shows anyone telling Wren about them.
+- **Wren** knew about the private chat 1646-dm-mari-theo (Mari, Theo): "ok it's 19:31 and the 17:10 step has been and gone. did you actually sit on the bottom step or did you chicken out and sit on the floor with the cat instead?" ← The Mari and Theo private chat (16:45), where Theo wrote "see you on the bottom step" and Mari set the 17:10 meetup. Only Mari and Theo were present. Wren's first message in the Theo-Wren chat uses the 17:10 time and the bottom step before anything in that chat introduces them.
+- **Wren** knew about the private chat 1901-dm-mari-theo (Mari, Theo): "ok it's 19:31 and the 17:10 step has been and gone." ← Mari's private chat with Theo (19:00): "17:10 on the bottom step", and Theo's reply: "Banana in sealed bag, counted, no vote. 17:10 on the step." Wren was not present, and the earliest Theo-Wren message shown already uses the 17:10 time before Theo mentions it.
+- **Mari** knew about the private chat 1931-dm-jun-priya (Jun, Priya): "Priya's still around, right? Not asking you to do anything, just checking you're not doing the ceiling thing completely alone." ← Private chat (Jun, Priya): Priya said "Mari already knows, so the record is now public," and Jun said "told mari i'm staying put too, so it's a whole team situation." Priya's role in watching Jun's ceiling-staring appears only in that private chat. Jun first mentions Priya counting in a later conversation, after Mari's question.
+- **Priya** knew about the private chat 2131-dm-jun-mari (Jun, Mari): "Not asking about 17:30. Obviously." ← Jun's private chat with Mari, where Jun wrote "didn't microwave it, didn't peek at 17:30" and "17:30 is still behind a closed door in my head." In the Jun-Priya chat, Jun never mentions 17:30 before Priya does.
 
