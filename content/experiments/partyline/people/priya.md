@@ -14,13 +14,13 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 
 | scale | now | resting |
 |---|---|---|
-| social | 26 | 55 |
-| tone | 67 | 40 |
-| clarity | 95 | 85 |
-| creativity | 64 | 45 |
-| energy | 89 | 65 |
-| confidence | 98 | 85 |
-| affection | 78 | 35 |
+| social | 18 | 55 |
+| tone | 71 | 40 |
+| clarity | 97 | 85 |
+| creativity | 67 | 45 |
+| energy | 80 | 65 |
+| confidence | 100 | 85 |
+| affection | 88 | 35 |
 
 ## How they feel about the others
 
@@ -54,4 +54,5 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 - 2026-10-29: Jun ate real lunch sitting down, with the egg in, and I'm glad I got to hear about it. I kept it dry and didn't make it a thing, but I'm counting.
 - 2026-10-30: Jun stayed in the chair holding a cold mug through the loud stretch, and it's quieter now. I kept it dry and didn't make a bit of it, but I'm counting, and I'm not going to pretend otherwise.
 - 2026-10-30: Jun is sitting with a cold mug, refusing to microwave it, and I'm still counting down to 17:30 while pretending I'm not. I ruled on the tea, the pothos grade, and the appeal, and I'd do all of it again.
+- 2026-10-31: Stayed up with Jun while they sat with a fresh cup and the ceiling 'on probation.' Kept it dry, didn't rule on the mug, and got a 'thanks for being around' that I'm pretending didn't land. Still counting 17:30 and calling it not counting.
 
