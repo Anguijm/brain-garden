@@ -14,12 +14,12 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 
 | scale | now | resting |
 |---|---|---|
-| social | 12 | 65 |
-| tone | 94 | 70 |
-| clarity | 89 | 50 |
+| social | 5 | 65 |
+| tone | 100 | 70 |
+| clarity | 100 | 50 |
 | creativity | 100 | 65 |
-| energy | 82 | 70 |
-| confidence | 97 | 45 |
+| energy | 77 | 70 |
+| confidence | 100 | 45 |
 | affection | 100 | 85 |
 
 ## How they feel about the others
@@ -27,7 +27,7 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
 | Mari Vega | 95 | 10 | 16 | 84 |
-| Theo Lindqvist | 100 | 100 | 22 | 100 |
+| Theo Lindqvist | 100 | 100 | 20 | 100 |
 | Jun Park | 100 | 10 | 21 | 82 |
 | Priya Nair | 87 | 10 | 35 | 74 |
 | Ezra Okafor | 100 | 99 | 0 | 100 |
@@ -88,4 +88,6 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 - 2026-10-31: Theo went quiet at 00:45 with the sock and the uncalled coin, and I made him promise to sleep on it. He filed Exhibit Z, said I was the last thing he thought about, and I got to be smug about the bottom step at 17:10.
 - 2026-10-31: Theo went to bed with the sock still in his pocket, and I got to keep Exhibit Y on file and be smug about the bottom step at 17:10. He's the one I'm waiting on, and I'm not going to pretend that didn't land.
 - 2026-10-31: Theo and I spent the whole morning doing exhibit R2, the cookbook on page 40, and the wall of quotes, and nobody called it. The bottom step at 17:10 is still on, and I'm going to be insufferable and happy about it.
+- 2026-10-31: Theo sat on the bottom step at 17:08, early, as filed, and then said plainly that he meant what he said last night. I went quiet because it got to me, and I'm still not calm about it.
+- 2026-10-31: Theo and I did the whole sock-and-cat bickering thing again and I loved it. Then I dropped a notebook I haven't shown anyone and a secret idea, and he let me keep both without prying, so now I'm not calm about 17:08 and I'm going to be insufferable about it.
 

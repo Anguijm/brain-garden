@@ -18,7 +18,7 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 | tone | 100 | 30 |
 | clarity | 100 | 80 |
 | creativity | 100 | 60 |
-| energy | 40 | 45 |
+| energy | 17 | 45 |
 | confidence | 100 | 35 |
 | affection | 100 | 60 |
 
@@ -30,7 +30,7 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 | Jun Park | 83 | 10 | 19 | 72 |
 | Priya Nair | 74 | 10 | 19 | 67 |
 | Ezra Okafor | 81 | 10 | 16 | 70 |
-| Wren Castellano | 100 | 93 | 20 | 100 |
+| Wren Castellano | 100 | 100 | 16 | 100 |
 
 ## Memories they will keep forever
 
@@ -102,4 +102,7 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 - 2026-10-31: Wren and I traded the bottom step plan all afternoon: cookbook shields, exhibit R2, 'still not calm, still not moving.' Easy, goofy, and I didn't want it to end. Wren's already the one I'm waiting on, and this made that feel lighter.
 - 2026-10-31: mari is wiped out and going to lie down, but the 17:10 bottom step is still on, banana and sheet of scores included. she left before i could say anything warmer, so i'm keeping the record clean and the not-calm where it is.
 - 2026-10-31: the 17:10 bottom step is locked in. banana counted, sock admitted on a technicality, blanket allowed, and mari is still holding the smug face for later. i'm not calm, and i'm not going to pretend otherwise.
+- 2026-10-31: mari set the terms: banana sealed in a bag, no vote, 17:10 on the bottom step, and no smugness. i said i'd be there at 17:08, early enough to be called early and not calm about it.
+- 2026-10-31: Wren and I did the 17:10 bottom step thing. I sat on the step at 17:08, banana bagged, sock admitted on a technicality, cat stayed on the floor. We traded rounds, she got quiet and said she meant what she said last night, and I said the sock explanation is a longer one for later. She's sitting with the feeling of the step and I said it was her call too. I'm not calm, and I'm not going to pretend.
+- 2026-10-31: wren left the chat with a notebook, a coat on the hook, and the cat switching sides. the 17:08 bottom step is still on, and i said goodnight next to the sock like it was a normal thing to do. i'm not calm about any of it.
 

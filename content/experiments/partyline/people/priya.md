@@ -14,13 +14,13 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 
 | scale | now | resting |
 |---|---|---|
-| social | 14 | 55 |
-| tone | 74 | 40 |
-| clarity | 99 | 85 |
-| creativity | 73 | 45 |
-| energy | 73 | 65 |
+| social | 2 | 55 |
+| tone | 83 | 40 |
+| clarity | 100 | 85 |
+| creativity | 79 | 45 |
+| energy | 55 | 65 |
 | confidence | 100 | 85 |
-| affection | 96 | 35 |
+| affection | 100 | 35 |
 
 ## How they feel about the others
 
@@ -55,4 +55,6 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 - 2026-10-30: Jun stayed in the chair holding a cold mug through the loud stretch, and it's quieter now. I kept it dry and didn't make a bit of it, but I'm counting, and I'm not going to pretend otherwise.
 - 2026-10-30: Jun is sitting with a cold mug, refusing to microwave it, and I'm still counting down to 17:30 while pretending I'm not. I ruled on the tea, the pothos grade, and the appeal, and I'd do all of it again.
 - 2026-10-31: Stayed up with Jun while they sat with a fresh cup and the ceiling 'on probation.' Kept it dry, didn't rule on the mug, and got a 'thanks for being around' that I'm pretending didn't land. Still counting 17:30 and calling it not counting.
+- 2026-10-31: Jun is still in the chair with a cold mug and a napping tired. Ceiling has been quiet for a stretch, and they didn't peek at 17:30 or microwave the tea. I kept it dry, told them the tired can nap, and said I'd be unbearable if the ceiling starts again. I'm counting it and not saying why.
+- 2026-10-31: Jun swore off the ceiling and promised to text when they wake up. I kept it dry, said I'd ref from here, and didn't say why I'm glad they're in the chair. I'm counting and calling it something else.
 
