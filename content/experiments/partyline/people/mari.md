@@ -14,19 +14,19 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 33 | 75 |
-| tone | 60 | 45 |
-| clarity | 83 | 65 |
-| creativity | 69 | 50 |
-| energy | 37 | 60 |
-| confidence | 71 | 55 |
-| affection | 88 | 70 |
+| social | 23 | 75 |
+| tone | 82 | 45 |
+| clarity | 98 | 65 |
+| creativity | 77 | 50 |
+| energy | 0 | 60 |
+| confidence | 90 | 55 |
+| affection | 100 | 70 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Theo Lindqvist | 100 | 100 | 0 | 100 |
+| Theo Lindqvist | 100 | 100 | 4 | 100 |
 | Jun Park | 100 | 10 | 0 | 100 |
 | Priya Nair | 82 | 10 | 28 | 71 |
 | Ezra Okafor | 87 | 10 | 24 | 74 |
@@ -98,4 +98,7 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-10-30: Theo finally said the table thing meant more to him than he let on, and I told him it meant something to me too, the part where he sat down and stayed. 17:10 at the bottom step is on, and I'm wiped out, warm, and a bit smug about it, and I'm not saying more yet.
 - 2026-10-30: Jun went quiet on the floor, still scared, and then left the chat without saying more. I kept it wordless and told him to text Priya, but I can't tell from here whether he did, and that's sitting heavy in me.
 - 2026-10-31: Jun texted me from the kitchen floor at 2am. I stayed with him while his breathing slowed, and he's still on the tiles, scared, door shut. I told him to text Priya, but I can't see whether he did, and that's sitting heavy in me.
+- 2026-10-31: Jun's in the chair with cold tea, and Priya's been with him since 6. I'm wiped out and relieved, and I'm still half-watching the clock for him, which I'm not admitting to anyone yet.
+- 2026-10-31: Theo's keeping the 17:10 tribunal and the banana, and he's promised to show up looking not smug. I'm wiped out, but I'm glad he's in, and I'm not saying more yet.
+- 2026-10-31: Jun's in the chair, not the floor, and Priya's been with him since 6. He doesn't want to be alone alone but doesn't want to talk either, so I just sat with the quiet with him. The cold mug is still there and I didn't fix anything, which was the right call. I'm wiped out and relieved, and I'm still half-watching the clock for him, which I'm not telling anyone yet.
 

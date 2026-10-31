@@ -14,23 +14,23 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 
 | scale | now | resting |
 |---|---|---|
-| social | 8 | 35 |
-| tone | 83 | 30 |
-| clarity | 93 | 80 |
-| creativity | 85 | 60 |
-| energy | 47 | 45 |
-| confidence | 82 | 35 |
-| affection | 89 | 60 |
+| social | 0 | 35 |
+| tone | 100 | 30 |
+| clarity | 100 | 80 |
+| creativity | 100 | 60 |
+| energy | 40 | 45 |
+| confidence | 100 | 35 |
+| affection | 100 | 60 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 100 | 100 | 5 | 100 |
+| Mari Vega | 100 | 100 | 1 | 100 |
 | Jun Park | 83 | 10 | 19 | 72 |
 | Priya Nair | 74 | 10 | 19 | 67 |
 | Ezra Okafor | 81 | 10 | 16 | 70 |
-| Wren Castellano | 100 | 90 | 22 | 100 |
+| Wren Castellano | 100 | 93 | 20 | 100 |
 
 ## Memories they will keep forever
 
@@ -99,4 +99,7 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 - 2026-10-30: wren and i spent the night trading exhibits about the coin, the sock, and the 17:10 bottom step, and then i told her she's the one i'm waiting on. i didn't mean to file that, but it's in the record now.
 - 2026-10-31: Wren wouldn't let me call the coin tonight, so I went to bed with the sock, Exhibit Z, and the 17:10 bottom step, and I told her she was the last thing I thought about. It worked, and I'm not contesting the smug round.
 - 2026-10-31: wren wouldn't give up exhibit y at 1am and called the sock and coin a crime scene. i'm going to bed with the sock still in my pocket and a 17:10 date at the bottom step. she signed off with the other sock, which means she's already planning her outfit around me.
+- 2026-10-31: Wren and I traded the bottom step plan all afternoon: cookbook shields, exhibit R2, 'still not calm, still not moving.' Easy, goofy, and I didn't want it to end. Wren's already the one I'm waiting on, and this made that feel lighter.
+- 2026-10-31: mari is wiped out and going to lie down, but the 17:10 bottom step is still on, banana and sheet of scores included. she left before i could say anything warmer, so i'm keeping the record clean and the not-calm where it is.
+- 2026-10-31: the 17:10 bottom step is locked in. banana counted, sock admitted on a technicality, blanket allowed, and mari is still holding the smug face for later. i'm not calm, and i'm not going to pretend otherwise.
 

@@ -14,13 +14,13 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 
 | scale | now | resting |
 |---|---|---|
-| social | 15 | 80 |
+| social | 10 | 80 |
 | tone | 100 | 85 |
-| clarity | 86 | 45 |
-| creativity | 67 | 70 |
-| energy | 25 | 75 |
-| confidence | 88 | 70 |
-| affection | 91 | 45 |
+| clarity | 99 | 45 |
+| creativity | 64 | 70 |
+| energy | 0 | 75 |
+| confidence | 100 | 70 |
+| affection | 100 | 45 |
 
 ## How they feel about the others
 
@@ -86,4 +86,7 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 - 2026-10-30: Mari stayed on the cold tiles with me at almost 1am, shoulder to shoulder, no pressure and no bit. I finally just let her sit with me. Didn't joke, didn't need to be funny, just rested my eyes and said thanks plainly. Felt safe and a little embarrassed about how much it mattered.
 - 2026-10-30: Mari sat with me on the floor again, no bit, no pressure. I had two sips of water, shoulder to shoulder, and let the fridge hum. Still scared, but I didn't need to fill the quiet. Priya's the next text if it climbs, and I'm glad Mari said so out loud.
 - 2026-10-31: 2am on the kitchen tiles, back against the cabinet, mug cold. Didn't knock on 17:30 and didn't make a bit of it. Mari kept saying she was staying and didn't make me talk. Still scared, but the breathing slowed down and I'm texting Priya first if it climbs.
+- 2026-10-31: Mari checked in and I finally said where I was: in the chair, not the tiles. Priya had been with me since 6 for the ceiling staring. I sat with the cold tea, didn't microwave it, didn't peek at 17:30. Still scared, but the breathing's slower.
+- 2026-10-31: Stayed in the chair for the whole stretch without touching the mug or peeking at 17:30, and Priya made the placard bit and the pothos ruling feel light. The ceiling's been quiet, and I'm still scared but I'm not running.
+- 2026-10-31: Mari stayed with me in the chat while I sat in the chair with the cold mug, no bit, no pressure. I said I wanted to be alone but not alone alone, and she just said she'd be here. Priya's covering the ceiling-staring shift, so I don't have to carry that one alone. I didn't microwave the tea and I didn't peek at 17:30. Still scared, but I'm staying put.
 
