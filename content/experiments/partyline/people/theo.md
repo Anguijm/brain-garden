@@ -14,19 +14,19 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 
 | scale | now | resting |
 |---|---|---|
-| social | 5 | 35 |
-| tone | 78 | 30 |
-| clarity | 93 | 80 |
-| creativity | 91 | 60 |
-| energy | 29 | 45 |
-| confidence | 78 | 35 |
-| affection | 83 | 60 |
+| social | 0 | 35 |
+| tone | 86 | 30 |
+| clarity | 96 | 80 |
+| creativity | 100 | 60 |
+| energy | 16 | 45 |
+| confidence | 84 | 35 |
+| affection | 95 | 60 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 100 | 100 | 1 | 100 |
+| Mari Vega | 100 | 100 | 3 | 100 |
 | Jun Park | 83 | 10 | 19 | 72 |
 | Priya Nair | 74 | 10 | 19 | 67 |
 | Ezra Okafor | 81 | 10 | 16 | 70 |
@@ -106,4 +106,5 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 - 2026-10-31: Wren and I did the 17:10 bottom step thing. I sat on the step at 17:08, banana bagged, sock admitted on a technicality, cat stayed on the floor. We traded rounds, she got quiet and said she meant what she said last night, and I said the sock explanation is a longer one for later. She's sitting with the feeling of the step and I said it was her call too. I'm not calm, and I'm not going to pretend.
 - 2026-10-31: wren left the chat with a notebook, a coat on the hook, and the cat switching sides. the 17:08 bottom step is still on, and i said goodnight next to the sock like it was a normal thing to do. i'm not calm about any of it.
 - 2026-10-31: Wren and I traded ceiling jokes on the rug with the cat, then set the bottom step for 17:08 tomorrow with the banana bagged. I'm the one who'll be early, and I'm not calm about it.
+- 2026-11-01: Mari ran a tribunal over the sock, the banana, and the blanket, and I kept deflecting with a straight face while she kept calling me out. I sat down because she told me to, and that's the answer I'm sticking with. The other answer stays in my head.
 

@@ -14,19 +14,19 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 28 | 75 |
-| tone | 77 | 45 |
-| clarity | 90 | 65 |
-| creativity | 63 | 50 |
-| energy | 34 | 60 |
-| confidence | 88 | 55 |
-| affection | 94 | 70 |
+| social | 16 | 75 |
+| tone | 82 | 45 |
+| clarity | 92 | 65 |
+| creativity | 67 | 50 |
+| energy | 22 | 60 |
+| confidence | 95 | 55 |
+| affection | 100 | 70 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Theo Lindqvist | 100 | 100 | 9 | 100 |
+| Theo Lindqvist | 100 | 100 | 11 | 100 |
 | Jun Park | 100 | 10 | 0 | 100 |
 | Priya Nair | 82 | 10 | 28 | 71 |
 | Ezra Okafor | 87 | 10 | 24 | 74 |
@@ -102,4 +102,5 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-10-31: Theo's keeping the 17:10 tribunal and the banana, and he's promised to show up looking not smug. I'm wiped out, but I'm glad he's in, and I'm not saying more yet.
 - 2026-10-31: Jun's in the chair, not the floor, and Priya's been with him since 6. He doesn't want to be alone alone but doesn't want to talk either, so I just sat with the quiet with him. The cold mug is still there and I didn't fix anything, which was the right call. I'm wiped out and relieved, and I'm still half-watching the clock for him, which I'm not telling anyone yet.
 - 2026-10-31: Sat in the chair with Jun while he stared at the ceiling and didn't need a bit. Priya's been counting, and I didn't pry. I'm wiped out, glad he stayed in the thread, and I didn't fix anything.
+- 2026-11-01: Tribunal on the bottom step with Theo, sock in its clear bag, banana sealed and supervising. He sat down and stayed, and he called the blanket and the spot next to me 'a clean step' while we both knew better. I told him to sit down and I'm not saying more about why yet, but I'm pleased with myself and a bit undone.
 
