@@ -14,22 +14,22 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 
 | scale | now | resting |
 |---|---|---|
-| social | 20 | 65 |
-| tone | 95 | 70 |
-| clarity | 92 | 50 |
-| creativity | 93 | 65 |
-| energy | 86 | 70 |
-| confidence | 89 | 45 |
+| social | 29 | 65 |
+| tone | 100 | 70 |
+| clarity | 95 | 50 |
+| creativity | 100 | 65 |
+| energy | 90 | 70 |
+| confidence | 98 | 45 |
 | affection | 100 | 85 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 95 | 10 | 16 | 84 |
-| Theo Lindqvist | 100 | 100 | 18 | 100 |
+| Mari Vega | 98 | 10 | 16 | 86 |
+| Theo Lindqvist | 100 | 100 | 22 | 100 |
 | Jun Park | 100 | 10 | 21 | 82 |
-| Priya Nair | 87 | 10 | 35 | 74 |
+| Priya Nair | 89 | 10 | 40 | 75 |
 | Ezra Okafor | 100 | 100 | 0 | 100 |
 
 ## Memories they will keep forever

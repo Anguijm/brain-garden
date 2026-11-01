@@ -14,23 +14,23 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 
 | scale | now | resting |
 |---|---|---|
-| social | 13 | 55 |
-| tone | 66 | 40 |
-| clarity | 97 | 85 |
-| creativity | 72 | 45 |
-| energy | 73 | 65 |
-| confidence | 90 | 85 |
-| affection | 80 | 35 |
+| social | 7 | 55 |
+| tone | 74 | 40 |
+| clarity | 100 | 85 |
+| creativity | 81 | 45 |
+| energy | 71 | 65 |
+| confidence | 97 | 85 |
+| affection | 88 | 35 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 87 | 10 | 18 | 77 |
-| Theo Lindqvist | 76 | 10 | 16 | 65 |
+| Mari Vega | 90 | 10 | 16 | 80 |
+| Theo Lindqvist | 78 | 10 | 20 | 66 |
 | Jun Park | 100 | 100 | 0 | 100 |
 | Ezra Okafor | 83 | 10 | 16 | 71 |
-| Wren Castellano | 87 | 10 | 24 | 74 |
+| Wren Castellano | 90 | 10 | 25 | 76 |
 
 ## Memories they will keep forever
 

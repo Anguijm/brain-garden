@@ -14,12 +14,12 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 
 | scale | now | resting |
 |---|---|---|
-| social | 25 | 80 |
-| tone | 97 | 85 |
-| clarity | 81 | 45 |
-| creativity | 53 | 70 |
-| energy | 33 | 75 |
-| confidence | 90 | 70 |
+| social | 21 | 80 |
+| tone | 93 | 85 |
+| clarity | 91 | 45 |
+| creativity | 41 | 70 |
+| energy | 17 | 75 |
+| confidence | 84 | 70 |
 | affection | 87 | 45 |
 
 ## How they feel about the others
@@ -93,4 +93,5 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 - 2026-10-31: sat in the chair the whole stretch with the cold mug, didn't peek at 17:30 or microwave the tea. Priya kept count, Mari stayed in the thread, and I'm still scared but I didn't run. proud of the chair and wrecked anyway.
 - 2026-10-31: Lost the nap to the ceiling again, but kept the chair and the mug unmicrowaved. Priya said she's glad I'm on the chair and wouldn't say why, which I am now going to think about for hours.
 - 2026-11-01: Midnight Sunday. Jun is on the couch with a cold mug, scared, and texted Priya 'hey it's climbing, can you talk?' with no reply yet. He stood at the window while waiting and told Mari plainly what was in his head: fear that Priya is mad about the midnight text, and fear that he's the only one not fine. He chose to stay honest instead of making it a bit, and he asked Mari to stay with him in the wait. Mari steadied him without pushing. Jun is still scared, but he is following through on what he said he'd do.
+- 2026-11-01: Sat on the couch with a cold mug at 3am-ish, scared about Priya not replying to the midnight 'hey it's climbing, can you talk?' text. Told Mari the real fear: that I did something and she's writing me off, and that I'm the only one not fine. Didn't make it a bit. Held the mug, didn't microwave it, didn't peek at the clock. Still no reply, still scared, but I stayed honest and let it be loud.
 

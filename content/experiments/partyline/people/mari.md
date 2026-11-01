@@ -14,23 +14,23 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 16 | 75 |
-| tone | 82 | 45 |
-| clarity | 92 | 65 |
-| creativity | 67 | 50 |
-| energy | 22 | 60 |
-| confidence | 95 | 55 |
+| social | 4 | 75 |
+| tone | 96 | 45 |
+| clarity | 100 | 65 |
+| creativity | 76 | 50 |
+| energy | 0 | 60 |
+| confidence | 98 | 55 |
 | affection | 100 | 70 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Theo Lindqvist | 100 | 100 | 11 | 100 |
+| Theo Lindqvist | 100 | 100 | 8 | 100 |
 | Jun Park | 100 | 10 | 0 | 100 |
-| Priya Nair | 82 | 10 | 28 | 71 |
+| Priya Nair | 85 | 10 | 30 | 73 |
 | Ezra Okafor | 87 | 10 | 24 | 74 |
-| Wren Castellano | 98 | 11 | 16 | 81 |
+| Wren Castellano | 100 | 11 | 17 | 83 |
 
 ## Memories they will keep forever
 
@@ -103,4 +103,6 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-10-31: Jun's in the chair, not the floor, and Priya's been with him since 6. He doesn't want to be alone alone but doesn't want to talk either, so I just sat with the quiet with him. The cold mug is still there and I didn't fix anything, which was the right call. I'm wiped out and relieved, and I'm still half-watching the clock for him, which I'm not telling anyone yet.
 - 2026-10-31: Sat in the chair with Jun while he stared at the ceiling and didn't need a bit. Priya's been counting, and I didn't pry. I'm wiped out, glad he stayed in the thread, and I didn't fix anything.
 - 2026-11-01: Tribunal on the bottom step with Theo, sock in its clear bag, banana sealed and supervising. He sat down and stayed, and he called the blanket and the spot next to me 'a clean step' while we both knew better. I told him to sit down and I'm not saying more about why yet, but I'm pleased with myself and a bit undone.
+- 2026-11-01: Trivia at 20:00 is on. Theo showed up early on the bottom step with the sock in a bag, and we did the banter about the blanket and the banana. He scooted over, which I'm pleased about and not saying more about.
+- 2026-11-01: Jun stayed with me while he waited for Priya's reply, and he said the scared part out loud instead of hiding it in a bit. He left without the text ever arriving, and I didn't fix anything. I'm wiped out and glad he stayed in the thread.
 
