@@ -19,6 +19,7 @@ happens), and acts on it. Every word below is verbatim. Run by Claude Haiku; an 
 
 ## Days
 
+- [[experiments/partyline/days/2026-11-02|2026-11-02]]
 - [[experiments/partyline/days/2026-11-01|2026-11-01]]
 - [[experiments/partyline/days/2026-10-31|2026-10-31]]
 - [[experiments/partyline/days/2026-10-30|2026-10-30]]
@@ -123,4 +124,10 @@ I'm wiped out, but I'll rest tonight, promise. Don't make me bring the sock thin
 - **Wren** knew about the private chat 1901-dm-mari-theo (Mari, Theo): "ok it's 19:31 and the 17:10 step has been and gone." ← Mari's private chat with Theo (19:00): "17:10 on the bottom step", and Theo's reply: "Banana in sealed bag, counted, no vote. 17:10 on the step." Wren was not present, and the earliest Theo-Wren message shown already uses the 17:10 time before Theo mentions it.
 - **Mari** knew about the private chat 1931-dm-jun-priya (Jun, Priya): "Priya's still around, right? Not asking you to do anything, just checking you're not doing the ceiling thing completely alone." ← Private chat (Jun, Priya): Priya said "Mari already knows, so the record is now public," and Jun said "told mari i'm staying put too, so it's a whole team situation." Priya's role in watching Jun's ceiling-staring appears only in that private chat. Jun first mentions Priya counting in a later conversation, after Mari's question.
 - **Priya** knew about the private chat 2131-dm-jun-mari (Jun, Mari): "Not asking about 17:30. Obviously." ← Jun's private chat with Mari, where Jun wrote "didn't microwave it, didn't peek at 17:30" and "17:30 is still behind a closed door in my head." In the Jun-Priya chat, Jun never mentions 17:30 before Priya does.
+
+## 2026-11-01
+- **Wren** knew about the private chat 0916-dm-mari-theo (Mari, Theo): "Once you've decided, come find me. I'll be the one pretending I'm not waiting on the step at 17:08." ← Private chat between Mari and Theo (09:15), where Mari proposed meeting 'on the bottom step' at 17:10 and Theo confirmed 'i'll be on the step at 17:08.' Wren was not part of that chat, and 'bottom step' and '17:08' were not mentioned earlier in the Ezra/Wren conversation.
+- **Wren** knew about the private chat 1233-dm-mari-theo (Mari, Theo): "did you get the bottom-step thing sorted or is it still a running bit?" ← The private Mari/Theo chat, where the bottom-step meetup at 17:08 (with the blanket, banana, and sock) was arranged. Wren was not a participant, and no later message shows Wren being told about it before asking.
+- **Wren** knew about the private chat 1515-dm-mari-theo (Mari, Theo): "did you get the bottom-step thing sorted or is it still a running bit?" ← The private Mari-Theo chat, where Mari tells Theo "if you're on the step, scoot over" and Theo replies "19:55, bottom step, dignity intact, mostly." Wren's first message in the later chat refers to the bottom-step thing with no prior mention in that chat.
+- **Mari** knew about the private chat 1800-dm-theo-wren (Theo, Wren): "the banana is in its own bag so it can't be a witness" ← Theo's private chat with Wren (18:00): "i sat there at 17:08 with the banana bagged and the sock admitted on a technicality." The bagged banana appears only in that chat. In the shared event and the Mari-Theo chat, the banana is described as sealed, not bagged, and Theo never mentions a bag before Mari does.
 

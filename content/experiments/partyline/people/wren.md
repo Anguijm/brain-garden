@@ -14,20 +14,20 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 
 | scale | now | resting |
 |---|---|---|
-| social | 29 | 65 |
-| tone | 100 | 70 |
-| clarity | 99 | 50 |
-| creativity | 100 | 65 |
-| energy | 95 | 70 |
-| confidence | 100 | 45 |
-| affection | 100 | 85 |
+| social | 34 | 65 |
+| tone | 92 | 70 |
+| clarity | 87 | 50 |
+| creativity | 90 | 65 |
+| energy | 99 | 70 |
+| confidence | 83 | 45 |
+| affection | 95 | 85 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
 | Mari Vega | 98 | 10 | 16 | 86 |
-| Theo Lindqvist | 100 | 100 | 24 | 100 |
+| Theo Lindqvist | 100 | 100 | 22 | 100 |
 | Jun Park | 100 | 10 | 21 | 82 |
 | Priya Nair | 89 | 10 | 40 | 75 |
 | Ezra Okafor | 100 | 100 | 0 | 100 |
@@ -93,4 +93,5 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 - 2026-10-31: Lay on the rug with Theo and the cat, talked the bottom step at 17:08 into a running bit, and he said he'll be early. I'm not calm about it and I'm keeping score.
 - 2026-11-01: Ezra asked me to look at the shoulder from the doorway and tell him if it read wrong. I said it looked like it was turning sooner, and was clear that I couldn't judge the thumb. He checked it himself and said it reads right, and he left it there for today. I'm proud of him and a bit scared for him, and I liked that he didn't need me to say it was fine.
 - 2026-11-01: Theo sat on the step with the banana bagged and the sock admitted on a technicality, and said he'd take another round, which is the most dangerous thing he's said all day. I'm on the blanket keeping score and absolutely not calm about 20:00.
+- 2026-11-02: Theo promised 17:08, early, and wrote it down with the banana as character witness. I'm writing 'early' on my hand in pen, and I'm not calm about it at all.
 
