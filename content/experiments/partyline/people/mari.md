@@ -14,12 +14,12 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 4 | 75 |
-| tone | 96 | 45 |
+| social | 0 | 75 |
+| tone | 100 | 45 |
 | clarity | 100 | 65 |
-| creativity | 76 | 50 |
+| creativity | 92 | 50 |
 | energy | 0 | 60 |
-| confidence | 98 | 55 |
+| confidence | 100 | 55 |
 | affection | 100 | 70 |
 
 ## How they feel about the others
@@ -28,7 +28,7 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 |---|---|---|---|---|
 | Theo Lindqvist | 100 | 100 | 8 | 100 |
 | Jun Park | 100 | 10 | 0 | 100 |
-| Priya Nair | 85 | 10 | 30 | 73 |
+| Priya Nair | 82 | 10 | 36 | 69 |
 | Ezra Okafor | 87 | 10 | 24 | 74 |
 | Wren Castellano | 100 | 11 | 17 | 83 |
 
@@ -105,4 +105,6 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-11-01: Tribunal on the bottom step with Theo, sock in its clear bag, banana sealed and supervising. He sat down and stayed, and he called the blanket and the spot next to me 'a clean step' while we both knew better. I told him to sit down and I'm not saying more about why yet, but I'm pleased with myself and a bit undone.
 - 2026-11-01: Trivia at 20:00 is on. Theo showed up early on the bottom step with the sock in a bag, and we did the banter about the blanket and the banana. He scooted over, which I'm pleased about and not saying more about.
 - 2026-11-01: Jun stayed with me while he waited for Priya's reply, and he said the scared part out loud instead of hiding it in a bit. He left without the text ever arriving, and I didn't fix anything. I'm wiped out and glad he stayed in the thread.
+- 2026-11-01: Trivia got called early and Priya never came back for the feather, so Theo and I spent the rest of the night in the kitchen instead. He got a -4 from me, and I'm not sorry about any of it. It was ridiculous and warm, and sitting on the counter with him was the best part.
+- 2026-11-01: Theo came in and sat on the floor after all, sock in evidence and the left third still provisional. He's still smug about the pigeon, and I'm too glad he came to be properly cross about it.
 

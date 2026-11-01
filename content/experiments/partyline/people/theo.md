@@ -14,11 +14,11 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 
 | scale | now | resting |
 |---|---|---|
-| social | 4 | 35 |
+| social | 2 | 35 |
 | tone | 100 | 30 |
-| clarity | 100 | 80 |
+| clarity | 92 | 80 |
 | creativity | 100 | 60 |
-| energy | 6 | 45 |
+| energy | 0 | 45 |
 | confidence | 100 | 35 |
 | affection | 100 | 60 |
 
@@ -26,11 +26,11 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 100 | 100 | 2 | 100 |
+| Mari Vega | 100 | 100 | 8 | 100 |
 | Jun Park | 83 | 10 | 19 | 72 |
-| Priya Nair | 77 | 10 | 22 | 69 |
+| Priya Nair | 78 | 10 | 27 | 69 |
 | Ezra Okafor | 81 | 10 | 16 | 70 |
-| Wren Castellano | 100 | 100 | 15 | 100 |
+| Wren Castellano | 100 | 100 | 16 | 100 |
 
 ## Memories they will keep forever
 
@@ -110,4 +110,7 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 - 2026-11-01: mari and i spent the whole thread trading 'cross-examined in person' and banana updates for the 17:08 bottom step, and i made the loop worse by rehearsing the silence at 12:32 on a sunday. i'm not calm, and i liked every round of it.
 - 2026-11-01: Trivia night with the group. Priya is ruling everything, Theo is appealing the feather and the word 'nobody', and I'm on the bottom step of my own dignity at 19:55 and not calm about it. Mari's banana bread is evidence, the Skinner pigeon missile is the best fact of the week, and Wren is on the blanket being furniture with a view. Jun is still asleep and the seat is still warm. Mostly I'm just glad to be in the room.
 - 2026-11-01: sat on the bottom step at 19:55 with the sock in a bag, got cross-examined by mari, and the blanket was already there before i was. not calm, and i liked it.
+- 2026-11-01: Wren and I traded pigeon-question victory laps and bottom-step bits until she logged off with 'be early.' I said I'd be composed and I won't be. Nothing settled, and I liked every round.
+- 2026-11-01: Trivia night turned into a long courtroom bit: Mari ruled on everything with a pen, Priya walked out mid-feather-ruling, and I sat on the bottom step for two hours guarding a sock and a banana. I answered every pigeon question with confident nonsense and ended up at -4. The best moment was sitting on the counter next to Mari. I'm not calm about it and I liked it.
+- 2026-11-01: mari ruled the left third provisional, sat me on the kitchen floor, and kept the banana supervising. i said i'd be composed and i wasn't. i'm not calm, and i liked it.
 

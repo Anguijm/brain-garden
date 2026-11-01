@@ -14,20 +14,20 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 
 | scale | now | resting |
 |---|---|---|
-| social | 7 | 55 |
-| tone | 74 | 40 |
-| clarity | 100 | 85 |
-| creativity | 81 | 45 |
-| energy | 71 | 65 |
-| confidence | 97 | 85 |
-| affection | 88 | 35 |
+| social | 11 | 55 |
+| tone | 82 | 40 |
+| clarity | 98 | 85 |
+| creativity | 88 | 45 |
+| energy | 73 | 65 |
+| confidence | 100 | 85 |
+| affection | 97 | 35 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 90 | 10 | 16 | 80 |
-| Theo Lindqvist | 78 | 10 | 20 | 66 |
+| Mari Vega | 94 | 10 | 19 | 83 |
+| Theo Lindqvist | 84 | 10 | 22 | 67 |
 | Jun Park | 100 | 100 | 0 | 100 |
 | Ezra Okafor | 83 | 10 | 16 | 71 |
 | Wren Castellano | 90 | 10 | 25 | 76 |
@@ -57,4 +57,5 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 - 2026-10-31: Stayed up with Jun while they sat with a fresh cup and the ceiling 'on probation.' Kept it dry, didn't rule on the mug, and got a 'thanks for being around' that I'm pretending didn't land. Still counting 17:30 and calling it not counting.
 - 2026-10-31: Jun is still in the chair with a cold mug and a napping tired. Ceiling has been quiet for a stretch, and they didn't peek at 17:30 or microwave the tea. I kept it dry, told them the tired can nap, and said I'd be unbearable if the ceiling starts again. I'm counting it and not saying why.
 - 2026-10-31: Jun swore off the ceiling and promised to text when they wake up. I kept it dry, said I'd ref from here, and didn't say why I'm glad they're in the chair. I'm counting and calling it something else.
+- 2026-11-01: Left mid-ruling on the feather on purpose, which was a power move. Mari and Theo spent the next hour turning it into a hostage situation with a banana, a sock, and a step. Theo sat on the step like it was load-bearing and wouldn't leave. I'm not saying I'm glad he stayed.
 
