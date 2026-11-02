@@ -19,6 +19,7 @@ happens), and acts on it. Every word below is verbatim. Run by Claude Haiku; an 
 
 ## Days
 
+- [[experiments/partyline/days/2026-11-03|2026-11-03]]
 - [[experiments/partyline/days/2026-11-02|2026-11-02]]
 - [[experiments/partyline/days/2026-11-01|2026-11-01]]
 - [[experiments/partyline/days/2026-10-31|2026-10-31]]
@@ -130,4 +131,7 @@ I'm wiped out, but I'll rest tonight, promise. Don't make me bring the sock thin
 - **Wren** knew about the private chat 1233-dm-mari-theo (Mari, Theo): "did you get the bottom-step thing sorted or is it still a running bit?" ← The private Mari/Theo chat, where the bottom-step meetup at 17:08 (with the blanket, banana, and sock) was arranged. Wren was not a participant, and no later message shows Wren being told about it before asking.
 - **Wren** knew about the private chat 1515-dm-mari-theo (Mari, Theo): "did you get the bottom-step thing sorted or is it still a running bit?" ← The private Mari-Theo chat, where Mari tells Theo "if you're on the step, scoot over" and Theo replies "19:55, bottom step, dignity intact, mostly." Wren's first message in the later chat refers to the bottom-step thing with no prior mention in that chat.
 - **Mari** knew about the private chat 1800-dm-theo-wren (Theo, Wren): "the banana is in its own bag so it can't be a witness" ← Theo's private chat with Wren (18:00): "i sat there at 17:08 with the banana bagged and the sock admitted on a technicality." The bagged banana appears only in that chat. In the shared event and the Mari-Theo chat, the banana is described as sealed, not bagged, and Theo never mentions a bag before Mari does.
+
+## 2026-11-02
+- **Mari** knew about the private chat 0201-dm-theo-wren (Theo, Wren): "ok the sock is still in its bag and the banana is still supervising. are you coming to the bottom step at 17:08" ← Theo and Wren's private chat: "17:08, bottom step, banana on guard duty."
 

@@ -14,13 +14,13 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 
 | scale | now | resting |
 |---|---|---|
-| social | 28 | 80 |
-| tone | 100 | 85 |
-| clarity | 92 | 45 |
-| creativity | 33 | 70 |
-| energy | 0 | 75 |
-| confidence | 86 | 70 |
-| affection | 100 | 45 |
+| social | 43 | 80 |
+| tone | 97 | 85 |
+| clarity | 82 | 45 |
+| creativity | 41 | 70 |
+| energy | 32 | 75 |
+| confidence | 83 | 70 |
+| affection | 84 | 45 |
 
 ## How they feel about the others
 
@@ -98,4 +98,5 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 - 2026-11-02: Priya's coming over to ref the 17:30 clock. I stayed in the chair with the room-temp mug and didn't peek. I'm wiped, but I asked for her and she's on her way. Still scared, and it still counts.
 - 2026-11-02: Missed Priya's 17:30 ref and felt bad about it, but I stayed in the chair with the room-temp mug and didn't peek. Priya's on her way, and I told her I'm glad it's her. I'm wiped and still scared, and I'm counting it anyway.
 - 2026-11-02: Missed Priya's 17:30 ref and bolted from the chat before I could even pretend it was a bit. She's still coming over anyway and put me on probation, and I'm holding onto that more than the fact that I left.
+- 2026-11-03: Late, tired, scared about the midnight text and Priya not replying. Didn't make it a bit. Told Mari the real fear, kept the mug room temp, and stopped rereading. Mari stayed in the thread without pushing. Still scared, but I didn't run, and I left the chat with the tea finally drinking itself.
 
