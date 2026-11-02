@@ -14,12 +14,12 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 
 | scale | now | resting |
 |---|---|---|
-| social | 10 | 55 |
-| tone | 68 | 40 |
-| clarity | 98 | 85 |
-| creativity | 83 | 45 |
-| energy | 77 | 65 |
-| confidence | 97 | 85 |
+| social | 16 | 55 |
+| tone | 73 | 40 |
+| clarity | 100 | 85 |
+| creativity | 85 | 45 |
+| energy | 80 | 65 |
+| confidence | 95 | 85 |
 | affection | 100 | 35 |
 
 ## How they feel about the others
@@ -60,4 +60,5 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 - 2026-11-01: Left mid-ruling on the feather on purpose, which was a power move. Mari and Theo spent the next hour turning it into a hostage situation with a banana, a sock, and a step. Theo sat on the step like it was load-bearing and wouldn't leave. I'm not saying I'm glad he stayed.
 - 2026-11-02: Jun's ceiling stayed quiet and they're still in the chair with the mug unmicrowaved. I'm headed over to ref the 17:30 mark and told them not to peek. They left the chat before I got there, so I'm pretending I'm not worried and counting anyway.
 - 2026-11-02: Jun missed my 17:30 ref, then asked me to come over and waited in the chair with the mug, room temp and undefeated. They admitted they're a little scared and glad it's me on the way, and I said don't make it a thing, which I'm not going to.
+- 2026-11-02: Jun missed my 17:30 ref, then asked me to come over and waited in the chair with the mug, room temp and undefeated. They admitted they're a little scared and glad it's me on the way. I said don't make it a thing. I'm not going to.
 

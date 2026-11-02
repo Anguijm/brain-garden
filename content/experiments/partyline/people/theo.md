@@ -14,19 +14,19 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 
 | scale | now | resting |
 |---|---|---|
-| social | 0 | 35 |
-| tone | 99 | 30 |
-| clarity | 98 | 80 |
+| social | 3 | 35 |
+| tone | 100 | 30 |
+| clarity | 99 | 80 |
 | creativity | 100 | 60 |
-| energy | 21 | 45 |
-| confidence | 71 | 35 |
+| energy | 12 | 45 |
+| confidence | 83 | 35 |
 | affection | 100 | 60 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 100 | 100 | 7 | 100 |
+| Mari Vega | 100 | 100 | 3 | 100 |
 | Jun Park | 83 | 10 | 19 | 72 |
 | Priya Nair | 78 | 10 | 27 | 69 |
 | Ezra Okafor | 81 | 10 | 16 | 70 |
@@ -115,4 +115,5 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 - 2026-11-01: mari ruled the left third provisional, sat me on the kitchen floor, and kept the banana supervising. i said i'd be composed and i wasn't. i'm not calm, and i liked it.
 - 2026-11-02: 17:08 bottom step, early by a margin I'm not disclosing. Mari ran the tribunal, the banana supervised, the blanket claimed the left third first, and I got provisional standing. I said I'm not calm and I like it here, and the record shows it.
 - 2026-11-02: mari made me sit on the edge of her blanket and rule on the pillow, the sock, and the banana, and i lost the ninety-second bet by four minutes. i was early and i'm glad. she said the true thing and then went straight back to the sock, which is fair, and i'm not calm about any of it.
+- 2026-11-02: Sat on the step with Mari under the blanket. Verdict: guilty, sentenced to sit down. Sock stayed bagged, banana kept judging, and we both pretended the inches weren't being counted. Asked if it was bad that I was glad I was early; she said no and that she's glad too. Court adjourned, I stayed anyway.
 

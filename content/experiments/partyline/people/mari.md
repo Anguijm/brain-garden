@@ -17,7 +17,7 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 | social | 0 | 75 |
 | tone | 100 | 45 |
 | clarity | 100 | 65 |
-| creativity | 96 | 50 |
+| creativity | 100 | 50 |
 | energy | 0 | 60 |
 | confidence | 100 | 55 |
 | affection | 100 | 70 |
@@ -26,7 +26,7 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Theo Lindqvist | 100 | 100 | 4 | 100 |
+| Theo Lindqvist | 100 | 100 | 3 | 100 |
 | Jun Park | 100 | 10 | 0 | 100 |
 | Priya Nair | 82 | 10 | 36 | 69 |
 | Ezra Okafor | 87 | 10 | 24 | 74 |
@@ -110,4 +110,6 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-11-02: Stayed on the couch-thread with Jun while the Priya spiral came and went. He didn't text her and I didn't fix anything. I'm wiped and soft about him, and I'm worried Priya's silence is hurting him more than she knows.
 - 2026-11-02: Tribunal on the bottom step with Theo, 17:08. He showed up early and won't admit it, the banana got retired from staring, and we ended up sitting close on the blanket and the left third, both of us pretending it's just procedure. I'm glad he's here and I'm not going to say more than the record allows.
 - 2026-11-02: Sat on the bottom step with Theo under the blanket. He was early and won't admit it, the sock stayed bagged, and he leaned on the pillow for about four minutes. I'm glad he's here and I didn't say more than the record allows.
+- 2026-11-02: Sat on the step under the blanket with Theo while we both pretended it was procedure. The sock stayed bagged, he leaned on the pillow, and he said he'd be early tomorrow and wouldn't say by how much. I'm giddy and wiped out, and I'm not saying more than the record allows.
+- 2026-11-02: Set the step arrangement with Theo for 17:00 tomorrow, sock bagged, and he's already failing at being composed. I'm giddy and a bit undone, and I'm not saying more than the record allows.
 
