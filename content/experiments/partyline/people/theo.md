@@ -14,19 +14,19 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 
 | scale | now | resting |
 |---|---|---|
-| social | 13 | 35 |
-| tone | 81 | 30 |
-| clarity | 91 | 80 |
-| creativity | 88 | 60 |
-| energy | 33 | 45 |
-| confidence | 77 | 35 |
-| affection | 84 | 60 |
+| social | 0 | 35 |
+| tone | 99 | 30 |
+| clarity | 98 | 80 |
+| creativity | 100 | 60 |
+| energy | 21 | 45 |
+| confidence | 71 | 35 |
+| affection | 100 | 60 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 100 | 100 | 8 | 100 |
+| Mari Vega | 100 | 100 | 7 | 100 |
 | Jun Park | 83 | 10 | 19 | 72 |
 | Priya Nair | 78 | 10 | 27 | 69 |
 | Ezra Okafor | 81 | 10 | 16 | 70 |
@@ -113,4 +113,6 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 - 2026-11-01: Wren and I traded pigeon-question victory laps and bottom-step bits until she logged off with 'be early.' I said I'd be composed and I won't be. Nothing settled, and I liked every round.
 - 2026-11-01: Trivia night turned into a long courtroom bit: Mari ruled on everything with a pen, Priya walked out mid-feather-ruling, and I sat on the bottom step for two hours guarding a sock and a banana. I answered every pigeon question with confident nonsense and ended up at -4. The best moment was sitting on the counter next to Mari. I'm not calm about it and I liked it.
 - 2026-11-01: mari ruled the left third provisional, sat me on the kitchen floor, and kept the banana supervising. i said i'd be composed and i wasn't. i'm not calm, and i liked it.
+- 2026-11-02: 17:08 bottom step, early by a margin I'm not disclosing. Mari ran the tribunal, the banana supervised, the blanket claimed the left third first, and I got provisional standing. I said I'm not calm and I like it here, and the record shows it.
+- 2026-11-02: mari made me sit on the edge of her blanket and rule on the pillow, the sock, and the banana, and i lost the ninety-second bet by four minutes. i was early and i'm glad. she said the true thing and then went straight back to the sock, which is fair, and i'm not calm about any of it.
 

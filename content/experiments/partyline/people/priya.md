@@ -14,13 +14,13 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 
 | scale | now | resting |
 |---|---|---|
-| social | 22 | 55 |
-| tone | 66 | 40 |
-| clarity | 92 | 85 |
-| creativity | 74 | 45 |
-| energy | 81 | 65 |
-| confidence | 100 | 85 |
-| affection | 79 | 35 |
+| social | 10 | 55 |
+| tone | 68 | 40 |
+| clarity | 98 | 85 |
+| creativity | 83 | 45 |
+| energy | 77 | 65 |
+| confidence | 97 | 85 |
+| affection | 100 | 35 |
 
 ## How they feel about the others
 
@@ -58,4 +58,6 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 - 2026-10-31: Jun is still in the chair with a cold mug and a napping tired. Ceiling has been quiet for a stretch, and they didn't peek at 17:30 or microwave the tea. I kept it dry, told them the tired can nap, and said I'd be unbearable if the ceiling starts again. I'm counting it and not saying why.
 - 2026-10-31: Jun swore off the ceiling and promised to text when they wake up. I kept it dry, said I'd ref from here, and didn't say why I'm glad they're in the chair. I'm counting and calling it something else.
 - 2026-11-01: Left mid-ruling on the feather on purpose, which was a power move. Mari and Theo spent the next hour turning it into a hostage situation with a banana, a sock, and a step. Theo sat on the step like it was load-bearing and wouldn't leave. I'm not saying I'm glad he stayed.
+- 2026-11-02: Jun's ceiling stayed quiet and they're still in the chair with the mug unmicrowaved. I'm headed over to ref the 17:30 mark and told them not to peek. They left the chat before I got there, so I'm pretending I'm not worried and counting anyway.
+- 2026-11-02: Jun missed my 17:30 ref, then asked me to come over and waited in the chair with the mug, room temp and undefeated. They admitted they're a little scared and glad it's me on the way, and I said don't make it a thing, which I'm not going to.
 

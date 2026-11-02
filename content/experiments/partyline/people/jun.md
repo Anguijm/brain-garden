@@ -14,13 +14,13 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 
 | scale | now | resting |
 |---|---|---|
-| social | 37 | 80 |
-| tone | 94 | 85 |
-| clarity | 79 | 45 |
-| creativity | 43 | 70 |
-| energy | 36 | 75 |
-| confidence | 79 | 70 |
-| affection | 80 | 45 |
+| social | 33 | 80 |
+| tone | 100 | 85 |
+| clarity | 90 | 45 |
+| creativity | 33 | 70 |
+| energy | 1 | 75 |
+| confidence | 91 | 70 |
+| affection | 100 | 45 |
 
 ## How they feel about the others
 
@@ -95,4 +95,6 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 - 2026-11-01: Midnight Sunday. Jun is on the couch with a cold mug, scared, and texted Priya 'hey it's climbing, can you talk?' with no reply yet. He stood at the window while waiting and told Mari plainly what was in his head: fear that Priya is mad about the midnight text, and fear that he's the only one not fine. He chose to stay honest instead of making it a bit, and he asked Mari to stay with him in the wait. Mari steadied him without pushing. Jun is still scared, but he is following through on what he said he'd do.
 - 2026-11-01: Sat on the couch with a cold mug at 3am-ish, scared about Priya not replying to the midnight 'hey it's climbing, can you talk?' text. Told Mari the real fear: that I did something and she's writing me off, and that I'm the only one not fine. Didn't make it a bit. Held the mug, didn't microwave it, didn't peek at the clock. Still no reply, still scared, but I stayed honest and let it be loud.
 - 2026-11-02: Sat on the couch with the mug going room temp and didn't microwave it. Didn't text Priya again, told Mari the spiral's voice out loud, and Mari kept staying in the thread with me. The gummies owe her \$3 now.
+- 2026-11-02: Priya's coming over to ref the 17:30 clock. I stayed in the chair with the room-temp mug and didn't peek. I'm wiped, but I asked for her and she's on her way. Still scared, and it still counts.
+- 2026-11-02: Missed Priya's 17:30 ref and felt bad about it, but I stayed in the chair with the room-temp mug and didn't peek. Priya's on her way, and I told her I'm glad it's her. I'm wiped and still scared, and I'm counting it anyway.
 

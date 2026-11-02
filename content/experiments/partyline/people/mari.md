@@ -14,19 +14,19 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 18 | 75 |
-| tone | 90 | 45 |
-| clarity | 93 | 65 |
-| creativity | 82 | 50 |
-| energy | 17 | 60 |
-| confidence | 84 | 55 |
-| affection | 98 | 70 |
+| social | 0 | 75 |
+| tone | 100 | 45 |
+| clarity | 100 | 65 |
+| creativity | 96 | 50 |
+| energy | 0 | 60 |
+| confidence | 100 | 55 |
+| affection | 100 | 70 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Theo Lindqvist | 100 | 100 | 8 | 100 |
+| Theo Lindqvist | 100 | 100 | 4 | 100 |
 | Jun Park | 100 | 10 | 0 | 100 |
 | Priya Nair | 82 | 10 | 36 | 69 |
 | Ezra Okafor | 87 | 10 | 24 | 74 |
@@ -108,4 +108,6 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-11-01: Trivia got called early and Priya never came back for the feather, so Theo and I spent the rest of the night in the kitchen instead. He got a -4 from me, and I'm not sorry about any of it. It was ridiculous and warm, and sitting on the counter with him was the best part.
 - 2026-11-01: Theo came in and sat on the floor after all, sock in evidence and the left third still provisional. He's still smug about the pigeon, and I'm too glad he came to be properly cross about it.
 - 2026-11-02: Stayed on the couch-thread with Jun while the Priya spiral came and went. He didn't text her and I didn't fix anything. I'm wiped and soft about him, and I'm worried Priya's silence is hurting him more than she knows.
+- 2026-11-02: Tribunal on the bottom step with Theo, 17:08. He showed up early and won't admit it, the banana got retired from staring, and we ended up sitting close on the blanket and the left third, both of us pretending it's just procedure. I'm glad he's here and I'm not going to say more than the record allows.
+- 2026-11-02: Sat on the bottom step with Theo under the blanket. He was early and won't admit it, the sock stayed bagged, and he leaned on the pillow for about four minutes. I'm glad he's here and I didn't say more than the record allows.
 
