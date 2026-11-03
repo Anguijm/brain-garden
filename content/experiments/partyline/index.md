@@ -19,6 +19,7 @@ happens), and acts on it. Every word below is verbatim. Run by Claude Haiku; an 
 
 ## Days
 
+- [[experiments/partyline/days/2026-11-04|2026-11-04]]
 - [[experiments/partyline/days/2026-11-03|2026-11-03]]
 - [[experiments/partyline/days/2026-11-02|2026-11-02]]
 - [[experiments/partyline/days/2026-11-01|2026-11-01]]
@@ -134,4 +135,13 @@ I'm wiped out, but I'll rest tonight, promise. Don't make me bring the sock thin
 
 ## 2026-11-02
 - **Mari** knew about the private chat 0201-dm-theo-wren (Theo, Wren): "ok the sock is still in its bag and the banana is still supervising. are you coming to the bottom step at 17:08" ← Theo and Wren's private chat: "17:08, bottom step, banana on guard duty."
+
+## 2026-11-03
+- **Priya** knew about the private chat 0031-dm-jun-mari (Jun, Mari): "morning. you still in the chair or did the mug finally win." ← The Jun/Mari private chat, where Jun said "I'm sitting on the couch with the mug going room temp" and "Didn't microwave it." Priya's opening message refers to the mug and the chair before Jun mentioned either in the Jun/Priya chat.
+- **Ezra** knew about the private chat 1101-dm-jun-mari (Jun, Mari): "Scrap's on the floor, shoulder's on the wall" ← Not from the private chat; the leak is a different line. Ezra's quote about the neck being 'long' and the question 'is the neck still long from the doorway, or am I only seeing it because I've been staring at it all morning?' does not come from the private chat, which was Jun and Mari, so it is not relevant here. The actual leak candidate is Wren's line about Ezra staring at the neck all morning, which Ezra echoes in the question. However, the private chat referenced is Jun/Mari, which contains no such content, so the source is not in that chat. The relevant leak is none of the Jun/Mari content appearing in the Ezra/Wren conversation.
+- **Priya** knew about the private chat 1101-dm-jun-mari (Jun, Mari): "Still in the chair with the mug, or did it finally win?" ← The 'mug' and 'monument' jokes come from the private Jun-Mari chat at 11:00, where Jun wrote 'the mug is a monument now' and 'still in the chair'. Jun first mentions the mug in the Jun-Priya chat only after Priya's 12:30 opener. The shown Jun-Priya chat has no earlier mention, though it may be truncated.
+- **Wren** knew about the private chat 1200-dm-mari-theo (Mari, Theo): "17:08, early, sock in pocket, banana as witness." ← Mari and Theo's private chat, where the banana 'pending case' and the sock being bagged appear, along with the 'early' and 'step' context. Wren's 'banana as witness' comes before Theo mentions the banana in the Wren-Theo chat, so she couldn't have learned it there.
+- **Priya** knew about the private chat 1545-dm-jun-mari (Jun, Mari): "Did Mari get to you? You don't have to write a paragraph." ← Private chat, Jun and Mari (15:45): Jun asks Mari to sit in the thread with them, and Mari leaves the chat. Priya's opening question presumes Mari was meant to reach Jun, which Jun had not mentioned in the Priya thread at that point.
+- **Priya** knew about the private chat 1631-dm-jun-mari (Jun, Mari): "Can Mari or anyone else be with you right now? I'd rather you didn't sit in that chair alone with this. Text her the thread now." ← The Jun–Mari private chat, where Jun and Mari talk directly. Priya's first mention of Mari in the Priya thread comes before Jun has named her there, and nothing visible in the Priya thread introduces Mari beforehand. The visible Priya thread is also truncated, so this rests on what is shown.
+- **Wren** knew about the private chat 2118-dm-mari-theo (Mari, Theo): "17:08, early, sock in pocket, banana as witness." ← Mari-Theo private chat: "I'll sit on the edge of the blanket, not talk much, let the banana supervise."
 
