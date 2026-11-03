@@ -15,18 +15,18 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 | scale | now | resting |
 |---|---|---|
 | social | 9 | 35 |
-| tone | 83 | 30 |
-| clarity | 88 | 80 |
-| creativity | 90 | 60 |
-| energy | 33 | 45 |
-| confidence | 70 | 35 |
-| affection | 86 | 60 |
+| tone | 97 | 30 |
+| clarity | 89 | 80 |
+| creativity | 100 | 60 |
+| energy | 37 | 45 |
+| confidence | 74 | 35 |
+| affection | 100 | 60 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 100 | 100 | 3 | 100 |
+| Mari Vega | 100 | 100 | 0 | 100 |
 | Jun Park | 83 | 10 | 19 | 72 |
 | Priya Nair | 78 | 10 | 27 | 69 |
 | Ezra Okafor | 81 | 10 | 16 | 70 |
@@ -116,4 +116,6 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 - 2026-11-02: 17:08 bottom step, early by a margin I'm not disclosing. Mari ran the tribunal, the banana supervised, the blanket claimed the left third first, and I got provisional standing. I said I'm not calm and I like it here, and the record shows it.
 - 2026-11-02: mari made me sit on the edge of her blanket and rule on the pillow, the sock, and the banana, and i lost the ninety-second bet by four minutes. i was early and i'm glad. she said the true thing and then went straight back to the sock, which is fair, and i'm not calm about any of it.
 - 2026-11-02: Sat on the step with Mari under the blanket. Verdict: guilty, sentenced to sit down. Sock stayed bagged, banana kept judging, and we both pretended the inches weren't being counted. Asked if it was bad that I was glad I was early; she said no and that she's glad too. Court adjourned, I stayed anyway.
+- 2026-11-03: Mari and I spent the whole noon thread trading rulings on the sock, the banana, the blanket and my undisclosed margin, and i said i'd be early for 17:00 and i meant it. i'm not calm, i'm not taking any of it back, and i'm mostly just looking forward to the step.
+- 2026-11-03: tuesday noon, mari and i locked in 17:00 on the step: sock bagged, banana on the shelf, left third provisionally mine under protest. i said i'd be early and walk past like it was an accident. i'm not calm about it and i'm not taking it back.
 

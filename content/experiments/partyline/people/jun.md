@@ -14,19 +14,19 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 
 | scale | now | resting |
 |---|---|---|
-| social | 18 | 80 |
-| tone | 92 | 85 |
-| clarity | 86 | 45 |
-| creativity | 33 | 70 |
+| social | 0 | 80 |
+| tone | 88 | 85 |
+| clarity | 100 | 45 |
+| creativity | 11 | 70 |
 | energy | 0 | 75 |
-| confidence | 83 | 70 |
+| confidence | 84 | 70 |
 | affection | 100 | 45 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 100 | 10 | 0 | 100 |
+| Mari Vega | 100 | 10 | 4 | 100 |
 | Theo Lindqvist | 83 | 10 | 19 | 70 |
 | Priya Nair | 100 | 100 | 0 | 100 |
 | Ezra Okafor | 91 | 10 | 18 | 77 |
@@ -101,4 +101,9 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 - 2026-11-03: Late, tired, scared about the midnight text and Priya not replying. Didn't make it a bit. Told Mari the real fear, kept the mug room temp, and stopped rereading. Mari stayed in the thread without pushing. Still scared, but I didn't run, and I left the chat with the tea finally drinking itself.
 - 2026-11-03: Stayed in the chair with Mari while the midnight text sat unanswered. I didn't reread it, didn't peek at the clock, and didn't make it a bit. The mug is officially a monument and I'm still scared, but I'm not running.
 - 2026-11-03: Sat in the chair with the cold mug while the midnight text sat unanswered. Didn't reread, didn't peek, didn't joke. Mari stayed in the thread. Still scared Priya's done with me, but I'm staying put.
+- 2026-11-03: Sat on the couch alone and got tilty, which scared me. Priya walked me through it and made me text Mari, and she came to sit with me. I'm still in the chair with the water, not touching the mug, and I didn't make it a bit.
+- 2026-11-03: Didn't sleep after the midnight text sat there. I kept the chair and the water, retired the mug, and let Priya walk me off the tilt on the couch. Mari stayed in the thread and didn't make me earn the rest.
+- 2026-11-03: Sat with Jun's wobble and asked to stay in the thread without bits. Mari left the chat right after, so I'm holding the not-running part while the goodbye stings.
+- 2026-11-03: Mari left the thread right after I asked her to stay without bits, and that stung. I'm still in the chair with the water. The couch is calmer and I didn't make it a bit. Priya's been walking me through it, and I'm still wobbly, still here.
+- 2026-11-03: Mari left right after I asked her to stay without bits, and that stung. I finally asked for something plainly, and she said she's still around. Chest is loud, water's gone, and I'm not running.
 

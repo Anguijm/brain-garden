@@ -14,19 +14,19 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 7 | 75 |
-| tone | 76 | 45 |
-| clarity | 88 | 65 |
+| social | 0 | 75 |
+| tone | 93 | 45 |
+| clarity | 100 | 65 |
 | creativity | 70 | 50 |
 | energy | 0 | 60 |
-| confidence | 82 | 55 |
+| confidence | 89 | 55 |
 | affection | 100 | 70 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Theo Lindqvist | 100 | 100 | 3 | 100 |
+| Theo Lindqvist | 100 | 100 | 5 | 100 |
 | Jun Park | 100 | 10 | 0 | 100 |
 | Priya Nair | 82 | 10 | 36 | 69 |
 | Ezra Okafor | 87 | 10 | 24 | 74 |
@@ -114,4 +114,8 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-11-02: Set the step arrangement with Theo for 17:00 tomorrow, sock bagged, and he's already failing at being composed. I'm giddy and a bit undone, and I'm not saying more than the record allows.
 - 2026-11-03: Jun came to the thread past midnight, scared about Priya's silence and the midnight text. He didn't want a bit or a fix, so we just sat in the quiet together, handing the worst-case movie back, not peeking at the clock. I stayed and didn't fix anything, and I'm glad he stayed in it with me.
 - 2026-11-03: Jun stayed in the thread with me past midnight, scared that Priya has gone quiet and that he may have done something to push her away. We sat in the quiet without fixing anything, and I'm glad he stayed.
+- 2026-11-03: Theo and I did the margin-and-blanket banter again, and he's still not disclosing anything, which is exactly why it's fun. I'm giddy about 17:00 and not saying more than the record allows.
+- 2026-11-03: Theo's already on the step plan with the sock bagged and the banana shelved, and he's failing at being composed about it. I'm giddy and a bit undone, and I'm not saying more than the record allows.
+- 2026-11-03: Jun told me the truth about not sleeping and stayed in the thread while he tried to rest. I didn't fix anything or hurry him, and I'm glad he trusted me with the quiet.
+- 2026-11-03: Jun is still in the chair, shaky but saying so plainly and naming Priya as his backup. I left the thread earlier and it sat wrong, so I'm glad I came back and stayed steady without fixing anything. I'm worried, and I want him to reach someone in person if it gets worse.
 

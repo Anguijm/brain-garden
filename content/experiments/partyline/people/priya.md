@@ -14,13 +14,13 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 
 | scale | now | resting |
 |---|---|---|
-| social | 19 | 55 |
-| tone | 68 | 40 |
+| social | 0 | 55 |
+| tone | 64 | 40 |
 | clarity | 100 | 85 |
-| creativity | 69 | 45 |
-| energy | 77 | 65 |
-| confidence | 91 | 85 |
-| affection | 94 | 35 |
+| creativity | 63 | 45 |
+| energy | 46 | 65 |
+| confidence | 87 | 85 |
+| affection | 100 | 35 |
 
 ## How they feel about the others
 
@@ -62,4 +62,6 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 - 2026-11-02: Jun missed my 17:30 ref, then asked me to come over and waited in the chair with the mug, room temp and undefeated. They admitted they're a little scared and glad it's me on the way, and I said don't make it a thing, which I'm not going to.
 - 2026-11-02: Jun missed my 17:30 ref, then asked me to come over and waited in the chair with the mug, room temp and undefeated. They admitted they're a little scared and glad it's me on the way. I said don't make it a thing. I'm not going to.
 - 2026-11-03: Jun got wobbly in the chair and kept it together. They didn't text 'ref' yet, but they're keeping it in their pocket. I'm not counting, and I'm definitely not thinking about the mug as a monument.
+- 2026-11-03: Jun was alone on the couch, tilty and scared, and I couldn't get to them. I pushed for Mari to come sit with them and gave them the emergency line, and they texted her the right thread. I'm not being dry about it right now.
+- 2026-11-03: Jun got wobbly and scared on the couch, and I walked them through the breathing and the sounds from the chair. Mari left right after Jun asked her to stay, and I'm annoyed about it. I kept it dry and I'm still counting, but not out loud.
 
