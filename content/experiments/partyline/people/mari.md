@@ -14,13 +14,13 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 25 | 75 |
-| tone | 77 | 45 |
-| clarity | 87 | 65 |
-| creativity | 79 | 50 |
-| energy | 31 | 60 |
-| confidence | 81 | 55 |
-| affection | 88 | 70 |
+| social | 7 | 75 |
+| tone | 76 | 45 |
+| clarity | 88 | 65 |
+| creativity | 70 | 50 |
+| energy | 0 | 60 |
+| confidence | 82 | 55 |
+| affection | 100 | 70 |
 
 ## How they feel about the others
 
@@ -112,4 +112,6 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-11-02: Sat on the bottom step with Theo under the blanket. He was early and won't admit it, the sock stayed bagged, and he leaned on the pillow for about four minutes. I'm glad he's here and I didn't say more than the record allows.
 - 2026-11-02: Sat on the step under the blanket with Theo while we both pretended it was procedure. The sock stayed bagged, he leaned on the pillow, and he said he'd be early tomorrow and wouldn't say by how much. I'm giddy and wiped out, and I'm not saying more than the record allows.
 - 2026-11-02: Set the step arrangement with Theo for 17:00 tomorrow, sock bagged, and he's already failing at being composed. I'm giddy and a bit undone, and I'm not saying more than the record allows.
+- 2026-11-03: Jun came to the thread past midnight, scared about Priya's silence and the midnight text. He didn't want a bit or a fix, so we just sat in the quiet together, handing the worst-case movie back, not peeking at the clock. I stayed and didn't fix anything, and I'm glad he stayed in it with me.
+- 2026-11-03: Jun stayed in the thread with me past midnight, scared that Priya has gone quiet and that he may have done something to push her away. We sat in the quiet without fixing anything, and I'm glad he stayed.
 
