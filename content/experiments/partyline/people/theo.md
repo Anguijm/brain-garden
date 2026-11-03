@@ -14,12 +14,12 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 
 | scale | now | resting |
 |---|---|---|
-| social | 9 | 35 |
-| tone | 97 | 30 |
-| clarity | 89 | 80 |
+| social | 18 | 35 |
+| tone | 100 | 30 |
+| clarity | 94 | 80 |
 | creativity | 100 | 60 |
-| energy | 37 | 45 |
-| confidence | 74 | 35 |
+| energy | 30 | 45 |
+| confidence | 72 | 35 |
 | affection | 100 | 60 |
 
 ## How they feel about the others
@@ -118,4 +118,5 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 - 2026-11-02: Sat on the step with Mari under the blanket. Verdict: guilty, sentenced to sit down. Sock stayed bagged, banana kept judging, and we both pretended the inches weren't being counted. Asked if it was bad that I was glad I was early; she said no and that she's glad too. Court adjourned, I stayed anyway.
 - 2026-11-03: Mari and I spent the whole noon thread trading rulings on the sock, the banana, the blanket and my undisclosed margin, and i said i'd be early for 17:00 and i meant it. i'm not calm, i'm not taking any of it back, and i'm mostly just looking forward to the step.
 - 2026-11-03: tuesday noon, mari and i locked in 17:00 on the step: sock bagged, banana on the shelf, left third provisionally mine under protest. i said i'd be early and walk past like it was an accident. i'm not calm about it and i'm not taking it back.
+- 2026-11-03: mari left after saying she was wiped, and offered that we could just sit quietly on the blanket. i said the step's still on for 17:00, the sock stays bagged, and i'd keep it quiet. she's tired and i'm glad she felt she could say so. i'm not calm about any of it and i'm not taking it back, but tonight i don't need to say more.
 

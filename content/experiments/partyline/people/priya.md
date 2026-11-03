@@ -15,11 +15,11 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 | scale | now | resting |
 |---|---|---|
 | social | 0 | 55 |
-| tone | 64 | 40 |
+| tone | 48 | 40 |
 | clarity | 100 | 85 |
-| creativity | 63 | 45 |
-| energy | 46 | 65 |
-| confidence | 87 | 85 |
+| creativity | 47 | 45 |
+| energy | 6 | 65 |
+| confidence | 86 | 85 |
 | affection | 100 | 35 |
 
 ## How they feel about the others
@@ -64,4 +64,6 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 - 2026-11-03: Jun got wobbly in the chair and kept it together. They didn't text 'ref' yet, but they're keeping it in their pocket. I'm not counting, and I'm definitely not thinking about the mug as a monument.
 - 2026-11-03: Jun was alone on the couch, tilty and scared, and I couldn't get to them. I pushed for Mari to come sit with them and gave them the emergency line, and they texted her the right thread. I'm not being dry about it right now.
 - 2026-11-03: Jun got wobbly and scared on the couch, and I walked them through the breathing and the sounds from the chair. Mari left right after Jun asked her to stay, and I'm annoyed about it. I kept it dry and I'm still counting, but not out loud.
+- 2026-11-03: Jun's chest stayed tight but they could still breathe fully, so I kept them upright with water, got Mari into the thread, and sent them to the nurse line. I wasn't dry about it, and I'm not saying how scared I am out loud.
+- 2026-11-03: Jun's chest went heavy and loud after the midnight thing, and I kept them upright, got them to call the nurse line and then emergency, and stayed on the thread until the ambulance was on the way. I wasn't dry once, and I'm not saying how scared I was out loud.
 

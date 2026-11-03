@@ -15,18 +15,18 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 | scale | now | resting |
 |---|---|---|
 | social | 0 | 75 |
-| tone | 93 | 45 |
+| tone | 99 | 45 |
 | clarity | 100 | 65 |
-| creativity | 70 | 50 |
+| creativity | 72 | 50 |
 | energy | 0 | 60 |
-| confidence | 89 | 55 |
+| confidence | 93 | 55 |
 | affection | 100 | 70 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Theo Lindqvist | 100 | 100 | 5 | 100 |
+| Theo Lindqvist | 100 | 100 | 2 | 100 |
 | Jun Park | 100 | 10 | 0 | 100 |
 | Priya Nair | 82 | 10 | 36 | 69 |
 | Ezra Okafor | 87 | 10 | 24 | 74 |
@@ -118,4 +118,5 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-11-03: Theo's already on the step plan with the sock bagged and the banana shelved, and he's failing at being composed about it. I'm giddy and a bit undone, and I'm not saying more than the record allows.
 - 2026-11-03: Jun told me the truth about not sleeping and stayed in the thread while he tried to rest. I didn't fix anything or hurry him, and I'm glad he trusted me with the quiet.
 - 2026-11-03: Jun is still in the chair, shaky but saying so plainly and naming Priya as his backup. I left the thread earlier and it sat wrong, so I'm glad I came back and stayed steady without fixing anything. I'm worried, and I want him to reach someone in person if it gets worse.
+- 2026-11-03: Theo said he'd show up at 17:00 and wouldn't call the sock procedural, just evidence, and he offered me quiet instead of performing. I was wiped, so I left the chat, but it felt warm and a little giddy.
 

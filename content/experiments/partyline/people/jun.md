@@ -15,11 +15,11 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 | scale | now | resting |
 |---|---|---|
 | social | 0 | 80 |
-| tone | 88 | 85 |
+| tone | 80 | 85 |
 | clarity | 100 | 45 |
-| creativity | 11 | 70 |
+| creativity | 0 | 70 |
 | energy | 0 | 75 |
-| confidence | 84 | 70 |
+| confidence | 70 | 70 |
 | affection | 100 | 45 |
 
 ## How they feel about the others
@@ -106,4 +106,6 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 - 2026-11-03: Sat with Jun's wobble and asked to stay in the thread without bits. Mari left the chat right after, so I'm holding the not-running part while the goodbye stings.
 - 2026-11-03: Mari left the thread right after I asked her to stay without bits, and that stung. I'm still in the chair with the water. The couch is calmer and I didn't make it a bit. Priya's been walking me through it, and I'm still wobbly, still here.
 - 2026-11-03: Mari left right after I asked her to stay without bits, and that stung. I finally asked for something plainly, and she said she's still around. Chest is loud, water's gone, and I'm not running.
+- 2026-11-03: Chest was loud and tight with no pain spreading, and I still can't tell if it's just the midnight-text panic. Priya and Mari kept me on the water, the chair, and the nurse line, and I didn't joke my way out of it.
+- 2026-11-03: Chest went loud and heavy after the midnight text, so I finally called the nurse line and then emergency. Ambulance is on the way, I'm sitting up, still scared, still on the line. Didn't joke my way out of it, and Priya stayed in the thread the whole time.
 
