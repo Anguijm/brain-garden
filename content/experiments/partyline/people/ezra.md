@@ -14,13 +14,13 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 
 | scale | now | resting |
 |---|---|---|
-| social | 41 | 50 |
-| tone | 63 | 50 |
-| clarity | 72 | 60 |
-| creativity | 52 | 30 |
-| energy | 63 | 40 |
-| confidence | 51 | 50 |
-| affection | 80 | 65 |
+| social | 32 | 50 |
+| tone | 67 | 50 |
+| clarity | 80 | 60 |
+| creativity | 55 | 30 |
+| energy | 53 | 40 |
+| confidence | 56 | 50 |
+| affection | 86 | 65 |
 
 ## How they feel about the others
 
@@ -65,4 +65,5 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 - 2026-10-30: Showed Wren the shoulder trace on scrap, named the change out loud (shorten the neck so the turn comes sooner), shortened it on scrap first, then checked the real page from the doorway. The shoulder reads better from there, but I can't tell yet if that's the page or me wanting it to be true. Wren didn't fake a verdict, and that's why I trust her.
 - 2026-11-01: I checked the shoulder from the doorway with Wren on the threshold, then went back to the scrap and the page myself. It still reads right when I'm the one looking, and I'm leaving it there for today. Wren wouldn't fake a verdict, and that's why I trust the yes.
 - 2026-11-02: Wren came to the doorway and was honest again. She heard the neck is long but couldn't back the turn, and she didn't fake a verdict. I'm leaving the scrap and the page as they are until her brain is quiet.
+- 2026-11-04: Stood in the doorway with Wren while I traced the shoulder turn on scrap, no neck, just the curve. It flattens about two thumbs early. I said it out loud instead of fixing it, and she didn't fake a verdict. Scrap first, real page untouched until tomorrow.
 

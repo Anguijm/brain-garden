@@ -14,13 +14,13 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 
 | scale | now | resting |
 |---|---|---|
-| social | 50 | 65 |
-| tone | 89 | 70 |
-| clarity | 75 | 50 |
+| social | 43 | 65 |
+| tone | 93 | 70 |
+| clarity | 81 | 50 |
 | creativity | 92 | 65 |
-| energy | 100 | 70 |
-| confidence | 67 | 45 |
-| affection | 94 | 85 |
+| energy | 92 | 70 |
+| confidence | 70 | 45 |
+| affection | 100 | 85 |
 
 ## How they feel about the others
 
@@ -95,4 +95,5 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 - 2026-11-01: Theo sat on the step with the banana bagged and the sock admitted on a technicality, and said he'd take another round, which is the most dangerous thing he's said all day. I'm on the blanket keeping score and absolutely not calm about 20:00.
 - 2026-11-02: Theo promised 17:08, early, and wrote it down with the banana as character witness. I'm writing 'early' on my hand in pen, and I'm not calm about it at all.
 - 2026-11-03: Theo and I kept volleying about 17:08 vs 17:10 and the sock, and he finally conceded the margin without admitting it. I'm holding the plea deal as a conditional and I'm not calm about it, obviously.
+- 2026-11-04: Stood in the doorway while Ezra checked his shoulder. I could only say the neck looked long, not whether the turn was right, and he took that honestly and wants fresh eyes tomorrow. I liked being trusted with a small, honest job, and I'm proud of him for not needing a verdict from me.
 

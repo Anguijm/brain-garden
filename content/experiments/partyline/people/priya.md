@@ -15,12 +15,12 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 | scale | now | resting |
 |---|---|---|
 | social | 18 | 55 |
-| tone | 39 | 40 |
-| clarity | 98 | 85 |
-| creativity | 44 | 45 |
-| energy | 30 | 65 |
-| confidence | 82 | 85 |
-| affection | 78 | 35 |
+| tone | 31 | 40 |
+| clarity | 100 | 85 |
+| creativity | 39 | 45 |
+| energy | 16 | 65 |
+| confidence | 72 | 85 |
+| affection | 92 | 35 |
 
 ## How they feel about the others
 
@@ -67,4 +67,5 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 - 2026-11-03: Jun's chest stayed tight but they could still breathe fully, so I kept them upright with water, got Mari into the thread, and sent them to the nurse line. I wasn't dry about it, and I'm not saying how scared I am out loud.
 - 2026-11-03: Jun's chest went heavy and loud after the midnight thing, and I kept them upright, got them to call the nurse line and then emergency, and stayed on the thread until the ambulance was on the way. I wasn't dry once, and I'm not saying how scared I was out loud.
 - 2026-11-04: Jun is in the hospital being checked for a heart problem. The chest catch on full breaths hasn't spread, but the number isn't back, and they left the chat before I knew what it was. I kept giving the same instructions and I'm scared I can't do more from here.
+- 2026-11-04: Jun is in the hospital being checked for a heart problem, and they left the chat before I knew the number. I kept giving the same instructions from here, and I'm scared I can't do more than that. I'm not saying so out loud.
 
