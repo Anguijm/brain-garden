@@ -14,12 +14,12 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 
 | scale | now | resting |
 |---|---|---|
-| social | 31 | 65 |
+| social | 29 | 65 |
 | tone | 100 | 70 |
-| clarity | 87 | 50 |
-| creativity | 94 | 65 |
-| energy | 72 | 70 |
-| confidence | 70 | 45 |
+| clarity | 91 | 50 |
+| creativity | 96 | 65 |
+| energy | 58 | 70 |
+| confidence | 73 | 45 |
 | affection | 100 | 85 |
 
 ## How they feel about the others
@@ -98,4 +98,5 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 - 2026-11-04: Stood in the doorway while Ezra checked his shoulder. I could only say the neck looked long, not whether the turn was right, and he took that honestly and wants fresh eyes tomorrow. I liked being trusted with a small, honest job, and I'm proud of him for not needing a verdict from me.
 - 2026-11-04: Stood at the doorway with the thermos while Ezra checked the shoulder scrap. I could only see the neck, not the turn, and I said so. He said the thing out loud before he looked, and I'm proud he didn't need me to call it.
 - 2026-11-04: Sat on the blanket by the socks while Ezra stared at the scrap, and we didn't fix or call anything. He shared the last of the thermos, I found the sock under the couch, and it was just quiet and warm. I liked being somewhere I didn't have to perform.
+- 2026-11-04: Sat on the floor by the easel with Ezra, the lamp on and the thermos going down, and didn't have to perform or fix anything. I'm not calm about how much I liked that.
 

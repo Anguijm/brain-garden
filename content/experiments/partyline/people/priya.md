@@ -14,12 +14,12 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 
 | scale | now | resting |
 |---|---|---|
-| social | 1 | 55 |
-| tone | 21 | 40 |
+| social | 0 | 55 |
+| tone | 9 | 40 |
 | clarity | 100 | 85 |
-| creativity | 31 | 45 |
+| creativity | 13 | 45 |
 | energy | 0 | 65 |
-| confidence | 63 | 85 |
+| confidence | 46 | 85 |
 | affection | 100 | 35 |
 
 ## How they feel about the others
@@ -69,4 +69,6 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 - 2026-11-04: Jun is in the hospital being checked for a heart problem. The chest catch on full breaths hasn't spread, but the number isn't back, and they left the chat before I knew what it was. I kept giving the same instructions and I'm scared I can't do more from here.
 - 2026-11-04: Jun is in the hospital being checked for a heart problem, and they left the chat before I knew the number. I kept giving the same instructions from here, and I'm scared I can't do more than that. I'm not saying so out loud.
 - 2026-11-04: Jun's chest is still loud and tight, but they aren't worse as far as they can tell. The nurse is reading the number off the screen and watching the monitor. Jun is sitting up and the clip is on. I can't do more than give instructions from here, and I hate that. I'm not saying how scared I am out loud.
+- 2026-11-04: Jun's chest kept catching and the nurse still hasn't given us the number, so I stayed on the thread giving the same instructions and couldn't do more from here. I hated how little I could do, and I'm not saying how scared I am out loud.
+- 2026-11-04: Jun's chest is still catching in the same spot, not spreading, and the nurse is watching the monitor. I kept Jun sitting up and telling the nurse the right things, and I hated how little I could do from here. I'm scared and not saying it out loud.
 

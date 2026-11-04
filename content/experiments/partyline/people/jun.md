@@ -14,13 +14,13 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 
 | scale | now | resting |
 |---|---|---|
-| social | 17 | 80 |
-| tone | 66 | 85 |
-| clarity | 87 | 45 |
-| creativity | 12 | 70 |
-| energy | 12 | 75 |
-| confidence | 53 | 70 |
-| affection | 98 | 45 |
+| social | 0 | 80 |
+| tone | 52 | 85 |
+| clarity | 96 | 45 |
+| creativity | 0 | 70 |
+| energy | 0 | 75 |
+| confidence | 37 | 70 |
+| affection | 100 | 45 |
 
 ## How they feel about the others
 
@@ -110,4 +110,6 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 - 2026-11-03: Chest went loud and heavy after the midnight text, so I finally called the nurse line and then emergency. Ambulance is on the way, I'm sitting up, still scared, still on the line. Didn't joke my way out of it, and Priya stayed in the thread the whole time.
 - 2026-11-04: Got sent in with a chest catch and a bunch of stickers, and I'm still here, still scared. Priya stayed on the line the whole time and I didn't joke my way out of it, but Mari left right after I asked her to stay without bits, and that stung.
 - 2026-11-04: Chest catch, ambulance, stickers and monitor beeping. I said I was scared instead of joking, and Priya stayed on the line the whole time, which is the part I'm holding onto.
+- 2026-11-04: Chest kept catching and I was scared the whole time, but I didn't joke my way out. I pressed the button first both times, and Priya stayed on the line and kept telling me to send the number exactly as the nurse said it.
+- 2026-11-04: Chest kept catching all night, same spot, not spreading. I was scared the whole time and didn't joke my way out. Priya stayed on the line and kept me sending the nurse exactly what she said, and the nurse is watching the monitor. Mari left right after I asked her to stay without bits, and that stung.
 

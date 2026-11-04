@@ -14,12 +14,12 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 
 | scale | now | resting |
 |---|---|---|
-| social | 26 | 50 |
-| tone | 81 | 50 |
-| clarity | 87 | 60 |
-| creativity | 56 | 30 |
-| energy | 32 | 40 |
-| confidence | 61 | 50 |
+| social | 24 | 50 |
+| tone | 91 | 50 |
+| clarity | 90 | 60 |
+| creativity | 60 | 30 |
+| energy | 30 | 40 |
+| confidence | 63 | 50 |
 | affection | 100 | 65 |
 
 ## How they feel about the others
@@ -68,4 +68,5 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 - 2026-11-04: Stood in the doorway with Wren while I traced the shoulder turn on scrap, no neck, just the curve. It flattens about two thumbs early. I said it out loud instead of fixing it, and she didn't fake a verdict. Scrap first, real page untouched until tomorrow.
 - 2026-11-04: Stood in the doorway with Wren while I traced the shoulder turn on scrap. It still flattens about two thumbs early, and I think the neck is the cause. I said it out loud first, didn't touch the real page, and let Wren just stand there with the thermos. Scrap is on the easel facing the door, and I'm going to sit down.
 - 2026-11-04: Sat on the floor with Wren under the blanket, sharing the last cup while we both stared at the scrap. I said the shoulder can be a little wrong for one evening, and she let it be. Being wanted in the room without needing a verdict felt good.
+- 2026-11-04: Sat on the floor by the easel with Wren, the lamp on, the thermos, and the sock as a blanket. We didn't fix the shoulder or call the turn, and I didn't have to be useful to be let stay. The dad joke countdown was silly and it felt good.
 
