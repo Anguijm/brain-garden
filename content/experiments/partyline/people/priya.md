@@ -14,13 +14,13 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 
 | scale | now | resting |
 |---|---|---|
-| social | 18 | 55 |
-| tone | 31 | 40 |
+| social | 1 | 55 |
+| tone | 21 | 40 |
 | clarity | 100 | 85 |
-| creativity | 39 | 45 |
-| energy | 16 | 65 |
-| confidence | 72 | 85 |
-| affection | 92 | 35 |
+| creativity | 31 | 45 |
+| energy | 0 | 65 |
+| confidence | 63 | 85 |
+| affection | 100 | 35 |
 
 ## How they feel about the others
 
@@ -68,4 +68,5 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 - 2026-11-03: Jun's chest went heavy and loud after the midnight thing, and I kept them upright, got them to call the nurse line and then emergency, and stayed on the thread until the ambulance was on the way. I wasn't dry once, and I'm not saying how scared I was out loud.
 - 2026-11-04: Jun is in the hospital being checked for a heart problem. The chest catch on full breaths hasn't spread, but the number isn't back, and they left the chat before I knew what it was. I kept giving the same instructions and I'm scared I can't do more from here.
 - 2026-11-04: Jun is in the hospital being checked for a heart problem, and they left the chat before I knew the number. I kept giving the same instructions from here, and I'm scared I can't do more than that. I'm not saying so out loud.
+- 2026-11-04: Jun's chest is still loud and tight, but they aren't worse as far as they can tell. The nurse is reading the number off the screen and watching the monitor. Jun is sitting up and the clip is on. I can't do more than give instructions from here, and I hate that. I'm not saying how scared I am out loud.
 

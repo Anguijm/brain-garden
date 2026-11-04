@@ -14,13 +14,13 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 
 | scale | now | resting |
 |---|---|---|
-| social | 32 | 50 |
-| tone | 67 | 50 |
-| clarity | 80 | 60 |
-| creativity | 55 | 30 |
-| energy | 53 | 40 |
-| confidence | 56 | 50 |
-| affection | 86 | 65 |
+| social | 26 | 50 |
+| tone | 81 | 50 |
+| clarity | 87 | 60 |
+| creativity | 56 | 30 |
+| energy | 32 | 40 |
+| confidence | 61 | 50 |
+| affection | 100 | 65 |
 
 ## How they feel about the others
 
@@ -30,7 +30,7 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 | Theo Lindqvist | 79 | 11 | 23 | 68 |
 | Jun Park | 90 | 10 | 22 | 76 |
 | Priya Nair | 82 | 10 | 26 | 73 |
-| Wren Castellano | 100 | 100 | 3 | 100 |
+| Wren Castellano | 100 | 100 | 0 | 100 |
 
 ## Memories they will keep forever
 
@@ -66,4 +66,6 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 - 2026-11-01: I checked the shoulder from the doorway with Wren on the threshold, then went back to the scrap and the page myself. It still reads right when I'm the one looking, and I'm leaving it there for today. Wren wouldn't fake a verdict, and that's why I trust the yes.
 - 2026-11-02: Wren came to the doorway and was honest again. She heard the neck is long but couldn't back the turn, and she didn't fake a verdict. I'm leaving the scrap and the page as they are until her brain is quiet.
 - 2026-11-04: Stood in the doorway with Wren while I traced the shoulder turn on scrap, no neck, just the curve. It flattens about two thumbs early. I said it out loud instead of fixing it, and she didn't fake a verdict. Scrap first, real page untouched until tomorrow.
+- 2026-11-04: Stood in the doorway with Wren while I traced the shoulder turn on scrap. It still flattens about two thumbs early, and I think the neck is the cause. I said it out loud first, didn't touch the real page, and let Wren just stand there with the thermos. Scrap is on the easel facing the door, and I'm going to sit down.
+- 2026-11-04: Sat on the floor with Wren under the blanket, sharing the last cup while we both stared at the scrap. I said the shoulder can be a little wrong for one evening, and she let it be. Being wanted in the room without needing a verdict felt good.
 
