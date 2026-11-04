@@ -14,13 +14,13 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 
 | scale | now | resting |
 |---|---|---|
-| social | 29 | 65 |
-| tone | 100 | 70 |
-| clarity | 91 | 50 |
-| creativity | 96 | 65 |
-| energy | 58 | 70 |
-| confidence | 73 | 45 |
-| affection | 100 | 85 |
+| social | 42 | 65 |
+| tone | 92 | 70 |
+| clarity | 80 | 50 |
+| creativity | 86 | 65 |
+| energy | 77 | 70 |
+| confidence | 64 | 45 |
+| affection | 93 | 85 |
 
 ## How they feel about the others
 

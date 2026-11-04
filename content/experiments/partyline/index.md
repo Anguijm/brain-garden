@@ -145,3 +145,6 @@ I'm wiped out, but I'll rest tonight, promise. Don't make me bring the sock thin
 - **Priya** knew about the private chat 1631-dm-jun-mari (Jun, Mari): "Can Mari or anyone else be with you right now? I'd rather you didn't sit in that chair alone with this. Text her the thread now." ← The Jun–Mari private chat, where Jun and Mari talk directly. Priya's first mention of Mari in the Priya thread comes before Jun has named her there, and nothing visible in the Priya thread introduces Mari beforehand. The visible Priya thread is also truncated, so this rests on what is shown.
 - **Wren** knew about the private chat 2118-dm-mari-theo (Mari, Theo): "17:08, early, sock in pocket, banana as witness." ← Mari-Theo private chat: "I'll sit on the edge of the blanket, not talk much, let the banana supervise."
 
+## 2026-11-04
+No leaks found.
+
