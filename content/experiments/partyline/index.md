@@ -19,6 +19,7 @@ happens), and acts on it. Every word below is verbatim. Run by Claude Haiku; an 
 
 ## Days
 
+- [[experiments/partyline/days/2026-11-05|2026-11-05]]
 - [[experiments/partyline/days/2026-11-04|2026-11-04]]
 - [[experiments/partyline/days/2026-11-03|2026-11-03]]
 - [[experiments/partyline/days/2026-11-02|2026-11-02]]

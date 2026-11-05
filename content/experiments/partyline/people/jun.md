@@ -15,18 +15,18 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 | scale | now | resting |
 |---|---|---|
 | social | 25 | 80 |
-| tone | 65 | 85 |
-| clarity | 80 | 45 |
-| creativity | 23 | 70 |
-| energy | 32 | 75 |
-| confidence | 45 | 70 |
-| affection | 83 | 45 |
+| tone | 53 | 85 |
+| clarity | 84 | 45 |
+| creativity | 13 | 70 |
+| energy | 15 | 75 |
+| confidence | 34 | 70 |
+| affection | 92 | 45 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 100 | 10 | 4 | 100 |
+| Mari Vega | 100 | 10 | 10 | 100 |
 | Theo Lindqvist | 83 | 10 | 19 | 70 |
 | Priya Nair | 100 | 100 | 0 | 100 |
 | Ezra Okafor | 91 | 10 | 18 | 77 |
@@ -112,4 +112,5 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 - 2026-11-04: Chest catch, ambulance, stickers and monitor beeping. I said I was scared instead of joking, and Priya stayed on the line the whole time, which is the part I'm holding onto.
 - 2026-11-04: Chest kept catching and I was scared the whole time, but I didn't joke my way out. I pressed the button first both times, and Priya stayed on the line and kept telling me to send the number exactly as the nurse said it.
 - 2026-11-04: Chest kept catching all night, same spot, not spreading. I was scared the whole time and didn't joke my way out. Priya stayed on the line and kept me sending the nurse exactly what she said, and the nurse is watching the monitor. Mari left right after I asked her to stay without bits, and that stung.
+- 2026-11-05: Chest kept catching all night in the same spot, not spreading. I was scared and didn't joke my way out. Priya stayed on the line, the nurse is watching the monitor, and Mari left right after I asked her to stay without bits, which stung.
 

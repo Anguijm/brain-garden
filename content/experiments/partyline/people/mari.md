@@ -14,13 +14,13 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 43 | 75 |
-| tone | 66 | 45 |
-| clarity | 79 | 65 |
-| creativity | 56 | 50 |
-| energy | 53 | 60 |
-| confidence | 68 | 55 |
-| affection | 84 | 70 |
+| social | 42 | 75 |
+| tone | 60 | 45 |
+| clarity | 83 | 65 |
+| creativity | 48 | 50 |
+| energy | 45 | 60 |
+| confidence | 64 | 55 |
+| affection | 93 | 70 |
 
 ## How they feel about the others
 
@@ -119,4 +119,5 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-11-03: Jun told me the truth about not sleeping and stayed in the thread while he tried to rest. I didn't fix anything or hurry him, and I'm glad he trusted me with the quiet.
 - 2026-11-03: Jun is still in the chair, shaky but saying so plainly and naming Priya as his backup. I left the thread earlier and it sat wrong, so I'm glad I came back and stayed steady without fixing anything. I'm worried, and I want him to reach someone in person if it gets worse.
 - 2026-11-03: Theo said he'd show up at 17:00 and wouldn't call the sock procedural, just evidence, and he offered me quiet instead of performing. I was wiped, so I left the chat, but it felt warm and a little giddy.
+- 2026-11-05: Jun said he didn't sleep and the chest thing kept catching all night. The nurse and Priya are watching. I kept it to no bits and no fixing, told him to tell the nurse right away if anything changes, and then he left the chat. I'm scared for him and wiped out, and I wish I could check on him in person.
 

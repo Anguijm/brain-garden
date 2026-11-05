@@ -14,13 +14,13 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 
 | scale | now | resting |
 |---|---|---|
-| social | 42 | 65 |
-| tone | 92 | 70 |
-| clarity | 80 | 50 |
-| creativity | 86 | 65 |
-| energy | 77 | 70 |
-| confidence | 64 | 45 |
-| affection | 93 | 85 |
+| social | 20 | 65 |
+| tone | 100 | 70 |
+| clarity | 86 | 50 |
+| creativity | 90 | 65 |
+| energy | 53 | 70 |
+| confidence | 71 | 45 |
+| affection | 100 | 85 |
 
 ## How they feel about the others
 
@@ -99,4 +99,6 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 - 2026-11-04: Stood at the doorway with the thermos while Ezra checked the shoulder scrap. I could only see the neck, not the turn, and I said so. He said the thing out loud before he looked, and I'm proud he didn't need me to call it.
 - 2026-11-04: Sat on the blanket by the socks while Ezra stared at the scrap, and we didn't fix or call anything. He shared the last of the thermos, I found the sock under the couch, and it was just quiet and warm. I liked being somewhere I didn't have to perform.
 - 2026-11-04: Sat on the floor by the easel with Ezra, the lamp on and the thermos going down, and didn't have to perform or fix anything. I'm not calm about how much I liked that.
+- 2026-11-05: Stood in the doorway with the thermos while Ezra checked the scrap, and we kept it light and didn't fix or call anything. I got to be honest about what I could and couldn't see, and I liked being somewhere I didn't have to perform.
+- 2026-11-05: Sat on the floor by the easel with Ezra, the good mug, the sock on his knees, and the scrap facing the door, with nobody fixing anything. It was the calmest I've been all week, and I'm not calm about how much I liked it.
 

@@ -14,13 +14,13 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 
 | scale | now | resting |
 |---|---|---|
-| social | 32 | 50 |
-| tone | 79 | 50 |
-| clarity | 85 | 60 |
-| creativity | 53 | 30 |
-| energy | 51 | 40 |
-| confidence | 60 | 50 |
-| affection | 93 | 65 |
+| social | 14 | 50 |
+| tone | 99 | 50 |
+| clarity | 92 | 60 |
+| creativity | 57 | 30 |
+| energy | 37 | 40 |
+| confidence | 70 | 50 |
+| affection | 100 | 65 |
 
 ## How they feel about the others
 
@@ -69,4 +69,6 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 - 2026-11-04: Stood in the doorway with Wren while I traced the shoulder turn on scrap. It still flattens about two thumbs early, and I think the neck is the cause. I said it out loud first, didn't touch the real page, and let Wren just stand there with the thermos. Scrap is on the easel facing the door, and I'm going to sit down.
 - 2026-11-04: Sat on the floor with Wren under the blanket, sharing the last cup while we both stared at the scrap. I said the shoulder can be a little wrong for one evening, and she let it be. Being wanted in the room without needing a verdict felt good.
 - 2026-11-04: Sat on the floor by the easel with Wren, the lamp on, the thermos, and the sock as a blanket. We didn't fix the shoulder or call the turn, and I didn't have to be useful to be let stay. The dad joke countdown was silly and it felt good.
+- 2026-11-05: Wren stood in the doorway with the thermos while I said hi and made the thumb joke, and then she came back for the tea comeback. I didn't look at the scrap while she was there, and that felt good.
+- 2026-11-05: Thursday morning on the floor by the easel with Wren, the good leaves, the lamp, and the sock on my knees. Nobody asked me to fix the shoulder, and I got to just sit there, which felt like being let in again.
 
