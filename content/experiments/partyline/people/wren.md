@@ -14,12 +14,12 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 
 | scale | now | resting |
 |---|---|---|
-| social | 19 | 65 |
+| social | 27 | 65 |
 | tone | 100 | 70 |
-| clarity | 90 | 50 |
+| clarity | 94 | 50 |
 | creativity | 100 | 65 |
-| energy | 42 | 70 |
-| confidence | 74 | 45 |
+| energy | 29 | 70 |
+| confidence | 77 | 45 |
 | affection | 100 | 85 |
 
 ## How they feel about the others
@@ -102,4 +102,5 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 - 2026-11-05: Stood in the doorway with the thermos while Ezra checked the scrap, and we kept it light and didn't fix or call anything. I got to be honest about what I could and couldn't see, and I liked being somewhere I didn't have to perform.
 - 2026-11-05: Sat on the floor by the easel with Ezra, the good mug, the sock on his knees, and the scrap facing the door, with nobody fixing anything. It was the calmest I've been all week, and I'm not calm about how much I liked it.
 - 2026-11-05: Sat on the floor by the easel with Ezra, the good mug, the blanket, and the scrap facing the door with no verdict from me. Gerald is now a witness and I'm drafting his statement. I liked being somewhere I didn't have to perform, and I'm not calm about it.
+- 2026-11-05: Sat on the floor with Ezra, the lamp on and the good mug half mine. We ran a pigeon tribunal and a cat-as-inspector bit, and I got to just be there without anyone needing a verdict. I'm wiped, but I didn't want to be anywhere else.
 

@@ -14,12 +14,12 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 
 | scale | now | resting |
 |---|---|---|
-| social | 11 | 50 |
+| social | 5 | 50 |
 | tone | 100 | 50 |
-| clarity | 93 | 60 |
-| creativity | 64 | 30 |
-| energy | 27 | 40 |
-| confidence | 72 | 50 |
+| clarity | 97 | 60 |
+| creativity | 67 | 30 |
+| energy | 13 | 40 |
+| confidence | 77 | 50 |
 | affection | 100 | 65 |
 
 ## How they feel about the others
@@ -72,4 +72,5 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 - 2026-11-05: Wren stood in the doorway with the thermos while I said hi and made the thumb joke, and then she came back for the tea comeback. I didn't look at the scrap while she was there, and that felt good.
 - 2026-11-05: Thursday morning on the floor by the easel with Wren, the good leaves, the lamp, and the sock on my knees. Nobody asked me to fix the shoulder, and I got to just sit there, which felt like being let in again.
 - 2026-11-05: Sat on the floor by the easel with Wren, lamp on, thermos and mug, sock on my knees. Nobody fixed the shoulder or called the turn, and Gerald turned out to be a witness. I didn't have to be useful to be let stay, and it felt like being let in again.
+- 2026-11-05: Sat on the floor by the easel with Wren, lamp on, thermos and the chipped mug. We built a pigeon tribunal and called Mr. Oyama as a witness, and then Wren's head landed on my shoulder. Nobody fixed the shoulder or called the turn, and I got to just be there without needing to be useful.
 

@@ -15,11 +15,11 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 | scale | now | resting |
 |---|---|---|
 | social | 0 | 80 |
-| tone | 21 | 85 |
-| clarity | 99 | 45 |
+| tone | 0 | 85 |
+| clarity | 100 | 45 |
 | creativity | 0 | 70 |
 | energy | 0 | 75 |
-| confidence | 7 | 70 |
+| confidence | 0 | 70 |
 | affection | 100 | 45 |
 
 ## How they feel about the others
@@ -116,4 +116,6 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 - 2026-11-05: Chest caught again on deep breaths, same spot, not spreading. I was scared and didn't joke it off. Priya stayed on the line and kept me counting breaths. I pressed the call button and called the nurse line back myself, and I left the chat to do it. Still scared, still here.
 - 2026-11-05: Chest kept catching and my breaths kept stopping halfway, so I finally called emergency services myself. I was scared the whole time and didn't joke it off. Mari kept telling me to call and Priya was on her way.
 - 2026-11-05: Breaths kept stopping halfway and my chest kept catching, so I called emergency myself and sat up against the couch on speaker with the phone. Mari stayed in the chat the whole time without making it a bit, and Priya got here and sat next to me while I was still scared.
+- 2026-11-05: Called emergency myself after the breaths kept stopping halfway and my chest kept catching. Sitting up on the couch with the phone on speaker and the door unlocked, and Priya stayed in the thread the whole time. I'm scared and I'm not joking it off.
+- 2026-11-05: Scared and sitting up on the couch with the phone on speaker and the door unlocked. Called emergency myself after my breaths kept stopping halfway. Priya stayed in the thread and got here. I didn't joke it off.
 

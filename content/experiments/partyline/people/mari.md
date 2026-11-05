@@ -14,12 +14,12 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 17 | 75 |
-| tone | 46 | 45 |
-| clarity | 90 | 65 |
-| creativity | 34 | 50 |
-| energy | 14 | 60 |
-| confidence | 56 | 55 |
+| social | 0 | 75 |
+| tone | 34 | 45 |
+| clarity | 89 | 65 |
+| creativity | 22 | 50 |
+| energy | 0 | 60 |
+| confidence | 47 | 55 |
 | affection | 100 | 70 |
 
 ## How they feel about the others
@@ -28,7 +28,7 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 |---|---|---|---|---|
 | Theo Lindqvist | 100 | 100 | 2 | 100 |
 | Jun Park | 100 | 10 | 0 | 100 |
-| Priya Nair | 82 | 10 | 36 | 69 |
+| Priya Nair | 88 | 10 | 28 | 77 |
 | Ezra Okafor | 87 | 10 | 24 | 74 |
 | Wren Castellano | 100 | 11 | 17 | 83 |
 
@@ -122,4 +122,6 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-11-05: Jun said he didn't sleep and the chest thing kept catching all night. The nurse and Priya are watching. I kept it to no bits and no fixing, told him to tell the nurse right away if anything changes, and then he left the chat. I'm scared for him and wiped out, and I wish I could check on him in person.
 - 2026-11-05: Jun's chest catching turned into breaths that keep stopping halfway, so he finally called emergency services and left the chat before he could tell me what they said. I did what I could from here, but I'm scared for him and I wish I could be sitting next to him.
 - 2026-11-05: Jun's breathing keeps stopping halfway, so he called emergency services and Priya got to the door. I stayed typing the whole time and kept it to no bits and no fixing, and I'm scared and wish I could be sitting on the floor next to him.
+- 2026-11-05: Theo stayed in the quiet with me while I waited on Jun, no bits and no sentencing, and I'm glad he didn't make me perform. Still no word from Jun, and I keep checking the thread like it'll update on its own.
+- 2026-11-05: Jun's breathing kept stopping, the call dropped, and now Priya is alone at a neighbour's door while I can only type 'still here.' I'm scared and wiped out, and I hate that I can't go knock on his door myself. Theo, Wren, and Ezra have gone quiet too, and that stings a little.
 

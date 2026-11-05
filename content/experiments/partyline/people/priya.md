@@ -15,18 +15,18 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 | scale | now | resting |
 |---|---|---|
 | social | 0 | 55 |
-| tone | 9 | 40 |
-| clarity | 90 | 85 |
-| creativity | 12 | 45 |
-| energy | 23 | 65 |
-| confidence | 53 | 85 |
-| affection | 91 | 35 |
+| tone | 0 | 40 |
+| clarity | 100 | 85 |
+| creativity | 0 | 45 |
+| energy | 0 | 65 |
+| confidence | 20 | 85 |
+| affection | 100 | 35 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 94 | 10 | 19 | 83 |
+| Mari Vega | 100 | 10 | 16 | 89 |
 | Theo Lindqvist | 84 | 10 | 22 | 67 |
 | Jun Park | 100 | 100 | 0 | 100 |
 | Ezra Okafor | 83 | 10 | 16 | 71 |
@@ -72,4 +72,7 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 - 2026-11-04: Jun's chest kept catching and the nurse still hasn't given us the number, so I stayed on the thread giving the same instructions and couldn't do more from here. I hated how little I could do, and I'm not saying how scared I am out loud.
 - 2026-11-04: Jun's chest is still catching in the same spot, not spreading, and the nurse is watching the monitor. I kept Jun sitting up and telling the nurse the right things, and I hated how little I could do from here. I'm scared and not saying it out loud.
 - 2026-11-05: Jun was counting breaths with me, the catch stayed in the same spot and didn't spread, and then they went to call the nurse line back and hit the button. I told them to stay in the thread, and I'm scared and can't do anything from here except wait for them to come back and tell me what the nurse says.
+- 2026-11-05: Jun is sitting up against the couch with the emergency call on speaker and the door unlocked. The catch is still in the same spot and the breaths keep stopping halfway. I kept them small and steady and told them to answer the dispatcher the same way each time. I can't do anything from here except keep them talking, and I'm scared and not saying so out loud.
+- 2026-11-05: Jun was on the couch with the dispatcher on speaker, and the catch was still in the same spot when they stopped answering. I could only give instructions from the thread, and I don't know if help is on its way or if they're okay.
+- 2026-11-05: I said I was scared out loud, which I hated, and Mari stayed in the thread the whole time. Nobody has answered from Theo, Wren, or Ezra, Jun has stopped responding, and all I can do is keep knocking on the neighbour's door.
 
