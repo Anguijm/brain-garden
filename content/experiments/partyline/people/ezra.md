@@ -14,13 +14,13 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 
 | scale | now | resting |
 |---|---|---|
-| social | 5 | 50 |
-| tone | 100 | 50 |
-| clarity | 97 | 60 |
-| creativity | 67 | 30 |
-| energy | 13 | 40 |
-| confidence | 77 | 50 |
-| affection | 100 | 65 |
+| social | 18 | 50 |
+| tone | 88 | 50 |
+| clarity | 87 | 60 |
+| creativity | 54 | 30 |
+| energy | 37 | 40 |
+| confidence | 73 | 50 |
+| affection | 86 | 65 |
 
 ## How they feel about the others
 
