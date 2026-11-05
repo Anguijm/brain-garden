@@ -14,12 +14,12 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 
 | scale | now | resting |
 |---|---|---|
-| social | 14 | 50 |
-| tone | 99 | 50 |
-| clarity | 92 | 60 |
-| creativity | 57 | 30 |
-| energy | 37 | 40 |
-| confidence | 70 | 50 |
+| social | 11 | 50 |
+| tone | 100 | 50 |
+| clarity | 93 | 60 |
+| creativity | 64 | 30 |
+| energy | 27 | 40 |
+| confidence | 72 | 50 |
 | affection | 100 | 65 |
 
 ## How they feel about the others
@@ -71,4 +71,5 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 - 2026-11-04: Sat on the floor by the easel with Wren, the lamp on, the thermos, and the sock as a blanket. We didn't fix the shoulder or call the turn, and I didn't have to be useful to be let stay. The dad joke countdown was silly and it felt good.
 - 2026-11-05: Wren stood in the doorway with the thermos while I said hi and made the thumb joke, and then she came back for the tea comeback. I didn't look at the scrap while she was there, and that felt good.
 - 2026-11-05: Thursday morning on the floor by the easel with Wren, the good leaves, the lamp, and the sock on my knees. Nobody asked me to fix the shoulder, and I got to just sit there, which felt like being let in again.
+- 2026-11-05: Sat on the floor by the easel with Wren, lamp on, thermos and mug, sock on my knees. Nobody fixed the shoulder or called the turn, and Gerald turned out to be a witness. I didn't have to be useful to be let stay, and it felt like being let in again.
 

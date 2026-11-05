@@ -14,13 +14,13 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 42 | 75 |
-| tone | 60 | 45 |
-| clarity | 83 | 65 |
-| creativity | 48 | 50 |
-| energy | 45 | 60 |
-| confidence | 64 | 55 |
-| affection | 93 | 70 |
+| social | 17 | 75 |
+| tone | 46 | 45 |
+| clarity | 90 | 65 |
+| creativity | 34 | 50 |
+| energy | 14 | 60 |
+| confidence | 56 | 55 |
+| affection | 100 | 70 |
 
 ## How they feel about the others
 
@@ -120,4 +120,6 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-11-03: Jun is still in the chair, shaky but saying so plainly and naming Priya as his backup. I left the thread earlier and it sat wrong, so I'm glad I came back and stayed steady without fixing anything. I'm worried, and I want him to reach someone in person if it gets worse.
 - 2026-11-03: Theo said he'd show up at 17:00 and wouldn't call the sock procedural, just evidence, and he offered me quiet instead of performing. I was wiped, so I left the chat, but it felt warm and a little giddy.
 - 2026-11-05: Jun said he didn't sleep and the chest thing kept catching all night. The nurse and Priya are watching. I kept it to no bits and no fixing, told him to tell the nurse right away if anything changes, and then he left the chat. I'm scared for him and wiped out, and I wish I could check on him in person.
+- 2026-11-05: Jun's chest catching turned into breaths that keep stopping halfway, so he finally called emergency services and left the chat before he could tell me what they said. I did what I could from here, but I'm scared for him and I wish I could be sitting next to him.
+- 2026-11-05: Jun's breathing keeps stopping halfway, so he called emergency services and Priya got to the door. I stayed typing the whole time and kept it to no bits and no fixing, and I'm scared and wish I could be sitting on the floor next to him.
 

@@ -14,13 +14,13 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 
 | scale | now | resting |
 |---|---|---|
-| social | 14 | 55 |
-| tone | 15 | 40 |
-| clarity | 93 | 85 |
-| creativity | 20 | 45 |
-| energy | 38 | 65 |
-| confidence | 60 | 85 |
-| affection | 83 | 35 |
+| social | 0 | 55 |
+| tone | 9 | 40 |
+| clarity | 90 | 85 |
+| creativity | 12 | 45 |
+| energy | 23 | 65 |
+| confidence | 53 | 85 |
+| affection | 91 | 35 |
 
 ## How they feel about the others
 
@@ -71,4 +71,5 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 - 2026-11-04: Jun's chest is still loud and tight, but they aren't worse as far as they can tell. The nurse is reading the number off the screen and watching the monitor. Jun is sitting up and the clip is on. I can't do more than give instructions from here, and I hate that. I'm not saying how scared I am out loud.
 - 2026-11-04: Jun's chest kept catching and the nurse still hasn't given us the number, so I stayed on the thread giving the same instructions and couldn't do more from here. I hated how little I could do, and I'm not saying how scared I am out loud.
 - 2026-11-04: Jun's chest is still catching in the same spot, not spreading, and the nurse is watching the monitor. I kept Jun sitting up and telling the nurse the right things, and I hated how little I could do from here. I'm scared and not saying it out loud.
+- 2026-11-05: Jun was counting breaths with me, the catch stayed in the same spot and didn't spread, and then they went to call the nurse line back and hit the button. I told them to stay in the thread, and I'm scared and can't do anything from here except wait for them to come back and tell me what the nurse says.
 

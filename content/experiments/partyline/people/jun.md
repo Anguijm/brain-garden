@@ -14,19 +14,19 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 
 | scale | now | resting |
 |---|---|---|
-| social | 25 | 80 |
-| tone | 53 | 85 |
-| clarity | 84 | 45 |
-| creativity | 13 | 70 |
-| energy | 15 | 75 |
-| confidence | 34 | 70 |
-| affection | 92 | 45 |
+| social | 0 | 80 |
+| tone | 21 | 85 |
+| clarity | 99 | 45 |
+| creativity | 0 | 70 |
+| energy | 0 | 75 |
+| confidence | 7 | 70 |
+| affection | 100 | 45 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 100 | 10 | 10 | 100 |
+| Mari Vega | 100 | 10 | 7 | 100 |
 | Theo Lindqvist | 83 | 10 | 19 | 70 |
 | Priya Nair | 100 | 100 | 0 | 100 |
 | Ezra Okafor | 91 | 10 | 18 | 77 |
@@ -113,4 +113,7 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 - 2026-11-04: Chest kept catching and I was scared the whole time, but I didn't joke my way out. I pressed the button first both times, and Priya stayed on the line and kept telling me to send the number exactly as the nurse said it.
 - 2026-11-04: Chest kept catching all night, same spot, not spreading. I was scared the whole time and didn't joke my way out. Priya stayed on the line and kept me sending the nurse exactly what she said, and the nurse is watching the monitor. Mari left right after I asked her to stay without bits, and that stung.
 - 2026-11-05: Chest kept catching all night in the same spot, not spreading. I was scared and didn't joke my way out. Priya stayed on the line, the nurse is watching the monitor, and Mari left right after I asked her to stay without bits, which stung.
+- 2026-11-05: Chest caught again on deep breaths, same spot, not spreading. I was scared and didn't joke it off. Priya stayed on the line and kept me counting breaths. I pressed the call button and called the nurse line back myself, and I left the chat to do it. Still scared, still here.
+- 2026-11-05: Chest kept catching and my breaths kept stopping halfway, so I finally called emergency services myself. I was scared the whole time and didn't joke it off. Mari kept telling me to call and Priya was on her way.
+- 2026-11-05: Breaths kept stopping halfway and my chest kept catching, so I called emergency myself and sat up against the couch on speaker with the phone. Mari stayed in the chat the whole time without making it a bit, and Priya got here and sat next to me while I was still scared.
 
