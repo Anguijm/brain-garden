@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-1413 citations across 147 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+1465 citations across 148 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -465,6 +465,61 @@ This page lists every external link cited anywhere in the garden, article by art
 52. [Naval Safety Command's year-end figures](https://navalsafetycommand.navy.mil/Portals/100/Documents/Mishap_Stats100626.pdf)
 53. [The August memorandum](https://www.whitehouse.gov/presidential-actions/2026/08/rebuilding-the-united-states-navy-and-americas-shipbuilding-industrial-base/)
 54. [Section 345 of the fiscal 2026 defense authorization act](https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm)
+
+### [The Waterfront Brief, Vol. 1 No. 17 (week 45)](projects/waterfront-brief/2026-w45)
+
+1. [The public yards kept nearly everyone working in 2025](https://insidedefense.com/daily-news/public-shipyards-will-continue-working-without-pay-shutdown-lengthens)
+2. [H.R. 6500](https://www.congress.gov/bill/119th-congress/house-bill/6500/text)
+3. [the House](https://www.cbsnews.com/live-updates/house-election-results-2026/)
+4. [the Senate](https://www.cbsnews.com/live-updates/election-day-2026-midterms/)
+5. [The Center for Strategic and International Studies wrote on Oct. 28](https://www.csis.org/analysis/fy-2027-defense-funding-potential-post-midterm-outcomes)
+6. [Thomas Hudner's docking](https://www.war.gov/News/Contracts/Contract/Article/4624853/contracts-for-oct-13-2026/)
+7. [The Defense Department's shutdown plan of Jan. 30, 2026](https://www.dcpas.osd.mil/sites/default/files/2026-02/guidance_for_continuation_of_operations_during_a_lapse_of_appropriations_osd070042-26_res_final.pdf)
+8. [The Navy's fiscal 2027 procurement budget book](https://www.secnav.navy.mil/fmc/fmb/Documents/27pres/OPN_BA1_Book.pdf)
+9. [the fiscal 2026 defense appropriations law](https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm)
+10. [The Navy's April 2026 operations budget book](https://web.archive.org/web/20260927025227/https://www.secnav.navy.mil/fmc/fmb/Documents/27pres/OMN_Book.pdf)
+11. [a Fleet Forces spokesperson told USNI News](https://news.usni.org/2013/10/01/shutdown-navy-public-shipyards-furlough-thousands)
+12. [the USNI News Fleet and Marine Tracker of Oct. 26](https://news.usni.org/2026/10/26/usni-news-fleet-and-marine-tracker-oct-26-2026)
+13. [Defense One reported](https://www.defenseone.com/policy/2026/10/yearlong-deployments-navy-new-normal/416777/)
+14. [The House Appropriations Committee's report on its fiscal 2027 defense bill](https://www.govinfo.gov/content/pkg/CRPT-119hrpt715/html/CRPT-119hrpt715.htm)
+15. [USNI News reported on Sept. 23](https://news.usni.org/2026/09/23/3-years-of-middle-east-combat-altering-how-navy-supplies-maintains-fleet-leaders-say)
+16. [H.R. 8800 as passed by the House](https://www.congress.gov/bill/119th-congress/house-bill/8800/text)
+17. [S. 4784 as reported in the Senate](https://www.govinfo.gov/content/pkg/BILLS-119s4784rs/html/BILLS-119s4784rs.htm)
+18. [GAO (Government Accountability Office) reported in August 2020](https://www.gao.gov/products/gao-20-588)
+19. [GAO in 2016](https://www.gao.gov/products/gao-16-466r)
+20. [Our count of OPM's (Office of Personnel Management's) records](https://data.opm.gov/get-data/api-access)
+21. [The Secretary of Defense's memo of March 14, 2025](https://dcpas.osd.mil/sites/default/files/2025-03/Guidance%20Regarding%20the%20Department%20of%20Defense%20Civilian%20Hiring%20Freeze%203-14-2025.pdf)
+22. [The fiscal 2026 defense authorization act](https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm)
+23. [The Navy's fiscal 2026 operations budget request, published in June 2025](https://web.archive.org/web/20250709201504/https://www.secnav.navy.mil/fmc/fmb/Documents/26pres/OMN_Book.pdf)
+24. [The Pentagon comptroller's execution report as of June 30, 2026](https://comptroller.war.gov/Portals/45/Documents/OM_Reports/FY2026/FY_2026_3rd_quarter_execution.pdf)
+25. [the year-end report published Jan. 16, 2026](https://comptroller.war.gov/Portals/45/Documents/OM_Reports/FY2025/FY_2025_4th_quarter_execution.pdf)
+26. [S. Rept. 119-39](https://www.govinfo.gov/content/pkg/CRPT-119srpt39/html/CRPT-119srpt39.htm)
+27. [2017 Comprehensive Review](https://www.navy.mil/Press-Office/News-Stories/Article/2253385/)
+28. [joint explanatory statement](https://armedservices.house.gov/uploadedfiles/fy26_ndaa_joint_explanatory_statement.pdf)
+29. [Nov. 7, 2025](https://media.defense.gov/2025/Nov/10/2003819439/-1/-1/1/TRANSFORMING-THE-DEFENSE-ACQUISITION-SYSTEM-INTO-THE-WARFIGHTING-ACQUISITION-SYSTEM-TO-ACCELERATE-FIELDING-OF-URGENTLY-NEEDED-CAPABILITIES-TO-OUR-WARRIORS.PDF)
+30. [announced five PAEs](https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/4435370/navy-reshapes-warfighting-acquisition-system/)
+31. [added three more on May 11](https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/4483312/navy-advances-acquisition-reform-strategy-appoints-three-new-portfolio-acquisit/)
+32. [Defense Visual Information Distribution Service, Aug. 6](https://www.dvidshub.net/news/571787)
+33. [the single accountable organization for delivering surface ships](https://web.archive.org/web/20261017141222/https://paemaritime.navy.mil/)
+34. [Hung Cao](https://www.navy.mil/Leadership/Flag-Officer-Biographies/BioDisplay/Article/4156165/under-secretary-of-the-navy-hung-cao)
+35. [Its committee wrote](https://www.govinfo.gov/content/pkg/CRPT-119srpt127/html/CRPT-119srpt127.htm)
+36. [found](https://www.cbo.gov/publication/61507)
+37. [issuances site](https://www.secnav.navy.mil/doni/)
+38. [Government Accountability Office, GAO-20-86, p. 54](https://www.gao.gov/products/gao-20-86)
+39. [NAVSEA](https://www.navsea.navy.mil/Home/RMC/CNRMC/About-Us/)
+40. [Sasebo](https://www.navsea.navy.mil/Media/News/Article-View/Article/2720461/srf-jrmc-det-sasebo-completes-third-consecutive-docking-selected-restricted-ava/)
+41. [Singapore](https://www.dvidshub.net/news/557146/srf-jrmcs-singapore-detachment-conduct-change-charge)
+42. [Dec. 22, 2023](https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm)
+43. [Dec. 23, 2024](https://www.govinfo.gov/app/details/PLAW-118publ159)
+44. [USNI News reported on Oct. 29](https://news.usni.org/2026/10/29/long-deployments-to-be-navy-standard-for-next-couple-years-mcpon-cno-say)
+45. [10 U.S.C. 8680](https://www.law.cornell.edu/uscode/text/10/8680)
+46. [The Navy's fiscal 2027 military construction book](https://web.archive.org/web/2026id_/https://www.secnav.navy.mil/fmc/fmb/Documents/27pres/MCON_Book.pdf)
+47. [GAO reported](https://files.gao.gov/reports/GAO-26-107830/index.html)
+48. [Navy message NAVADMIN 099/26](https://www.mynavyhr.navy.mil/Portals/55/Messages/NAVADMIN/NAV2026/NAV26099.pdf)
+49. [USNI News](https://news.usni.org/2024/09/18/cno-franchetti-war-plan-preparing-navy-for-pacific-conflict-by-2027-with-flat-budgets-static-fleet-size)
+50. [Adm. Daryl Caudle said](https://www.janes.com/defence-intelligence-insights/defence-news/sea/surface-navy-2026-us-navy-remains-committed-to-combat-surge-ready-goals)
+51. [Japan's Foreign Ministry said](https://www.mofa.go.jp/press/release/press4e_003077.html)
+52. [Jiji Press reported in August](https://english.adnkronos.com/2026/08/05/exclusive-japan-u-s-begin-working-level-talks-on-host-nation-support/)
 
 ### [The Waterfront Brief: reference shelf](projects/waterfront-brief/reference-shelf)
 

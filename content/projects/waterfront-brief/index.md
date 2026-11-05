@@ -40,6 +40,12 @@ last checked.
 Each issue is readable on the web (with links into the rest of this garden) and
 downloadable as the print PDF (source links only).
 
+- **[Vol. 1, No. 17, Week 45, November 2026](2026-w45)**
+  ([download the PDF](pdf/2026-w45.192b9d50.pdf)): a Dec. 12 funding lapse would stop new money for nine
+  one-year private-yard repair jobs, six of them in Japan; the Navy's repair trades are back to
+  their 2024 size, but new workers make up a smaller share of them than in any September since
+  2019; on Dec. 18 a law puts the surface fleet's admirals over repair centers that a Navy
+  acquisition office has said since March that it leads; six dated items to watch; and a page of dated events.
 - **[Vol. 1, No. 16, Week 44, October 2026](2026-w44)**
   ([download the PDF](pdf/2026-w44.225986d5.pdf)): the Navy's April plan puts six of 11 carriers in yard
   periods at once from January to March 2028, three of them on Puget Sound Naval Shipyard's crews,
