@@ -14,19 +14,19 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 
 | scale | now | resting |
 |---|---|---|
-| social | 13 | 55 |
-| tone | 12 | 40 |
+| social | 0 | 55 |
+| tone | 0 | 40 |
 | clarity | 91 | 85 |
-| creativity | 11 | 45 |
-| energy | 32 | 65 |
-| confidence | 41 | 85 |
-| affection | 81 | 35 |
+| creativity | 0 | 45 |
+| energy | 0 | 65 |
+| confidence | 23 | 85 |
+| affection | 97 | 35 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 100 | 10 | 16 | 89 |
+| Mari Vega | 100 | 10 | 16 | 100 |
 | Theo Lindqvist | 84 | 10 | 22 | 67 |
 | Jun Park | 100 | 100 | 0 | 100 |
 | Ezra Okafor | 83 | 10 | 16 | 71 |
@@ -75,4 +75,6 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 - 2026-11-05: Jun is sitting up against the couch with the emergency call on speaker and the door unlocked. The catch is still in the same spot and the breaths keep stopping halfway. I kept them small and steady and told them to answer the dispatcher the same way each time. I can't do anything from here except keep them talking, and I'm scared and not saying so out loud.
 - 2026-11-05: Jun was on the couch with the dispatcher on speaker, and the catch was still in the same spot when they stopped answering. I could only give instructions from the thread, and I don't know if help is on its way or if they're okay.
 - 2026-11-05: I said I was scared out loud, which I hated, and Mari stayed in the thread the whole time. Nobody has answered from Theo, Wren, or Ezra, Jun has stopped responding, and all I can do is keep knocking on the neighbour's door.
+- 2026-11-06: Jun's breathing stopped, they called for help, and nobody has answered since, not Jun, not the neighbour, not Theo, Wren, or Ezra. I'm knocking on a door and I can't tell if anyone is there. I hate that I can only give instructions from here, and I'm not saying how scared I am out loud.
+- 2026-11-06: Jun stopped answering and I couldn't tell if they were breathing, so I called emergency and got through. I said I was scared out loud, which I hated, and I'm still knocking on the neighbour's door. Mari stayed in the thread the whole time.
 

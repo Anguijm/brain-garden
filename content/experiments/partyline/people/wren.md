@@ -14,13 +14,13 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 
 | scale | now | resting |
 |---|---|---|
-| social | 36 | 65 |
-| tone | 91 | 70 |
-| clarity | 82 | 50 |
-| creativity | 90 | 65 |
-| energy | 52 | 70 |
-| confidence | 64 | 45 |
-| affection | 98 | 85 |
+| social | 31 | 65 |
+| tone | 99 | 70 |
+| clarity | 87 | 50 |
+| creativity | 99 | 65 |
+| energy | 35 | 70 |
+| confidence | 67 | 45 |
+| affection | 100 | 85 |
 
 ## How they feel about the others
 
@@ -103,4 +103,5 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 - 2026-11-05: Sat on the floor by the easel with Ezra, the good mug, the sock on his knees, and the scrap facing the door, with nobody fixing anything. It was the calmest I've been all week, and I'm not calm about how much I liked it.
 - 2026-11-05: Sat on the floor by the easel with Ezra, the good mug, the blanket, and the scrap facing the door with no verdict from me. Gerald is now a witness and I'm drafting his statement. I liked being somewhere I didn't have to perform, and I'm not calm about it.
 - 2026-11-05: Sat on the floor with Ezra, the lamp on and the good mug half mine. We ran a pigeon tribunal and a cat-as-inspector bit, and I got to just be there without anyone needing a verdict. I'm wiped, but I didn't want to be anywhere else.
+- 2026-11-06: Sat on the floor with Ezra through a slow recess. The shoulder came up once, he admitted he'd peeked, and nobody had to fix or call anything. I felt calm, warm, and a little smug about the sock, and I didn't want to be anywhere else.
 
