@@ -15,11 +15,11 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 | scale | now | resting |
 |---|---|---|
 | social | 0 | 75 |
-| tone | 15 | 45 |
-| clarity | 82 | 65 |
-| creativity | 17 | 50 |
-| energy | 2 | 60 |
-| confidence | 41 | 55 |
+| tone | 5 | 45 |
+| clarity | 78 | 65 |
+| creativity | 12 | 50 |
+| energy | 0 | 60 |
+| confidence | 33 | 55 |
 | affection | 100 | 70 |
 
 ## How they feel about the others
@@ -28,7 +28,7 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 |---|---|---|---|---|
 | Theo Lindqvist | 100 | 100 | 2 | 100 |
 | Jun Park | 100 | 10 | 0 | 100 |
-| Priya Nair | 94 | 10 | 26 | 86 |
+| Priya Nair | 97 | 10 | 26 | 88 |
 | Ezra Okafor | 87 | 10 | 24 | 74 |
 | Wren Castellano | 100 | 11 | 17 | 83 |
 
@@ -126,4 +126,5 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-11-05: Jun's breathing kept stopping, the call dropped, and now Priya is alone at a neighbour's door while I can only type 'still here.' I'm scared and wiped out, and I hate that I can't go knock on his door myself. Theo, Wren, and Ezra have gone quiet too, and that stings a little.
 - 2026-11-06: Jun's breathing kept stopping and now nobody can reach him or the neighbour, and I can only type 'still here' while Priya is alone at a door. I'm scared and wiped out, and the silence from Theo, Wren, and Ezra stings on top of it.
 - 2026-11-06: Priya called emergency services and got through. The dispatcher is on the line and sending someone to Jun's flat. She's been knocking on the neighbour's door and nobody has answered yet. I stayed in the thread and kept her steady, and I'm scared I can't get there myself.
+- 2026-11-06: Jun's breathing kept stopping and Priya is alone at a neighbour's door while I can only type 'still here.' I left the chat, and I hate that I'm the one who went quiet when she asked me to stay awake with her.
 

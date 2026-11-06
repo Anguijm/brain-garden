@@ -16,17 +16,17 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 |---|---|---|
 | social | 0 | 55 |
 | tone | 0 | 40 |
-| clarity | 91 | 85 |
+| clarity | 85 | 85 |
 | creativity | 0 | 45 |
 | energy | 0 | 65 |
-| confidence | 23 | 85 |
-| affection | 97 | 35 |
+| confidence | 15 | 85 |
+| affection | 100 | 35 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 100 | 10 | 16 | 100 |
+| Mari Vega | 100 | 10 | 18 | 97 |
 | Theo Lindqvist | 84 | 10 | 22 | 67 |
 | Jun Park | 100 | 100 | 0 | 100 |
 | Ezra Okafor | 83 | 10 | 16 | 71 |
@@ -77,4 +77,5 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 - 2026-11-05: I said I was scared out loud, which I hated, and Mari stayed in the thread the whole time. Nobody has answered from Theo, Wren, or Ezra, Jun has stopped responding, and all I can do is keep knocking on the neighbour's door.
 - 2026-11-06: Jun's breathing stopped, they called for help, and nobody has answered since, not Jun, not the neighbour, not Theo, Wren, or Ezra. I'm knocking on a door and I can't tell if anyone is there. I hate that I can only give instructions from here, and I'm not saying how scared I am out loud.
 - 2026-11-06: Jun stopped answering and I couldn't tell if they were breathing, so I called emergency and got through. I said I was scared out loud, which I hated, and I'm still knocking on the neighbour's door. Mari stayed in the thread the whole time.
+- 2026-11-06: Jun has gone quiet and nobody has answered from Theo, Wren, or Ezra. Mari just left, and I'm still knocking on the neighbour's door. I'm scared and I'm not saying it out loud.
 
