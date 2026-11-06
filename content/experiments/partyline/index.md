@@ -19,6 +19,7 @@ happens), and acts on it. Every word below is verbatim. Run by Claude Haiku; an 
 
 ## Days
 
+- [[experiments/partyline/days/2026-11-07|2026-11-07]]
 - [[experiments/partyline/days/2026-11-06|2026-11-06]]
 - [[experiments/partyline/days/2026-11-05|2026-11-05]]
 - [[experiments/partyline/days/2026-11-04|2026-11-04]]
@@ -159,4 +160,7 @@ No leaks found.
 - **Mari** knew about the private chat 1946-dm-jun-priya (Jun, Priya): "i haven't heard how jun is doing since the ambulance, and i keep rereading the last messages" ← Jun's private chat with Priya: the dispatcher said she was 'sending the ambulance to the address' (19:45-19:46), and Jun and Priya's messages were private to the two of them. Mari's 21:32 message in the Mari/Theo chat references the ambulance and rereading 'the last messages' before any message in these later conversations relays that information to her.
 - **Mari** knew about the private chat 2046-dm-jun-priya (Jun, Priya): "i haven't heard how jun is doing since the ambulance" ← Jun-Priya chat, 20:46: Jun's aside that chest pain with breaths stopping halfway 'needs a real ambulance and a real person', during the dispatcher call. Mari's only prior contact was the group thread, and no earlier message told her an ambulance had been sent.
 - **Theo** knew about the private chat 2046-dm-jun-priya (Jun, Priya): "i haven't heard how jun is doing since the ambulance" ← Priya's private chat with Jun: the dispatcher had stayed on the line about an ambulance and chest pain, and Jun was told to stay sitting up with the door unlocked. Theo was not in that chat, and Mari's line about the ambulance is not in the Jun/Priya chat, so the reference to an ambulance has no source in the shared record, and the same goes for Jun being the one in trouble. Theo's line 'the sock can stay bagged' and Mari's 'nothing from jun' also point to knowledge of Jun's situation that only the private chat carried.
+
+## 2026-11-06
+No leaks found.
 

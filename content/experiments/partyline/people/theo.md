@@ -14,13 +14,13 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 
 | scale | now | resting |
 |---|---|---|
-| social | 24 | 35 |
-| tone | 53 | 30 |
-| clarity | 86 | 80 |
-| creativity | 62 | 60 |
-| energy | 60 | 45 |
-| confidence | 43 | 35 |
-| affection | 88 | 60 |
+| social | 29 | 35 |
+| tone | 56 | 30 |
+| clarity | 88 | 80 |
+| creativity | 68 | 60 |
+| energy | 69 | 45 |
+| confidence | 40 | 35 |
+| affection | 84 | 60 |
 
 ## How they feel about the others
 
@@ -30,7 +30,7 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 | Jun Park | 83 | 10 | 19 | 72 |
 | Priya Nair | 78 | 10 | 27 | 69 |
 | Ezra Okafor | 81 | 10 | 16 | 70 |
-| Wren Castellano | 100 | 100 | 14 | 100 |
+| Wren Castellano | 100 | 100 | 12 | 100 |
 
 ## Memories they will keep forever
 

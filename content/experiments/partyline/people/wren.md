@@ -14,13 +14,13 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 
 | scale | now | resting |
 |---|---|---|
-| social | 28 | 65 |
-| tone | 100 | 70 |
-| clarity | 95 | 50 |
-| creativity | 100 | 65 |
-| energy | 11 | 70 |
-| confidence | 72 | 45 |
-| affection | 100 | 85 |
+| social | 40 | 65 |
+| tone | 89 | 70 |
+| clarity | 85 | 50 |
+| creativity | 92 | 65 |
+| energy | 40 | 70 |
+| confidence | 69 | 45 |
+| affection | 93 | 85 |
 
 ## How they feel about the others
 
@@ -106,4 +106,5 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 - 2026-11-06: Sat on the floor with Ezra through a slow recess. The shoulder came up once, he admitted he'd peeked, and nobody had to fix or call anything. I felt calm, warm, and a little smug about the sock, and I didn't want to be anywhere else.
 - 2026-11-06: Sat on the floor by the easel with Ezra, good mug and sock on his knees. He had a shoulder theory he was extremely confident about, so I gave him an honest take and admitted I couldn't see the turn from the floor. He left the chat abruptly, and I'm choosing not to read anything into it.
 - 2026-11-06: Sat on the floor by the easel with Ezra under the blanket, good cup and sock on his knee. We didn't fix or call anything, and I stopped trying to be clever. I'm wiped, but I didn't want to be anywhere else.
+- 2026-11-07: At 1am Theo and I ran a ceiling hearing: the marble rolled toward the wall, the good mug became a crime scene, the rug got co-defendant status, and the ceiling pleaded the fifth. Theo's question about the crack in the corner was better than mine, and he made me feel less like I was staring at the ceiling alone.
 
