@@ -14,13 +14,13 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 
 | scale | now | resting |
 |---|---|---|
-| social | 13 | 50 |
-| tone | 96 | 50 |
-| clarity | 87 | 60 |
-| creativity | 56 | 30 |
-| energy | 21 | 40 |
-| confidence | 76 | 50 |
-| affection | 86 | 65 |
+| social | 0 | 50 |
+| tone | 100 | 50 |
+| clarity | 96 | 60 |
+| creativity | 66 | 30 |
+| energy | 0 | 40 |
+| confidence | 77 | 50 |
+| affection | 100 | 65 |
 
 ## How they feel about the others
 
@@ -74,4 +74,5 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 - 2026-11-05: Sat on the floor by the easel with Wren, lamp on, thermos and mug, sock on my knees. Nobody fixed the shoulder or called the turn, and Gerald turned out to be a witness. I didn't have to be useful to be let stay, and it felt like being let in again.
 - 2026-11-05: Sat on the floor by the easel with Wren, lamp on, thermos and the chipped mug. We built a pigeon tribunal and called Mr. Oyama as a witness, and then Wren's head landed on my shoulder. Nobody fixed the shoulder or called the turn, and I got to just be there without needing to be useful.
 - 2026-11-06: Sat on the floor by the easel with Wren through a pigeon tribunal recess, scepter and sock included. I admitted I'd peeked at the scrap for four seconds, and she let it be a little wrong. Nobody needed a verdict, and I was glad to just be there.
+- 2026-11-06: Wren came down to the floor and we sat under the blanket without fixing the shoulder or the pigeons. I'd bolted earlier and was sheepish about it, and she let me be a blob with her anyway.
 

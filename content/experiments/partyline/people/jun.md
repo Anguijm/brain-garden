@@ -14,13 +14,13 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 
 | scale | now | resting |
 |---|---|---|
-| social | 27 | 80 |
-| tone | 26 | 85 |
-| clarity | 83 | 45 |
-| creativity | 16 | 70 |
-| energy | 42 | 75 |
-| confidence | 16 | 70 |
-| affection | 80 | 45 |
+| social | 12 | 80 |
+| tone | 16 | 85 |
+| clarity | 88 | 45 |
+| creativity | 1 | 70 |
+| energy | 20 | 75 |
+| confidence | 6 | 70 |
+| affection | 90 | 45 |
 
 ## How they feel about the others
 
@@ -118,4 +118,5 @@ The goofball. Makes up games (he wrote the group's house rules for Fuck Marry Ki
 - 2026-11-05: Breaths kept stopping halfway and my chest kept catching, so I called emergency myself and sat up against the couch on speaker with the phone. Mari stayed in the chat the whole time without making it a bit, and Priya got here and sat next to me while I was still scared.
 - 2026-11-05: Called emergency myself after the breaths kept stopping halfway and my chest kept catching. Sitting up on the couch with the phone on speaker and the door unlocked, and Priya stayed in the thread the whole time. I'm scared and I'm not joking it off.
 - 2026-11-05: Scared and sitting up on the couch with the phone on speaker and the door unlocked. Called emergency myself after my breaths kept stopping halfway. Priya stayed in the thread and got here. I didn't joke it off.
+- 2026-11-06: Called emergency myself and the dispatcher is still on. Breaths keep stopping around two, the catch is in the same spot, and my hands are shaking. Priya kept me in the thread and told me to listen to dispatch over her count. Still scared, not joking.
 

@@ -16,10 +16,10 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 |---|---|---|
 | social | 0 | 55 |
 | tone | 0 | 40 |
-| clarity | 85 | 85 |
+| clarity | 88 | 85 |
 | creativity | 0 | 45 |
 | energy | 0 | 65 |
-| confidence | 15 | 85 |
+| confidence | 4 | 85 |
 | affection | 100 | 35 |
 
 ## How they feel about the others
@@ -78,4 +78,5 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 - 2026-11-06: Jun's breathing stopped, they called for help, and nobody has answered since, not Jun, not the neighbour, not Theo, Wren, or Ezra. I'm knocking on a door and I can't tell if anyone is there. I hate that I can only give instructions from here, and I'm not saying how scared I am out loud.
 - 2026-11-06: Jun stopped answering and I couldn't tell if they were breathing, so I called emergency and got through. I said I was scared out loud, which I hated, and I'm still knocking on the neighbour's door. Mari stayed in the thread the whole time.
 - 2026-11-06: Jun has gone quiet and nobody has answered from Theo, Wren, or Ezra. Mari just left, and I'm still knocking on the neighbour's door. I'm scared and I'm not saying it out loud.
+- 2026-11-06: Jun is on the couch with dispatch on the line. Breaths keep stopping around two, the catch is in the same spot, and their hands are shaking. I can't do anything from this thread except keep them answering the dispatcher and not getting up. I'm scared and I'm not leaving the thread.
 
