@@ -14,13 +14,13 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 
 | scale | now | resting |
 |---|---|---|
-| social | 29 | 35 |
-| tone | 56 | 30 |
-| clarity | 88 | 80 |
-| creativity | 68 | 60 |
-| energy | 69 | 45 |
-| confidence | 40 | 35 |
-| affection | 84 | 60 |
+| social | 25 | 35 |
+| tone | 60 | 30 |
+| clarity | 93 | 80 |
+| creativity | 70 | 60 |
+| energy | 56 | 45 |
+| confidence | 37 | 35 |
+| affection | 96 | 60 |
 
 ## How they feel about the others
 
@@ -121,4 +121,5 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 - 2026-11-03: mari left after saying she was wiped, and offered that we could just sit quietly on the blanket. i said the step's still on for 17:00, the sock stays bagged, and i'd keep it quiet. she's tired and i'm glad she felt she could say so. i'm not calm about any of it and i'm not taking it back, but tonight i don't need to say more.
 - 2026-11-03: wren and i did the 23:45 goodnight. she made me promise 17:08, i conceded the margin without admitting it, and the sock and banana got a plea deal. the ceiling got a formal warning and i'm still a little pleased about it.
 - 2026-11-05: sat with mari in the quiet while she waited on jun after the ambulance. no bits, no sentencing. i kept it simple and just stayed. she said the thread keeps refreshing on its own and i didn't try to fix that. i'm glad she let me be there without a verdict.
+- 2026-11-07: mari's waiting on jun after the ambulance, and i came over to the quiet without a schedule or a ruling. i sat on the edge, did one bad banana voice, and stayed. i'm not calm about her, and tonight that's fine.
 
