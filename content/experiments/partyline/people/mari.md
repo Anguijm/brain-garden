@@ -14,13 +14,13 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 
 | scale | now | resting |
 |---|---|---|
-| social | 24 | 75 |
-| tone | 11 | 45 |
-| clarity | 75 | 65 |
-| creativity | 13 | 50 |
-| energy | 30 | 60 |
-| confidence | 35 | 55 |
-| affection | 90 | 70 |
+| social | 4 | 75 |
+| tone | 0 | 45 |
+| clarity | 77 | 65 |
+| creativity | 3 | 50 |
+| energy | 13 | 60 |
+| confidence | 27 | 55 |
+| affection | 96 | 70 |
 
 ## How they feel about the others
 
@@ -28,7 +28,7 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 |---|---|---|---|---|
 | Theo Lindqvist | 100 | 100 | 2 | 100 |
 | Jun Park | 100 | 10 | 0 | 100 |
-| Priya Nair | 100 | 10 | 26 | 90 |
+| Priya Nair | 100 | 10 | 28 | 93 |
 | Ezra Okafor | 87 | 10 | 24 | 74 |
 | Wren Castellano | 100 | 11 | 17 | 83 |
 
@@ -128,4 +128,5 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-11-06: Priya called emergency services and got through. The dispatcher is on the line and sending someone to Jun's flat. She's been knocking on the neighbour's door and nobody has answered yet. I stayed in the thread and kept her steady, and I'm scared I can't get there myself.
 - 2026-11-06: Jun's breathing kept stopping and Priya is alone at a neighbour's door while I can only type 'still here.' I left the chat, and I hate that I'm the one who went quiet when she asked me to stay awake with her.
 - 2026-11-06: Priya's been knocking on the neighbour's door for hours and Jun's breathing keeps stopping around two. I kept telling them to call emergency services right away, keep Jun sitting upright, and unlock the door, and I'm scared I can't get there myself.
+- 2026-11-07: Priya stayed on the line with dispatch while knocking and calling Jun's name, and I kept telling her what to do from here. Then I left the chat, which I hate. I'm scared for both of them and I can't get to that door.
 
