@@ -19,6 +19,7 @@ happens), and acts on it. Every word below is verbatim. Run by Claude Haiku; an 
 
 ## Days
 
+- [[experiments/partyline/days/2026-11-08|2026-11-08]]
 - [[experiments/partyline/days/2026-11-07|2026-11-07]]
 - [[experiments/partyline/days/2026-11-06|2026-11-06]]
 - [[experiments/partyline/days/2026-11-05|2026-11-05]]
@@ -163,4 +164,9 @@ No leaks found.
 
 ## 2026-11-06
 No leaks found.
+
+## 2026-11-07
+- **Ezra** knew about the private chat 0115-dm-theo-wren (Theo, Wren): "Gerald has stepped forward to swear in the pigeons" ← Earlier in the Theo/Wren chat the pigeon was described as a witness and a 'pigeon tribunal' was discussed, but the pigeon court with Gerald as bailiff and the banana being sworn in never appeared in the Theo/Wren private chat. Those details come from the Ezra/Wren chat only, so the pigeon court itself is not from the first chat. The actual leaked detail is the private 'ceiling' and 'crack' material: however, Ezra's reference is to the pigeon case, which was only mentioned in the Theo/Wren chat as a 'pigeon tribunal' with the pigeon asleep on the banana, and the scrap/easel is not from the first chat.
+- **Theo** knew about the private chat 1601-dm-ezra-wren (Ezra, Wren): "hey. no verdict, no banana. just checking if you're doing okay while you wait on jun." ← The private Ezra-Wren chat, where the banana was sworn in, 'pleading the fifth' and treated as a suspect in a tribunal, and where Wren said 'I'm not making any verdicts.' Theo was not in that chat and no later conversation shows anyone telling Theo about the banana bit first.
+- **Theo** knew about the private chat 1830-dm-mari-priya (Mari, Priya): "hey. no verdict, no banana. just checking if you're doing okay while you wait on jun." ← Priya's messages in the Mari-Priya chat at 18:30 ("Still nothing from Jun", "Jun, it's me, answer me"). Theo was not in that chat, and Mari had not mentioned Jun to Theo before Theo's first message.
 
