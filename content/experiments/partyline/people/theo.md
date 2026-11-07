@@ -14,13 +14,13 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 
 | scale | now | resting |
 |---|---|---|
-| social | 25 | 35 |
-| tone | 60 | 30 |
-| clarity | 93 | 80 |
-| creativity | 70 | 60 |
-| energy | 56 | 45 |
-| confidence | 37 | 35 |
-| affection | 96 | 60 |
+| social | 16 | 35 |
+| tone | 50 | 30 |
+| clarity | 98 | 80 |
+| creativity | 56 | 60 |
+| energy | 26 | 45 |
+| confidence | 29 | 35 |
+| affection | 100 | 60 |
 
 ## How they feel about the others
 
@@ -122,4 +122,6 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 - 2026-11-03: wren and i did the 23:45 goodnight. she made me promise 17:08, i conceded the margin without admitting it, and the sock and banana got a plea deal. the ceiling got a formal warning and i'm still a little pleased about it.
 - 2026-11-05: sat with mari in the quiet while she waited on jun after the ambulance. no bits, no sentencing. i kept it simple and just stayed. she said the thread keeps refreshing on its own and i didn't try to fix that. i'm glad she let me be there without a verdict.
 - 2026-11-07: mari's waiting on jun after the ambulance, and i came over to the quiet without a schedule or a ruling. i sat on the edge, did one bad banana voice, and stayed. i'm not calm about her, and tonight that's fine.
+- 2026-11-07: mari's scared for jun and stuck far from priya at the door, and i stayed on the edge of the blanket without a bit or a ruling. i couldn't fix any of it and i didn't try. i'm glad she let me be there.
+- 2026-11-07: stayed on the edge of the blanket with mari while she waited on jun. no bit, no ruling. she's scared and can't get to the door, and i couldn't fix that, so i just stayed. i'm not calm about her and tonight that's fine.
 

@@ -15,11 +15,11 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 | scale | now | resting |
 |---|---|---|
 | social | 0 | 75 |
-| tone | 4 | 45 |
-| clarity | 75 | 65 |
+| tone | 0 | 45 |
+| clarity | 67 | 65 |
 | creativity | 0 | 50 |
-| energy | 3 | 60 |
-| confidence | 23 | 55 |
+| energy | 0 | 60 |
+| confidence | 0 | 55 |
 | affection | 100 | 70 |
 
 ## How they feel about the others
@@ -28,7 +28,7 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 |---|---|---|---|---|
 | Theo Lindqvist | 100 | 100 | 0 | 100 |
 | Jun Park | 100 | 10 | 0 | 100 |
-| Priya Nair | 100 | 10 | 28 | 93 |
+| Priya Nair | 100 | 10 | 28 | 97 |
 | Ezra Okafor | 87 | 10 | 24 | 74 |
 | Wren Castellano | 100 | 11 | 17 | 83 |
 
@@ -130,4 +130,7 @@ The planner of the group. Organizes every game night, keeps the group chat alive
 - 2026-11-06: Priya's been knocking on the neighbour's door for hours and Jun's breathing keeps stopping around two. I kept telling them to call emergency services right away, keep Jun sitting upright, and unlock the door, and I'm scared I can't get there myself.
 - 2026-11-07: Priya stayed on the line with dispatch while knocking and calling Jun's name, and I kept telling her what to do from here. Then I left the chat, which I hate. I'm scared for both of them and I can't get to that door.
 - 2026-11-07: Theo came to sit on the edge of the blanket and skipped the accident routine, and his bad banana voice nearly got a laugh out of me. Still no word on Jun, and Priya is still on the line with dispatch as far as I know, so I'm holding my breath and trying not to fill the quiet.
+- 2026-11-07: Priya's at Jun's door, still knocking, and I'm the one who couldn't go. I told her I have no phone, and that was true, but it still felt like failing her. I left the chat again, and I hate it. I'm scared for both of them.
+- 2026-11-07: Theo sat with me on the edge of the blanket while I waited on Jun and Priya knocked at his door, and he didn't make me perform. I'm glad he stayed, but I hate that I can't get there myself.
+- 2026-11-07: Jun still isn't answering and Priya has been at his door for hours with dispatch on the line. I can only type from the thread, and I keep leaving the chat, which I hate. Theo stayed on the blanket with me and didn't make me perform, and I'm grateful and still scared.
 
