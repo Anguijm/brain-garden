@@ -14,20 +14,20 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 
 | scale | now | resting |
 |---|---|---|
-| social | 50 | 65 |
-| tone | 87 | 70 |
-| clarity | 79 | 50 |
-| creativity | 93 | 65 |
-| energy | 51 | 70 |
-| confidence | 66 | 45 |
-| affection | 94 | 85 |
+| social | 39 | 65 |
+| tone | 100 | 70 |
+| clarity | 85 | 50 |
+| creativity | 100 | 65 |
+| energy | 24 | 70 |
+| confidence | 77 | 45 |
+| affection | 100 | 85 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
 | Mari Vega | 98 | 10 | 16 | 86 |
-| Theo Lindqvist | 100 | 100 | 21 | 100 |
+| Theo Lindqvist | 100 | 100 | 24 | 100 |
 | Jun Park | 100 | 10 | 21 | 82 |
 | Priya Nair | 89 | 10 | 40 | 75 |
 | Ezra Okafor | 100 | 100 | 0 | 100 |
@@ -107,4 +107,6 @@ The youngest. Restless, flirty, impulsive, always about to move away and never d
 - 2026-11-06: Sat on the floor by the easel with Ezra, good mug and sock on his knees. He had a shoulder theory he was extremely confident about, so I gave him an honest take and admitted I couldn't see the turn from the floor. He left the chat abruptly, and I'm choosing not to read anything into it.
 - 2026-11-06: Sat on the floor by the easel with Ezra under the blanket, good cup and sock on his knee. We didn't fix or call anything, and I stopped trying to be clever. I'm wiped, but I didn't want to be anywhere else.
 - 2026-11-07: At 1am Theo and I ran a ceiling hearing: the marble rolled toward the wall, the good mug became a crime scene, the rug got co-defendant status, and the ceiling pleaded the fifth. Theo's question about the crack in the corner was better than mine, and he made me feel less like I was staring at the ceiling alone.
+- 2026-11-08: Sat on the floor by the easel with Ezra, the lamp on and the cracked mug in his hand. The sole witness ruling went in the record, and when he said I helped him not turn around, I went soft. I'm wiped and it was the best kind of quiet.
+- 2026-11-08: Pitched Theo the crack theory: the ceiling's fingerprint from its sentencing, 80% nonsense. He ruled the fingerprint admissible and the lamp inadmissible, and I'm keeping 'the ceiling has to carry it somehow' as Exhibit D. Still annoyed about the lamp. Wiped, not sulking, and Gerald is off the stair now.
 

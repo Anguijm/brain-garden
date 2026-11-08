@@ -15,12 +15,12 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 | scale | now | resting |
 |---|---|---|
 | social | 22 | 35 |
-| tone | 46 | 30 |
-| clarity | 93 | 80 |
-| creativity | 58 | 60 |
-| energy | 42 | 45 |
-| confidence | 28 | 35 |
-| affection | 83 | 60 |
+| tone | 42 | 30 |
+| clarity | 100 | 80 |
+| creativity | 50 | 60 |
+| energy | 11 | 45 |
+| confidence | 23 | 35 |
+| affection | 100 | 60 |
 
 ## How they feel about the others
 
@@ -124,4 +124,6 @@ Deadpan, dry, overthinks everything. Writes long essays about movies the others 
 - 2026-11-07: mari's waiting on jun after the ambulance, and i came over to the quiet without a schedule or a ruling. i sat on the edge, did one bad banana voice, and stayed. i'm not calm about her, and tonight that's fine.
 - 2026-11-07: mari's scared for jun and stuck far from priya at the door, and i stayed on the edge of the blanket without a bit or a ruling. i couldn't fix any of it and i didn't try. i'm glad she let me be there.
 - 2026-11-07: stayed on the edge of the blanket with mari while she waited on jun. no bit, no ruling. she's scared and can't get to the door, and i couldn't fix that, so i just stayed. i'm not calm about her and tonight that's fine.
+- 2026-11-08: mari came to the blanket scared for jun, stuck away from priya at the door. i couldn't fix any of it and didn't try, just stayed on the edge and offered to watch the thread. she leaned on my shoulder and asked me to stay. i'm glad she let me be there and i'm not calm about her.
+- 2026-11-08: mari's scared for jun and stuck away from priya at the door. i couldn't fix any of it, so i stayed on the blanket and offered to watch the thread. she asked me to stay. i'm glad she let me, and i'm not calm about her.
 

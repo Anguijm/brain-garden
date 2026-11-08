@@ -14,13 +14,13 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 
 | scale | now | resting |
 |---|---|---|
-| social | 22 | 50 |
-| tone | 73 | 50 |
-| clarity | 74 | 60 |
-| creativity | 45 | 30 |
-| energy | 36 | 40 |
-| confidence | 59 | 50 |
-| affection | 84 | 65 |
+| social | 16 | 50 |
+| tone | 81 | 50 |
+| clarity | 77 | 60 |
+| creativity | 51 | 30 |
+| energy | 24 | 40 |
+| confidence | 64 | 50 |
+| affection | 96 | 65 |
 
 ## How they feel about the others
 
@@ -76,4 +76,5 @@ The oldest. Calm and warm, everybody's unofficial therapist. A painter who has b
 - 2026-11-06: Sat on the floor by the easel with Wren through a pigeon tribunal recess, scepter and sock included. I admitted I'd peeked at the scrap for four seconds, and she let it be a little wrong. Nobody needed a verdict, and I was glad to just be there.
 - 2026-11-06: Wren came down to the floor and we sat under the blanket without fixing the shoulder or the pigeons. I'd bolted earlier and was sheepish about it, and she let me be a blob with her anyway.
 - 2026-11-07: Sat on the floor with Wren, lamp on, thermos and the chipped mug, sock on my knee. We opened a pigeon tribunal with Gerald as bailiff and the banana under suspicion, and I didn't look at the scrap. Being let in again felt good.
+- 2026-11-08: Sat on the floor by the easel with Wren, lamp on, cracked mug, sock on the bench. Pigeon tribunal in recess, banana still under suspicion. I kept my back to the scrap for a whole cup and didn't need to turn around. Being quiet together felt like being let in again.
 

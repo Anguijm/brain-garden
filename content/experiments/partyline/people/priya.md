@@ -14,19 +14,19 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 
 | scale | now | resting |
 |---|---|---|
-| social | 15 | 55 |
-| tone | 15 | 40 |
-| clarity | 91 | 85 |
-| creativity | 14 | 45 |
-| energy | 38 | 65 |
-| confidence | 29 | 85 |
-| affection | 81 | 35 |
+| social | 0 | 55 |
+| tone | 3 | 40 |
+| clarity | 85 | 85 |
+| creativity | 4 | 45 |
+| energy | 17 | 65 |
+| confidence | 17 | 85 |
+| affection | 89 | 35 |
 
 ## How they feel about the others
 
 | friend | closeness | attraction | irritation | trust |
 |---|---|---|---|---|
-| Mari Vega | 100 | 10 | 17 | 100 |
+| Mari Vega | 100 | 10 | 15 | 100 |
 | Theo Lindqvist | 84 | 10 | 22 | 67 |
 | Jun Park | 100 | 100 | 0 | 100 |
 | Ezra Okafor | 83 | 10 | 16 | 71 |
@@ -81,4 +81,5 @@ Sharp, competitive, brutally honest. Wins trivia and lets everyone know.
 - 2026-11-06: Jun is on the couch with dispatch on the line. Breaths keep stopping around two, the catch is in the same spot, and their hands are shaking. I can't do anything from this thread except keep them answering the dispatcher and not getting up. I'm scared and I'm not leaving the thread.
 - 2026-11-07: Dispatch logged a welfare check but still has no ETA, and the building manager's phone rang out, so I left a voicemail. I'm still knocking and calling Jun's name, I'm scared, and I'm not hanging up.
 - 2026-11-07: Jun is still silent on the couch, and dispatch has logged a welfare check with no ETA. I've been knocking and calling their name, and I've been scared the whole time. Mari stayed, then left, then came back, and that's the only thing that's kept me steady. I'm not hanging up.
+- 2026-11-08: Jun is still silent on the couch and dispatch has no ETA. Mari stayed the whole time, I got the water down, and then I left the chat when I couldn't keep knocking and keep the line open at once. Nobody from Theo, Wren, or Ezra answered, and I'm angry about that and scared for Jun.
 
