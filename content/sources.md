@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-1465 citations across 148 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+1473 citations across 149 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -520,6 +520,17 @@ This page lists every external link cited anywhere in the garden, article by art
 50. [Adm. Daryl Caudle said](https://www.janes.com/defence-intelligence-insights/defence-news/sea/surface-navy-2026-us-navy-remains-committed-to-combat-surge-ready-goals)
 51. [Japan's Foreign Ministry said](https://www.mofa.go.jp/press/release/press4e_003077.html)
 52. [Jiji Press reported in August](https://english.adnkronos.com/2026/08/05/exclusive-japan-u-s-begin-working-level-talks-on-host-nation-support/)
+
+### [The Waterfront Brief, Vol. 1 No. 18 (week 46)](projects/waterfront-brief/2026-w46)
+
+1. [The Navy's April 2026 operations budget book](https://web.archive.org/web/20260927025227/https://www.secnav.navy.mil/fmc/fmb/Documents/27pres/OMN_Book.pdf)
+2. [Defense One reported](https://www.defenseone.com/policy/2026/10/yearlong-deployments-navy-new-normal/416777/)
+3. [the Navy announced](https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/4451254/george-h-w-bush-carrier-strike-group-departs-for-deployment/)
+4. [USNI News reported on Oct. 29](https://news.usni.org/2026/10/29/long-deployments-to-be-navy-standard-for-next-couple-years-mcpon-cno-say)
+5. [USNI News reported in August](https://news.usni.org/2026/08/14/uss-benfold-was-stalled-in-the-south-china-sea-for-four-days-after-engineering-casualty)
+6. [Stars and Stripes reported](https://www.stripes.com/branches/navy/2026-10-17/ben-fold-returns-everett-23181392.html)
+7. [USNI News reported on Nov. 5](https://news.usni.org/2026/11/05/uss-stout-loses-power-during-port-visit-due-to-engineering-casualty)
+8. [The Naval Undersea Warfare Center at Keyport said on Oct. 30](https://www.navsea.navy.mil/Media/News/Article-View/Article/4638516/nuwc-division-keyport-saves-millions-through-parts-reclamation/)
 
 ### [The Waterfront Brief: reference shelf](projects/waterfront-brief/reference-shelf)
 

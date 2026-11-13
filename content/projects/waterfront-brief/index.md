@@ -40,6 +40,10 @@ last checked.
 Each issue is readable on the web (with links into the rest of this garden) and
 downloadable as the print PDF (source links only).
 
+- **[Vol. 1, No. 18, Week 46, November 2026](2026-w46)**
+  ([download the PDF](pdf/2026-w46.6ddd92ba.pdf)): a short issue. Two booked yard periods end before their ships
+  come home; the repair period booked for a destroyer that lost power in July is missing from this year's funded list;
+  one center puts a number on what retired ships supply; and a page of dated events.
 - **[Vol. 1, No. 17, Week 45, November 2026](2026-w45)**
   ([download the PDF](pdf/2026-w45.192b9d50.pdf)): a Dec. 12 funding lapse would stop new money for nine
   one-year private-yard repair jobs, six of them in Japan; the Navy's repair trades are back to
