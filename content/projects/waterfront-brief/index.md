@@ -40,6 +40,11 @@ last checked.
 Each issue is readable on the web (with links into the rest of this garden) and
 downloadable as the print PDF (source links only).
 
+- **[Vol. 1, No. 19, Week 47, November 2026](2026-w47)**
+  ([download the PDF](pdf/2026-w47.14b1ae18.pdf)): Senate appropriators call the Navy's canceled repair money excessive while
+  Treasury's books point to a larger closing in 2027; the Navy asks for 2,845 more ship repair civilians the Senate
+  doubts it can hire; who owns the data to fix a ship, from a 1984 law to this year's bills; a year and a half of
+  fuller yards; and a page of dated events.
 - **[Vol. 1, No. 18, Week 46, November 2026](2026-w46)**
   ([download the PDF](pdf/2026-w46.6ddd92ba.pdf)): a short issue. Two booked yard periods end before their ships
   come home; the repair period booked for a destroyer that lost power in July is missing from this year's funded list;
