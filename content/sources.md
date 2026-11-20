@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-1473 citations across 149 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+1502 citations across 150 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -530,7 +530,39 @@ This page lists every external link cited anywhere in the garden, article by art
 5. [USNI News reported in August](https://news.usni.org/2026/08/14/uss-benfold-was-stalled-in-the-south-china-sea-for-four-days-after-engineering-casualty)
 6. [Stars and Stripes reported](https://www.stripes.com/branches/navy/2026-10-17/ben-fold-returns-everett-23181392.html)
 7. [USNI News reported on Nov. 5](https://news.usni.org/2026/11/05/uss-stout-loses-power-during-port-visit-due-to-engineering-casualty)
-8. [The Naval Undersea Warfare Center at Keyport said on Oct. 30](https://www.navsea.navy.mil/Media/News/Article-View/Article/4638516/nuwc-division-keyport-saves-millions-through-parts-reclamation/)
+8. [The Navy's fiscal 2026 budget book](https://web.archive.org/web/20250709201504/https://www.secnav.navy.mil/fmc/fmb/Documents/26pres/OMN_Book.pdf)
+9. [The Naval Undersea Warfare Center at Keyport said on Oct. 30](https://www.navsea.navy.mil/Media/News/Article-View/Article/4638516/nuwc-division-keyport-saves-millions-through-parts-reclamation/)
+
+### [The Waterfront Brief, Vol. 1 No. 19 (week 47)](projects/waterfront-brief/2026-w47)
+
+1. [Senate appropriators' explanatory statement, released Nov. 16, orders](https://web.archive.org/web/20261118010806/https://www.appropriations.senate.gov/imo/media/doc/def_explanatory_stmt.pdf)
+2. [Federal law requires](https://www.law.cornell.edu/uscode/text/31/1552)
+3. [fiscal 2023](https://fiscal.treasury.gov/system/files/files/reports-statements/combined-statement/cs2023/c13.xlsx)
+4. [2024](https://fiscal.treasury.gov/system/files/files/reports-statements/combined-statement/cs2024/c13.xlsx)
+5. [2025 show](https://fiscal.treasury.gov/system/files/files/reports-statements/combined-statement/cs2025/c13.xlsx)
+6. [Its statements back to fiscal 2016 show](https://fiscal.treasury.gov/system/files/files/reports-statements/combined-statement/cs2016/c13.xlsx)
+7. [fiscal 2018](https://fiscal.treasury.gov/system/files/files/reports-statements/combined-statement/cs2018/c13.xlsx)
+8. [2019](https://fiscal.treasury.gov/system/files/files/reports-statements/combined-statement/cs2019/c13.xlsx)
+9. [2020 statements](https://fiscal.treasury.gov/system/files/files/reports-statements/combined-statement/cs2020/c13.xlsx)
+10. [The next section of the law provides](https://www.law.cornell.edu/uscode/text/31/1553)
+11. [the fiscal 2022](https://fiscal.treasury.gov/system/files/files/reports-statements/combined-statement/cs2022/c13.xlsx)
+12. [Treasury Combined Statement, fiscal 2017, chapter 13](https://fiscal.treasury.gov/system/files/files/reports-statements/combined-statement/cs2017/c13.xlsx)
+13. [Treasury Combined Statement, fiscal 2021, chapter 13](https://fiscal.treasury.gov/system/files/files/reports-statements/combined-statement/cs2021/c13.xlsx)
+14. [its 2027 budget book shows](https://web.archive.org/web/20260927025227/https://www.secnav.navy.mil/fmc/fmb/Documents/27pres/OMN_Book.pdf)
+15. [The Navy's 2026 book](https://web.archive.org/web/20250709201504/https://www.secnav.navy.mil/fmc/fmb/Documents/26pres/OMN_Book.pdf)
+16. [2024](https://web.archive.org/web/20230328150351/https://www.secnav.navy.mil/fmc/fmb/Documents/24pres/OMN_Book.pdf)
+17. [the 2022](https://web.archive.org/web/20210529143705/https://www.secnav.navy.mil/fmc/fmb/Documents/22pres/OMN_Book.pdf)
+18. [2025 books](https://web.archive.org/web/20240329012805/https://www.secnav.navy.mil/fmc/fmb/Documents/25pres/OMN_Book.pdf)
+19. [The House Appropriations Committee's report](https://www.govinfo.gov/content/pkg/CRPT-119hrpt715/html/CRPT-119hrpt715.htm)
+20. [the stopgap](https://www.congress.gov/bill/119th-congress/house-bill/6500/text)
+21. [Office of Personnel Management records](https://data.opm.gov/get-data/api-access)
+22. [fiscal 2023](https://web.archive.org/web/20260315200043/https://www.secnav.navy.mil/fmc/fmb/Documents/23pres/OMN_Book.pdf)
+23. [the technical data law, 10 U.S.C. 3771](https://www.govinfo.gov/content/pkg/USCODE-2024-title10/html/USCODE-2024-title10-subtitleA-partV-subpartD-chap275-subchapI-sec3771.htm)
+24. [the Government Accountability Office (GAO) calls these](https://files.gao.gov/reports/GAO-25-107468/index.html)
+25. [their joint explanatory statement says](https://armedservices.house.gov/uploadedfiles/fy26_ndaa_joint_explanatory_statement.pdf)
+26. [Section 861 of the House-passed bill](https://www.govinfo.gov/content/pkg/BILLS-119hr8800eh/html/BILLS-119hr8800eh.htm)
+27. [section 804 of the Senate committee's bill](https://www.govinfo.gov/content/pkg/BILLS-119s4784rs/html/BILLS-119s4784rs.htm)
+28. [the Aerospace Industries Association's Matt Murphy told Breaking Defense](https://breakingdefense.com/2026/11/defense-industry-takes-aim-at-right-to-repair-as-ndaa-decision-looms/)
 
 ### [The Waterfront Brief: reference shelf](projects/waterfront-brief/reference-shelf)
 
