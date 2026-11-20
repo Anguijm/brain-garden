@@ -26,6 +26,42 @@ three claim changes; they are the three entries dated 2026-09-19 below, each wit
 dated note in the issue. The re-rendered print editions of the other eight issues had no
 ruling, and this paragraph is their record.
 
+## 2026-11-20, No. 19 (week 47): Senate repair money article, five statements tightened
+
+- **Issue:** [Vol. 1, No. 19, week 47](projects/waterfront-brief/2026-w47)
+- **What changed:** After release, a sentence-by-sentence audit against the staged sources found five statements stronger than their sources. All five are reworded; no figure changed.
+- **Before:** a new Senate report would show it only for money from fiscal 2024 on / Its by-ship funding table covers the current year and the three before it, so it would show ship repair's money from fiscal 2024 on / explanatory statement, released Nov. 16 / it is not out of line with the other services / a late bill on closed money is paid out of money meant for this year's work / about 60 percent more unpaid dollars
+- **After:** a new Senate report would track repair spending by ship, not what is left to cancel / The report counts money spent by ship during the current year and the three before it / explanatory statement for the 2027 defense bill (archived Nov. 18) / across the whole Navy operations account, of which ship depot maintenance is one part ... as a share it ran below the Army and Air Force / can be charged to money meant for this year's work, up to the 1 percent cap / about 55 to 65 percent more unpaid dollars
+- **Why:** The Senate statement limits the report's period, not the year of the money; 31 U.S.C. 1553(b) says a late bill "may be charged," capped at 1 percent; the Nov. 16 date was the desk's own file label, not in the document; the Treasury figures cover the whole account, not ship depot maintenance; the exact rises are 54 and 64 percent.
+- **Ruled by:** the editor, 2026-11-20.
+
+## 2026-11-20, No. 19 (week 47): shipyard civilians article, two statements tightened
+
+- **Issue:** [Vol. 1, No. 19, week 47](projects/waterfront-brief/2026-w47)
+- **What changed:** The \$223.6 million cut is now credited to the Navy's 2027 budget book, which records it as a congressional adjustment; "both bills paying for less" now says the bills cut the Navy operations account's civilian pay, not the ship maintenance line.
+- **Before:** Congress then took \$223.6 million from its civilian pay, both reported here Nov. 6 / with both bills paying for less
+- **After:** Congress then took \$223.6 million from its civilian pay, the 2027 book shows. Both figures appeared in this newsletter Nov. 6 / with both bills cutting the Navy operations account's civilian pay
+- **Why:** No. 17 printed the \$223.6 million without saying Congress made the cut; neither bill cuts the ship depot maintenance line itself (Senate holds it at \$14.29 billion, the House adds \$10 million).
+- **Ruled by:** the editor, 2026-11-20.
+
+## 2026-11-20, No. 19 (week 47): data rights article, three statements tightened
+
+- **Issue:** [Vol. 1, No. 19, week 47](projects/waterfront-brief/2026-w47)
+- **What changed:** The forecast no longer says last year's negotiators passed on the burden shift; House section 824's start date is stated precisely; the fiscal 2025 act is named by its public law number.
+- **Before:** The burden shift is what industry is fighting and last year's negotiators passed on / The Senate text and House section 824 set no start date / The fiscal 2025 act ordered
+- **After:** The burden shift is what industry is fighting, and last year's negotiators judged the law sufficient when they dropped a broader repair rule / The Senate text sets no start date, and House section 824's start-date clause covers only its open-systems rules, not its data-rights changes / The fiscal 2025 defense authorization act (Public Law 118-159) ordered
+- **Why:** Last year's negotiators dropped House section 863 (fair access to repair materials), not a default-rights burden shift; House section 824 carries a 180-day clause for its open-systems rules only; the cited law notes name the act only as Pub. L. 118-159.
+- **Ruled by:** the editor, 2026-11-20.
+
+## 2026-11-20, No. 19 (week 47): watch item on ships in repair, method and sources stated
+
+- **Issue:** [Vol. 1, No. 19, week 47](projects/waterfront-brief/2026-w47)
+- **What changed:** The count is now credited to all six budget books it draws on, the fiscal 2022 and 2023 books are added to the sources, and "one step" is replaced by the two-quarter climb and the overlap with earlier quarters.
+- **Before:** By our count from the Navy's April 2026 operations budget book ... The same count from the fiscal 2024, 2025 and 2026 books ... The rise comes in one step in late 2026
+- **After:** By our count of the repair periods listed in the Navy's operations budget books for fiscal 2022 to 2027 ... The count climbs over two quarters, from 43 in spring 2026 to 50 and then 55 ... three earlier quarters also reached 50 or 51
+- **Why:** An independent recount matched every quarter (55, 55, 51, 51, 50, 53) but found periods from six books in each quarter, and the climb from 43 to 55 spans two quarters.
+- **Ruled by:** the editor, 2026-11-20.
+
 ## 2026-10-24, No. 11 (week 39): what the federal shipbuilding headcount covers
 
 - **Issue:** [Vol. 1, No. 11, week 39](projects/waterfront-brief/2026-w39)

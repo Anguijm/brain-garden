@@ -41,7 +41,7 @@ Each issue is readable on the web (with links into the rest of this garden) and
 downloadable as the print PDF (source links only).
 
 - **[Vol. 1, No. 19, Week 47, November 2026](2026-w47)**
-  ([download the PDF](pdf/2026-w47.14b1ae18.pdf)): Senate appropriators call the Navy's canceled repair money excessive while
+  ([download the PDF](pdf/2026-w47.40165b5b.pdf)): Senate appropriators call the Navy's canceled repair money excessive while
   Treasury's books point to a larger closing in 2027; the Navy asks for 2,845 more ship repair civilians the Senate
   doubts it can hire; who owns the data to fix a ship, from a 1984 law to this year's bills; a year and a half of
   fuller yards; and a page of dated events.
