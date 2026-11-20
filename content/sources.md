@@ -535,7 +535,7 @@ This page lists every external link cited anywhere in the garden, article by art
 
 ### [The Waterfront Brief, Vol. 1 No. 19 (week 47)](projects/waterfront-brief/2026-w47)
 
-1. [Senate appropriators' explanatory statement, released Nov. 16, orders](https://web.archive.org/web/20261118010806/https://www.appropriations.senate.gov/imo/media/doc/def_explanatory_stmt.pdf)
+1. [Senate appropriators' explanatory statement for the 2027 defense bill orders](https://web.archive.org/web/20261118010806/https://www.appropriations.senate.gov/imo/media/doc/def_explanatory_stmt.pdf)
 2. [Federal law requires](https://www.law.cornell.edu/uscode/text/31/1552)
 3. [fiscal 2023](https://fiscal.treasury.gov/system/files/files/reports-statements/combined-statement/cs2023/c13.xlsx)
 4. [2024](https://fiscal.treasury.gov/system/files/files/reports-statements/combined-statement/cs2024/c13.xlsx)
