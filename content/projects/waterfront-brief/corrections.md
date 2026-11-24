@@ -26,6 +26,21 @@ three claim changes; they are the three entries dated 2026-09-19 below, each wit
 dated note in the issue. The re-rendered print editions of the other eight issues had no
 ruling, and this paragraph is their record.
 
+## 2026-11-25, No. 8 (week 36): North Dakota "first ever", the boat count, and the sea-trials date
+
+- **Issue:** [Vol. 1, No. 8, week 36](projects/waterfront-brief/2026-w36)
+- **What changed:** In the Block III submarine maintenance article, three statements, plus the standfirst and headline wording that carried the first one.
+- **Before:** "completing the first depot-level maintenance period ever performed on a Block III Virginia-class submarine" (headline and standfirst: "the first Block III submarine maintenance cycle")
+- **After:** "completing its first depot-level maintenance period on a Block III Virginia-class submarine" (headline: "its first"; standfirst: "Portsmouth's first")
+- **Why:** The Navy's own release (https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4586562/pnsy-returns-north-dakota-to-the-fleet/) calls it "PNSY's first" such availability on a Block III boat. Norfolk Naval Shipyard had docked USS John Warner earlier, which the Navy calls the first Block III dry docking at any public shipyard (https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4450770/norfolk-naval-shipyard-undocks-uss-john-warner/).
+- **Before:** "The 11 Virginia-class boats built before USS North Dakota"
+- **After:** "The 10 Virginia-class boats built before USS North Dakota"
+- **Why:** North Dakota is the 11th Virginia-class boat; the issue's own source says "the first ten" used the older bow (https://www.armyrecognition.com/news/navy-news/2026/uss-north-dakota-ssn-784-rejoins-navy-gao-submarine-crisis).
+- **Before:** "The boat completed sea trials and pier-side work by August 20"
+- **After:** "The boat left Portsmouth for sea trials on August 20 and reached New London on August 27"
+- **Why:** The same source says the boat departed for sea trials on Aug. 20 and arrived at Naval Submarine Base New London on Aug. 27. Found while re-checking No. 8 against its sources for No. 20's North Dakota article.
+- **Ruled by:** the editor, 2026-11-25 (tap "Correct all three").
+
 ## 2026-11-20, No. 19 (week 47): Senate repair money article, five statements tightened
 
 - **Issue:** [Vol. 1, No. 19, week 47](projects/waterfront-brief/2026-w47)

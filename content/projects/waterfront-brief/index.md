@@ -116,7 +116,7 @@ downloadable as the print PDF (source links only).
   maintenance centers; two Puget Sound submarine docks changing state in one month; the
   expeditionary repair container No. 2 said to watch; and six things to watch.
 - **[Vol. 1, No. 8 — Week 36, September 2026](2026-w36)**
-  ([download the PDF](pdf/2026-w36.2f64d7b7.pdf)) — who built each section of a new destroyer's hull
+  ([download the PDF](pdf/2026-w36.b5404112.pdf)) — who built each section of a new destroyer's hull
   and where the production records live; what Portsmouth learned during the first Block III
   submarine maintenance cycle; why the \$14.3 billion FY27 ship maintenance request is the
   pre-Epic Fury number; and what happens to foundational trade skill when automation
