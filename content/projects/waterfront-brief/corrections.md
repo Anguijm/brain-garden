@@ -31,7 +31,7 @@ ruling, and this paragraph is their record.
 - **Issue:** [Vol. 1, No. 8, week 36](projects/waterfront-brief/2026-w36)
 - **What changed:** In the Block III submarine maintenance article, three statements, plus the standfirst and headline wording that carried the first one.
 - **Before:** "completing the first depot-level maintenance period ever performed on a Block III Virginia-class submarine" (headline and standfirst: "the first Block III submarine maintenance cycle")
-- **After:** "completing its first depot-level maintenance period on a Block III Virginia-class submarine" (headline: "its first"; standfirst: "Portsmouth's first")
+- **After:** "completing its first depot-level maintenance period on a Block III Virginia-class submarine" (headline: "its first"; standfirst: "Portsmouth's first"; series index entry, changed the same day: "its first")
 - **Why:** The Navy's own release (https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4586562/pnsy-returns-north-dakota-to-the-fleet/) calls it "PNSY's first" such availability on a Block III boat. Norfolk Naval Shipyard had docked USS John Warner earlier, which the Navy calls the first Block III dry docking at any public shipyard (https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4450770/norfolk-naval-shipyard-undocks-uss-john-warner/).
 - **Before:** "The 11 Virginia-class boats built before USS North Dakota"
 - **After:** "The 10 Virginia-class boats built before USS North Dakota"
