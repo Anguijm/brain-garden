@@ -7,7 +7,7 @@ tags:
 
 This page lists every external link cited anywhere in the garden, article by article, in the order each source first appears in that article. It is generated from the notes at every publish, so it cannot drift from what the articles actually cite.
 
-1531 citations across 151 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
+1502 citations across 150 articles. Some journal and publisher links (DOIs, Wiley, Oxford, Elsevier and similar) sit behind robot checks or paywalls; they open normally in a regular browser and remain the canonical sources.
 
 ## Projects
 
@@ -563,38 +563,6 @@ This page lists every external link cited anywhere in the garden, article by art
 26. [Section 861 of the House-passed bill](https://www.govinfo.gov/content/pkg/BILLS-119hr8800eh/html/BILLS-119hr8800eh.htm)
 27. [section 804 of the Senate committee's bill](https://www.govinfo.gov/content/pkg/BILLS-119s4784rs/html/BILLS-119s4784rs.htm)
 28. [the Aerospace Industries Association's Matt Murphy told Breaking Defense](https://breakingdefense.com/2026/11/defense-industry-takes-aim-at-right-to-repair-as-ndaa-decision-looms/)
-
-### [The Waterfront Brief, Vol. 1 No. 20 (week 48)](projects/waterfront-brief/2026-w48)
-
-1. [CBO counts](https://s3.documentcloud.org/documents/28926774/cbo-shipbuilding-analysis.pdf)
-2. [Breaking Defense reported on Nov. 13](https://breakingdefense.com/2026/11/submarine-maintenance-delays-saw-significant-improvements-in-fy26-sub-czar-says/)
-3. [A former public shipyard department head wrote in October's Proceedings](https://www.usni.org/magazines/proceedings/2026/october/ai-can-shorten-shipyard-periods)
-4. [Lt. William Parker wrote in Proceedings in 2022](https://www.usni.org/magazines/proceedings/2022/october/fix-submarine-shipyard-tagout-program)
-5. [Pearl Harbor Naval Shipyard's 2018 Maintenance Innovation Challenge entry](https://jteg.ncms.org/wp-content/uploads/2019/01/P18287343_DOD_18_mic_brochure_11718.pdf)
-6. [Lt. Alana Davis wrote for the Center for International Maritime Security (CIMSEC) in](https://cimsec.org/tag-youre-it-modernizing-naval-maintenance-starts-with-the-tagout-process/)
-7. [GAO's 2020 report on the public shipyards](https://www.gao.gov/assets/gao-20-588.pdf)
-8. [A 2017 Naval Postgraduate School study of submarine work at Pearl Harbor](https://dair.nps.edu/bitstream/123456789/2256/1/NPS-AM-17-205.pdf)
-9. [USNI News reported](https://news.usni.org/2026/11/17/reverting-ford-class-carriers-to-steam-is-non-starter-says-sasc-chair-wicker)
-10. [A White House memo of Aug. 13](https://www.whitehouse.gov/presidential-actions/2026/08/rebuilding-the-united-states-navy-and-americas-shipbuilding-industrial-base/)
-11. [The Associated Press wrote](https://abcnews.com/US/wireStory/trump-faces-gop-pushback-order-steam-launch-jets-138230538)
-12. [Their Nov. 16 explanatory statement](https://web.archive.org/web/20261118010806/https://www.appropriations.senate.gov/imo/media/doc/def_explanatory_stmt.pdf)
-13. [The Pentagon's Director, Operational Test and Evaluation, reported](https://www.dote.osd.mil/Portals/97/pub/reports/FY2025/navy/2025cvn78.pdf)
-14. [a defense trade site reported](https://defence-blog.com/?p=99877)
-15. [Breaking Defense reported on Nov. 18](https://breakingdefense.com/2026/11/350-billion-reconciliation-bill-not-going-to-happen-hasc-chair/)
-16. [Federal News Network reported](https://federalnewsnetwork.com/congress/2026/06/hasc-advances-right-to-repair-proposal-industry-pushes-back/)
-17. [a Sept. 1 letter](https://ipo.org/wp-content/uploads/2026/09/Multi-Association-Letter-on-FY27-NDAA-IP-Provisions-Final.pdf)
-18. [10 U.S.C. 3771](https://www.govinfo.gov/content/pkg/USCODE-2024-title10/html/USCODE-2024-title10-subtitleA-partV-subpartD-chap275-subchapI-sec3771.htm)
-19. [House section 861](https://www.govinfo.gov/content/pkg/BILLS-119hr8800eh/html/BILLS-119hr8800eh.htm)
-20. [Senate section 804](https://www.govinfo.gov/content/pkg/BILLS-119s4784rs/html/BILLS-119s4784rs.htm)
-21. [the Government Accountability Office reported in 2025](https://files.gao.gov/reports/GAO-25-107468/index.html)
-22. [the Navy announced](https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4648979/uss-north-dakota-ssn-784-changes-homeport-to-pearl-harbor/)
-23. [The Navy's fiscal 2023 budget book](https://web.archive.org/web/20260315200043/https://www.secnav.navy.mil/fmc/fmb/Documents/23pres/OMN_Book.pdf)
-24. [the yard finished Aug. 29, 2026](https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4586562/pnsy-returns-north-dakota-to-the-fleet/)
-25. [the Navy's fiscal 2027 military construction book says](https://www.secnav.navy.mil/fmc/fmb/Documents/27pres/MCON_Book.pdf)
-26. [the Government Accountability Office (GAO) reported in September](https://files.gao.gov/reports/GAO-26-107830/index.html)
-27. [The Navy's April 2026 operations budget book](https://web.archive.org/web/20260927025227/https://www.secnav.navy.mil/fmc/fmb/Documents/27pres/OMN_Book.pdf)
-28. [the Navy announced](https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/4451254/george-h-w-bush-carrier-strike-group-departs-for-deployment/)
-29. [USNI News reported Oct. 29](https://news.usni.org/2026/10/29/long-deployments-to-be-navy-standard-for-next-couple-years-mcpon-cno-say)
 
 ### [The Waterfront Brief: reference shelf](projects/waterfront-brief/reference-shelf)
 
