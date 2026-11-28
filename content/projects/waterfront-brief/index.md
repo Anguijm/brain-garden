@@ -40,6 +40,12 @@ last checked.
 Each issue is readable on the web (with links into the rest of this garden) and
 downloadable as the print PDF (source links only).
 
+- **[Vol. 1, No. 20, Week 48, November 2026](2026-w48)**
+  ([download the PDF](pdf/2026-w48.95fb4e1d.pdf)): the Navy's submarine and destroyer fleets shrink before they grow;
+  tagouts stall yard work, and no record we read counts the days; Sen. Roger Wicker calls steam catapults a
+  non-starter while Senate appropriators would stretch Truman's overhaul money; the House Armed Services chairman
+  expects no right-to-repair change soon; North Dakota's yard dates, Portsmouth's new docks and Bush's 2027 yard
+  periods; and a page of dated events.
 - **[Vol. 1, No. 19, Week 47, November 2026](2026-w47)**
   ([download the PDF](pdf/2026-w47.40165b5b.pdf)): Senate appropriators call the Navy's canceled repair money excessive while
   Treasury's books point to a larger closing in 2027; the Navy asks for 2,845 more ship repair civilians the Senate
